@@ -1,0 +1,347 @@
+title,Battery Manager Lite és diferent
+extend_life,La millor manera d'allargar la durada de la bateria i mantenir-te saludable es basa en l'experiència i la investigació científica.
+measured,De manera transparent només us mostrem les dades realment mesurades i com es calculen.
+healthy,Manteniu la vostra bateria sana
+double_battery,Dupliqueu la durada de la bateria en no carregar-la completament. Els científics ho han demostrat en les seves investigacions.
+charge_limit,Mitjançant la nostra notificació de límit de càrrega, s'enviarà una notificació quan la bateria arribi a un llindar definit per l'usuari.
+smart,Cada dia es fa més intel·ligent
+analyze,Com més temps utilitzeu Battery Manager Lite, millor analitzarem el rendiment de la bateria.
+update_every_time,La mesura de la durada de la bateria restant s'actualitza cada vegada que utilitzeu o carregueu el dispositiu.
+runtime,Descobriu la durada real de la vostra bateria
+discharge_cycle,Cada vegada que el vostre telèfon passa per un cicle de descàrrega, es pot mesurar una estimació precisa del seu temps d'execució.
+accurate_life,Utilitzeu Battery Manager Lite per mesurar amb precisió la durada de la bateria.
+no_exit,No sortiu de Battery Manager Lite!
+bg_require,Battery Manager Lite requereix un servei en segon pla per recopilar estadístiques de la bateria i mesurar el temps de càrrega i descàrrega de la bateria. És probable que el vostre dispositiu estigui aturant el servei o no permeti que s'executi quan l'aplicació està tancada. Per evitar-ho, tenim una bona solució per a tu. Només cal que feu clic a l'enllaç.
+man,Manual
+cali,Calibració
+polarity,En aquest pas, l'aplicació detecta la polaritat de càrrega i la capacitat de disseny de la bateria.
+disch,Descàrrega
+ch_pol,Polaritat de càrrega
+power_meter,Mesurador de potència
+unit_mesure,Unitat de mesura
+capacity,Capacitat de la bateria
+wrong,No està bé?
+calib,Calibrar
+ye,Sí
+no,No
+neg,Negatiu
+pos,Positiu
+lunch,Inicieu l'aplicació
+manufac,Capacitat segons el fabricant
+design_des,La capacitat de disseny és la capacitat real de la bateria, mesurada en mAh. Com que no hi ha cap manera oficial de determinar la capacitat, el valor retornat pot ser incorrecte.
+correct_it,Si la capacitat que es mostra no és correcta, corregiu-la.
+cancel,Cancel · lar
+ok,Bé
+runtime,Durada de la bateria
+wait,esperant
+per_hr,Consum de bateria per hora
+life_for,Durada de la bateria per
+battery_cond,Estat de la bateria
+bat_info,Informació de la bateria
+bat_cap,Capacitat de la bateria
+bat_volt,Tensió de la bateria
+bat_cur,Corrent de la bateria
+unit_mes,Unitat de mesura
+done,Fet
+c_bat_temp,Temperatura actual de la bateria
+min_bat_tem,Temperatura mínima de la bateria
+mx_bat_tem,Temperatura màxima de la bateria
+avg_bat_tem,Temperatura mitjana de la bateria
+dig_last,Darrer diagnòstic abans
+rem_time,Temps restant
+volt,Voltatge
+curr,Actual
+status,Estat
+run_time,Temps d'execució
+currently,Actualment
+avg,Mitjana
+minmal,Mínim
+maximal,Màxim
+tool,Eines
+rem_apps,Desinstal·leu les aplicacions que ja no feu servir per evitar que les aplicacions s'executin innecessàriament i s'esgotin la bateria
+uninst_apps,Desinstal·leu les aplicacions
+stat,Començar
+act_eng_save,Activa el mode d'estalvi d'energia per reduir el consum de la bateria
+pow_save,Mode d'estalvi d'energia
+tempe,Temperatura
+heal,Salut
+tips,Mantingueu la vostra bateria en bon estat amb consells i trucs.
+recomm,Recomanacions
+prem,Premium
+more_func,Més funcions per a tu. Obteniu premium, obteniu més.
+more,Més
+ur_cond_bat,L'estat de la bateria és
+ur_bat_life,La durada de la bateria és
+ur_bat_temp,La temperatura de la bateria és
+wow,Excel · lent
+normal,Normal
+poor,Malament
+days,Dies
+mins,Minuts
+hrs,Hores
+chging,Carregant
+ful,Complet
+dis_chrg,Descàrrega
+unkn,Desconegut
+too_lit,Massa poca informació de la bateria
+car_any,Porta a terme de totes maneres
+endz_,Final
+dig_any,Per obtenir millors resultats de diagnòstic, l'aplicació ha d'analitzar la bateria en segon pla. Si us plau, comenceu el diagnòstic després de 24 hores
+end_dig,Diagnòstic final
+quit_dig,Deixeu realment el diagnòstic
+batty_temp,Temperatura de la bateria
+akku_manager,Gestor Akku
+u_agree,Amb "START" acceptes la normativa de protecció de dades
+elemn_opti,Els elements es poden optimitzar
+looks_good,Tot es veu bé
+optimize_,Optimitzar
+toolz_,Eines
+akku_check,Akku Check
+ctrl_load,Càrrega controlada
+mng_apps,Gestiona les aplicacions
+infosm,Informació
+tenzion,tensió
+electy,electricitat
+lvl,Nivell
+akku_man_premium,Akku Manager Premium
+premimum_highlight,Utilitzeu el Gestor de bateria completament sense publicitat i teniu accés a l'extensa personalització de la interfície d'usuari.
+design,Disseny
+subjs,subjectes
+genrally,En general
+temp_unit,Unitat de temperatura
+oth_apps,Altres aplicacions
+dat_protect,Protecció de dades
+thx_akku,Gràcies per donar suport a Akku Manager amb la compra de la versió premium.
+user_got_pre,Ara teniu accés a una àmplia personalització de la interfície d'usuari i l'ús sense publicitat.
+exp_more,Podeu esperar més funcions en futures actualitzacions
+ap_optimiz,Optimització d'aplicacions
+sys_bat_usage,Consum de bateria del sistema
+bat_usage_det,Detalls de l'ús de la bateria
+end_optiz,Finalitzar l'optimització
+abort,Avortar
+break_up,trencar
+scn,per escanejar
+scn_bgh,Brillantor de la pantalla
+dact_wlan,Desactiva la WLAN
+dact_save_batt,Desactiva per estalviar bateria
+dact,Desactivar
+dact_ble,Desactiva el bluetooth
+red_brigh,Redueix la brillantor
+bright_txt,Redueix la brillantor de la pantalla per estalviar bateria
+to_reduce,Per reduir
+dact_gps,Desactiva el GPS
+appz_optimz,Aplicacions optimitzades
+start_bat_check_det,Comenceu una comprovació detallada de la bateria per estar sempre segur
+act_eng_save,Activa el mode d'estalvi d'energia per reduir el consum de la bateria
+remove_useless,Desinstal·leu les aplicacions que ja no s'utilitzen
+premium,Premium
+clear_mem,Neteja la memòria
+clear_mem_des,Perquè el vostre telèfon intel·ligent funcioni ràpidament i sense problemes.
+clenaup,Netejar
+rat,qualificació
+rat_free,Valoreu Battery Manager de forma gratuïta
+sendz,Enviar
+elmn_found,Elements trobats
+drumz,Tambors
+status,Estat
+end_akk_check,Finalitzar la comprovació de la bateria
+bat_detlz,Detalls de la bateria
+temp_checked,Es comprova la temperatura
+cond_checked,Es comprova l'estat de la bateria
+checkz_start,S'inicia la comprovació de la bateria
+plug_in,Endollat
+techz,Tecnologia
+coldz,Refredat
+until,Fins que
+well,Bé
+ovr_heat,Sobreescalfament
+ovr_load,Sobrecàrrega
+renam,rebatejat
+not_def,sense definir
+chrgz,Càrrega
+full,Complet
+unloadz,Descàrrega
+not_charge_unkn,no carregat o desconegut
+usb,USB
+charger,carregador
+wless,sense fil
+not_at_al,res en absolut
+uninstall,Desinstal·la
+update,Actualitzar
+setting,Configuració
+app,Aplicacions
+not_found,No s'ha trobat l'aplicació
+search,Cerca aplicacions
+version_code,Codi de versió
+api_level,Nivell API
+app_version,Versió de l'aplicació
+authorization,autorització
+open,obrir
+play_store,Play Store
+control,control
+systemstandart,Estàndard del sistema
+white,Blanc
+dark,Fosc
+ocean,oceà
+black,Negre
+dark_blue,Blau fosc
+excellent,Excel · lent
+bad,Dolent
+battery_bad,La bateria està lleugerament danyada
+very_bad,Molt malament
+battery_damaged,La bateria està danyada
+custom_mode,Mode personalitzat
+brightness,Brillantor
+automatic_brightness,Brillantor automàtic
+normal,Normal
+sound_modus,Mode de so
+tone_work,Tots els tons funcionen
+mute,Silenciar
+call_note_mute,Les trucades i les notificacions estan silenciades
+not_bother,No molestar
+tones_vibration_mute,Desactiva els tons i les vibracions, excepte els tons d'alarma
+sound,Sons
+music,música
+notification,Notificació
+alarm,Alarma
+ultra_saving,Mode d'estalvi d'energia ultra
+edit,Per editar
+disable_ultra_saving,Desactiva el mode d'estalvi d'energia ultra
+min_remaining,min restant
+hours,hores
+activted_ultra_saving,El mode d'estalvi d'energia ultra està activat
+charged_in,carregat en
+min,min
+limit_power,Limiteu el consum d'energia
+reduce_screen,Redueix la brillantor de la pantalla
+restrict_bg_act_explain,Restringeix les activitats de fons
+volatge_check,Es comprova la tensió
+software_optimized,El programari està optimitzat
+connect_charger,Connecteu el carregador
+charger_removed,El carregador es pot treure
+power_consump_title,El consum d'energia
+srcn_bg_title,Brillantor de la pantalla
+bg_al_activities,Activitats de fons
+sftware,Programari
+get_primium,Si compres la versió premium, obtindràs totes les funcions actuals, així com totes les funcions noves en el futur.
+cuztomize_face,Personalització de la interfície d'usuari
+comp_scheme,Escriu l'esquema de colors del Gestor de bateria a partir de diversos temes.
+bat_check_detail,Comprovació detallada de la bateria
+check_cond_test,Utilitzeu el Gestor de la bateria per comprovar l'estat de la bateria per estar sempre al costat de seguretat.
+no_ads_yo,Sense publicitat
+use_explain_noads,Utilitzeu Battery Manager sense cap publicitat
+act_energy_save,Activa el mode d'estalvi d'energia ultra per augmentar la durada de la bateria en cas d'emergència.
+buy_title,Compra Premium
+loc_title,Ubicació
+cap_title,capacitat
+cap_remain,Capacitat restant
+sleepy,Dormir
+sek,Segons
+sing_min,Minut
+miniotes,Minuts
+finish,Acabat
+mobi_data,dades mòbils
+plz_rate,Valoreu el Gestor de bateria a Play Store
+ur_data_cus,Podem seguir utilitzant les vostres dades per personalitzar anuncis?
+in_slep_mode,En mode de repòs
+in_use,En ús
+with_curr_pow,Amb consum d'energia actual
+rem_bat_life,Durada de la bateria restant
+qck_acc,Accés ràpid
+notif_txt,notificació
+notif_at,Notificar a
+chg_curr,Corrent de càrrega
+charge_perm,Rendiment de càrrega
+maxi_charge_per,Màxim rendiment de càrrega
+enb_notif,Activa la notificació
+perm_send_notif,Battery Manager requereix permís per enviar una notificació, s'ha d'activar a la configuració del dispositiu.
+to_set,A la configuració
+title_autost,Activa l'inici automàtic
+auto_explain,Battery Manager requereix permís per romandre activat en segon pla per consultar l'estat de la bateria i enviar una notificació.
+sync_auto,Sincronitza automàticament
+dis_auto_sync,La desactivació de la sincronització automàtica redueix significativament els wakelocks. Tanmateix, es perdran algunes funcions, com ara rebre correu electrònic.
+chg_lim,Límit de càrrega
+avoid_ful_explain,Si carregueu la bateria al màxim o la descarregueu fins que s'apaga, l'estat i la vida útil de la bateria es reduiran. A continuació podeu configurar l'estat de càrrega o descàrrega mínima i màxima de la bateria i se us notificarà cada vegada que s'arribi al valor llindar. Eviteu una càrrega i descarregueu completament la bateria i allarga la vida útil de la bateria.
+rec_notif,No heu rebut la notificació?
+title_allow_bg_act,Permet l'activitat en segon pla
+allow_bg_act,Per tal que pugueu utilitzar el Gestor de la bateria sense restriccions sense que el sistema operatiu el tanqui involuntàriament, és possible que hàgiu de desactivar les funcions especials per a la gestió de la bateria i l'ús de la bateria a la configuració. Perquè els diferents fabricants difereixen en la designació d'aquestes opcions segons el sistema operatiu utilitzat. A l'àrea Informació de l'aplicació, a Repòs o Bateria, seleccioneu Sense restriccions o Permet activitat en segon pla.
+dev_usage,Ús del dispositiu
+dep_sleep,El somni profund és un estat en què el dispositiu utilitza la menor quantitat de bateria. La durada del son profund té un efecte positiu en l'estalvi d'energia. El son profund es pot interrompre per tasques en segon pla, cosa que fa que la bateria es descarregui més ràpidament. En aquest cas, reinicieu el dispositiu.
+title_bat_temp,Temperatura de la bateria
+bat_tempp,La temperatura de la bateria és un dels factors més importants. Si la bateria es manté en gel a altes temperatures, això afecta tant la vida útil com el rendiment de la bateria. Si la temperatura augmenta, l'estructura interna de la bateria es pot danyar.
+rdc_brightness,Redueix la brillantor de la pantalla
+display_explain,La pantalla és un dels components que consumeix la major part de l'energia. La reducció de la màxima brillantor ajuda a reduir el consum global i a aconseguir un estalvi notable. Abans de reduir la brillantor, desactiveu la brillantor automàtica perquè no es modifiqui innecessàriament.
+tst_charge,Prova el carregador
+best_way_test,La millor manera de provar el carregador i el cable és comprovant la velocitat de càrrega amb la pantalla apagada. La velocitat de càrrega quan la pantalla està encesa no és un bon punt de referència perquè el telèfon està consumint energia, cosa que provoca fluctuacions. Connecteu el carregador, apagueu la pantalla durant uns minuts i, a continuació, comproveu el corrent de càrrega màxim.
+wait_title,Esperant
+rfsh_rate,Freqüència d'actualització
+low_sizty,Reduir la freqüència de refresc a 60 Hz millora la durada de la bateria.
+drk_mode,Mode fosc
+acti_dark_mode,Activa el mode fosc, en el mode fosc es consumeix menys energia
+actz,Activar
+poz,Poder
+minz,Mínim
+avgo,Mitjana
+mixi1,Màxim
+msg_dis,El missatge desapareix després de 24 hores si hi ha prou dades per mostrar el diagrama sencer.
+no_enough,No hi ha prou dades per mostrar
+log_graph,En poques hores veureu aquí un gràfic que us permetrà comprovar la temperatura, la tensió, l'amperatge i el nivell de la bateria durant les últimes 24 hores.
+week,setmana
+buy_it,Compra
+one_pur,Quota única de
+refun_pur,la compra es pot reemborsar en un termini de 2 hores.
+each_month,La subscripció es renova automàticament cada mes i continua costant per mes. La subscripció es pot cancel·lar en qualsevol moment.
+mng_subs,gestionar la subscripció
+subsci,subscriu-te
+will_cost_week,La subscripció es renova automàticament cada setmana i continua costant per setmana. La subscripció es pot cancel·lar en qualsevol moment.
+lfllong,tota la vida
+mthly,mensual
+wkly,Setmanalment
+hoto,Calent
+prm_ben_title,Avantatges premium
+sync_title,Sincronitza
+dis_sync_inc,Desactivar la sincronització augmentarà la durada de la bateria al no sincronitzar els serveis en segon pla
+time_out,Temps mort
+dec_extend,Disminuir el temps abans que s'apagui la pantalla allarga la durada de la bateria
+u_end_opti,Esteu segur que voleu finalitzar el procés d'optimització?
+no_why_perm,Sense permís
+bright_exp,El Gestor de la bateria requereix el permís de Canviar la configuració del sistema per reduir la brillantor de la pantalla o desactivar el Bluetooth.
+tg_title,Uneix-te al canal de Telegram!
+tg_text,Estigueu al dia amb les actualitzacions d'aplicacions, obteniu les primeres versions i ajudeu a provar noves funcions. Suggereix les teves idees, fes preguntes i obtén respostes més ràpidament
+join_tg,uneix-te
+curr_consumption,consum actual
+scrn_onn,pantalla activada
+srcn_off,pantalla apagada
+mob_charg,Carregant
+discha,Descàrrega
+activea,Actiu
+slpmode,Mode de repòs
+chagingspeed,Velocitat de càrrega actual
+dta_proxt,Protecció de dades
+governs,Aquesta política de privadesa regula l'ús que feu de l'aplicació de programari Battery Manager per a dispositius mòbils creada per Baxolino.
+info_u_provide,Informació proporcionada per l'usuari
+no_pass_per,No cedim dades personals a tercers. Quan ens envieu un correu electrònic, tenim la vostra adreça de correu electrònic, però només la fem servir per ajudar-vos amb les nostres aplicacions.
+info_auto_coll,Informació recollida automàticament
+exp_admob_use,Utilitzem Google Admob per publicar anuncis. L'ús d'aquests serveis està subjecte a les disposicions de protecció de dades de Google a https://www.google.com/policies/privacy/.
+we_real_time,El Gestor de bateria recull informació precisa sobre la ubicació en temps real del dispositiu?
+exp_loc_perm_man,Battery Manager només comprova si la ubicació està activada o desactivada, però no recopila cap informació precisa sobre la ubicació del vostre dispositiu mòbil. Aquestes funcions basades en la ubicació s'estableixen per defecte. Podeu desactivar o reactivar aquestes funcions a la configuració del vostre dispositiu respectiu. Abans o després d'instal·lar les aplicacions, se us demanarà, segons el dispositiu, si preferiu desactivar o activar aquestes funcions. Només podem recollir dades sobre la vostra ubicació si activeu aquests serveis d'ubicació.
+chng,Canvis
+pri_update_exp,Aquesta política de privadesa es pot actualitzar de tant en tant per qualsevol motiu. Us informarem dels canvis a la nostra política de privadesa publicant la nova política de privadesa en aquesta adreça web i notificant-vos-ho mitjançant un missatge a l'aplicació. Es recomana que consulteu regularment aquesta Política de privadesa per als canvis, ja que l'ús continuat es considera aprovació de tots els canvis. Podeu revisar l'historial d'aquesta política en aquest lloc web.
+contct,Contacte
+any_que,Si teniu cap pregunta sobre la protecció de dades mentre feu servir l'aplicació o teniu preguntes sobre les nostres pràctiques, envieu un correu electrònic a baxolino.de@gmail.com
+mem_opti,Battery Manager necessita l'accés a la "memòria" perquè les aplicacions es puguin escanejar i optimitzar. Podeu desactivar o activar aquestes funcions a la configuració del vostre dispositiu respectiu. Abans o després d'instal·lar l'aplicació, se us demanarà, segons el dispositiu, si preferiu desactivar o activar aquestes funcions.
+storg,Emmagatzematge
+ble_set_acc,blue_set_perm,Battery Manager requereix l'accés "Accés a la configuració de Bluetooth" perquè es pugui comprovar si el Bluetooth està activat o desactivat. I per activar o desactivar Bluetooth.
+ble_title,Bluetooth
+needz_del,Battery Manager requereix l'accés "Sol·licita l'eliminació de paquets" per iniciar una desinstal·lació d'una aplicació. L'aplicació només es desinstal·larà si ho permeteu explícitament.
+deletion_pkg,Sol·licitar l'eliminació de paquets
+need_adnd,El Gestor de la bateria requereix l'accés "No Molestis" per activar o desactivar el mode No Molestis.
+adnd,Accés No Molestis
+need_wlan_acc,Battery Manager requereix accés a "Obtenir connexions WLAN" perquè Battery Manager pugui comprovar si la WLAN està activada o desactivada. I per activar o desactivar WLAN.
+wln_conn,Obteniu connexions WLAN
+shop_bill_exp,Quan compres a través de Google Play In App Billing, Google ens proporciona el teu país de residència i, de vegades, l'estat, la ciutat i el codi postal, però mai l'adreça completa. Utilitzem aquesta informació per complir amb la normativa fiscal i comptable.
+pri_date,A partir del 21/02/2021
+how_to_stop,Podeu aturar tota la recopilació d'informació per part de l'aplicació simplement desinstal·lant l'aplicació. Podeu utilitzar els processos de desinstal·lació estàndard disponibles com a part del vostre dispositiu mòbil o mitjançant el mercat o la xarxa d'aplicacions mòbils.
+opt_out,Quins són els meus drets d'exclusió?
+ur_permission,el teu permís
+accept_privacy,En utilitzar l'aplicació, accepteu el tractament de les vostres dades tal com s'estableix en aquesta política de privadesa i tal com hem modificat.

@@ -1,0 +1,347 @@
+title,Tha Manaidsear Bataraidh Lite eadar-dhealaichte
+extend_life,Tha an dòigh as fheàrr air beatha bataraidh a leudachadh agus do chumail fallain stèidhichte air eòlas agus rannsachadh saidheansail.
+measured,Ann an dòigh fhollaiseach cha sheall sinn dhut ach an dàta a chaidh a thomhas agus mar a tha e air a thomhas.
+healthy,Cùm do bhataraidh fallain
+double_battery,Dèan dùblachadh air do bheatha bataraidh le bhith gun a bhith a’ cur cosgais iomlan air a ’bhataraidh agad. Tha luchd-saidheans air seo a dhearbhadh san rannsachadh aca.
+charge_limit,A’ cleachdadh ar fios mu chrìochan cosgais, thèid fios a chuir nuair a ruigeas am bataraidh stairsneach a tha air a shònrachadh leis an neach-cleachdaidh.
+smart,Bidh e a’ fàs nas glice a h-uile latha
+analyze,Mar as fhaide a chleachdas tu Bataraidh Manaidsear Lite, is ann as fheàrr a gheibh sinn air mion-sgrùdadh a dhèanamh air coileanadh do bhataraidh.
+update_every_time,Bidh an tomhas beatha bataraidh a tha air fhàgail air ùrachadh gach uair a chleachdas tu no a chuireas tu cosgais air an inneal agad.
+runtime,Faigh a-mach fìor ùine ruith a’ bhataraidh agad
+discharge_cycle,Gach uair a thèid am fòn agad tro chearcall sgaoilidh, faodar tuairmse cheart den ùine ruith aige a thomhas.
+accurate_life,Cleachd Bataraidh Manager Lite gus beatha bataraidh ceart a thomhas.
+no_exit,Na fàg am Manaidsear Bataraidh Lite!
+bg_require,Feumaidh Manaidsear Bataraidh Lite seirbheis cùl-fhiosrachaidh gus staitistig bataraidh a chruinneachadh agus cosgais bataraidh agus ùine fuasglaidh a thomhas. Tha e coltach gu bheil an inneal agad a’ stad an t-seirbheis no gun a bhith a’ leigeil leis ruith nuair a bhios an aplacaid dùinte. Gus seo a sheachnadh, tha fuasgladh math againn dhut. Dìreach cliog air a’ cheangal.
+man,Leabhar-làimhe
+cali,Calibration
+polarity,Anns a ’cheum seo, bidh an aplacaid a’ lorg polarity cosgais agus comas dealbhaidh do bhataraidh.
+disch,Sgaoileadh
+ch_pol,Polarity luchdadh a-nuas
+power_meter,Meatair cumhachd
+unit_mesure,Aonad tomhais
+capacity,Comas Bataraidh
+wrong,Chan eil ceart?
+calib,Calibrate
+ye,Tha
+no,Chan eil
+neg,àicheil
+pos,Deimhinneach
+lunch,Cuir air bhog App
+manufac,Comas a rèir an neach-dèanamh
+design_des,Is e an comas dealbhaidh an fhìor chomas bataraidh, air a thomhas ann am mAh. Leis nach eil dòigh oifigeil ann airson an comas a dhearbhadh, is dòcha gu bheil an luach a chaidh a thilleadh ceàrr.
+correct_it,Mura h-eil an comas a tha air a thaisbeanadh ceart, feuch an cuir thu ceart e.
+cancel,Sguir dheth
+ok,Ceart gu leor
+runtime,Ùine ruith bataraidh
+wait,feitheamh
+per_hr,Caitheamh bataraidh san uair
+life_for,Beatha bataraidh airson
+battery_cond,Suidheachadh bataraidh
+bat_info,Fiosrachadh bataraidh
+bat_cap,Comas bataraidh
+bat_volt,Bholtaids bataraidh
+bat_cur,Sruth bataraidh
+unit_mes,Aonad tomhais
+done,Dèanta
+c_bat_temp,Teòthachd bataraidh gnàthach
+min_bat_tem,Teòthachd bataraidh as ìsle
+mx_bat_tem,Teòthachd bataraidh as àirde
+avg_bat_tem,Teòthachd bataraidh cuibheasach
+dig_last,Diagnosis mu dheireadh roimhe
+rem_time,Ùine air fhàgail
+volt,Bholtaids
+curr,Gnàthach
+status,Inbhe
+run_time,Ùine ruith
+currently,An-dràsta
+avg,Cuibheasach
+minmal,Minimal
+maximal,As àirde
+tool,Innealan
+rem_apps,Dì-stàlaich aplacaidean nach cleachd thu tuilleadh gus casg a chuir air aplacaidean bho bhith a’ ruith gun fheum agus a’ drèanadh do bhataraidh
+uninst_apps,Dì-stàlaich Apps
+stat,Tòisich
+act_eng_save,Cuir an gnìomh am modh sàbhalaidh lùtha gus caitheamh bataraidh a lughdachadh
+pow_save,Modh sàbhalaidh cumhachd
+tempe,Teòthachd
+heal,Slàinte
+tips,Cùm do Bhataraidh ann an deagh staid le molaidhean is cleasan.
+recomm,Molaidhean
+prem,Premium
+more_func,Tuilleadh ghnìomhan dhut. Faigh premium, faigh barrachd.
+more,Tuilleadh
+ur_cond_bat,Tha an suidheachadh bataraidh
+ur_bat_life,Is e do bheatha bataraidh
+ur_bat_temp,Tha an teòthachd bataraidh agad
+wow,Sàr-mhath
+normal,àbhaisteach
+poor,Gu dona
+days,Làithean
+mins,Mionaidean
+hrs,Uairean
+chging,A 'cur cosgais
+ful,Làn
+dis_chrg,A' sgaoileadh
+unkn,Neo-aithnichte
+too_lit,Ro bheag de dhàta bataraidh
+car_any,Dèan co-dhiù
+endz_,Crìochnaich
+dig_any,Gus toraidhean breithneachaidh nas fheàrr fhaighinn, feumaidh an aplacaid sgrùdadh a dhèanamh air a’ bhataraidh agad air a’ chùl. Feuch an tòisich thu air a’ bhreithneachadh às deidh 24 uairean
+end_dig,Cuir crìoch air breithneachadh
+quit_dig,Dìreach leig às Diagnosis
+batty_temp,Teòthachd bataraidh
+akku_manager,Manaidsear Akku
+u_agree,Le "START" tha thu ag aontachadh ris na riaghailtean dìon dàta
+elemn_opti,Faodar eileamaidean a mheudachadh
+looks_good,Tha a h-uile dad a’ coimhead math
+optimize_,Optimize
+toolz_,Innealan
+akku_check,Thoir sùil air Akku
+ctrl_load,A luchdachadh sìos fo smachd
+mng_apps,Stiùirich aplacaidean
+infosm,Fiosrachadh
+tenzion,teannachadh
+electy,dealan
+lvl,Ìre
+akku_man_premium,Akku Manaidsear Premium
+premimum_highlight,Cleachd am Manaidsear Bataraidh gu tur às aonais sanasachd agus tha cothrom agad air gnàthachadh farsaing an eadar-aghaidh cleachdaiche.
+design,Dealbhadh
+subjs,cuspairean
+genrally,Anns an fharsaingeachd
+temp_unit,Aonad teòthachd
+oth_apps,Aplacaidean eile
+dat_protect,Dìon dàta
+thx_akku,Tapadh leibh airson taic a thoirt do Mhanaidsear Akku le bhith a’ ceannach an dreach premium.
+user_got_pre,Tha cothrom agad a-nis air gnàthachadh farsaing air an eadar-aghaidh cleachdaiche agus cleachdadh gun sanasachd.
+exp_more,Faodaidh dùil a bhith agad ri barrachd fheartan ann an ùrachaidhean san àm ri teachd
+ap_optimiz,Optimization app
+sys_bat_usage,Caitheamh bataraidh siostam
+bat_usage_det,Mion-fhiosrachadh mu chleachdadh bataraidh
+end_optiz,Cuir crìoch air optimization
+abort,Abradh
+break_up,Sgaradh
+scn,a sganadh
+scn_bgh,Soilleireachd sgrion
+dact_wlan,Cuir dheth WLAN
+dact_save_batt,Cuir dheth gus bataraidh a shàbhaladh
+dact,Cuir dheth
+dact_ble,Cuir dheth bluetooth
+red_brigh,Lùghdaich soilleireachd
+bright_txt,Lùghdaich soilleireachd an taisbeanaidh gus bataraidh a shàbhaladh
+to_reduce,Gus lùghdachadh
+dact_gps,Cuir dheth GPS
+appz_optimz,Aplacaidean air an ùrachadh
+start_bat_check_det,Tòisich sgrùdadh bataraidh mionaideach gus a bhith an-còmhnaidh air an taobh shàbhailte
+act_eng_save,Cuir an gnìomh modh sàbhalaidh lùtha gus caitheamh bataraidh a lughdachadh
+remove_useless,Dì-stàlaich aplacaidean nach eilear gan cleachdadh tuilleadh
+premium,Premium
+clear_mem,Glan suas cuimhne
+clear_mem_des,Gus am bi am fòn cliste agad a’ ruith gu sgiobalta agus gu rèidh.
+clenaup,Sgioblaich suas
+rat,rangachadh
+rat_free,Ìre manaidsear bataraidh saor an asgaidh
+sendz,Seol
+elmn_found,Feartan air an lorg
+drumz,Drumaichean
+status,Inbhe
+end_akk_check,Cuir crìoch air sgrùdadh bataraidh
+bat_detlz,Mion-fhiosrachadh bataraidh
+temp_checked,Tha an teòthachd air a sgrùdadh
+cond_checked,Tha staid a’ bhataraidh air a sgrùdadh
+checkz_start,Tòisichidh sgrùdadh bataraidh
+plug_in,Air a phlugadh a-steach
+techz,Teicneòlas
+coldz,Fuachd
+until,Gus an
+well,Uill
+ovr_heat,Overheating
+ovr_load,Overload
+renam,ath-ainmeachadh
+not_def,nach eil air a mhìneachadh
+chrgz,Cìs
+full,Làn
+unloadz,A' dì-luchdachadh
+not_charge_unkn,gun chosgais no gun fhios
+usb,USB
+charger,charger
+wless,wireless
+not_at_al,ni sam bith
+uninstall,Dì-stàlaich
+update,Gus ùrachadh
+setting,Suidhichidhean
+app,Apps
+not_found,App cha deach a lorg
+search,Lorg aplacaidean
+version_code,Còd tionndadh
+api_level,Ìre API
+app_version,Tionndadh App
+authorization,ùghdarras
+open,fosgladh
+play_store,Play Store
+control,smachd
+systemstandart,Inbhe siostam
+white,Geal
+dark,Dorch
+ocean,Cuan
+black,Dubh
+dark_blue,Dubh-ghorm
+excellent,Sàr-mhath
+bad,Droch
+battery_bad,Tha bataraidh air a mhilleadh beagan
+very_bad,Gu math dona
+battery_damaged,Tha am bataraidh air a mhilleadh
+custom_mode,Modh Custom
+brightness,Gile
+automatic_brightness,Gile fèin-ghluasadach
+normal,àbhaisteach
+sound_modus,Modus fuaim
+tone_work,Bidh a h-uile Tones ag obair
+mute,Mut
+call_note_mute,Tha fiosan is fiosan air an socrachadh
+not_bother,Na gabh dragh
+tones_vibration_mute,Cuir dheth tònaichean agus crith, ach a-mhàin tònaichean rabhaidh
+sound,Fuaimean
+music,ceòl
+notification,Fios
+alarm,Alarm
+ultra_saving,Modh sàbhalaidh lùth ultra
+edit,A dheasachadh
+disable_ultra_saving,Cuir à comas modh sàbhalaidh lùtha ultra
+min_remaining,min air fhàgail
+hours,uairean
+activted_ultra_saving,Tha modh sàbhalaidh lùth ultra air a chuir an gnìomh
+charged_in,fo chasaid ann an
+min,min
+limit_power,Cuir crìoch air caitheamh cumhachd
+reduce_screen,Lùghdaich soilleireachd sgrion
+restrict_bg_act_explain,Cuir casg air gnìomhan cùl-fhiosrachaidh
+volatge_check,Voltage air a sgrùdadh
+software_optimized,Tha am bathar-bog air a mheudachadh
+connect_charger,Ceangail charger
+charger_removed,Faodar charger a thoirt air falbh
+power_consump_title,Caitheamh cumhachd
+srcn_bg_title,Soilleireachd sgrion
+bg_al_activities,Gnìomhan cùl-fhiosrachaidh
+sftware,Bathar-bog
+get_primium,Ma cheannaicheas tu an dreach bunasach, gheibh thu a h-uile gnìomh gnàthach a bharrachd air a h-uile gnìomh ùr san àm ri teachd.
+cuztomize_face,Gnàthachadh an eadar-aghaidh cleachdaiche
+comp_scheme,Dèan an sgeama dathan Manaidsear Bataraidh agad bho ghrunn chuspairean.
+bat_check_detail,Sgrùdadh mionaideach air bataraidh
+check_cond_test,Cleachd am Manaidsear Bataraidh gus sùil a thoirt air suidheachadh do bhataraidh gus a bhith an-còmhnaidh air an taobh shàbhailte.
+no_ads_yo,Gun sanasachd
+use_explain_noads,Cleachd Manaidsear Bataraidh gun sanasachd sam bith
+act_energy_save,Cuir an gnìomh am modh sàbhalaidh lùth ultra gus beatha bataraidh àrdachadh ann an èiginn.
+buy_title,Ceannaich Premium
+loc_title,Àite
+cap_title,comas
+cap_remain,Comas air fhàgail
+sleepy,Cadal
+sek,Diogan
+sing_min,Mionaid
+miniotes,Mionaidean
+finish,Crìochnaichte
+mobi_data,dàta gluasadach
+plz_rate,Feuch an toir thu meas air Manaidsear Bataraidh anns a’ Play Store
+ur_data_cus,An urrainn dhuinn cumail oirnn a’ cleachdadh an dàta agad gus sanasan a ghnàthachadh dhut?
+in_slep_mode,Ann am modh cadail
+in_use,Ann an cleachdadh
+with_curr_pow,Le caitheamh cumhachd gnàthach
+rem_bat_life,Beatha bataraidh air fhàgail
+qck_acc,Cothrom luath
+notif_txt,fios
+notif_at,Cuir fios gu
+chg_curr,An t-sruth cosgais
+charge_perm,Coileanadh cosgais
+maxi_charge_per,Coileanadh cosgais as àirde
+enb_notif,Dèan comas air fios
+perm_send_notif,Feumaidh Manaidsear Bataraidh cead fios a chuir, feumaidh e a bhith air a chuir an gnìomh ann an roghainnean an inneal.
+to_set,Gu na roghainnean
+title_autost,Cuir an gnìomh Autostart
+auto_explain,Feumaidh Manaidsear Bataraidh cead fuireach air a ghnìomhachadh air a’ chùl gus inbhe a’ bhataraidh a cheasnachadh agus fios a chuir.
+sync_auto,Sioncronaich gu fèin-ghluasadach
+dis_auto_sync,Le bhith a’ cuir casg air sioncronadh fèin-ghluasadach bidh sin gu mòr a’ lughdachadh wakelocks. Ach, thèid cuid de ghnìomhan leithid faighinn post-d a chall.
+chg_lim,Crìochan cosgais
+avoid_ful_explain,Ma chuireas tu cosgais air a’ bhataraidh agad chun na h-ìre as àirde no ma sgaoileas tu e gus an tèid a chuir dheth, thèid suidheachadh agus beatha seirbheis a’ bhataraidh a lughdachadh. Anns na leanas faodaidh tu an ìre cosgais as ìsle agus as àirde no inbhe fuasglaidh a’ bhataraidh a shuidheachadh agus thèid fios a chuir thugad gach uair a ruigear luach na stairsnich. Seachain aon chosgais iomlan agus leig às do bhataraidh agus leudaich beatha a’ bhataraidh.
+rec_notif,Nach d’ fhuaireadh fios?
+title_allow_bg_act,Leig le gnìomhachd cùl-fhiosrachaidh
+allow_bg_act,Gus am bi e comasach dhut am Manaidsear Bataraidh a chleachdadh gun chuingealachaidhean gun a bhith dùinte gu mì-fhortanach leis an t-siostam obrachaidh, is dòcha gum feum thu gnìomhan sònraichte a chuir dheth airson riaghladh bataraidh agus cleachdadh bataraidh anns na roghainnean. Leis gu bheil na diofar luchd-saothrachaidh eadar-dhealaichte ann an sònrachadh nan roghainnean sin a rèir an t-siostam obrachaidh a thathar a’ cleachdadh. Anns an raon Fiosrachadh App, fo Chadal no Bataraidh, tagh Gun Bhacadh no Ceadaich Gnìomh Cùl-fhiosrachaidh.
+dev_usage,Cleachdadh inneal
+dep_sleep,Tha cadal domhainn na staid anns a bheil an inneal agad a’ cleachdadh an ìre as lugha de bhataraidh. Tha deagh bhuaidh aig fad cadal domhainn air sàbhaladh lùtha. Faodar stad a chuir air cadal domhainn le gnìomhan cùl-fhiosrachaidh, a bheir air a’ bhataraidh a dhol a-mach nas luaithe. Anns a 'chùis seo, ath-thòisich an inneal agad.
+title_bat_temp,Teòthachd bataraidh
+bat_tempp,Is e teòthachd bataraidh aon de na factaran as cudromaiche. Ma thèid am bataraidh a chumail gel aig teòthachd àrd, bheir seo buaidh air gach cuid beatha seirbheis agus coileanadh a ’bhataraidh. Ma dh’ èiricheas an teòthachd, faodar structar a-staigh a’ bhataraidh a mhilleadh.
+rdc_brightness,Lùghdaich soilleireachd sgrion
+display_explain,Is e an taisbeanadh aon de na pàirtean a bhios ag ithe a’ mhòr-chuid den lùth. Le bhith a’ lughdachadh an soilleireachd as motha a’ cuideachadh le bhith a’ lughdachadh caitheamh iomlan agus a’ coileanadh sàbhalaidhean follaiseach. Mus lughdaich thu an soilleireachd, cuir dheth an soilleireachd fèin-ghluasadach gus nach atharraich an soilleireachd gun fheum.
+tst_charge,Charger deuchainn
+best_way_test,Is e an dòigh as fheàrr air a’ charger agus an càball a dhearbhadh le bhith a ’sgrùdadh an astar cosgais leis an scrion dheth. Chan eil an astar cosgais nuair a tha an scrion air adhart na shlat-tomhais math leis gu bheil am fòn agad ag ithe cumhachd, a dh’ adhbhraicheas caochlaidhean. Plug a-steach an charger, cuir dheth an scrion airson beagan mhionaidean, agus an uairsin thoir sùil air an t-sruth cosgais as àirde.
+wait_title,A' feitheamh
+rfsh_rate,Ìre ùrachaidh
+low_sizty,Le bhith a’ lughdachadh na h-ìre ùrachaidh gu 60 Hz a’ leasachadh beatha bataraidh.
+drk_mode,Modh Dorcha
+acti_dark_mode,Cuir an gnìomh Modh Dorcha, ann am Modh Dorcha nas lugha de chumhachd air a chaitheamh
+actz,Cuir an gnìomh
+poz,Cumhachd
+minz,Co-dhiù
+avgo,Cuibheasach
+mixi1,As àirde
+msg_dis,Thèid an teachdaireachd à sealladh às deidh 24 uairean ma tha dàta gu leòr ann gus an diagram a thaisbeanadh gu h-iomlan.
+no_enough,Chan eil dàta gu leòr airson a thaisbeanadh
+log_graph,Ann am beagan uairean a thìde chì thu graf an seo a leigeas leat sùil a thoirt air teòthachd bataraidh, bholtachd, amperage agus ìre thairis air na 24 uairean a dh’ fhalbh.
+week,seachdain
+buy_it,Ceannaich
+one_pur,Cìs aon-ùine de
+refun_pur,faodar an ceannach a phàigheadh ​​​​air ais taobh a-staigh 2 uair.
+each_month,Bidh an fho-sgrìobhadh ag ùrachadh gu fèin-ghluasadach gach mìos agus a’ leantainn air adhart a’ cosg gach mìos. Faodar an fho-sgrìobhadh a chuir dheth aig àm sam bith.
+mng_subs,riaghladh fo-sgrìobhadh
+subsci,fo-sgrìobhadh
+will_cost_week,Bidh ballrachd ag ùrachadh gu fèin-ghluasadach gach seachdain agus a’ leantainn air adhart a’ cosg gach seachdain. Faodar an fho-sgrìobhadh a chuir dheth aig àm sam bith.
+lfllong,fad-beatha
+mthly,mìosail
+wkly,Seachdaineach
+hoto,Teth
+prm_ben_title,Buannachdan Premium
+sync_title,Sioncronaich
+dis_sync_inc,Le bhith a’ cur casg air sioncranachadh àrdaichidh sin beatha bataraidh le bhith gun a bhith a’ sioncronadh sheirbheisean air a’ chùl
+time_out,A 'gabhail fois
+dec_extend,Le bhith a’ lughdachadh na h-ùine mus tionndaidh an taisbeanadh dheth, leudaichidh sin beatha bataraidh
+u_end_opti,A bheil thu cinnteach gu bheil thu airson crìoch a chur air a’ phròiseas optimization?
+no_why_perm,Gun chead
+bright_exp,Feumaidh Manaidsear Bataraidh cead atharrachadh roghainnean siostam gus soilleireachd sgrion a lughdachadh no Bluetooth a chuir dheth.
+tg_title,Thig còmhla ris an t-sianal Telegram!
+tg_text,Fuirich gnàthach le ùrachaidhean app, faigh togalaichean tràth, agus cuidich le bhith a’ dèanamh deuchainn air feartan ùra. Mol do bheachdan, faighnich ceistean agus faigh freagairtean nas luaithe
+join_tg,gabh còmhla
+curr_consumption,caitheamh làithreach
+scrn_onn,sgrion air
+srcn_off,sgrion dheth
+mob_charg,A 'cur cosgais
+discha,A' sgaoileadh
+activea,Gnìomhach
+slpmode,Modh cadail
+chagingspeed,Luas cosgais gnàthach
+dta_proxt,Dìon dàta
+governs,Bidh am poileasaidh prìobhaideachd seo a’ riaghladh mar a chleachdas tu am bathar-bog Manaidsear Bataraidh airson innealan gluasadach a chruthaich Baxolino.
+info_u_provide,Fiosrachadh air a thoirt seachad leis an neach-cleachdaidh
+no_pass_per,Cha bhith sinn a’ toirt seachad dàta pearsanta gu treas phàrtaidhean. Nuair a chuireas tu post-d thugainn, tha an seòladh puist-d agad againn, ach cha chleachd sinn e ach airson do chuideachadh leis na h-aplacaidean againn.
+info_auto_coll,Fiosrachadh air a chruinneachadh gu fèin-ghluasadach
+exp_admob_use,Bidh sinn a’ cleachdadh Google Admob gus sanasan a fhrithealadh. Tha cleachdadh nan seirbheisean sin fo ùmhlachd ullachaidhean dìon dàta Google aig https://www.google.com/policies/privacy/.
+we_real_time,Am bi Manaidsear Bataraidh a’ tional fiosrachadh àite fìor-ùine bhon inneal?
+exp_loc_perm_man,Cha bhith Manaidsear Bataraidh a’ dèanamh sgrùdadh ach a bheil an t-àite air a ghnìomhachadh no air a chuir dheth, ach cha bhith e a’ tional fiosrachadh mionaideach mu shuidheachadh an inneal gluasadach agad. Tha na gnìomhan sin stèidhichte air àite air an suidheachadh gu bunaiteach. Faodaidh tu na gnìomhan sin a chuir dheth no ath-ghnìomhachadh ann an roghainnean an uidheim agad fhèin. Ro no às deidh dhut na h-aplacaidean a chuir a-steach, thèid faighneachd dhut - a rèir an uidheim - am b’ fheàrr leat na gnìomhan sin a chuir dheth no a chuir an gnìomh. Chan urrainn dhuinn dàta a chruinneachadh mun àite agad ach ma chuireas tu an gnìomh seirbheisean suidheachaidh mar sin.
+chng,Atharrachaidhean
+pri_update_exp,Faodar am poileasaidh prìobhaideachd seo ùrachadh bho àm gu àm airson adhbhar sam bith. Innsidh sinn dhut mu atharrachaidhean sa phoileasaidh prìobhaideachd againn le bhith a’ postadh am poileasaidh prìobhaideachd ùr air an t-seòladh lìn seo agus a’ cur fios thugad tro theachdaireachd san app. Thathas a’ moladh gun coinnich thu gu cunbhalach ris a’ Phoileasaidh Dìomhaireachd seo airson atharrachaidhean, leis gu bheilear a’ beachdachadh air cleachdadh leantainneach mar chead airson gach atharrachadh. Faodaidh tu eachdraidh a’ phoileasaidh seo ath-sgrùdadh air an làrach-lìn seo.
+contct,Cuir fios
+any_que,Ma tha ceist sam bith agad mu dhìon dàta fhad ‘s a tha thu a’ cleachdadh an tagraidh no ma tha ceistean agad mu na cleachdaidhean againn, feuch an cuir thu post-d gu baxolino.de@gmail.com
+mem_opti,Feumaidh Manaidsear Bataraidh an ruigsinneachd “cuimhne” gus an tèid aplacaidean a sganadh agus a bharrachadh. Faodaidh tu na gnìomhan sin a chuir dheth no a chuir an gnìomh ann an roghainnean an inneal agad fhèin. Ro no às deidh dhut an aplacaid a chuir a-steach, thèid faighneachd dhut - a rèir an inneal - am b’ fheàrr leat na gnìomhan sin a chuir dheth no a chuir an gnìomh.
+storg,Stòradh
+ble_set_acc,blue_set_perm, feumaidh am Manaidsear Bataraidh an ruigsinneachd “Bluetooth setting access” gus an tèid dearbhadh a bheil Bluetooth air a ghnìomhachadh no air a chuir dheth. Agus gus Bluetooth a ghnìomhachadh no a chuir dheth.
+ble_title,fiacail-gorm
+needz_del,Feumaidh Manaidsear Bataraidh ruigsinneachd “Iarr cuir às de phasganan” gus tòiseachadh air dì-stàladh app. Cha tèid an aplacaid a chuir a-steach ach ma cheadaicheas tu gu soilleir e.
+deletion_pkg,Iarr air pacaidean a dhubhadh às
+need_adnd,Feumaidh Manaidsear Bataraidh ruigsinneachd “Na cuir dragh air” gus am modh Na cuir dragh air a chomasachadh no a chuir à comas.
+adnd,Ruigsinneachd Na cuir dragh air
+need_wlan_acc,Feumaidh Manaidsear Bataraidh faighinn gu “Faigh ceanglaichean WLAN” gus an urrainn do Mhanaidsear Bataraidh faighinn a-mach a bheil WLAN air a ghnìomhachadh no air a chuir dheth. Agus gus WLAN a ghnìomhachadh no a chuir dheth.
+wln_conn,Faigh ceanglaichean WLAN
+shop_bill_exp,Nuair a bhios tu a’ ceannach tro Google Play In App Billing, bheir Google dhuinn do dhùthaich còmhnaidh agus uaireannan an stàit, am baile-mòr agus an còd-puist, ach cha bhith an seòladh slàn a-riamh. Cleachdaidh sinn am fiosrachadh seo gus cumail ri riaghailtean cìse is cunntasachd.
+pri_date,Mar 02/21/2021
+how_to_stop,Faodaidh tu stad a chuir air a’ chruinneachadh fiosrachaidh gu lèir leis an aplacaid dìreach le bhith a’ dì-stàladh an aplacaid. Faodaidh tu na pròiseasan dì-stàlaidh àbhaisteach a chleachdadh mar phàirt den inneal gluasadach agad no tron ​​​​mhargaid no lìonra airson tagraidhean gluasadach.
+opt_out,Dè na còraichean tarraing a-mach a th’ agam?
+ur_permission,do chead
+accept_privacy,Le bhith a’ cleachdadh an tagraidh, tha thu a’ toirt cead do ar giullachd dàta agad mar a tha air a mhìneachadh sa phoileasaidh prìobhaideachd seo agus mar a chaidh atharrachadh leinn.

@@ -1,0 +1,347 @@
+title,Battery Manager Lite hè diversu
+extend_life,U megliu modu per allargà a vita di a bateria è mantene a salute hè basatu annantu à l'esperienza è a ricerca scientifica.
+measured,In una manera trasparente, vi mostremu solu i dati misurati in realtà è cumu si sò calculati.
+healthy,Mantene a vostra bateria sana
+double_battery,Raduppiate a vostra vita di a bateria ùn caricate micca completamente a vostra batteria. I scientisti anu pruvatu questu in a so ricerca.
+charge_limit,Utilizendu a nostra notificazione di limitu di carica, una notificazione serà mandata quandu a batteria righjunghji un sogliu definitu da l'utilizatore.
+smart,Ogni ghjornu diventa più intelligente
+analyze,Quantu più aduprate Battery Manager Lite, megliu avemu da analizà u rendiment di a vostra batteria.
+update_every_time,A misurazione di a vita di a bateria restante hè aghjurnata ogni volta chì aduprate o caricate u vostru dispositivu.
+runtime,Scopre u tempu di runtime attuale di a vostra bateria
+discharge_cycle,Ogni volta chì u vostru telefunu passa per un ciclu di scaricamentu, una stima precisa di u so runtime pò esse misurata.
+accurate_life,Aduprate Battery Manager Lite per misurà a vita di a bateria precisa.
+no_exit,Ùn esce micca Battery Manager Lite!
+bg_require,Battery Manager Lite richiede un serviziu di fondo per cullà e statistiche di a batteria è misurà a carica è u tempu di scaricamentu di a batteria. U vostru dispositivu hè prubabilmente piantà u serviziu o ùn permettenu micca di eseguisce quandu l'app hè chjusa. Per evitari questu, avemu una bona suluzione per voi. Basta à cliccà nant'à u ligame.
+man,Manuale
+cali,Calibrazione
+polarity,In questu passu, l'app detecta a polarità di carica è a capacità di cuncepimentu di a vostra bateria.
+disch,Scaricatu
+ch_pol,Polarità di carica
+power_meter,Mitru di putenza
+unit_mesure,Unità di misura
+capacity,Capacità batterie
+wrong,Ùn hè micca bè?
+calib,Calibrate
+ye,Iè
+no,Innò
+neg,Negativu
+pos,Pusitivu
+lunch,Lanciari App
+manufac,Capacità secondu u fabricatore
+design_des,A capacità di cuncepimentu hè a capacità attuale di a bateria, misurata in mAh. Cumu ùn ci hè micca un modu ufficiale per determinà a capacità, u valore restituitu pò esse sbagliatu.
+correct_it,Se a capacità mostrata ùn hè micca curretta, per piacè corregge.
+cancel,Cancella
+ok,Va bè
+runtime,Batterie Runtime
+wait,aspittendu
+per_hr,Cunsumu di bateria per ora
+life_for,A vita di a batteria per
+battery_cond,Cundizione di a bateria
+bat_info,infurmazione batterie
+bat_cap,Capacità di a bateria
+bat_volt,A tensione di a bateria
+bat_cur,Batteria currente
+unit_mes,Unità di misura
+done,Fattu
+c_bat_temp,Temperature attuale di a batteria
+min_bat_tem,A temperatura minima di a batteria
+mx_bat_tem,A temperatura massima di a bateria
+avg_bat_tem,A temperatura media di a bateria
+dig_last,L'ultimu diagnosticu prima
+rem_time,Tempu restante
+volt,Tensione
+curr,currente
+status,Status
+run_time,Tempu di corsa
+currently,Attualmente
+avg,Media
+minmal,Minimu
+maximal,Massimu
+tool,Strumenti
+rem_apps,Disinstalla l'applicazioni chì ùn aduprate più per impedisce chì l'applicazioni funzionanu inutilmente è scaricanu a vostra bateria
+uninst_apps,Uninstall Apps
+stat,Principià
+act_eng_save,Attivate u modu di risparmiu d'energia per riduce u cunsumu di bateria
+pow_save,Modu di risparmiu di energia
+tempe,Temperature
+heal,Salute
+tips,Mantene a vostra Batteria in bona cundizione cù cunsiglii è trucchi.
+recomm,Raccomandazioni
+prem,Premium
+more_func,Più funzioni per voi. Ottene premium, uttene più.
+more,Più
+ur_cond_bat,A cundizione di a bateria hè
+ur_bat_life,A vostra vita di a bateria hè
+ur_bat_temp,A vostra temperatura di a bateria hè
+wow,Eccellente
+normal,Normale
+poor,Poveru
+days,Ghjorni
+mins,Minuti
+hrs,Ore
+chging,Carica
+ful,Pienu
+dis_chrg,Scaricà
+unkn,Inconnu
+too_lit,Troppu pocu Dati di Batteria
+car_any,Fate in ogni modu
+endz_,Fine
+dig_any,Per ottene risultati di diagnostichi megliu, l'app deve analizà a vostra bateria in fondo. Per piacè principià u diagnosticu dopu à 24 ore
+end_dig,Finisce u diagnosticu
+quit_dig,Veramente abbandunà u Diagnosi
+batty_temp,A temperatura di a bateria
+akku_manager,Akku Manager
+u_agree,Cù "START" accunsente à u regulamentu di prutezzione di dati
+elemn_opti,Elementi ponu esse ottimizzati
+looks_good,Tuttu pare bè
+optimize_,Optimizà
+toolz_,Strumenti
+akku_check,Accu Check
+ctrl_load,Carica cuntrullata
+mng_apps,Gestisce l'applicazioni
+infosm,infurmazione
+tenzion,tensione
+electy,elettricità
+lvl,Livellu
+akku_man_premium,Akku Manager Premium
+premimum_highlight,Aduprate u Battery Manager cumplettamente senza publicità è avete accessu à a larga persunalizazione di l'interfaccia d'utilizatore.
+design,Disegnu
+subjs,sughjetti
+genrally,In generale
+temp_unit,Unità di temperatura
+oth_apps,Altre Apps
+dat_protect,Prutezzione di dati
+thx_akku,Grazie per sustene Akku Manager cù l'acquistu di a versione premium.
+user_got_pre,Avete avà accessu à una larga persunalizazione di l'interfaccia d'utilizatore è l'usu senza publicità.
+exp_more,Pudete aspettà più funzioni in l'aghjurnamenti futuri
+ap_optimiz,Ottimisazione di l'app
+sys_bat_usage,U cunsumu di bateria di u sistema
+bat_usage_det,Detaglii di l'usu di a batteria
+end_optiz,Fine ottimisazione
+abort,Abortu
+break_up,rompe
+scn,per scansà
+scn_bgh,Luminosità di u screnu
+dact_wlan,Disattivà a WLAN
+dact_save_batt,Disattivate per salvà a bateria
+dact,Disattivà
+dact_ble,Disattivà bluetooth
+red_brigh,Reduce a luminosità
+bright_txt,Reduce a luminosità di u display per salvà a bateria
+to_reduce,Per riduce
+dact_gps,Disattivà GPS
+appz_optimz,Apps ottimizzati
+start_bat_check_det,Cumincià un cuntrollu detallatu di a bateria per esse sempre in u latu sicuru
+act_eng_save,Attivà u modu di risparmiu d'energia per riduce u cunsumu di bateria
+remove_useless,Disinstalla l'applicazioni chì ùn sò più usate
+premium,Premium
+clear_mem,Pulisce a memoria
+clear_mem_des,Cusì chì u vostru smartphone corre rapidamente è liscia.
+clenaup,Pulì
+rat,valutazione
+rat_free,Tariffa Battery Manager for free
+sendz,Mandate
+elmn_found,Elementi trovu
+drumz,Tamburi
+status,Status
+end_akk_check,Finisce u cuntrollu di a bateria
+bat_detlz,Dettagli batterie
+temp_checked,A temperatura hè verificata
+cond_checked,A cundizione di a bateria hè verificata
+checkz_start,A verificazione di a bateria principia
+plug_in,Cunnette
+techz,Tecnulugia
+coldz,Friddu
+until,Finu à
+well,Ebbè
+ovr_heat,Surriscaldamentu
+ovr_load,Overload
+renam,rinominatu
+not_def,micca definitu
+chrgz,Carica
+full,Pienu
+unloadz,Scaricà
+not_charge_unkn,micca accusatu o scunnisciutu
+usb,USB
+charger,caricatore
+wless,wireless
+not_at_al,nunda in tuttu
+uninstall,Disinstalla
+update,Per aghjurnà
+setting,Settings
+app,Apps
+not_found,App micca trovu
+search,Ricerca app
+version_code,Codice di versione
+api_level,Livellu API
+app_version,Versione App
+authorization,l'autorizazione
+open,per apre
+play_store,Play Store
+control,cuntrollu
+systemstandart,Sistema standard
+white,Biancu
+dark,Scuru
+ocean,Oceanu
+black,Neru
+dark_blue,Blu scuru
+excellent,Eccellente
+bad,Bad
+battery_bad,A batteria hè leggermente dannata
+very_bad,Assai male
+battery_damaged,A bateria hè dannata
+custom_mode,Modu persunalizatu
+brightness,Luminosità
+automatic_brightness,Luminosità automatica
+normal,Normale
+sound_modus,Modus di sonu
+tone_work,Tutti i Toni travaglianu
+mute,Mutu
+call_note_mute,I chjamati è e notificazioni sò silenziati
+not_bother,Ùn preoccupate micca
+tones_vibration_mute,Disattiva i toni è vibrazioni, eccettu i toni di alarme
+sound,Soni
+music,musica
+notification,Notificazione
+alarm,Alarma
+ultra_saving,Modu ultra di risparmiu d'energia
+edit,Per edità
+disable_ultra_saving,Disabled Ultra Energy Saving Mode
+min_remaining,min resta
+hours,ore
+activted_ultra_saving,U modu di risparmiu d'energia ultra hè attivatu
+charged_in,carica in
+min,min
+limit_power,Limite u cunsumu di energia
+reduce_screen,Reduce a luminosità di u screnu
+restrict_bg_act_explain,Limite l'attività di fondo
+volatge_check,A tensione hè verificata
+software_optimized,U software hè ottimizatu
+connect_charger,Cunnette u caricatore
+charger_removed,U caricatore pò esse eliminatu
+power_consump_title,Cunsumu di energia
+srcn_bg_title,Luminosità di u screnu
+bg_al_activities,Attività di fondo
+sftware,Software
+get_primium,Se cumprate a versione premium, uttene tutte e funzioni attuali è tutte e funzioni novi in ​​u futuru.
+cuztomize_face,Personalizazione di l'interfaccia d'utilizatore
+comp_scheme,Cumpone u vostru schema di culore di Battery Manager da una varietà di temi.
+bat_check_detail,Verificazione dettagliata di a bateria
+check_cond_test,Aduprate u Manager di Batteria per verificà a cundizione di a vostra bateria per esse sempre in u latu sicuru.
+no_ads_yo,Nisuna publicità
+use_explain_noads,Aduprate Battery Manager senza publicità
+act_energy_save,Attivate u modu ultra di risparmiu d'energia per aumentà a vita di a bateria in una emergenza.
+buy_title,Cumprate Premium
+loc_title,Locu
+cap_title,capacità
+cap_remain,Capacità restante
+sleepy,Dormi
+sek,Sicondi
+sing_min,Minutu
+miniotes,Minuti
+finish,Finitu
+mobi_data,dati mobili
+plz_rate,Per piacè valutate Battery Manager in Play Store
+ur_data_cus,Pudemu cuntinuà à aduprà i vostri dati per persunalizà publicità per voi?
+in_slep_mode,In modu di sonnu
+in_use,In usu
+with_curr_pow,Cù u cunsumu di energia attuale
+rem_bat_life,A vita di a bateria restante
+qck_acc,Accessu rapidu
+notif_txt,notificazione
+notif_at,Avvisà à
+chg_curr,Corrente di carica
+charge_perm,Prestazione di carica
+maxi_charge_per,Prestazione massima di carica
+enb_notif,Attivà a notificazione
+perm_send_notif,Battery Manager richiede permessu per mandà una notificazione, deve esse attivatu in i paràmetri di u dispusitivu.
+to_set,À i paràmetri
+title_autost,Attivà Autostart
+auto_explain,Battery Manager richiede permessu per stà attivatu in sfondate per dumandà u statutu di a batteria è mandà una notificazione.
+sync_auto,Sincronizza automaticamente
+dis_auto_sync,A disattivazione di a sincronizazione automatica riduce significativamente i wakelocks. Tuttavia, alcune funzioni cum'è riceve e-mail seranu perse.
+chg_lim,Limitu di carica
+avoid_ful_explain,Se caricate a vostra bateria à u massimu o scaricate finu à ch'ella hè spenta, a cundizione è a vita di serviziu di a bateria serà ridutta. In u seguitu pudete stabilisce u statutu minimu è massimu di carica o scaricamentu di a bateria è sarete avvisatu ogni volta chì u valore di soglia hè righjuntu. Evite una carica completamente è scaricate a vostra batteria è allargà a vita di a batteria.
+rec_notif,Ùn avete micca ricevutu notificazione?
+title_allow_bg_act,Permette l'attività di fondo
+allow_bg_act,Per pudè utilizà u Battery Manager senza restrizioni senza ch'ellu sia chjusu involontariamente da u sistema operatore, pudete avè da disattivà e funzioni speciali per a gestione di a batteria è l'usu di a batteria in i paràmetri. Perchè i diversi fabricatori sò diffirenti in a designazione di queste opzioni secondu u sistema operatore utilizatu. In l'area App Information, sottu Sleep o Battery, selezziunate Nisuna Restrizioni o Permette l'attività di fondo.
+dev_usage,L'usu di u dispusitivu
+dep_sleep,U sonnu prufondu hè un statu in quale u vostru dispositivu usa u minimu quantità di bateria. A durata di u sonnu prufondu hà un effettu pusitivu nantu à u risparmiu energeticu. U sonnu prufondu pò esse interrottu da i travaglii di fondo, chì face chì a bateria si scarica più rapidamente. In stu casu, ripigliate u vostru dispusitivu.
+title_bat_temp,A temperatura di a bateria
+bat_tempp,A temperatura di a bateria hè unu di i fatturi più impurtanti. Se a bateria hè tenuta in gel à alte temperature, questu affetta a vita di serviziu è u rendiment di a bateria. Se a temperatura aumenta, a struttura interna di a bateria pò esse dannata.
+rdc_brightness,Reduce a luminosità di u screnu
+display_explain,A visualizazione hè unu di i cumpunenti chì cunsuma a maiò parte di l'energia. A riduzione di a luminosità massima aiuta à riduce u cunsumu generale è ottene un risparmiu notevuli. Prima di riduce a luminosità, disattivà a luminosità automatica in modu chì a luminosità ùn hè micca cambiata inutilmente.
+tst_charge,Caricatore di prova
+best_way_test,U megliu modu per pruvà u caricatore è u cable hè di verificà a velocità di carica cù u screnu off. A vitezza di carica quandu a pantalla hè accesa ùn hè micca un bonu puntu di riferimentu perchè u vostru telefunu cunsuma energia, chì provoca fluttuazioni. Inserite u caricatore, spegne u screnu per uni pochi di minuti, è poi verificate a corrente di carica massima.
+wait_title,Aspetta
+rfsh_rate,Frequenza di rinfrescante
+low_sizty,A diminuzione di a freccia di rinfrescante à 60 Hz migliurà a vita di a bateria.
+drk_mode,Modu scuru
+acti_dark_mode,Attivate u Modu Scuru, in Modu Scuru menu energia cunsumata
+actz,Attivà
+poz,putenza
+minz,Minimu
+avgo,Media
+mixi1,Massimu
+msg_dis,U messagiu sparisce dopu à 24 ore s'ellu ci hè abbastanza dati per vede u diagramma in tuttu.
+no_enough,Ùn ci hè abbastanza dati per vede
+log_graph,In uni pochi d'ore vi vede un graficu quì chì vi permetterà di verificà a temperatura di a bateria, a tensione, l'amperaggio è u livellu di l'ultimi 24 ore.
+week,settimana
+buy_it,Cumprà
+one_pur,Tariffa una volta di
+refun_pur,a compra pò esse rimbursatu in 2 ore.
+each_month,L'abbonamentu si rinnova automaticamente ogni mese è cuntinueghja à costu per mese. L'abbonamentu pò esse annullatu in ogni mumentu.
+mng_subs,gestisce l'abbonamentu
+subsci,abbonate
+will_cost_week,L'abbonamentu si rinnova automaticamente ogni settimana è cuntinueghja à custà à settimana. L'abbonamentu pò esse annullatu in ogni mumentu.
+lfllong,per tutta a vita
+mthly,mensili
+wkly,Ogni settimana
+hoto,Calda
+prm_ben_title,Beneficii premium
+sync_title,Sincronizza
+dis_sync_inc,A disattivazione di a sincronia aumenterà a vita di a batteria senza sincronizà i servizii in fondo
+time_out,Pausa
+dec_extend,A diminuzione di u tempu prima chì a visualizazione si spegne estende a vita di a bateria
+u_end_opti,Sò sicuru chì vulete finisce u prucessu di ottimisazione?
+no_why_perm,Nisun permessu
+bright_exp,U Manager di Batteria richiede l'autorizazione di Cambia i paràmetri di u sistema per riduce a luminosità di u screnu o disattivà Bluetooth.
+tg_title,Unisciti à u canali Telegram!
+tg_text,Mantene l'aghjurnamentu cù l'aghjurnamenti di l'applicazioni, uttene build anticipate è aiutate à pruvà e funzioni novi. Suggerite e vostre idee, fate dumande è uttene risposte più veloce
+join_tg,unisce
+curr_consumption,cunsumu attuale
+scrn_onn,schermu nantu
+srcn_off,schermu spenta
+mob_charg,Carica
+discha,Scaricà
+activea,Attivu
+slpmode,Modu di sonnu
+chagingspeed,Velocità di carica attuale
+dta_proxt,Prutezzione di dati
+governs,Questa pulitica di privacy regula u vostru usu di l'applicazione software Battery Manager per i dispositi mobili creati da Baxolino.
+info_u_provide,L'infurmazione furnita da l'utilizatore
+no_pass_per,Ùn trasmettemu micca dati persunali à terzi. Quandu ci mandate un email, avemu u vostru indirizzu email, ma l'utilicemu solu per aiutà cù e nostre app.
+info_auto_coll,L'infurmazioni raccolte automaticamente
+exp_admob_use,Utilizemu Google Admob per serve annunzii. L'usu di sti servizii hè sottumessu à e disposizioni di prutezzione di dati di Google in https://www.google.com/policies/privacy/.
+we_real_time,U Battery Manager raccoglie infurmazione precisa di u locu in tempu reale da u dispusitivu?
+exp_loc_perm_man,Battery Manger verifica solu se u locu hè attivatu o disattivatu, ma ùn raccoglie micca infurmazioni precise nantu à u locu di u vostru dispositivu mobile. Tali funzioni basate in u locu sò stabilite per automaticamente. Pudete disattivà o riattivate queste funzioni in i paràmetri di u vostru dispositivu rispettivu. Prima o dopu à stallà l'applicazioni, vi sarà dumandatu - secondu u dispusitivu - se preferite disattivà o attivà queste funzioni. Pudemu solu raccoglie dati nantu à a vostra situazione se attivate tali servizii di locu.
+chng,Cambiamenti
+pri_update_exp,Sta pulitica di privacy pò esse aghjurnata da u tempu à u tempu per ogni ragione. Vi informeremu di cambiamenti à a nostra pulitica di privacy affissendu a nova pulitica di privacy in questu indirizzu web è avvisendu via un missaghju in l'app. Hè cunsigliatu di cunsultà regularmente sta Politica di privacy per i cambiamenti, postu chì l'usu cuntinuatu hè cunsideratu appruvazioni di tutti i cambiamenti. Pudete riviseghjà a storia di sta pulitica in stu situ web.
+contct,Cuntattu
+any_que,Sì avete qualchì quistione nantu à a prutezzione di dati mentre utilizate l'applicazione o avete dumande nantu à e nostre pratiche, mandate un email à baxolino.de@gmail.com
+mem_opti,Battery Manager hà bisognu di l'accessu "memoria" per chì l'applicazioni ponu esse scansate è ottimisate. Pudete disattivà o attivà queste funzioni in i paràmetri di u vostru dispositivu rispittivu. Prima o dopu à stallà l'app, vi sarà dumandatu - secondu u dispusitivu - se preferite disattivà o attivà queste funzioni.
+storg,Storage
+ble_set_acc,blue_set_perm,Battery Manager richiede l'accessu "Access à l'impostazione Bluetooth" in modu chì pò esse verificatu se Bluetooth hè attivatu o disattivatu. È per attivà o disattivà Bluetooth.
+ble_title,Bluetooth
+needz_del,Battery Manager richiede l'accessu "Request deletion of packages" per inizià una disinstallazione di una app. L'app serà disinstallata solu s'ellu permette esplicitamente.
+deletion_pkg,Richiede l'eliminazione di i pacchetti
+need_adnd,Battery Manager richiede l'accessu "Ùn disturbà" per attivà o disattivà u modalità Ùn disturbà.
+adnd,Accessu Ùn disturbe micca
+need_wlan_acc,Battery Manager richiede l'accessu à "Get WLAN Connections" in modu chì Battery Manager pò verificà se a WLAN hè attivata o disattivata. È per attivà o disattivà a WLAN.
+wln_conn,Ottene cunnessione WLAN
+shop_bill_exp,Quandu compra in Google Play In App Billing, Google ci dà u vostru paese di residenza è qualchì volta u statu, a cità è u codice postale, ma mai l'indirizzu sanu. Avemu aduprà sta infurmazione per rispettà e regule fiscali è contabili.
+pri_date,Da u 21/02/2021
+how_to_stop,Pudete piantà l'intera cullizzioni di informazioni da l'applicazione solu disinstalendu l'applicazione. Pudete aduprà i prucessi standard di disinstallazione dispunibili cum'è parte di u vostru dispositivu mobile o attraversu u mercatu o a rete per l'applicazioni mobili.
+opt_out,Chì sò i mo diritti di opt-out?
+ur_permission,u vostru permessu
+accept_privacy,Utilizendu l'applicazione, accunsentite à u nostru trattamentu di e vostre dati cum'è stabilitu in questa pulitica di privacy è cum'è mudificatu da noi.

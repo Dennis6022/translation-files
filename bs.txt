@@ -1,0 +1,347 @@
+title,Battery Manager Lite je drugačiji
+extend_life,Najbolji način da produžite vijek trajanja baterije i očuvate zdravlje zasnovan je na iskustvu i naučnim istraživanjima.
+measured,Na transparentan način prikazujemo vam samo stvarno izmjerene podatke i način na koji se oni izračunavaju.
+healthy,Održavajte svoju bateriju zdravom
+double_battery,Udvostručite životni vijek baterije tako što ćete bateriju ne napuniti do kraja. Naučnici su to dokazali u svojim istraživanjima.
+charge_limit,Koristeći naše obavještenje o ograničenju napunjenosti, obavijest će biti poslana kada baterija dostigne korisnički definirani prag.
+smart,Svakim danom postaje sve pametnije
+analyze,Što duže koristite Battery Manager Lite, to ćemo bolje analizirati performanse vaše baterije.
+update_every_time,Mjerenje preostalog vijeka trajanja baterije se ažurira svaki put kada koristite ili punite svoj uređaj.
+runtime,Otkrijte stvarno vrijeme rada vaše baterije
+discharge_cycle,Svaki put kada vaš telefon prođe kroz ciklus pražnjenja, može se izmjeriti tačna procjena njegovog vremena rada.
+accurate_life,Koristite Battery Manager Lite za precizno mjerenje trajanja baterije.
+no_exit,Ne izlazite iz Battery Manager Lite!
+bg_require,Battery Manager Lite zahtijeva pozadinsku uslugu za prikupljanje statistike baterije i mjerenje vremena punjenja i pražnjenja baterije. Vaš uređaj vjerovatno zaustavlja uslugu ili ne dozvoljava njeno pokretanje kada je aplikacija zatvorena. Da biste to izbjegli, imamo dobro rješenje za vas. Samo kliknite na link.
+man,Manual
+cali,Kalibracija
+polarity,U ovom koraku, aplikacija detektuje polaritet punjenja i projektovani kapacitet vaše baterije.
+disch,Pražnjenje
+ch_pol,Polaritet punjenja
+power_meter,Mjerač snage
+unit_mesure,Jedinica mjerenja
+capacity,Kapacitet baterije
+wrong,Nije tačno?
+calib,Kalibriraj
+ye,Da
+no,br
+neg,Negativno
+pos,Pozitivno
+lunch,Pokrenite aplikaciju
+manufac,Kapacitet prema proizvođaču
+design_des,Dizajnirani kapacitet je stvarni kapacitet baterije, mjeren u mAh. Kako ne postoji službeni način da se odredi kapacitet, vraćena vrijednost može biti pogrešna.
+correct_it,Ako prikazani kapacitet nije tačan, ispravite ga.
+cancel,Otkaži
+ok,U redu
+runtime,Battery Runtime
+wait,čekanje
+per_hr,Potrošnja baterije po satu
+life_for,Trajanje baterije za
+battery_cond,Stanje baterije
+bat_info,Informacije o bateriji
+bat_cap,Kapacitet baterije
+bat_volt,Napon baterije
+bat_cur,Struja baterije
+unit_mes,Jedinica mjerenja
+done,Gotovo
+c_bat_temp,Trenutna temperatura baterije
+min_bat_tem,Minimalna temperatura baterije
+mx_bat_tem,Maksimalna temperatura baterije
+avg_bat_tem,Prosječna temperatura baterije
+dig_last,Zadnja dijagnoza prije
+rem_time,Preostalo vrijeme
+volt,voltaža
+curr,Current
+status,Status
+run_time,Vrijeme rada
+currently,Trenutno
+avg,Prosjek
+minmal,Minimalno
+maximal,Maksimum
+tool,Alati
+rem_apps,Deinstalirajte aplikacije koje više ne koristite kako biste spriječili nepotrebno pokretanje aplikacija i pražnjenje baterije
+uninst_apps,Deinstalirajte aplikacije
+stat,Počni
+act_eng_save,Aktivirajte način rada za uštedu energije da smanjite potrošnju baterije
+pow_save,Način uštede energije
+tempe,Temperatura
+heal,Zdravlje
+tips,Održavajte svoju bateriju u dobrom stanju uz savjete i trikove.
+recomm,Preporuke
+prem,Premium
+more_func,Više funkcija za vas. Uzmite premium, uzmite više.
+more,Više
+ur_cond_bat,Stanje baterije je
+ur_bat_life,Trajanje baterije je
+ur_bat_temp,Temperatura vaše baterije je
+wow,Odlično
+normal,Normalno
+poor,Loše
+days,Dani
+mins,Minute
+hrs,Sati
+chging,Punjenje
+ful,Pun
+dis_chrg,Pražnjenje
+unkn,Nepoznato
+too_lit,Premalo podataka o bateriji
+car_any,Izvedite svejedno
+endz_,Kraj
+dig_any,Kako bi dobili bolje dijagnostičke rezultate, aplikacija treba analizirati vašu bateriju u pozadini. Počnite sa dijagnozom nakon 24 sata
+end_dig,Kraj dijagnoze
+quit_dig,Zaista prekinite dijagnozu
+batty_temp,Temperatura baterije
+akku_manager,Akku Manager
+u_agree,Sa "START" pristajete na propise o zaštiti podataka
+elemn_opti,Elementi se mogu optimizirati
+looks_good,Sve izgleda dobro
+optimize_,Optimizirajte
+toolz_,Alati
+akku_check,Akku Check
+ctrl_load,Kontrolisano punjenje
+mng_apps,Upravljajte aplikacijama
+infosm,Informacije
+tenzion,tenzija
+electy,struja
+lvl,Nivo
+akku_man_premium,Akku Manager Premium
+premimum_highlight,Koristite Battery Manager potpuno bez reklamiranja i imate pristup opsežnom prilagođavanju korisničkog interfejsa.
+design,Dizajn
+subjs,subjekti
+genrally,Generalno
+temp_unit,Jedinica za temperaturu
+oth_apps,Druge aplikacije
+dat_protect,Zaštita podataka
+thx_akku,Hvala vam što ste podržali Akku Manager pri kupovini premium verzije.
+user_got_pre,Sada imate pristup opsežnom prilagođavanju korisničkog interfejsa i korišćenju bez reklamiranja.
+exp_more,Možete očekivati ​​više funkcija u budućim ažuriranjima
+ap_optimiz,Optimizacija aplikacija
+sys_bat_usage,Potrošnja baterije sistema
+bat_usage_det,Detalji upotrebe baterije
+end_optiz,Kraj optimizacije
+abort,Prekini
+break_up,raskid
+scn,za skeniranje
+scn_bgh,Osvetljenost ekrana
+dact_wlan,Deaktivirajte WLAN
+dact_save_batt,Deaktivirajte radi uštede baterije
+dact,Deaktiviraj
+dact_ble,Deaktivirajte bluetooth
+red_brigh,Smanjite svjetlinu
+bright_txt,Smanjite svjetlinu ekrana da biste uštedjeli bateriju
+to_reduce,Za smanjenje
+dact_gps,Deaktivirajte GPS
+appz_optimz,Optimizirane aplikacije
+start_bat_check_det,Započnite detaljnu provjeru baterije kako biste uvijek bili sigurni
+act_eng_save,Aktivirajte način uštede energije da smanjite potrošnju baterije
+remove_useless,Deinstalirajte aplikacije koje se više ne koriste
+premium,Premium
+clear_mem,Očistite memoriju
+clear_mem_des,Tako da vaš pametni telefon radi brzo i glatko.
+clenaup,Čišćenje
+rat,rejting
+rat_free,Ocijenite Battery Manager besplatno
+sendz,Pošalji
+elmn_found,Pronađeni elementi
+drumz,Bubnjevi
+status,Status
+end_akk_check,Završite provjeru baterije
+bat_detlz,Detalji o bateriji
+temp_checked,Temperatura se provjerava
+cond_checked,Provjerava se stanje baterije
+checkz_start,Provjera baterije počinje
+plug_in,Uključeno
+techz,Tehnologija
+coldz,Hladno
+until,Do
+well,Pa
+ovr_heat,Pregrijavanje
+ovr_load,Preopterećenje
+renam,preimenovana
+not_def,nije definisano
+chrgz,Napunite
+full,Pun
+unloadz,Istovar
+not_charge_unkn,nije naplaćeno ili nepoznato
+usb,USB
+charger,punjač
+wless,bežični
+not_at_al,ništa
+uninstall,Deinstalirati
+update,Ažurirati
+setting,Postavke
+app,aplikacije
+not_found,Aplikacija nije pronađena
+search,Pretraži aplikacije
+version_code,Kod verzije
+api_level,API nivo
+app_version,Verzija aplikacije
+authorization,autorizacija
+open,otvoriti
+play_store,Play Store
+control,kontrolu
+systemstandart,Systemstandard
+white,Bijelo
+dark,Dark
+ocean,Ocean
+black,Crno
+dark_blue,Tamno plava
+excellent,Odlično
+bad,Loše
+battery_bad,Baterija je malo oštećena
+very_bad,Veoma loše
+battery_damaged,Baterija je oštećena
+custom_mode,Custom Mode
+brightness,Osvetljenost
+automatic_brightness,Automatska svjetlina
+normal,Normalno
+sound_modus,Modus zvuka
+tone_work,Svi tonovi rade
+mute,Mute
+call_note_mute,Pozivi i obavještenja su isključeni
+not_bother,Ne trudi se
+tones_vibration_mute,Isključite tonove i vibracije, osim tonova alarma
+sound,Zvuci
+music,muzika
+notification,Obavijest
+alarm,Alarm
+ultra_saving,Način ultra uštede energije
+edit,Za uređivanje
+disable_ultra_saving,Onemogućite Ultra Energy Saving Mode
+min_remaining,preostalo min
+hours,sati
+activted_ultra_saving,Aktiviran je način ultra uštede energije
+charged_in,naplaćeno
+min,min
+limit_power,Ograničite potrošnju energije
+reduce_screen,Smanjite svjetlinu ekrana
+restrict_bg_act_explain,Ograničite pozadinske aktivnosti
+volatge_check,Napon je provjeren
+software_optimized,Softver je optimizovan
+connect_charger,Priključite punjač
+charger_removed,Punjač se može ukloniti
+power_consump_title,Potrošnja energije
+srcn_bg_title,Osvetljenost ekrana
+bg_al_activities,Pozadinske aktivnosti
+sftware,Softver
+get_primium,Ako kupite premium verziju, dobit ćete sve trenutne funkcije kao i sve nove funkcije u budućnosti.
+cuztomize_face,Prilagođavanje korisničkog interfejsa
+comp_scheme,Sastavite svoju šemu boja za Battery Manager iz raznih tema.
+bat_check_detail,Detaljna provjera baterije
+check_cond_test,Koristite Battery Manager da provjerite stanje vaše baterije kako biste uvijek bili na sigurnoj strani.
+no_ads_yo,Bez reklamiranja
+use_explain_noads,Koristite Battery Manager bez ikakvog reklamiranja
+act_energy_save,Aktivirajte mod ultra uštede energije da produžite vijek trajanja baterije u hitnim slučajevima.
+buy_title,Kupite Premium
+loc_title,Lokacija
+cap_title,kapacitet
+cap_remain,Preostali kapacitet
+sleepy,Spavaj
+sek,Sekunde
+sing_min,Minuta
+miniotes,Minute
+finish,Završeno
+mobi_data,mobilni podaci
+plz_rate,Ocijenite Battery Manager u Play prodavnici
+ur_data_cus,Možemo li nastaviti koristiti vaše podatke za prilagođavanje reklama za vas?
+in_slep_mode,U stanju mirovanja
+in_use,U upotrebi
+with_curr_pow,Sa trenutnom potrošnjom energije
+rem_bat_life,Preostalo trajanje baterije
+qck_acc,Brzi pristup
+notif_txt,notifikacija
+notif_at,Obavijesti na
+chg_curr,Struja punjenja
+charge_perm,Performanse punjenja
+maxi_charge_per,Maksimalne performanse punjenja
+enb_notif,Omogući obavještenje
+perm_send_notif,Battery Manager zahtijeva dozvolu za slanje obavještenja, mora se aktivirati u postavkama uređaja.
+to_set,Do postavki
+title_autost,Aktivirajte Autostart
+auto_explain,Battery Manager zahtijeva dozvolu da ostane aktiviran u pozadini kako bi mogao ispitati status baterije i poslati obavještenje.
+sync_auto,Sinhroniziraj automatski
+dis_auto_sync,Onemogućavanje automatske sinhronizacije značajno smanjuje wakelocks. Međutim, neke funkcije kao što je primanje e-pošte bit će izgubljene.
+chg_lim,Charge Limit
+avoid_ful_explain,Ako bateriju napunite do maksimuma ili je ispraznite dok se ne isključi, stanje i vijek trajanja baterije će se smanjiti. U nastavku možete postaviti minimalni i maksimalni status punjenja ili pražnjenja baterije i bit ćete obaviješteni svaki put kada se dostigne granična vrijednost. Izbjegnite jedno potpuno punjenje i pražnjenje baterije i produžite vijek trajanja baterije.
+rec_notif,Niste primili obavještenje?
+title_allow_bg_act,Dozvolite pozadinsku aktivnost
+allow_bg_act,Da biste mogli da koristite Battery Manager bez ograničenja, a da ga operativni sistem nenamjerno ne zatvori, možda ćete morati isključiti posebne funkcije za upravljanje baterijom i korištenje baterije u postavkama. Zato što se različiti proizvođači razlikuju u označavanju ovih opcija u zavisnosti od operativnog sistema koji se koristi. U području informacija o aplikaciji, u odjeljku Spavanje ili baterija, odaberite Bez ograničenja ili Dozvoli pozadinsku aktivnost.
+dev_usage,Upotreba uređaja
+dep_sleep,Duboko spavanje je stanje u kojem vaš uređaj troši najmanju količinu baterije. Trajanje dubokog sna pozitivno utiče na uštedu energije. Duboki san može biti prekinut pozadinskim zadacima, što uzrokuje brže pražnjenje baterije. U tom slučaju ponovo pokrenite uređaj.
+title_bat_temp,Temperatura baterije
+bat_tempp,Temperatura baterije je jedan od najvažnijih faktora. Ako se baterija drži gelom na visokim temperaturama, to utiče i na vijek trajanja i na performanse baterije. Ako temperatura poraste, unutrašnja struktura baterije može se oštetiti.
+rdc_brightness,Smanjite svjetlinu ekrana
+display_explain,Ekran je jedna od komponenti koja troši većinu energije. Smanjenje maksimalne svjetline pomaže u smanjenju ukupne potrošnje i postizanju primjetne uštede. Prije smanjivanja svjetline, deaktivirajte automatsku svjetlinu kako se svjetlina ne bi nepotrebno mijenjala.
+tst_charge,Test punjač
+best_way_test,Najbolji način za testiranje punjača i kabla je provjera brzine punjenja s isključenim ekranom. Brzina punjenja kada je ekran uključen nije dobar standard jer vaš telefon troši energiju, što uzrokuje fluktuacije. Uključite punjač, ​​isključite ekran na nekoliko minuta, a zatim provjerite maksimalnu struju punjenja.
+wait_title,Čekam
+rfsh_rate,Brzina osvježavanja
+low_sizty,Smanjenje brzine osvježavanja na 60 Hz produžava vijek trajanja baterije.
+drk_mode,Dark Mode
+acti_dark_mode,Aktivirajte tamni način rada, u mračnom načinu trošite manje energije
+actz,Aktiviraj
+poz,Snaga
+minz,Minimum
+avgo,Prosjek
+mixi1,Maksimum
+msg_dis,Poruka nestaje nakon 24 sata ako ima dovoljno podataka da se dijagram prikaže u cijelosti.
+no_enough,Nema dovoljno podataka za prikaz
+log_graph,Za nekoliko sati ovdje ćete vidjeti grafikon koji će vam omogućiti da provjerite temperaturu baterije, napon, amperažu i nivo u protekla 24 sata.
+week,sedmica
+buy_it,Kupi
+one_pur,Jednokratna naknada od
+refun_pur,kupovina se može vratiti u roku od 2 sata.
+each_month,Pretplata se automatski obnavlja svakog mjeseca i nastavlja da košta mjesečno. Pretplata se može otkazati u bilo kojem trenutku.
+mng_subs,upravljati pretplatom
+subsci,pretplatite se
+will_cost_week,Pretplata se automatski obnavlja svake sedmice i nastavlja koštati sedmično. Pretplata se može otkazati u bilo kojem trenutku.
+lfllong,doživotno
+mthly,mjesečno
+wkly,Nedeljno
+hoto,Hot
+prm_ben_title,Premium pogodnosti
+sync_title,Sinhronizuj
+dis_sync_inc,Onemogućavanje sinhronizacije produžit će vijek trajanja baterije jer neće sinhronizirati usluge u pozadini
+time_out,Vrijeme je isteklo
+dec_extend,Smanjenje vremena prije nego što se zaslon isključi produžava vijek trajanja baterije
+u_end_opti,Jeste li sigurni da želite završiti proces optimizacije?
+no_why_perm,Bez dozvole
+bright_exp,Battery Manager zahtijeva dozvolu za promjenu postavki sistema da smanji svjetlinu ekrana ili isključi Bluetooth.
+tg_title,Pridružite se Telegram kanalu!
+tg_text,Budite u toku s ažuriranjima aplikacija, nabavite rane verzije i pomozite u testiranju novih funkcija. Predložite svoje ideje, postavljajte pitanja i brže dobijajte odgovore
+join_tg,pridruži se
+curr_consumption,trenutna potrošnja
+scrn_onn,ekran uključen
+srcn_off,ekran isključen
+mob_charg,Punjenje
+discha,Pražnjenje
+activea,Aktivan
+slpmode,Sleep mode
+chagingspeed,Trenutna brzina punjenja
+dta_proxt,Zaštita podataka
+governs,Ova politika privatnosti reguliše vašu upotrebu softverske aplikacije Battery Manager za mobilne uređaje koju je kreirao Baxolino.
+info_u_provide,Informacije koje daje korisnik
+no_pass_per,Lične podatke ne prosljeđujemo trećim licima. Kada nam pošaljete e-poštu, imamo vašu adresu e-pošte, ali je koristimo samo da vam pomognemo s našim aplikacijama.
+info_auto_coll,Podaci se prikupljaju automatski
+exp_admob_use,Koristimo Google Admob za posluživanje oglasa. Korištenje ovih usluga podliježe odredbama o zaštiti podataka Google-a na https://www.google.com/policies/privacy/.
+we_real_time,Da li Battery Manager prikuplja tačne informacije o lokaciji u stvarnom vremenu s uređaja?
+exp_loc_perm_man,Battery Manger samo provjerava je li lokacija aktivirana ili deaktivirana, ali ne prikuplja nikakve precizne informacije o lokaciji vašeg mobilnog uređaja. Takve funkcije zasnovane na lokaciji postavljene su prema zadanim postavkama. Ove funkcije možete deaktivirati ili ponovo aktivirati u postavkama vašeg uređaja. Prije ili nakon instaliranja aplikacija, bit ćete upitani - ovisno o uređaju - želite li deaktivirati ili aktivirati ove funkcije. Podatke o vašoj lokaciji možemo prikupljati samo ako aktivirate takve usluge lokacije.
+chng,Promjene
+pri_update_exp,Ova politika privatnosti se može ažurirati s vremena na vrijeme iz bilo kojeg razloga. Obavijestit ćemo vas o promjenama naše politike privatnosti tako što ćemo objaviti novu politiku privatnosti na ovoj web adresi i obavijestiti vas putem poruke u aplikaciji. Preporučuje se da redovno konsultujete ovu Politiku privatnosti za promene, jer se nastavak korišćenja smatra odobravanjem svih promena. Možete pregledati historiju ove politike na ovoj web stranici.
+contct,Kontakt
+any_que,Ako imate pitanja o zaštiti podataka tokom korištenja aplikacije ili imate pitanja o našim praksama, pošaljite e-mail na baxolino.de@gmail.com
+mem_opti,Battery Manageru je potreban pristup "memoriji" kako bi se aplikacije mogle skenirati i optimizirati. Ove funkcije možete deaktivirati ili aktivirati u postavkama vašeg uređaja. Prije ili nakon instaliranja aplikacije, bit ćete upitani - ovisno o uređaju - želite li deaktivirati ili aktivirati ove funkcije.
+storg,Skladištenje
+ble_set_acc,blue_set_perm, Battery Manager zahtijeva pristup "Bluetooth pristup postavljanju" kako bi se moglo provjeriti da li je Bluetooth aktiviran ili deaktiviran. I da aktivirate ili deaktivirate Bluetooth.
+ble_title,bluetooth
+needz_del,Battery Manager zahtijeva pristup "Zahtjev za brisanje paketa" za početak deinstalacije aplikacije. Aplikacija će biti deinstalirana samo ako to izričito dopustite.
+deletion_pkg,Zahtjev za brisanje paketa
+need_adnd,Battery Manager zahtijeva pristup "Ne uznemiravaj" da omogući ili onemogući način rada Ne ometaj.
+adnd,Pristup Ne uznemiravaj
+need_wlan_acc,Battery Manager zahtijeva pristup "Get WLAN Connections" tako da Battery Manager može provjeriti da li je WLAN aktiviran ili deaktiviran. I da aktivirate ili deaktivirate WLAN.
+wln_conn,Nabavite WLAN veze
+shop_bill_exp,Kada kupujete putem Google Play In App Billing, Google nam daje vašu državu prebivališta i ponekad državu, grad i poštanski broj, ali nikada punu adresu. Ove informacije koristimo za usklađivanje s poreznim i računovodstvenim propisima.
+pri_date,Od 21.02.2021
+how_to_stop,Možete zaustaviti cjelokupno prikupljanje informacija od strane aplikacije jednostavnim deinstaliranjem aplikacije. Možete koristiti standardne procese deinstaliranja koji su dostupni kao dio vašeg mobilnog uređaja ili putem tržišta ili mreže za mobilne aplikacije.
+opt_out,Koja su moja prava isključivanja?
+ur_permission,tvoja dozvola
+accept_privacy,Korištenjem aplikacije pristajete na našu obradu vaših podataka kako je navedeno u ovoj politici privatnosti i kako smo mi izmijenili.

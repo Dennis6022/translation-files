@@ -1,0 +1,347 @@
+title,Battery Manager Lite er öðruvísi
+extend_life,Besta leiðin til að lengja endingu rafhlöðunnar og halda þér heilbrigðum er byggð á reynslu og vísindarannsóknum.
+measured,Á gagnsæjan hátt sýnum við þér aðeins raunveruleg mæld gögn og hvernig þau eru reiknuð út.
+healthy,Haltu rafhlöðunni heilbrigðri
+double_battery,Tvöfaldaðu endingu rafhlöðunnar með því að hlaða rafhlöðuna ekki að fullu. Vísindamenn hafa sannað þetta í rannsóknum sínum.
+charge_limit,Með því að nota tilkynningu um hleðslutakmarkanir okkar verður tilkynning send þegar rafhlaðan nær notendaskilgreindum þröskuldi.
+smart,Það verður snjallara með hverjum deginum
+analyze,Því lengur sem þú notar Battery Manager Lite, því betri munum við verða við að greina afköst rafhlöðunnar.
+update_every_time,Mæling rafhlöðunnar sem eftir er er uppfærð í hvert skipti sem þú notar eða hleður tækið.
+runtime,Uppgötvaðu raunverulegan keyrslutíma rafhlöðunnar þinnar
+discharge_cycle,Í hvert sinn sem síminn þinn fer í gegnum afhleðslulotu er hægt að mæla nákvæmt mat á keyrslutíma hans.
+accurate_life,Notaðu Battery Manager Lite til að mæla nákvæma endingu rafhlöðunnar.
+no_exit,Ekki hætta í Battery Manager Lite!
+bg_require,Battery Manager Lite krefst bakgrunnsþjónustu til að safna rafhlöðutölfræði og mæla hleðslu og afhleðslutíma rafhlöðunnar. Tækið þitt er líklega að stöðva þjónustuna eða leyfa henni ekki að keyra þegar appinu er lokað. Til að forðast þetta höfum við góða lausn fyrir þig. Smelltu bara á hlekkinn.
+man,Handbók
+cali,Kvörðun
+polarity,Í þessu skrefi greinir appið hleðslupólun og hönnunargetu rafhlöðunnar.
+disch,Útskrift
+ch_pol,Hleðslupólun
+power_meter,Aflmælir
+unit_mesure,Mælieining
+capacity,Rafhlöðugeta
+wrong,Ekki rétt?
+calib,Kvarða
+ye,Já
+no,Nei
+neg,Neikvætt
+pos,Jákvæð
+lunch,Ræstu app
+manufac,Stærð samkvæmt framleiðanda
+design_des,Hönnunargetan er raunveruleg rafhlaða getu, mæld í mAh. Þar sem engin opinber leið er til til að ákvarða afkastagetu getur gildið sem skilað er verið rangt.
+correct_it,Ef sýnd afkastageta er ekki rétt, vinsamlegast leiðréttu það.
+cancel,Hætta við
+ok,allt í lagi
+runtime,Rafhlaða Runtime
+wait,bíður
+per_hr,Rafhlöðunotkun á klukkustund
+life_for,Rafhlöðuending fyrir
+battery_cond,Rafhlaða ástand
+bat_info,Upplýsingar um rafhlöðu
+bat_cap,Rafhlaða getu
+bat_volt,Rafhlaða spenna
+bat_cur,Rafhlaða straumur
+unit_mes,Mælieining
+done,Búið
+c_bat_temp,Núverandi hitastig rafhlöðunnar
+min_bat_tem,Lágmarkshiti rafhlöðunnar
+mx_bat_tem,Hámarkshiti rafhlöðunnar
+avg_bat_tem,Meðalhitastig rafhlöðunnar
+dig_last,Síðasta greining á undan
+rem_time,Tími eftir
+volt,Spenna
+curr,Núverandi
+status,Staða
+run_time,Sýningartími
+currently,Eins og er
+avg,Meðaltal
+minmal,Lágmarks
+maximal,Hámark
+tool,Verkfæri
+rem_apps,Fjarlægðu forrit sem þú notar ekki lengur til að koma í veg fyrir að forrit keyri að óþörfu og tæmi rafhlöðuna
+uninst_apps,Fjarlægðu forrit
+stat,Byrjaðu
+act_eng_save,Virkjaðu orkusparnaðarstillinguna til að draga úr rafhlöðunotkun
+pow_save,Orkusparnaðarstilling
+tempe,Hitastig
+heal,Heilsa
+tips,Haltu rafhlöðunni þinni í góðu ástandi með ráðum og brellum.
+recomm,Tilmæli
+prem,Premium
+more_func,Fleiri aðgerðir fyrir þig. Fáðu úrval, fáðu meira.
+more,Meira
+ur_cond_bat,Ástand rafhlöðunnar er
+ur_bat_life,Ending rafhlöðunnar er
+ur_bat_temp,Hitastig rafhlöðunnar er
+wow,Æðislegt
+normal,Eðlilegt
+poor,Illa
+days,Dagar
+mins,Fundargerðir
+hrs,Klukkutímar
+chging,Hleðsla
+ful,Fullt
+dis_chrg,Losun
+unkn,Óþekktur
+too_lit,Of lítil rafhlöðugögn
+car_any,Framkvæma samt
+endz_,Enda
+dig_any,Til að fá betri greiningarniðurstöður þarf appið að greina rafhlöðuna þína í bakgrunni. Vinsamlegast hafið greininguna eftir 24 klst
+end_dig,Ljúktu greiningu
+quit_dig,Hættu virkilega við greiningu
+batty_temp,Hitastig rafhlöðunnar
+akku_manager,Akku framkvæmdastjóri
+u_agree,Með „START“ samþykkir þú gagnaverndarreglur
+elemn_opti,Hægt er að fínstilla þætti
+looks_good,Allt lítur vel út
+optimize_,Hagræða
+toolz_,Verkfæri
+akku_check,Akku Check
+ctrl_load,Stýrð hleðsla
+mng_apps,Stjórna forritum
+infosm,Upplýsingar
+tenzion,spennu
+electy,rafmagn
+lvl,Stig
+akku_man_premium,Akku Manager Premium
+premimum_highlight,Notaðu Battery Manager algjörlega án auglýsinga og þú hefur aðgang að víðtækri sérsniði notendaviðmótsins.
+design,Hönnun
+subjs,viðfangsefni
+genrally,Almennt
+temp_unit,Hitastigseining
+oth_apps,Önnur forrit
+dat_protect,Persónuvernd
+thx_akku,Þakka þér fyrir að styðja Akku Manager við kaup á úrvalsútgáfunni.
+user_got_pre,Þú hefur nú aðgang að víðtækri aðlögun á notendaviðmóti og notkun án auglýsinga.
+exp_more,Þú getur búist við fleiri eiginleikum í framtíðaruppfærslum
+ap_optimiz,Hagræðing forrita
+sys_bat_usage,Rafhlöðunotkun kerfisins
+bat_usage_det,Upplýsingar um rafhlöðunotkun
+end_optiz,Ljúktu hagræðingu
+abort,Hætta
+break_up,brjóta upp
+scn,að skanna
+scn_bgh,Skjár birta
+dact_wlan,Slökktu á þráðlausu staðarneti
+dact_save_batt,Slökktu á því til að spara rafhlöðuna
+dact,Afvirkja
+dact_ble,Slökktu á Bluetooth
+red_brigh,Draga úr birtustigi
+bright_txt,Dragðu úr birtustigi skjásins til að spara rafhlöðu
+to_reduce,Að minnka
+dact_gps,Slökktu á GPS
+appz_optimz,Forrit fínstillt
+start_bat_check_det,Byrjaðu ítarlega rafhlöðuskoðun til að vera alltaf á öruggu hliðinni
+act_eng_save,Virkjaðu orkusparnaðarstillingu til að draga úr rafhlöðunotkun
+remove_useless,Fjarlægðu forrit sem eru ekki lengur notuð
+premium,Premium
+clear_mem,Hreinsaðu upp minni
+clear_mem_des,Svo að snjallsíminn þinn gangi hratt og vel.
+clenaup,Hreinsun
+rat,einkunn
+rat_free,Gefðu rafhlöðustjóra einkunn ókeypis
+sendz,Senda
+elmn_found,Frumefni fundust
+drumz,Trommur
+status,Staða
+end_akk_check,Ljúktu rafhlöðuathugun
+bat_detlz,Upplýsingar um rafhlöðu
+temp_checked,Hitastig er athugað
+cond_checked,Ástand rafhlöðunnar er athugað
+checkz_start,Rafhlöðuathugun hefst
+plug_in,Tengdur
+techz,Tækni
+coldz,Kalt
+until,Þangað til
+well,Jæja
+ovr_heat,Ofhitnun
+ovr_load,Ofhleðsla
+renam,endurnefnt
+not_def,ekki skilgreint
+chrgz,Hleðsla
+full,Fullt
+unloadz,Losun
+not_charge_unkn,ekki gjaldfært eða óþekkt
+usb,USB
+charger,hleðslutæki
+wless,þráðlaust
+not_at_al,ekki neitt
+uninstall,Fjarlægðu
+update,Að uppfæra
+setting,Stillingar
+app,Forrit
+not_found,Forrit fannst ekki
+search,Leitaðu að forritum
+version_code,Útgáfukóði
+api_level,API stig
+app_version,App útgáfa
+authorization,heimild
+open,að opna
+play_store,Play Store
+control,stjórna
+systemstandart,Kerfisstaðall
+white,Hvítur
+dark,Myrkur
+ocean,Haf
+black,Svartur
+dark_blue,Dökkblátt
+excellent,Æðislegt
+bad,Slæmt
+battery_bad,Rafhlaða er lítillega skemmd
+very_bad,Mjög slæmt
+battery_damaged,Rafhlaðan er skemmd
+custom_mode,Sérsniðin stilling
+brightness,Birtustig
+automatic_brightness,Sjálfvirk birta
+normal,Eðlilegt
+sound_modus,Hljóðstilling
+tone_work,Allir tónar virka
+mute,Þagga
+call_note_mute,Símtöl og tilkynningar eru þaggaðar
+not_bother,Nenni ekki
+tones_vibration_mute,Slökktu á tónum og titringi, nema fyrir vekjaratóna
+sound,Hljómar
+music,tónlist
+notification,Tilkynning
+alarm,Viðvörun
+ultra_saving,Ofur orkusparnaðarstilling
+edit,Til að breyta
+disable_ultra_saving,Slökktu á Ultra Energy Saving Mode
+min_remaining,mín eftir
+hours,klukkustundir
+activted_ultra_saving,Ofurorkusparnaðarstilling er virkjuð
+charged_in,hlaðið inn
+min,mín
+limit_power,Takmarkaðu orkunotkun
+reduce_screen,Minnka birtustig skjásins
+restrict_bg_act_explain,Takmarka bakgrunnsstarfsemi
+volatge_check,Spenna er skoðuð
+software_optimized,Hugbúnaður er fínstilltur
+connect_charger,Tengdu hleðslutækið
+charger_removed,Hægt er að fjarlægja hleðslutæki
+power_consump_title,Orkunotkun
+srcn_bg_title,Skjár birta
+bg_al_activities,Bakgrunnsstarfsemi
+sftware,Hugbúnaður
+get_primium,Ef þú kaupir úrvalsútgáfuna færðu allar núverandi aðgerðir sem og allar nýjar aðgerðir í framtíðinni.
+cuztomize_face,Sérsnið á notendaviðmóti
+comp_scheme,Búðu til litasamsetningu Battery Manager úr ýmsum þemum.
+bat_check_detail,Nákvæm rafhlöðuskoðun
+check_cond_test,Notaðu rafhlöðustjórnunina til að athuga ástand rafhlöðunnar til að vera alltaf á öruggu hliðinni.
+no_ads_yo,Engar auglýsingar
+use_explain_noads,Notaðu Battery Manager án auglýsinga
+act_energy_save,Virkjaðu ofurorkusparnaðarhaminn til að auka endingu rafhlöðunnar í neyðartilvikum.
+buy_title,Kaupa Premium
+loc_title,Staðsetning
+cap_title,getu
+cap_remain,Eftirstöðvar afkastagetu
+sleepy,Sofðu
+sek,Sekúndur
+sing_min,Mínúta
+miniotes,Fundargerðir
+finish,Lokið
+mobi_data,farsímagögn
+plz_rate,Vinsamlegast gefðu rafhlöðustjóra einkunn í Play Store
+ur_data_cus,Getum við haldið áfram að nota gögnin þín til að sérsníða auglýsingar fyrir þig?
+in_slep_mode,Í svefnstillingu
+in_use,Í notkun
+with_curr_pow,Með núverandi orkunotkun
+rem_bat_life,Ending rafhlöðunnar sem eftir er
+qck_acc,Fljótur aðgangur
+notif_txt,tilkynningu
+notif_at,Tilkynna kl
+chg_curr,Hleðslustraumur
+charge_perm,Hleðsluárangur
+maxi_charge_per,Hámarks hleðsluafköst
+enb_notif,Virkja tilkynningu
+perm_send_notif,Battery Manager krefst leyfis til að senda tilkynningu, það verður að vera virkjað í stillingum tækisins.
+to_set,Til stillingar
+title_autost,Virkjaðu sjálfvirka ræsingu
+auto_explain,Rafhlöðustjóri krefst leyfis til að vera virkur í bakgrunni til að spyrjast fyrir um stöðu rafhlöðunnar og senda tilkynningu.
+sync_auto,Samstilla sjálfkrafa
+dis_auto_sync,Að slökkva á sjálfvirkri samstillingu dregur verulega úr wakelocks. Hins vegar munu sumar aðgerðir eins og móttaka tölvupósts glatast.
+chg_lim,Gjaldmörk
+avoid_ful_explain,Ef þú hleður rafhlöðuna að hámarki eða tæmir hana þar til slökkt er á henni mun ástand og endingartími rafhlöðunnar skerðast. Hér á eftir geturðu stillt lágmarks- og hámarkshleðslu- eða afhleðslustöðu rafhlöðunnar og þú færð tilkynningu í hvert skipti sem viðmiðunarmörkum er náð. Forðastu að fullhlaða og tæma rafhlöðuna þína og lengja endingu rafhlöðunnar.
+rec_notif,Fékkstu ekki tilkynningu?
+title_allow_bg_act,Leyfa bakgrunnsvirkni
+allow_bg_act,Til þess að þú getir notað Battery Manager án takmarkana án þess að hann sé lokaður óviljandi af stýrikerfinu gætir þú þurft að slökkva á sérstökum aðgerðum fyrir rafhlöðustjórnun og rafhlöðunotkun í stillingunum. Vegna þess að mismunandi framleiðendur eru mismunandi hvað varðar tilnefningu þessara valkosta eftir því hvaða stýrikerfi er notað. Í App Information svæðinu, undir Sleep or Battery, veldu Engar takmarkanir eða Leyfa bakgrunnsvirkni.
+dev_usage,Notkun tækis
+dep_sleep,Djúpsvefn er ástand þar sem tækið þitt notar minnsta magn af rafhlöðu. Lengd djúpsvefns hefur jákvæð áhrif á orkusparnað. Djúpi svefninn getur verið truflaður af bakgrunnsverkefnum, sem veldur því að rafhlaðan tæmist hraðar. Í þessu tilfelli skaltu endurræsa tækið.
+title_bat_temp,Hitastig rafhlöðunnar
+bat_tempp,Hitastig rafhlöðunnar er einn mikilvægasti þátturinn. Ef rafhlaðan er geymd við háan hita hefur það bæði áhrif á endingartíma og afköst rafhlöðunnar. Ef hitastigið hækkar getur innri uppbygging rafhlöðunnar skemmst.
+rdc_brightness,Minnka birtustig skjásins
+display_explain,Skjárinn er einn af þeim íhlutum sem eyðir mestri orku. Að draga úr hámarks birtustigi hjálpar til við að draga úr heildarnotkun og ná merkjanlegum sparnaði. Áður en þú minnkar birtustigið skaltu slökkva á sjálfvirku birtustigi svo að birtustiginu sé ekki breytt að óþörfu.
+tst_charge,Prófa hleðslutæki
+best_way_test,Besta leiðin til að prófa hleðslutækið og snúruna er með því að athuga hleðsluhraðann með slökkt á skjánum. Hleðsluhraði þegar kveikt er á skjánum er ekki gott viðmið vegna þess að síminn þinn eyðir orku sem veldur sveiflum. Stingdu hleðslutækinu í samband, slökktu á skjánum í nokkrar mínútur og athugaðu síðan hámarkshleðslustrauminn.
+wait_title,Bíður
+rfsh_rate,Endurnýjunartíðni
+low_sizty,Með því að lækka hressingarhraðann í 60 Hz bætir endingartími rafhlöðunnar.
+drk_mode,Dark Mode
+acti_dark_mode,Virkjaðu Dark Mode, í Dark Mode er minni orkunotkun
+actz,Virkjaðu
+poz,Kraftur
+minz,Lágmark
+avgo,Meðaltal
+mixi1,Hámark
+msg_dis,Skilaboðin hverfa eftir 24 klukkustundir ef næg gögn eru til til að sýna skýringarmyndina í heild sinni.
+no_enough,Ekki næg gögn til að birta
+log_graph,Eftir nokkrar klukkustundir muntu sjá línurit hér sem gerir þér kleift að athuga hitastig rafhlöðunnar, spennu, straumstyrk og styrk síðastliðinn 24 klukkustundir.
+week,vika
+buy_it,Kaupa
+one_pur,Einskiptisgjald kr
+refun_pur,hægt er að endurgreiða kaupin innan 2 klukkustunda.
+each_month,Áskriftin endurnýjast sjálfkrafa í hverjum mánuði og heldur áfram að kosta á mánuði. Hægt er að segja upp áskriftinni hvenær sem er.
+mng_subs,stjórna áskrift
+subsci,gerast áskrifandi
+will_cost_week,Áskrift endurnýjast sjálfkrafa í hverri viku og heldur áfram að kosta á viku. Hægt er að segja upp áskriftinni hvenær sem er.
+lfllong,ævilangt
+mthly,mánaðarlega
+wkly,Vikulega
+hoto,Heitt
+prm_ben_title,Premium fríðindi
+sync_title,Samstilla
+dis_sync_inc,Slökkt er á samstillingu eykur endingu rafhlöðunnar með því að samstilla ekki þjónustu í bakgrunni
+time_out,Hlé
+dec_extend,Með því að stytta tímann áður en skjárinn slekkur á sér lengir endingartími rafhlöðunnar
+u_end_opti,Ertu viss um að þú viljir enda fínstillingarferlið?
+no_why_perm,Ekkert leyfi
+bright_exp,Rafhlöðustjórnun krefst Breyta kerfisstillinga leyfis til að draga úr birtustigi skjásins eða slökkva á Bluetooth.
+tg_title,Vertu með í Telegram rás!
+tg_text,Fylgstu með forritauppfærslum, fáðu fyrstu smíði og hjálpaðu til við að prófa nýja eiginleika. Komdu með hugmyndir þínar, spurðu spurninga og fáðu svör hraðar
+join_tg,taka þátt
+curr_consumption,núverandi neysla
+scrn_onn,skjár á
+srcn_off,slökkt á skjánum
+mob_charg,Hleðsla
+discha,Losun
+activea,Virkur
+slpmode,Svefnstilling
+chagingspeed,Núverandi hleðsluhraði
+dta_proxt,Persónuvernd
+governs,Þessi persónuverndarstefna stjórnar notkun þinni á Battery Manager hugbúnaðarforritinu fyrir fartæki sem Baxolino hefur búið til.
+info_u_provide,Upplýsingar sem notandinn veitir
+no_pass_per,Við miðlum ekki persónuupplýsingum til þriðja aðila. Þegar þú sendir okkur tölvupóst höfum við netfangið þitt, en við notum það aðeins til að hjálpa þér með öppin okkar.
+info_auto_coll,Upplýsingum safnað sjálfkrafa
+exp_admob_use,Við notum Google Admob til að birta auglýsingar. Notkun þessarar þjónustu er háð gagnaverndarákvæðum Google á https://www.google.com/policies/privacy/.
+we_real_time,Safnar rafhlöðustjóri nákvæmum staðsetningarupplýsingum í rauntíma úr tækinu?
+exp_loc_perm_man,Battery Manager athugar aðeins hvort staðsetningin sé virkjuð eða óvirk, en safnar engum nákvæmum upplýsingum um staðsetningu farsímans þíns. Slíkar staðsetningartengdar aðgerðir eru sjálfgefnar stilltar. Þú getur slökkt á eða endurvirkjað þessar aðgerðir í stillingum viðkomandi tækis. Fyrir eða eftir að forritin eru sett upp verður þú spurður - allt eftir tækinu - hvort þú viljir frekar slökkva á eða virkja þessar aðgerðir. Við getum aðeins safnað gögnum um staðsetningu þína ef þú virkjar slíka staðsetningarþjónustu.
+chng,Breytingar
+pri_update_exp,Þessi persónuverndarstefna gæti verið uppfærð af og til af hvaða ástæðu sem er. Við munum upplýsa þig um breytingar á persónuverndarstefnu okkar með því að birta nýju persónuverndarstefnuna á þessu veffangi og láta þig vita með skilaboðum í appinu. Mælt er með því að þú skoðir þessa persónuverndarstefnu reglulega fyrir breytingar, þar sem áframhaldandi notkun telst samþykki allra breytinga. Þú getur skoðað sögu þessarar stefnu á þessari vefsíðu.
+contct,Hafðu samband
+any_que,Ef þú hefur einhverjar spurningar um gagnavernd meðan þú notar forritið eða hefur spurningar um starfshætti okkar, vinsamlegast sendu tölvupóst á baxolino.de@gmail.com
+mem_opti,Battery Manager þarf „minni“ aðganginn svo hægt sé að skanna öpp og fínstilla. Þú getur slökkt á eða virkjað þessar aðgerðir í stillingum viðkomandi tækis. Fyrir eða eftir að appið er sett upp verður þú spurður - allt eftir tækinu - hvort þú viljir frekar slökkva á eða virkja þessar aðgerðir.
+storg,Geymsla
+ble_set_acc,blue_set_perm, Battery Manager krefst aðgangs "Bluetooth setting access" svo hægt sé að athuga hvort Bluetooth sé virkt eða óvirkt. Og til að virkja eða slökkva á Bluetooth.
+ble_title,blátönn
+needz_del,Battery Manager krefst aðgangs „Biðja um eyðingu pakka“ til að hefja fjarlægingu á appi. Forritið verður aðeins fjarlægt ef þú leyfir það sérstaklega.
+deletion_pkg,Óska eftir eyðingu pakka
+need_adnd,Rafhlöðustjórnun krefst aðgangs „Ónáðið ekki“ til að kveikja eða slökkva á „Ónáðið ekki“-stillingu.
+adnd,Aðgangur „Ónáðið ekki“
+need_wlan_acc,Battery Manager krefst aðgangs að "Fá WLAN Connections" svo að Battery Manager geti athugað hvort þráðlaust staðarnet sé virkt eða óvirkt. Og til að virkja eða slökkva á þráðlausu staðarneti.
+wln_conn,Fáðu WLAN tengingar
+shop_bill_exp,Þegar þú verslar í gegnum Google Play In App Billing gefur Google okkur búsetulandið þitt og stundum ríki, borg og póstnúmer, en aldrei fullt heimilisfang. Við notum þessar upplýsingar til að fara eftir skatta- og bókhaldsreglum.
+pri_date,Frá og með 21.02.2021
+how_to_stop,Þú getur stöðvað alla upplýsingasöfnun forritsins einfaldlega með því að fjarlægja forritið. Þú getur notað staðlaða fjarlægingarferla sem eru fáanlegir sem hluti af farsímanum þínum eða í gegnum markaðstorgið eða netið fyrir farsímaforrit.
+opt_out,Hver eru réttur minn til að afþakka?
+ur_permission,þitt leyfi
+accept_privacy,Með því að nota forritið samþykkir þú vinnslu okkar á gögnunum þínum eins og sett er fram í þessari persónuverndarstefnu og eins og okkur hefur verið breytt.

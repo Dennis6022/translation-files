@@ -1,0 +1,347 @@
+title,Battery Manager Lite txawv
+extend_life,Txoj hauv kev zoo tshaj plaws los txuas ntxiv roj teeb lub neej thiab ua kom koj noj qab haus huv yog nyob ntawm kev paub dhau los thiab kev tshawb fawb tshawb fawb.
+measured,Nyob rau hauv ib txoj kev pob tshab peb tsuas yog qhia koj qhov tseeb ntsuas cov ntaub ntawv thiab yuav ua li cas nws yog xam.
+healthy,Khaws koj lub roj teeb kom noj qab nyob zoo
+double_battery,Muab ob npaug rau koj lub roj teeb lub neej los ntawm kev tsis them koj lub roj teeb. Cov kws tshawb fawb tau ua pov thawj qhov no hauv lawv cov kev tshawb fawb.
+charge_limit,Siv peb qhov kev ceeb toom txwv tsis pub dhau, kev ceeb toom yuav raug xa thaum lub roj teeb ncav cuag tus neeg siv qhov pib.
+smart,Nws tau ntse dua txhua hnub
+analyze,Ntev npaum li koj siv Battery Manager Lite, qhov zoo dua peb yuav tau txais ntawm kev txheeb xyuas koj lub roj teeb ua haujlwm.
+update_every_time,Qhov ntsuas roj teeb lub neej ntxiv yog hloov kho txhua zaus koj siv lossis them koj lub cuab yeej.
+runtime,Tshawb nrhiav lub sijhawm ua haujlwm ntawm koj lub roj teeb
+discharge_cycle,Txhua zaus koj lub xov tooj mus dhau lub voj voog tawm, qhov ntsuas qhov tseeb ntawm nws lub sijhawm ua haujlwm tuaj yeem ntsuas tau.
+accurate_life,Siv Battery Manager Lite los ntsuas lub roj teeb kom raug.
+no_exit,Tsis txhob tawm Battery Manager Lite!
+bg_require,Battery Manager Lite yuav tsum muaj kev pabcuam keeb kwm yav dhau los txhawm rau sau cov lej ntsuas roj teeb thiab ntsuas cov roj teeb thiab lub sijhawm tso tawm. Koj lub cuab yeej yuav nres qhov kev pabcuam lossis tsis tso cai rau nws khiav thaum lub app kaw. Txhawm rau zam qhov no, peb muaj kev daws teeb meem zoo rau koj. Nyem rau ntawm qhov txuas.
+man,Phau ntawv
+cali,Calibration
+polarity,Hauv cov kauj ruam no, lub app kuaj pom qhov polarity them thiab tsim lub peev xwm ntawm koj lub roj teeb.
+disch,Tso tawm
+ch_pol,Kev them nyiaj polarity
+power_meter,Lub zog ntsuas
+unit_mesure,Chav ntsuas ntsuas
+capacity,Roj teeb muaj peev xwm
+wrong,Tsis yog lawm?
+calib,Calibrate
+ye,Yog lawm
+no,Tsis muaj
+neg,Tsis zoo
+pos,Qhov zoo
+lunch,Tua tawm App
+manufac,Muaj peev xwm raws li tus neeg tsim khoom
+design_des,Lub peev xwm tsim yog lub peev xwm ntawm lub roj teeb, ntsuas hauv mAh. Raws li tsis muaj txoj hauv kev los txiav txim siab lub peev xwm, tus nqi xa rov qab tuaj yeem ua yuam kev.
+correct_it,Yog tias lub peev xwm tso tawm tsis raug, thov kho nws.
+cancel,Tso tseg
+ok,Okay
+runtime,Lub sijhawm roj teeb
+wait,tos
+per_hr,Roj teeb noj ib teev
+life_for,Roj teeb lub neej rau
+battery_cond,Roj teeb mob
+bat_info,Cov ntaub ntawv roj teeb
+bat_cap,Roj teeb muaj peev xwm
+bat_volt,Roj teeb voltage
+bat_cur,Roj teeb tam sim no
+unit_mes,Chav ntsuas ntsuas
+done,Ua tiav
+c_bat_temp,Lub roj teeb kub tam sim no
+min_bat_tem,Tsawg kawg roj teeb kub
+mx_bat_tem,Lub roj teeb kub siab tshaj plaws
+avg_bat_tem,Nruab nrab roj teeb kub
+dig_last,Kev kuaj mob kawg ua ntej
+rem_time,Lub Sijhawm Tseem Ceeb
+volt,Qhov hluav taws xob
+curr,Tam sim no
+status,xwm txheej
+run_time,Lub sijhawm ua haujlwm
+currently,Tam sim no
+avg,Nruab nrab
+minmal,Tsawg kawg
+maximal,Qhov siab tshaj plaws
+tool,Cov cuab yeej
+rem_apps,Uninstall apps uas koj tsis siv los tiv thaiv cov apps los ntawm kev ua haujlwm tsis tsim nyog thiab tso koj lub roj teeb
+uninst_apps,Uninstall Apps
+stat,Pib
+act_eng_save,Ua kom lub zog txuag hom kom txo tau roj teeb
+pow_save,Lub zog txuag hom
+tempe,Kub
+heal,Kev noj qab haus huv
+tips,Khaws koj lub roj teeb kom zoo nrog cov lus qhia thiab kev ua kom yuam kev.
+recomm,Cov lus pom zoo
+prem,Hwm
+more_func,Ntau lub luag haujlwm rau koj. Tau txais txiaj ntsig, tau txais ntau dua.
+more,Ntau
+ur_cond_bat,Lub roj teeb mob yog
+ur_bat_life,Koj lub roj teeb lub neej yog
+ur_bat_temp,Koj lub roj teeb kub yog
+wow,Zoo heev
+normal,Ib txwm
+poor,Tsis zoo
+days,Hnub
+mins,feeb
+hrs,Teev
+chging,Kev them nyiaj
+ful,puv
+dis_chrg,Tshem tawm
+unkn,Tsis paub
+too_lit,Cov ntaub ntawv roj teeb tsawg dhau
+car_any,Ua li cas
+endz_,Xaus
+dig_any,Txhawm rau kom tau txais kev kuaj pom zoo dua, lub app yuav tsum txheeb xyuas koj lub roj teeb hauv keeb kwm yav dhau. Thov pib qhov kev kuaj mob tom qab 24 teev
+end_dig,Xaus kev kuaj mob
+quit_dig,Tiag Tiag Tiag Tiag
+batty_temp,Roj teeb kub
+akku_manager,Tus Manager
+u_agree,Nrog "START" koj pom zoo rau cov ntaub ntawv tiv thaiv cov cai
+elemn_opti,Cov ntsiab lus tuaj yeem ua kom zoo
+looks_good,Txhua yam zoo li zoo
+optimize_,Ua kom zoo
+toolz_,Cov cuab yeej
+akku_check,Akku Check
+ctrl_load,Tswj kev thauj khoom
+mng_apps,Tswj cov apps
+infosm,Cov ntaub ntawv
+tenzion,nruj
+electy,hluav taws xob
+lvl,Qib
+akku_man_premium,Akku Manager hwm
+premimum_highlight,Siv Tus Thawj Tswj roj teeb kiag li yam tsis muaj kev tshaj tawm thiab koj tuaj yeem nkag mus rau qhov kev hloov kho dav dav ntawm tus neeg siv interface.
+design,Tsim
+subjs,yam
+genrally,Feem ntau
+temp_unit,Chav ntsuas kub
+oth_apps,Lwm yam Apps
+dat_protect,Kev tiv thaiv cov ntaub ntawv
+thx_akku,Ua tsaug rau kev txhawb nqa Akku Manager nrog kev yuav khoom ntawm tus hwm version.
+user_got_pre,Tam sim no koj muaj kev nkag tau mus rau qhov dav customization ntawm tus neeg siv interface thiab kev siv yam tsis muaj kev tshaj tawm.
+exp_more,Koj tuaj yeem cia siab tias yuav muaj ntau yam ntxiv hauv kev hloov tshiab yav tom ntej
+ap_optimiz,App optimization
+sys_bat_usage,Kev siv roj teeb
+bat_usage_det,Cov ntsiab lus ntawm kev siv roj teeb
+end_optiz,Xaus optimization
+abort,rho menyuam
+break_up,tawg
+scn,mus luam theej duab
+scn_bgh,Screen brightness
+dact_wlan,Deactivate WLAN
+dact_save_batt,Deactivate kom txuag tau roj teeb
+dact,Deactivate
+dact_ble,Deactivate bluetooth
+red_brigh,Txo qhov ci
+bright_txt,Txo qhov ci ntawm cov zaub kom txuag tau roj teeb
+to_reduce,kom txo
+dact_gps,Deactivate GPS
+appz_optimz,Apps optimized
+start_bat_check_det,Pib ib daim ntawv qhia txog roj teeb kom ib txwm nyob ntawm qhov chaw nyab xeeb
+act_eng_save,Qhib lub zog txuag hom kom txo tau roj teeb siv
+remove_useless,Uninstall apps uas tsis siv lawm
+premium,Hwm
+clear_mem,Ntxuav lub cim xeeb
+clear_mem_des,Yog li ntawd koj lub smartphone ua haujlwm sai thiab du.
+clenaup,Kev huv huv
+rat,kev ntaus nqi
+rat_free,Rate Battery Manager dawb
+sendz,Xa
+elmn_found,Cov ntsiab lus pom
+drumz,Nruas
+status,xwm txheej
+end_akk_check,Xaus roj teeb xyuas
+bat_detlz,Cov ntsiab lus roj teeb
+temp_checked,Kev ntsuas kub yog kuaj
+cond_checked,Cov xwm txheej ntawm lub roj teeb raug kuaj xyuas
+checkz_start,Roj teeb kuaj pib
+plug_in,Txuas hauv
+techz,Technology
+coldz,Txias
+until,Txog thaum
+well,Zoo
+ovr_heat,Kub kub
+ovr_load,Tshaj dhau
+renam,hloov npe
+not_def,tsis tau txhais
+chrgz,Them nqi
+full,puv
+unloadz,Unloading
+not_charge_unkn,tsis them los tsis paub
+usb,USB
+charger,charger
+wless,wireless
+not_at_al,tsis muaj dab tsi hlo li
+uninstall,Uninstall
+update,Hloov tshiab
+setting,Chaw
+app,Apps
+not_found,App tsis pom
+search,Nrhiav cov apps
+version_code,Version Code
+api_level,API Qib
+app_version,App Version
+authorization,kev tso cai
+open,qhib
+play_store,Play Store
+control,tswj
+systemstandart,Txheej txheem
+white,Dawb
+dark,Tsaus
+ocean,Dej hiav txwv
+black,Dub
+dark_blue,Tsaus xiav
+excellent,Zoo heev
+bad,Phem
+battery_bad,Roj teeb puas me ntsis
+very_bad,phem heev
+battery_damaged,Lub roj teeb puas lawm
+custom_mode,Hom kev cai
+brightness,Brightness
+automatic_brightness,Tsis Siv Neeg Brightness
+normal,Ib txwm
+sound_modus,Suab Modus
+tone_work,Txhua Tones Ua Haujlwm
+mute,Ntshai
+call_note_mute,Hu thiab ceeb toom tau kaw
+not_bother,Tsis txhob thab
+tones_vibration_mute,Tua cov suab nrov thiab vibrations, tshwj tsis yog rau lub tswb nrov
+sound,Suab
+music,suab paj nruag
+notification,Kev ceeb toom
+alarm,Tswb
+ultra_saving,Ultra zog txuag hom
+edit,Kho kom raug
+disable_ultra_saving,Disable Ultra Zog Txuag hom
+min_remaining,min seem
+hours,teev
+activted_ultra_saving,Ultra zog txuag hom yog qhib
+charged_in,them rau hauv
+min,min
+limit_power,Txwv kev siv hluav taws xob
+reduce_screen,Txo qhov screen brightness
+restrict_bg_act_explain,Txwv tsis pub ua haujlwm tom qab
+volatge_check,Qhov hluav taws xob raug kuaj xyuas
+software_optimized,Software yog optimized
+connect_charger,Txuas lub charger
+charger_removed,Charger tuaj yeem raug tshem tawm
+power_consump_title,Kev siv fais fab
+srcn_bg_title,Screen brightness
+bg_al_activities,Cov dej num hauv qab no
+sftware,Software
+get_primium,Yog tias koj yuav tus hwm version, koj yuav tau txais tag nrho cov haujlwm tam sim no nrog rau tag nrho cov haujlwm tshiab yav tom ntej.
+cuztomize_face,Customization ntawm tus neeg siv interface
+comp_scheme,Sau koj lub Battery Manager xim xim los ntawm ntau lub ntsiab lus.
+bat_check_detail,Cov roj teeb kom ntxaws
+check_cond_test,Siv Tus Thawj Tswj Roj Teeb los xyuas qhov xwm txheej ntawm koj lub roj teeb kom ib txwm nyob ntawm kev nyab xeeb.
+no_ads_yo,Tsis muaj kev tshaj tawm
+use_explain_noads,Siv Battery Manager yam tsis muaj kev tshaj tawm
+act_energy_save,Ua kom lub zog txuag hluav taws xob ua kom lub roj teeb lub neej nce ntxiv thaum muaj xwm txheej ceev.
+buy_title,Yuav hwm
+loc_title,Qhov chaw
+cap_title,muaj peev xwm
+cap_remain,Tseem muaj peev xwm
+sleepy,Pw tsaug zog
+sek,Thib ob
+sing_min,feeb
+miniotes,feeb
+finish,Tiav lawm
+mobi_data,mobile cov ntaub ntawv
+plz_rate,Thov ntaus Tus Thawj Tswj Roj Teeb hauv Play Store
+ur_data_cus,Peb puas tuaj yeem txuas ntxiv siv koj cov ntaub ntawv los kho cov kev tshaj tawm rau koj?
+in_slep_mode,Hauv hom pw tsaug zog
+in_use,Hauv kev siv
+with_curr_pow,Nrog lub zog siv tam sim no
+rem_bat_life,Cov roj teeb uas tseem tshuav
+qck_acc,Kev nkag ceev
+notif_txt,ceeb toom
+notif_at,Ceeb toom ntawm
+chg_curr,Kev them nqi tam sim no
+charge_perm,Kev them nyiaj yug
+maxi_charge_per,Kev them nyiaj siab tshaj plaws
+enb_notif,Pab kom ceeb toom
+perm_send_notif,Tus Thawj Tswj roj teeb xav tau kev tso cai xa cov ntawv ceeb toom, nws yuav tsum tau qhib rau hauv lub cuab yeej qhov chaw.
+to_set,Mus rau qhov chaw
+title_autost,Qhib Autostart
+auto_explain,Tus Thawj Tswj roj teeb xav tau kev tso cai kom nyob twj ywm hauv keeb kwm yav dhau los txhawm rau nug cov xwm txheej roj teeb thiab xa ntawv ceeb toom.
+sync_auto,Synchronize tau
+dis_auto_sync,Disabling tsis siv neeg synchronization ho txo ​​wakelocks. Txawm li cas los xij, qee qhov haujlwm xws li tau txais e-mail yuav ploj.
+chg_lim,Nqi Limit
+avoid_ful_explain,Yog tias koj them koj lub roj teeb mus txog qhov siab tshaj plaws lossis tso tawm kom txog thaum nws raug kaw, qhov xwm txheej thiab kev pabcuam lub neej ntawm lub roj teeb yuav raug txo. Hauv cov hauv qab no koj tuaj yeem teeb tsa qhov tsawg kawg nkaus thiab qhov siab tshaj plaws los yog tso tawm ntawm lub roj teeb thiab koj yuav raug ceeb toom txhua lub sijhawm tus nqi pib mus txog. Zam kom tsis txhob them tag nrho thiab tso koj lub roj teeb thiab txuas lub neej ntawm lub roj teeb.
+rec_notif,Tsis tau txais kev ceeb toom?
+title_allow_bg_act,Tso cai ua haujlwm tom qab
+allow_bg_act,Txhawm rau kom koj tuaj yeem siv Tus Thawj Tswj Roj Teeb yam tsis muaj kev txwv tsis pub nws tsis txhob txwm kaw los ntawm kev ua haujlwm, koj yuav tsum tau hloov cov haujlwm tshwj xeeb rau kev tswj roj teeb thiab kev siv roj teeb hauv cov chaw. Vim hais tias ntau yam manufacturers sib txawv nyob rau hauv lub npe ntawm cov kev xaiv nyob ntawm seb lub operating system siv. Hauv thaj chaw App Cov Ntaub Ntawv, nyob rau hauv Pw tsaug zog lossis roj teeb, xaiv Tsis muaj kev txwv lossis tso cai ua haujlwm tom qab.
+dev_usage,Kev siv khoom siv
+dep_sleep,Kev pw tsaug zog yog lub xeev uas koj lub cuab yeej siv lub roj teeb tsawg kawg nkaus. Lub sijhawm pw tsaug zog muaj txiaj ntsig zoo rau kev txuag hluav taws xob. Kev pw tsaug zog tob tuaj yeem cuam tshuam los ntawm kev ua haujlwm tom qab, uas ua rau lub roj teeb tawm sai dua. Hauv qhov no, rov pib koj lub cuab yeej.
+title_bat_temp,Roj teeb kub
+bat_tempp,Lub roj teeb kub yog ib qho tseem ceeb tshaj plaws. Yog tias lub roj teeb khaws cia rau ntawm qhov kub thiab txias, qhov no cuam tshuam rau ob qho tib si kev pabcuam lub neej thiab kev ua haujlwm ntawm lub roj teeb. Yog tias qhov kub thiab txias, cov qauv sab hauv ntawm lub roj teeb tuaj yeem raug puas tsuaj.
+rdc_brightness,Txo qhov screen brightness
+display_explain,Cov zaub yog ib qho ntawm cov khoom siv uas siv ntau lub zog. Txo qhov siab tshaj plaws ci ntsa iab pab txo qis kev siv tag nrho thiab ua tiav cov txiaj ntsig zoo. Ua ntej txo qhov ci ntsa iab, deactivate lub teeb ci tsis siv neeg kom lub ci ci tsis hloov pauv yam tsis tsim nyog.
+tst_charge,Test charger
+best_way_test,Txoj hauv kev zoo tshaj plaws los kuaj lub charger thiab cable yog los ntawm kev kuaj xyuas qhov them ceev nrog lub vijtsam tawm. Kev them nyiaj ceev thaum lub vijtsam qhib tsis yog qhov ntsuas zoo vim tias koj lub xov tooj siv zog, uas ua rau muaj kev hloov pauv. Plug rau hauv lub charger, tua lub vijtsam rau ob peb feeb, thiab tom qab ntawd xyuas cov nqi siab tshaj tam sim no.
+wait_title,Tos
+rfsh_rate,Refresh tus nqi
+low_sizty,Txo tus nqi refresh rau 60 Hz txhim kho lub roj teeb lub neej.
+drk_mode,Tsaus hom
+acti_dark_mode,Qhib Hom Tsaus Ntuj, hauv Hom Tsaus Ntuj tsis siv hluav taws xob tsawg
+actz,Qhib qhib
+poz,Hwj chim
+minz,Yam tsawg kawg nkaus
+avgo,Nruab nrab
+mixi1,Qhov siab tshaj plaws
+msg_dis,Cov lus ploj tom qab 24 teev yog tias muaj cov ntaub ntawv txaus los tso saib daim duab qhia tag nrho.
+no_enough,Tsis txaus cov ntaub ntawv los tso saib
+log_graph,Hauv ob peb teev koj yuav pom daim duab ntawm no uas yuav tso cai rau koj kuaj xyuas lub roj teeb kub, qhov hluav taws xob, amperage thiab qib dhau 24 teev dhau los.
+week,lub lim tiam
+buy_it,Yuav
+one_pur,Ib zaug nqi ntawm
+refun_pur,qhov kev yuav khoom tuaj yeem rov qab tau hauv 2 teev.
+each_month,Qhov kev tso npe pib pib dua tshiab txhua lub hlis thiab txuas ntxiv tus nqi ib hlis. Qhov kev tso npe yuav raug muab tso tseg thaum twg los tau.
+mng_subs,tswj kev sau npe
+subsci,subscribe
+will_cost_week,Subscription auto-renew txhua lub lim tiam thiab txuas ntxiv tus nqi ib lub lim tiam. Qhov kev tso npe yuav raug muab tso tseg thaum twg los tau.
+lfllong,nyob mus ib txhis
+mthly,txhua hli
+wkly,Txhua lub lim tiam
+hoto,Kub
+prm_ben_title,Cov txiaj ntsig hwm
+sync_title,Synchronize
+dis_sync_inc,Disabling sync yuav ua rau kom roj teeb lub neej los ntawm tsis syncing cov kev pab cuam nyob rau hauv keeb kwm yav dhau
+time_out,Sijhawm tawm
+dec_extend,Txo lub sij hawm ua ntej cov zaub yuav tua txuas ntxiv roj teeb lub neej
+u_end_opti,Koj puas paub tseeb tias koj xav xaus cov txheej txheem optimization?
+no_why_perm,Tsis muaj kev tso cai
+bright_exp,Tus Thawj Tswj Roj Teeb yuav tsum tau hloov qhov kev tso cai tso cai los txo qhov screen brightness lossis tua Bluetooth.
+tg_title,Koom nrog Telegram channel!
+tg_text,Nyob twj ywm tam sim no nrog kev hloov tshiab app, tau txais kev tsim ua ntej, thiab pab sim cov yam ntxwv tshiab. Qhia koj cov tswv yim, nug cov lus nug thiab tau txais cov lus teb sai dua
+join_tg,koom
+curr_consumption,kev siv tam sim no
+scrn_onn,npo rau
+srcn_off,npo tawm
+mob_charg,Kev them nyiaj
+discha,Tshem tawm
+activea,Active
+slpmode,Pw tsaug zog hom
+chagingspeed,Tam sim no Charging ceev
+dta_proxt,Kev tiv thaiv cov ntaub ntawv
+governs,Txoj cai tswjfwm ntiag tug no tswj hwm koj txoj kev siv lub Battery Manager software daim ntawv thov rau cov khoom siv txawb tsim los ntawm Baxolino.
+info_u_provide,Cov ntaub ntawv muab los ntawm tus neeg siv
+no_pass_per,Peb tsis xa cov ntaub ntawv tus kheej mus rau cov neeg thib peb. Thaum koj xa email rau peb, peb muaj koj li email chaw nyob, tab sis peb tsuas yog siv nws los pab koj nrog peb cov apps.
+info_auto_coll,Cov ntaub ntawv khaws cia cia
+exp_admob_use,Peb siv Google Admob los ua haujlwm tshaj tawm. Kev siv cov kev pabcuam no yog ua raws li Google cov ntaub ntawv tiv thaiv ntawm https://www.google.com/policies/privacy/.
+we_real_time,Tus Thawj Tswj Roj Teeb puas sau cov ntaub ntawv qhov chaw nyob ntawm lub sijhawm tiag tiag los ntawm lub cuab yeej?
+exp_loc_perm_man,Roj teeb Manger tsuas yog xyuas seb qhov chaw qhib lossis kaw, tab sis tsis sau cov ntaub ntawv meej txog qhov chaw ntawm koj lub xov tooj ntawm tes. Xws li qhov chaw raws li kev ua haujlwm tau teeb tsa los ntawm lub neej ntawd. Koj tuaj yeem deactivate lossis rov qhib cov haujlwm no hauv qhov chaw ntawm koj lub cuab yeej. Ua ntej lossis tom qab kev txhim kho cov apps, koj yuav raug nug - nyob ntawm lub cuab yeej - seb koj puas xav deactivate lossis qhib cov haujlwm no. Peb tsuas tuaj yeem sau cov ntaub ntawv hais txog koj qhov chaw nyob yog tias koj qhib cov kev pabcuam qhov chaw.
+chng,Hloov
+pri_update_exp,Txoj cai ntiag tug no tuaj yeem hloov kho txhua lub sijhawm rau txhua lub sijhawm. Peb yuav qhia koj txog kev hloov pauv rau peb txoj cai ntiag tug los ntawm kev tshaj tawm txoj cai tshiab tsis pub twg paub ntawm lub vev xaib no thiab ceeb toom koj ntawm cov lus hauv app. Nws raug nquahu kom koj tsis tu ncua nrog Txoj Cai Tswjfwm Ntiag Tug no rau cov kev hloov pauv, vim tias kev siv txuas ntxiv raug txiav txim siab pom zoo ntawm txhua qhov kev hloov pauv. Koj tuaj yeem txheeb xyuas keeb kwm ntawm txoj cai no ntawm lub vev xaib no.
+contct,Hu rau
+any_que,Yog tias koj muaj lus nug txog kev tiv thaiv cov ntaub ntawv thaum siv daim ntawv thov lossis muaj lus nug txog peb cov kev coj ua, thov xa email rau baxolino.de@gmail.com
+mem_opti,Tus Thawj Tswj Roj Teeb xav tau qhov "nco" nkag mus kom cov apps tuaj yeem luam tawm thiab ua kom zoo dua. Koj tuaj yeem deactivate lossis qhib cov haujlwm no hauv qhov chaw ntawm koj lub cuab yeej. Ua ntej lossis tom qab kev teeb tsa lub app, koj yuav raug nug - nyob ntawm lub cuab yeej - seb koj puas xav kom deactivate lossis qhib cov haujlwm no.
+storg,Cia
+ble_set_acc,blue_set_perm, Tus Thawj Tswj roj teeb yuav tsum tau nkag mus rau "Bluetooth teeb tsa kev nkag" kom nws tuaj yeem kuaj xyuas seb Bluetooth puas qhib lossis kaw. Thiab kom qhib lossis kaw Bluetooth.
+ble_title,Bluetooth
+needz_del,Tus Thawj Tswj Roj Teeb yuav tsum tau nkag mus rau "Thov tshem tawm cov pob" kom pib uninstallation ntawm ib qho app. Lub app tsuas yog raug tshem tawm yog tias koj tso cai rau nws.
+deletion_pkg,Thov tshem tawm pob
+need_adnd,Tus Thawj Tswj Roj Teeb yuav tsum tau nkag mus rau "Tsis Muaj Teeb Meem" los pab lossis lov tes taw hom Tsis Txhob cuam tshuam.
+adnd,Access Do Not Disturb
+need_wlan_acc,Tus Thawj Tswj Roj Teeb yuav tsum tau nkag mus rau "Get WLAN Connections" kom tus Thawj Tswj Roj Teeb tuaj yeem tshawb xyuas seb WLAN puas tau qhib lossis kaw. Thiab kom qhib lossis kaw WLAN.
+wln_conn,Tau txais WLAN kev sib txuas
+shop_bill_exp,Thaum koj mus kav khw hauv Google Ua Si Hauv App Billing, Google muab peb lub tebchaws nyob thiab qee zaum lub xeev, nroog, thiab zip code, tab sis tsis muaj chaw nyob tag nrho. Peb siv cov ntaub ntawv no kom ua raws li cov cai ntawm se thiab accounting.
+pri_date,Los ntawm 02/21/2021
+how_to_stop,Koj tuaj yeem nres tag nrho cov ntaub ntawv sau los ntawm daim ntawv thov tsuas yog los ntawm uninstalling daim ntawv thov. Koj tuaj yeem siv tus txheej txheem uninstall txheej txheem muaj nyob rau hauv ib feem ntawm koj lub xov tooj ntawm tes lossis los ntawm kev ua lag luam lossis network rau daim ntawv thov mobile.
+opt_out,Kuv cov cai xaiv tawm yog dab tsi?
+ur_permission,koj tso cai
+accept_privacy,Los ntawm kev siv daim ntawv thov, koj tso cai rau peb ua koj cov ntaub ntawv raws li tau teev tseg hauv tsab cai tswjfwm ntiag tug no thiab raws li tau hloov kho los ntawm peb.

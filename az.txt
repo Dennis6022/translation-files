@@ -1,0 +1,347 @@
+title,Battery Manager Lite fərqlidir
+extend_life,Batareyanın ömrünü uzatmağın və sağlamlığınızı qorumağın ən yaxşı yolu təcrübə və elmi araşdırmalara əsaslanır.
+measured,Şəffaf bir şəkildə biz sizə yalnız faktiki ölçülmüş məlumatları və onların necə hesablandığını göstəririk.
+healthy,Batareyanı sağlam saxlayın
+double_battery,Batareyanı tam doldurmamaqla batareyanın ömrünü iki dəfə artırın. Alimlər öz araşdırmalarında bunu sübut ediblər.
+charge_limit,Doldurma limiti bildirişimizdən istifadə edərək, batareya istifadəçi tərəfindən müəyyən edilmiş həddə çatdıqda bildiriş göndəriləcək.
+smart,Hər gün daha ağıllı olur
+analyze,Battery Manager Lite-dan nə qədər uzun müddət istifadə etsəniz, batareyanızın performansını bir o qədər yaxşı təhlil edəcəyik.
+update_every_time,Qalan batareya ömrünün ölçülməsi cihazınızı hər dəfə istifadə etdiyiniz və ya doldurduğunuz zaman yenilənir.
+runtime,Batareyanızın həqiqi işləmə müddətini kəşf edin
+discharge_cycle,Telefonunuz hər dəfə boşalma dövründən keçdikdə, onun işləmə müddətinin dəqiq təxminini ölçmək olar.
+accurate_life,Batareyanın ömrünü dəqiq ölçmək üçün Battery Manager Lite istifadə edin.
+no_exit,Battery Manager Lite proqramından çıxmayın!
+bg_require,Battery Manager Lite batareya statistikasını toplamaq və batareyanın doldurulması və boşalma vaxtını ölçmək üçün fon xidməti tələb edir. Çox güman ki, cihazınız xidməti dayandırır və ya proqram bağlı olduqda onun işləməsinə icazə vermir. Bunun qarşısını almaq üçün sizin üçün yaxşı bir həllimiz var. Sadəcə linkə klikləyin.
+man,Manual
+cali,Kalibrləmə
+polarity,Bu addımda proqram batareyanızın doldurma polaritesini və dizayn tutumunu aşkarlayır.
+disch,Boşalma
+ch_pol,Doldurma polaritesi
+power_meter,Güc sayğacı
+unit_mesure,Ölçü vahidi
+capacity,Batareya Tutumu
+wrong,Düzgün deyil?
+calib,Kalibrləmə
+ye,Bəli
+no,Yox
+neg,Mənfi
+pos,Müsbət
+lunch,Proqramı işə salın
+manufac,İstehsalçıya görə tutum
+design_des,Dizayn gücü mAh ilə ölçülən faktiki batareya tutumudur. Tutumu müəyyən etmək üçün rəsmi yol olmadığı üçün qaytarılan dəyər səhv ola bilər.
+correct_it,Göstərilən tutum düzgün deyilsə, onu düzəldin.
+cancel,Ləğv et
+ok,tamam
+runtime,Batareyanın işləmə müddəti
+wait,gözləyir
+per_hr,Saatda batareya istehlakı
+life_for,Üçün batareyanın ömrü
+battery_cond,Batareya vəziyyəti
+bat_info,Batareya məlumatı
+bat_cap,Batareya tutumu
+bat_volt,Batareyanın gərginliyi
+bat_cur,Batareya cərəyanı
+unit_mes,Ölçü vahidi
+done,Bitdi
+c_bat_temp,Cari Batareyanın Temperaturu
+min_bat_tem,Minimum batareya temperaturu
+mx_bat_tem,Maksimum batareya temperaturu
+avg_bat_tem,Orta batareya temperaturu
+dig_last,Əvvəlki son diaqnoz
+rem_time,Qalan vaxt
+volt,Gərginlik
+curr,Cari
+status,Vəziyyət
+run_time,İş vaxtı
+currently,Hal-hazırda
+avg,Orta
+minmal,Minimal
+maximal,Maksimum
+tool,Alətlər
+rem_apps,Tətbiqlərin lazımsız işləməsinin və batareyanızın tükənməsinin qarşısını almaq üçün artıq istifadə etmədiyiniz proqramları silin
+uninst_apps,Proqramları silin
+stat,Başlamaq
+act_eng_save,Batareya istehlakını azaltmaq üçün enerjiyə qənaət rejimini aktivləşdirin
+pow_save,Enerji qənaət rejimi
+tempe,Temperatur
+heal,Sağlamlıq
+tips,Məsləhətlər və fəndlərlə batareyanızı yaxşı vəziyyətdə saxlayın.
+recomm,Tövsiyələr
+prem,Premium
+more_func,Sizin üçün daha çox funksiya. Premium alın, daha çox qazanın.
+more,Daha çox
+ur_cond_bat,Batareya veziyyetdedir
+ur_bat_life,Batareyanın ömrüdür
+ur_bat_temp,Batareyanın Temperaturunuz
+wow,Əla
+normal,Normal
+poor,Zəif
+days,Günlər
+mins,Dəqiqələr
+hrs,Saatlar
+chging,Doldurulur
+ful,Tam
+dis_chrg,Boşaltma
+unkn,Naməlum
+too_lit,Çox az Batareya Məlumatı
+car_any,Hər halda həyata keçirin
+endz_,Son
+dig_any,Daha yaxşı diaqnostik nəticələr əldə etmək üçün proqram arxa fonda batareyanızı təhlil etməlidir. Zəhmət olmasa 24 saatdan sonra diaqnoza başlayın
+end_dig,Son diaqnoz
+quit_dig,Həqiqətən Diaqnozdan Çıxın
+batty_temp,Batareyanın temperaturu
+akku_manager,Akku Meneceri
+u_agree,"START" ilə siz məlumatların qorunması qaydaları ilə razılaşırsınız
+elemn_opti,Elementlər optimallaşdırıla bilər
+looks_good,Hər şey yaxşı görünür
+optimize_,Optimallaşdırın
+toolz_,Alətlər
+akku_check,Akku yoxlayın
+ctrl_load,Nəzarətli yükləmə
+mng_apps,Proqramları idarə edin
+infosm,Məlumat
+tenzion,gərginlik
+electy,elektrik
+lvl,Səviyyə
+akku_man_premium,Akku Manager Premium
+premimum_highlight,Batareya menecerindən tamamilə reklamsız istifadə edin və istifadəçi interfeysinin geniş fərdiləşdirilməsinə çıxışınız var.
+design,Dizayn
+subjs,fənlər
+genrally,Ümumiyyətlə
+temp_unit,Temperatur vahidi
+oth_apps,Digər Proqramlar
+dat_protect,Məlumatların qorunması
+thx_akku,Premium versiyanın alınması ilə Akku Manager-ə dəstək verdiyiniz üçün təşəkkür edirik.
+user_got_pre,İndi istifadəçi interfeysinin geniş fərdiləşdirilməsinə və reklamsız istifadəyə çıxışınız var.
+exp_more,Gələcək yeniləmələrdə daha çox funksiya gözləmək olar
+ap_optimiz,Tətbiqin optimallaşdırılması
+sys_bat_usage,Sistem batareyasının istehlakı
+bat_usage_det,Batareyanın istifadəsi təfərrüatları
+end_optiz,Optimallaşdırmanı bitirin
+abort,Abort
+break_up,parçalanmaq
+scn,skan etmək
+scn_bgh,Ekran parlaqlığı
+dact_wlan,WLAN-ı deaktiv edin
+dact_save_batt,Batareyaya qənaət etmək üçün deaktiv edin
+dact,Deaktiv edin
+dact_ble,Bluetooth-u deaktiv edin
+red_brigh,Parlaqlığı azaldın
+bright_txt,Batareyaya qənaət etmək üçün ekranın parlaqlığını azaldın
+to_reduce,Azaltmaq üçün
+dact_gps,GPS-i deaktiv edin
+appz_optimz,Tətbiqlər optimallaşdırılıb
+start_bat_check_det,Həmişə təhlükəsiz tərəfdə olmaq üçün ətraflı batareya yoxlamasına başlayın
+act_eng_save,Batareya istehlakını azaltmaq üçün enerjiyə qənaət rejimini aktivləşdirin
+remove_useless,Artıq istifadə olunmayan proqramları silin
+premium,Premium
+clear_mem,Yaddaşı təmizləyin
+clear_mem_des,Smartfonunuzun tez və rəvan işləməsi üçün.
+clenaup,Təmizləmək
+rat,reytinq
+rat_free,Batareya menecerini pulsuz qiymətləndirin
+sendz,Göndər
+elmn_found,Elementlər tapıldı
+drumz,Təbillər
+status,Vəziyyət
+end_akk_check,Batareyanın yoxlanışını bitirin
+bat_detlz,Batareya detalları
+temp_checked,Temperatur yoxlanılır
+cond_checked,Batareyanın vəziyyəti yoxlanılır
+checkz_start,Batareyanın yoxlanılması başlayır
+plug_in,Şüşə qoşulub
+techz,Texnologiya
+coldz,Soyuq
+until,qədər
+well,Yaxşı
+ovr_heat,Həddindən artıq istiləşmə
+ovr_load,Həddindən artıq yükləmə
+renam,adı dəyişdirildi
+not_def,müəyyən edilməmişdir
+chrgz,Şarj edin
+full,Tam
+unloadz,Boşaltma
+not_charge_unkn,tutulmayıb və ya naməlum
+usb,USB
+charger,şarj cihazı
+wless,simsiz
+not_at_al,heç bir şey
+uninstall,Silin
+update,Yeniləmək
+setting,Parametrlər
+app,Proqramlar
+not_found,Tətbiq tapılmadı
+search,Proqramları axtarın
+version_code,Versiya kodu
+api_level,API Səviyyəsi
+app_version,Proqram Versiyası
+authorization,icazə
+open,açmaq
+play_store,Play Store
+control,nəzarət
+systemstandart,Sistem standartı
+white,Ağ
+dark,Qaranlıq
+ocean,Okean
+black,Qara
+dark_blue,Tünd göy
+excellent,Əla
+bad,Pis
+battery_bad,Batareya azca xarab olub
+very_bad,Çox pis
+battery_damaged,Batareya zədələnib
+custom_mode,Fərdi rejim
+brightness,Parlaqlıq
+automatic_brightness,Avtomatik Parlaqlıq
+normal,Normal
+sound_modus,Səs rejimi
+tone_work,Bütün tonlar işləyir
+mute,Səssiz
+call_note_mute,Zənglər və bildirişlər səssizdir
+not_bother,narahat etməyin
+tones_vibration_mute,Siqnal melodiyaları istisna olmaqla, tonları və vibrasiyaları söndürün
+sound,Səslər
+music,musiqi
+notification,Bildiriş
+alarm,Siqnal
+ultra_saving,Ultra enerjiyə qənaət rejimi
+edit,Redaktə etmək üçün
+disable_ultra_saving,Ultra Enerjiyə qənaət rejimini söndürün
+min_remaining,min qalan
+hours,saat
+activted_ultra_saving,Ultra enerjiyə qənaət rejimi aktivləşdirilib
+charged_in,-də yüklənib
+min,min
+limit_power,Enerji istehlakını məhdudlaşdırın
+reduce_screen,Ekran parlaqlığını azaldın
+restrict_bg_act_explain,Fon fəaliyyətlərini məhdudlaşdırın
+volatge_check,Gərginlik yoxlanılır
+software_optimized,Proqram təminatı optimallaşdırılıb
+connect_charger,Şarj cihazını birləşdirin
+charger_removed,Şarj cihazı çıxarıla bilər
+power_consump_title,Enerji istehlakı
+srcn_bg_title,Ekran parlaqlığı
+bg_al_activities,Fon fəaliyyətləri
+sftware,Proqram təminatı
+get_primium,Əgər siz premium versiyanı alsanız, gələcəkdə bütün cari funksiyaları, eləcə də bütün yeni funksiyaları əldə edəcəksiniz.
+cuztomize_face,İstifadəçi interfeysinin fərdiləşdirilməsi
+comp_scheme,Müxtəlif mövzulardan Batareya Menecerinizin rəng sxemini tərtib edin.
+bat_check_detail,Batareyanın ətraflı yoxlanılması
+check_cond_test,Həmişə təhlükəsiz tərəfdə olmaq üçün batareyanızın vəziyyətini yoxlamaq üçün Batareya Menecerindən istifadə edin.
+no_ads_yo,Reklam yoxdur
+use_explain_noads,Batareya menecerindən heç bir reklam olmadan istifadə edin
+act_energy_save,Fövqəladə vəziyyətdə batareyanın ömrünü artırmaq üçün ultra enerjiyə qənaət rejimini aktivləşdirin.
+buy_title,Premium alın
+loc_title,Məkan
+cap_title,tutumu
+cap_remain,Qalan tutum
+sleepy,yatmaq
+sek,Saniyələr
+sing_min,Dəqiqə
+miniotes,Dəqiqələr
+finish,Bitdi
+mobi_data,mobil məlumatlar
+plz_rate,Lütfən, Play Store-da Batareya Menecerini qiymətləndirin
+ur_data_cus,Sizin üçün reklamları fərdiləşdirmək üçün məlumatlarınızdan istifadə etməyə davam edə bilərikmi?
+in_slep_mode,Yuxu rejimində
+in_use,İstifadədədir
+with_curr_pow,Cari enerji istehlakı ilə
+rem_bat_life,Qalan batareyanın ömrü
+qck_acc,Sürətli giriş
+notif_txt,bildiriş
+notif_at,Xəbərdarlıq edin
+chg_curr,Doldurma cərəyanı
+charge_perm,Doldurma performansı
+maxi_charge_per,Maksimum şarj performansı
+enb_notif,Bildirişi aktivləşdirin
+perm_send_notif,Batareya meneceri bildiriş göndərmək üçün icazə tələb edir, o, cihazın parametrlərində aktivləşdirilməlidir.
+to_set,Parametrlərə
+title_autost,Autostart'ı aktivləşdirin
+auto_explain,Batareyanın vəziyyətini öyrənmək və bildiriş göndərmək üçün Batareya Meneceri fonda aktiv qalmaq üçün icazə tələb edir.
+sync_auto,Avtomatik sinxronizasiya edin
+dis_auto_sync,Avtomatik sinxronizasiyanın söndürülməsi oyanma kilidlərini əhəmiyyətli dərəcədə azaldır. Bununla belə, e-poçt qəbulu kimi bəzi funksiyalar itiriləcək.
+chg_lim,Yükləmə Limiti
+avoid_ful_explain,Batareyanı maksimum dərəcədə doldursanız və ya söndürülənə qədər boşalsanız, batareyanın vəziyyəti və xidmət müddəti azalacaq. Aşağıda siz batareyanın minimum və maksimum doldurulma və ya boşalma vəziyyətini təyin edə bilərsiniz və hər dəfə həddi çatdıqda sizə bildiriş göndəriləcək. Batareyanı bir dəfə tam doldurmaqdan və boşaltmaqdan çəkinin və batareyanın ömrünü uzatın.
+rec_notif,Bildiriş alınmadı?
+title_allow_bg_act,Fon fəaliyyətinə icazə verin
+allow_bg_act,Əməliyyat sistemi tərəfindən təsadüfən bağlanmadan Batareya Menecerindən məhdudiyyətsiz istifadə edə bilmək üçün parametrlərdə batareyanın idarə edilməsi və batareyadan istifadə üçün xüsusi funksiyaları söndürməli ola bilərsiniz. Çünki müxtəlif istehsalçılar istifadə edilən əməliyyat sistemindən asılı olaraq bu variantların təyin edilməsində fərqlənirlər. Tətbiq Məlumatı sahəsində Yuxu və ya Batareya altında Məhdudiyyət yoxdur və ya Fonda Fəaliyyətə İcazə Ver seçin.
+dev_usage,Cihaz istifadəsi
+dep_sleep,Dərin yuxu cihazınızın ən az batareyadan istifadə etdiyi vəziyyətdir. Dərin yuxunun müddəti enerji qənaətinə müsbət təsir göstərir. Dərin yuxu fon tapşırıqları ilə kəsilə bilər ki, bu da batareyanın daha tez boşalmasına səbəb olur. Bu halda, cihazınızı yenidən başladın.
+title_bat_temp,Batareyanın temperaturu
+bat_tempp,Batareyanın temperaturu ən vacib amillərdən biridir. Batareyada gel yüksək temperaturda saxlanılırsa, bu, həm batareyanın xidmət müddətinə, həm də işinə təsir edir. Temperatur yüksəlsə, batareyanın daxili quruluşu zədələnə bilər.
+rdc_brightness,Ekran parlaqlığını azaldın
+display_explain,Ekran ən çox enerji sərf edən komponentlərdən biridir. Maksimum parlaqlığın azaldılması ümumi istehlakı azaltmağa və nəzərəçarpacaq qənaət əldə etməyə kömək edir. Parlaqlığı azaltmazdan əvvəl avtomatik parlaqlığı söndürün ki, parlaqlıq lazımsız yerə dəyişməsin.
+tst_charge,Test şarj cihazı
+best_way_test,Şarj cihazını və kabeli sınamağın ən yaxşı yolu ekran sönük halda şarj sürətini yoxlamaqdır. Ekran açıq olduqda doldurma sürəti yaxşı göstərici deyil, çünki telefonunuz enerji istehlak edir və bu, dalğalanmalara səbəb olur. Şarj cihazını qoşun, bir neçə dəqiqə ekranı söndürün və sonra maksimum şarj cərəyanını yoxlayın.
+wait_title,Gözləyirəm
+rfsh_rate,Yeniləmə dərəcəsi
+low_sizty,Təzələmə tezliyini 60 Hz-ə endirmək batareyanın ömrünü yaxşılaşdırır.
+drk_mode,Qaranlıq rejim
+acti_dark_mode,Qaranlıq rejimi aktivləşdirin, Qaranlıq rejimdə daha az enerji sərf olunur
+actz,Aktivləşdirin
+poz,Güc
+minz,Minimum
+avgo,Orta
+mixi1,Maksimum
+msg_dis,Diaqramı tam şəkildə göstərmək üçün kifayət qədər məlumat varsa, mesaj 24 saatdan sonra yox olur.
+no_enough,Göstərmək üçün kifayət qədər data yoxdur
+log_graph,Bir neçə saatdan sonra burada son 24 saat ərzində batareyanın istiliyini, gərginliyini, amperini və səviyyəsini yoxlamağa imkan verən bir qrafik görəcəksiniz.
+week,həftə
+buy_it,al
+one_pur,Birdəfəlik ödəniş
+refun_pur,alış 2 saat ərzində geri qaytarıla bilər.
+each_month,Abunəlik hər ay avtomatik yenilənir və aylıq xərcə davam edir. Abunəlik istənilən vaxt ləğv edilə bilər.
+mng_subs,abunəni idarə et
+subsci,abunə olun
+will_cost_week,Abunəlik hər həftə avtomatik yenilənir və həftəlik qiymətə davam edir. Abunəlik istənilən vaxt ləğv edilə bilər.
+lfllong,ömür boyu
+mthly,aylıq
+wkly,Həftəlik
+hoto,İsti
+prm_ben_title,Premium faydalar
+sync_title,Sinxronizasiya edin
+dis_sync_inc,Sinxronizasiyanın söndürülməsi xidmətlərin fonda sinxronizasiya edilməməsi ilə batareyanın ömrünü artıracaq
+time_out,Vaxt
+dec_extend,Ekranın sönməsinə qədər vaxtın azaldılması batareyanın ömrünü uzadır
+u_end_opti,Optimallaşdırma prosesini bitirmək istədiyinizə əminsiniz?
+no_why_perm,İcazə yoxdur
+bright_exp,Batareya Meneceri ekran parlaqlığını azaltmaq və ya Bluetooth-u söndürmək üçün sistem parametrlərini dəyişdirmək icazəsi tələb edir.
+tg_title,Telegram kanalına qoşulun!
+tg_text,Tətbiq güncəlləmələrindən xəbərdar olun, ilkin quraşdırmalar əldə edin və yeni funksiyaları sınamağa kömək edin. Fikirlərinizi təklif edin, suallar verin və daha sürətli cavablar alın
+join_tg,qoşulun
+curr_consumption,cari istehlak
+scrn_onn,ekran aktivdir
+srcn_off,ekran sönür
+mob_charg,Doldurulur
+discha,Boşaltma
+activea,Aktiv
+slpmode,Yuxu rejimi
+chagingspeed,Cari Doldurma sürəti
+dta_proxt,Məlumatların qorunması
+governs,Bu məxfilik siyasəti Baxolino tərəfindən yaradılmış mobil cihazlar üçün Batareya Meneceri proqram proqramından istifadənizi idarə edir.
+info_u_provide,İstifadəçi tərəfindən verilən məlumat
+no_pass_per,Biz şəxsi məlumatları üçüncü tərəflərə ötürmürük. Bizə e-məktub göndərdiyiniz zaman sizin e-poçt ünvanınız var, lakin biz ondan yalnız tətbiqlərimizdə sizə kömək etmək üçün istifadə edirik.
+info_auto_coll,Məlumat avtomatik olaraq toplanır
+exp_admob_use,Reklamları göstərmək üçün Google Admob istifadə edirik. Bu xidmətlərin istifadəsi https://www.google.com/policies/privacy/ ünvanında olan Google məlumatların qorunması müddəalarına tabedir.
+we_real_time,Batareya Meneceri cihazdan dəqiq real vaxt məkan məlumatı toplayırmı?
+exp_loc_perm_man,Batareya Meneceri yalnız yerin aktiv və ya qeyri-aktiv olub olmadığını yoxlayır, lakin mobil cihazınızın yeri haqqında heç bir dəqiq məlumat toplamır. Bu cür məkana əsaslanan funksiyalar defolt olaraq təyin edilir. Siz müvafiq cihazınızın parametrlərində bu funksiyaları söndürə və ya yenidən aktivləşdirə bilərsiniz. Proqramları quraşdırmadan əvvəl və ya sonra sizdən cihazdan asılı olaraq bu funksiyaları söndürmək və ya aktivləşdirmək istəməyiniz soruşulacaq. Yalnız bu cür məkan xidmətlərini aktivləşdirsəniz, biz sizin məkanınız haqqında məlumat toplaya bilərik.
+chng,Dəyişikliklər
+pri_update_exp,Bu məxfilik siyasəti hər hansı səbəbdən vaxtaşırı yenilənə bilər. Yeni məxfilik siyasətini bu veb ünvanda yerləşdirməklə və tətbiqdəki mesaj vasitəsilə sizi xəbərdar etməklə, məxfilik siyasətimizdəki dəyişikliklər barədə sizə məlumat verəcəyik. Dəyişikliklər üçün müntəzəm olaraq bu Məxfilik Siyasətinə müraciət etməyiniz tövsiyə olunur, çünki davamlı istifadə bütün dəyişikliklərin təsdiqi hesab olunur. Siz bu saytda bu siyasətin tarixçəsini nəzərdən keçirə bilərsiniz.
+contct,Əlaqə
+any_que,Tətbiqdən istifadə edərkən məlumatların qorunması ilə bağlı hər hansı sualınız varsa və ya təcrübələrimizlə bağlı suallarınız varsa, baxolino.de@gmail.com ünvanına e-poçt göndərin.
+mem_opti,Tətbiqlərin skan edilməsi və optimallaşdırılması üçün Batareya Menecerinə "yaddaş" girişi lazımdır. Siz bu funksiyaları müvafiq cihazınızın parametrlərində söndürə və ya aktivləşdirə bilərsiniz. Proqramı quraşdırmadan əvvəl və ya sonra sizdən cihazdan asılı olaraq bu funksiyaları söndürmək və ya aktivləşdirmək istəməyiniz soruşulacaq.
+storg,Saxlama
+ble_set_acc,blue_set_perm,Batareya Meneceri Bluetooth-un aktiv və ya söndürüldüyünü yoxlamaq üçün "Bluetooth parametrlərinə giriş" tələb edir. Və Bluetooth-u aktivləşdirmək və ya söndürmək üçün.
+ble_title,Bluetooth
+needz_del,Batareya Meneceri proqramın silinməsinə başlamaq üçün "Paketlərin silinməsini tələb et" girişini tələb edir. Tətbiq yalnız ona açıq şəkildə icazə versəniz silinəcək.
+deletion_pkg,Paketlərin silinməsini tələb edin
+need_adnd,Batareya Meneceri "Narahat Etməyin" rejimini aktivləşdirmək və ya söndürmək üçün "Narahat Etməyin" girişini tələb edir.
+adnd,Narahat Etməyin rejiminə daxil olun
+need_wlan_acc,Batareya Meneceri "WLAN Bağlantıları əldə et"ə giriş tələb edir ki, Batareya Meneceri WLAN-ın aktiv və ya söndürüldüyünü yoxlaya bilsin. Və WLAN-ı aktivləşdirmək və ya söndürmək üçün.
+wln_conn,WLAN bağlantıları əldə edin
+shop_bill_exp,Google Play In App Billing vasitəsilə alış-veriş etdiyiniz zaman Google bizə yaşadığınız ölkəni və bəzən əyalət, şəhər və poçt kodunu verir, lakin heç vaxt tam ünvanı göstərmir. Biz bu məlumatdan vergi və mühasibat uçotu qaydalarına riayət etmək üçün istifadə edirik.
+pri_date,21/02/2021 tarixindən etibarən
+how_to_stop,Siz sadəcə proqramı silməklə proqram tərəfindən bütün məlumat toplusunu dayandıra bilərsiniz. Siz mobil cihazınızın bir hissəsi kimi və ya mobil proqramlar üçün bazar və ya şəbəkə vasitəsilə mövcud olan standart silmə proseslərindən istifadə edə bilərsiniz.
+opt_out,Mənim imtina hüquqlarım hansılardır?
+ur_permission,icazəniz
+accept_privacy,Tətbiqdən istifadə etməklə, siz bu məxfilik siyasətində qeyd olunduğu və bizim tərəfimizdən düzəlişlər edildiyi kimi məlumatlarınızı emal etməyimizə razılıq verirsiniz.

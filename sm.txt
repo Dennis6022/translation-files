@@ -1,0 +1,347 @@
+title,E ese le Battery Manager Lite
+extend_life,O le auala sili e fa'alautele ai le ola o le maa ma tausia oe i le soifua maloloina e fa'avae i luga o le poto masani ma su'esu'ega fa'asaienisi.
+measured,I se auala manino matou te faʻaali atu ia te oe faʻamaumauga moni fua ma pe faʻapefea ona faʻatatauina.
+healthy,Tausia lelei lau maa
+double_battery,Faalua lou ola maa e ala i le le fa'atumu atoa o lau maa. Ua faamaonia e saienitisi lenei mea ia latou suesuega.
+charge_limit,I le fa'aogaina o la matou fa'amatalaga fa'atapula'a tau totogi, o le a tu'uina atu se fa'amatalaga pe a o'o le ma'a i se fa'ailoga e fa'aogaina e le tagata fa'aoga.
+smart,E sili atu le atamai i aso uma
+analyze,O le umi e te fa'aogaina ai le Battery Manager Lite, o le lelei fo'i lea o le a matou su'esu'eina le fa'atinoga o lau maa.
+update_every_time,Ole fua ole ola ole maa e toe fa'afouina i taimi uma e te fa'aogaina ai pe fa'aola lau masini.
+runtime,Su'e le taimi tonu o lau maa
+discharge_cycle,O taimi uma e alu ai lau telefoni i se taamilosaga faʻamalo, e mafai ona fuaina se faʻatusatusaga saʻo o lona taʻavale.
+accurate_life,Fa'aoga le Battery Manager Lite e fua sa'o ai le ola maa.
+no_exit,Aua le alu ese mai le Battery Manager Lite!
+bg_require,E mana'omia e le Battery Manager Lite se auaunaga i tua e aoina ai fuainumera maa ma fuaina le tau o le maa ma le taimi e alu ai. Atonu o le a taofia e lau masini le auaunaga pe le faʻatagaina e tamoʻe pe a tapuni le app. Ina ia aloese mai lenei mea, o loʻo i ai sa matou fofo lelei mo oe. Na'o le kiliki i luga o le so'oga.
+man,Tusi Lesona
+cali,Fa'avasegaina
+polarity,I lenei laʻasaga, e iloa ai e le app le faʻaogaina o le polarity ma le gafatia mamanu o lau maa.
+disch,Tu'u ese
+ch_pol,Tulaga polarity
+power_meter,mita eletise
+unit_mesure,Iunite o fua
+capacity,Malosiaga maa
+wrong,Le sa'o?
+calib,Fa'avasega
+ye,ioe
+no,leai
+neg,Le lelei
+pos,Lelei
+lunch,Tatala App
+manufac,Gafatia e tusa ai ma le gaosiga
+design_des,Ole malosi ole mamanu ole malosi ole maa, fua ile mAh. Talu ai e leai se auala aloa'ia e iloa ai le gafatia, o le tau toe fa'afo'i atonu e sese.
+correct_it,Afai e le sa'o le gafatia o lo'o fa'aalia, fa'amolemole fa'asa'o.
+cancel,Fa'aleaogaina
+ok,Ua lelei
+runtime,Taimi o le maa
+wait,faatalitali
+per_hr,Fa'aaogāina ma'a ile itula
+life_for,ola maa mo
+battery_cond,Tulaga ma'a
+bat_info,Fa'amatalaga maa
+bat_cap,Malosiaga ma'a
+bat_volt,Ma'a eletise
+bat_cur,Ole taimi nei maa
+unit_mes,Iunite o fua
+done,Ua uma
+c_bat_temp,Le vevela o le maa o iai nei
+min_bat_tem,La'ititi o le vevela o le ma'a
+mx_bat_tem,Maalili maualuga maa
+avg_bat_tem,Vave vevela maa
+dig_last,Su'esu'ega mulimuli muamua
+rem_time,Taimi o totoe
+volt,Malolosi
+curr,I le taimi nei
+status,Tulaga
+run_time,Taimi tamo'e
+currently,I le taimi nei
+avg,averesi
+minmal,Laiti
+maximal,maualuga
+tool,Meafaigaluega
+rem_apps,Ave'ese polokalame e te le toe fa'aogaina e puipuia ai polokalama mai le ta'avale le talafeagai ma fa'amama ai lau maa
+uninst_apps,Aveese Apps
+stat,Amata
+act_eng_save,Fa'agaoioi le faiga fa'asao malosi e fa'aitiitia ai le fa'aaogaina o maa
+pow_save,Faiga fa'asao mana
+tempe,vevela
+heal,Soifua Maloloina
+tips,Tausia lau Maa'a i tulaga lelei ma fautuaga ma togafiti.
+recomm,Fautuaga
+prem,Premium
+more_func,E tele galuega mo oe. Maua le totogi, maua atili.
+more,E sili atu
+ur_cond_bat,Ole tulaga ole maa ole
+ur_bat_life,O lou ola maa e
+ur_bat_temp,O lau vevela o le maa
+wow,Lelei
+normal,masani
+poor,Leaga
+days,Aso
+mins,minute
+hrs,Itula
+chging,Totogiina
+ful,tumu
+dis_chrg,Fa'asalaina
+unkn,Le iloa
+too_lit,Laiti Fa'amatalaga o le Ma'a
+car_any,Ia faatino lava
+endz_,Fa'ai'uga
+dig_any,Ina ia maua ni fa'ai'uga fa'amaonia lelei, e mana'omia e le app e su'esu'e lau maa i tua. Fa'amolemole amata le su'esu'ega pe a uma le 24 itula
+end_dig,Fa'ai'u su'esu'ega
+quit_dig,Moni Ave Su'esu'ega
+batty_temp,vevela maa
+akku_manager,Pule o Akku
+u_agree,Faatasi ai ma le "AMATA" e te ioe i tulafono faatonutonu o le puipuiga o faamatalaga
+elemn_opti,E mafai ona fa'asilisili elemene
+looks_good,E foliga lelei mea uma
+optimize_,Fa'asilisili
+toolz_,Meafaigaluega
+akku_check,Akku Siaki
+ctrl_load,Pulea uta
+mng_apps,Pulea polokalame
+infosm,Fa'amatalaga
+tenzion,vevesi
+electy,eletise
+lvl,Tulaga
+akku_man_premium,Akku Pule Sili
+premimum_highlight,Fa'aoga atoa le Pule o le Battery e aunoa ma le fa'asalalauga ma e te maua le avanoa i le fa'avasegaina lautele o le fa'aoga fa'aoga.
+design,Fuafuaga
+subjs,mataupu
+genrally,E masani lava
+temp_unit,Vaega o le vevela
+oth_apps,Isi Apps
+dat_protect,Puipuiga o faamatalaga
+thx_akku,Fa'afetai mo le lagolagoina o le Akku Manager i le fa'atauina o le lomiga fa'apitoa.
+user_got_pre,Ua e maua nei le avanoa i le tele o aganuʻu o le faʻaoga faʻaoga ma le faʻaogaina e aunoa ma se faʻasalalauga.
+exp_more,E mafai ona e faʻamoemoeina nisi faʻaaliga i faʻafouga i le lumanaʻi
+ap_optimiz,Fa'aoga lelei
+sys_bat_usage,Fa'aaogāina maa fa'aleaogaina
+bat_usage_det,Fa'amatalaga o le fa'aogaina o le maa
+end_optiz,Fa'ai'u fa'alelei
+abort,Fa'apa'u
+break_up,talepe ese
+scn,e su'esu'e
+scn_bgh,Malamalama mata
+dact_wlan,Ta'atia le WLAN
+dact_save_batt,Ta'atia e sefe maa
+dact,Ta'atia
+dact_ble,Taofi le Bluetooth
+red_brigh,Fa'aitiitia le malamalama
+bright_txt,Fa'aitiitia le malamalama o le fa'aaliga e sefe ai maa
+to_reduce,Ia faaitiitia
+dact_gps,Taofi le GPS
+appz_optimz,Fa'atonuga fa'aoga
+start_bat_check_det,Amata se siaki auiliili maa ina ia i ai pea i le itu saogalemu
+act_eng_save,Fa'agaoioi le faiga fa'asao malosi e fa'aitiitia ai le fa'aogaina o maa
+remove_useless,Aveese polokalame e le o toe fa'aogaina
+premium,Premium
+clear_mem,Faamama le manatua
+clear_mem_des,Ina ia vave ma sologa lelei lau telefoni.
+clenaup,Fa'amamaina
+rat,fua fa'atatau
+rat_free,Fuafua le Pule o le Ma'a mo le leai o se totogi
+sendz,Auina atu
+elmn_found,Elemene maua
+drumz,Pa'u
+status,Tulaga
+end_akk_check,Fa'ai'u siaki ma'a
+bat_detlz,Fa'amatalaga ma'a
+temp_checked,Ua siaki le vevela
+cond_checked,Ua siaki le tulaga o le maa
+checkz_start,Ua amata le siaki ma'a
+plug_in,Fa'apipi'i i totonu
+techz,Tekinolosi
+coldz,Malili
+until,Seia
+well,Ia
+ovr_heat,Ova le vevela
+ovr_load,Ova le uta
+renam,toe faaigoa
+not_def,e le o faamatalaina
+chrgz,Totogi
+full,tumu
+unloadz,La'uina o uta
+not_charge_unkn,e le molia pe le iloa
+usb,USB
+charger,uta
+wless,uaealesi
+not_at_al,leai lava se mea
+uninstall,Ave'ese
+update,Ia faafou
+setting,Fa'atonu
+app,Apps
+not_found,App e le o maua
+search,Su'e polokalame
+version_code,Code Version
+api_level,API Level
+app_version,App Version
+authorization,faatagaga
+open,e tatala
+play_store,Faleoloa ta'alo
+control,pulea
+systemstandart,Systemsstandard
+white,Lanu pa'epa'e
+dark,Pogisa
+ocean,Vasa
+black,Lanu uliuli
+dark_blue,Lanu lanumoana
+excellent,Lelei
+bad,Leaga
+battery_bad,Ua leaga teisi maa
+very_bad,Leaga tele
+battery_damaged,Ua leaga le maa
+custom_mode,Faiga Fa'apitoa
+brightness,Malamalama
+automatic_brightness,Otometi Malamalama
+normal,masani
+sound_modus,Leo Modus
+tone_work,Galulue Tone uma
+mute,Gūgū
+call_note_mute,O valaau ma fa'amatalaga e fa'alogoina
+not_bother,Aua le faalavelave
+tones_vibration_mute,Tape leo ma leo, vagana ai leo fa'ailo
+sound,Leo
+music,musika
+notification,Faasilasilaga
+alarm,Alalaga
+ultra_saving,Faiga fa'asao malosi tele
+edit,E fa'asa'o
+disable_ultra_saving,Fa'agata le faiga fa'asaoina ole malosi ole Ultra
+min_remaining,min totoe
+hours,itula
+activted_ultra_saving,Ua fa'agaoioi le faiga fa'asao malosi tele
+charged_in,molia i totonu
+min,min
+limit_power,Fa'atapula'a le fa'aogaina o le eletise
+reduce_screen,Fa'aitiitia le pupula o lau
+restrict_bg_act_explain,Faatapulaa gaoioiga i tua
+volatge_check,Ua siaki le malosi
+software_optimized,Ua fa'atumauina le polokalame
+connect_charger,Fa'afeso'ota'i le uta
+charger_removed,E mafai ona aveese le utu
+power_consump_title,Fa'aaogāga malosi
+srcn_bg_title,Malamalama mata
+bg_al_activities,Gaoioiga i tua
+sftware,Polokalama
+get_primium,Afai e te faʻatau le faʻasalalauga faʻapitoa, o le ae mauaina uma galuega o loʻo iai nei faʻapea foʻi ma galuega fou uma i le lumanaʻi.
+cuztomize_face,Fa'asinomaga o le fa'aoga fa'aoga
+comp_scheme,Fa'atutu lau lanu lanu Pule Pulea mai autu eseese.
+bat_check_detail,Su'ega ma'a auiliili
+check_cond_test,Fa'aoga le Battery Manager e siaki ai le tulaga o lau maa ia i ai pea i le itu saogalemu.
+no_ads_yo,Leai se fa'asalalauga
+use_explain_noads,Fa'aaoga le Battery Manager e aunoa ma se fa'asalalauga
+act_energy_save,Fa'agaoioia le faiga fa'asao malosi tele e fa'ateleina ai le ola ma'a i se fa'alavelave fa'afuase'i.
+buy_title,Fa'atau Premium
+loc_title,Nofoaga
+cap_title,gafatia
+cap_remain,Malosiaga totoe
+sleepy,Moe
+sek,Sekona
+sing_min,Minute
+miniotes,minute
+finish,Ua uma
+mobi_data,fa'amatalaga feavea'i
+plz_rate,Fa'amolemole fa'atatau le Pule o le Battery i le Faleoloa Ta'alo
+ur_data_cus,E mafai ona matou fa'aauau pea ona fa'aogaina au fa'amatalaga e fa'avasega ai fa'asalalauga mo oe?
+in_slep_mode,I le faiga moe
+in_use,O lo'o fa'aaogaina
+with_curr_pow,Faatasi ai ma le faʻaogaina o le eletise o loʻo iai nei
+rem_bat_life,O totoe le ola maa
+qck_acc,Sao vave
+notif_txt,faasilasilaga
+notif_at,Faailoa i
+chg_curr,Totogiina o le taimi nei
+charge_perm,Fa'atinoina o le fa'atonuina
+maxi_charge_per,Tulaga maualuga fa'atinoga
+enb_notif,Fa'amalo fa'asilasilaga
+perm_send_notif,E manaʻomia e le Pule o le Battery le faʻatagaga e lafo ai se faʻamatalaga, e tatau ona faʻagaoioia i totonu o le masini.
+to_set,I tulaga
+title_autost,Fa'agaoioi le Autostart
+auto_explain,E manaʻomia e le Battery Manager le faʻatagaga e tumau ai le faʻagaoioia i tua ina ia mafai ai ona fesiligia le tulaga o le maa ma auina atu se faʻamatalaga.
+sync_auto,Fa'atasi otometi
+dis_auto_sync,O le fa'agata o le fa'amaopoopo otometi e matua fa'aitiitia ai loka fafagu. Ae ui i lea, o nisi o galuega e pei o le mauaina o le imeli o le a leiloa.
+chg_lim,Tapulaa o Totogi
+avoid_ful_explain,Afai e te fa'atumuina lau maa i le maualuga pe fa'amalo seia tape, o le a fa'aitiitia le tulaga ma le ola tautua o le maa. I lalo e mafai ona e setiina le tau maualalo ma le maualuga poʻo le tuʻuina atu o le tulaga o le maa ma o le a logoina oe i taimi uma e oʻo ai le tau o le faʻailoga. Aloese mai le tasi e fa'atumu atoa ma fa'amalo lau maa ma fa'alautele le ola o le maa.
+rec_notif,Le maua se fa'amatalaga?
+title_allow_bg_act,Fa'ataga le gaioiga i tua
+allow_bg_act,Ina ia mafai ona e faʻaogaina le Pule o le Battery e aunoa ma ni faʻatapulaʻaina e aunoa ma le tapunia faʻafuaseʻi e le faiga faʻaogaina, atonu e te manaʻomia le tapeina o galuega faʻapitoa mo le puleaina o le maa ma le faʻaogaina o le maa i totonu o faʻatulagaga. Talu ai e eseese tagata gaosi oloa i le faʻatulagaina o nei filifiliga e faʻatatau i le faʻaogaina o le faʻaogaina. I le vaega o Fa'amatalaga Fa'amatalaga, i lalo o le Moe po'o le Ma'a, filifili Leai se Fa'atapula'a po'o le Fa'ataga o Gaoioiga Fa'amatalaga.
+dev_usage,Fa'aoga masini
+dep_sleep,O le moe loloto o se tulaga o lo'o fa'aogaina ai e lau masini le tele o le maa. Ole umi ole moe loloto e iai sona aafiaga lelei ile fa'asaoina ole malosi. O le moe loloto e mafai ona faʻalavelaveina e galuega i tua, lea e mafua ai ona vave alu le maa. I lenei tulaga, toe amata lau masini.
+title_bat_temp,vevela maa
+bat_tempp,O le vevela o le maa o se tasi lea o mea e sili ona taua. Afai e teu le maa gel i le maualuga o le vevela, e afaina uma ai le ola tautua ma le faatinoga o le maa. Afai e maualuga le vevela, e mafai ona faaleagaina le fausaga totonu o le maa.
+rdc_brightness,Fa'aitiitia le pupula o lau
+display_explain,O le faʻaaliga o se tasi o vaega e faʻaaogaina ai le tele o le malosi. O le fa'aitiitia o le maualuga o le susulu e fesoasoani e fa'aitiitia le aofa'i o le taumafaina ma maua se fa'aputuga iloga. Aʻo leʻi faʻaitiitia le susulu, faʻamalo le moli otometi ina ia le suia le susulu.
+tst_charge,Su'ega tau
+best_way_test,O le auala sili e su'e ai le uta ma le uaea e ala i le siakiina o le saoasaoa o le fa'atonuina ma le mata ua tape. O le saosaoa o le molia pe a ola le lau e le o se faʻataʻitaʻiga lelei ona o lau telefoni o loʻo faʻaaogaina le mana, lea e mafua ai suiga. Faʻapipiʻi le tau, tape le lau mo ni nai minute, ona siaki lea o le maualuga o le tau o loʻo i ai nei.
+wait_title,Faatalitali
+rfsh_rate,Fa'afouina fua
+low_sizty,O le fa'aitiitia o le fua fa'afou i le 60 Hz e fa'aleleia ai le ola maa.
+drk_mode,Faiga Pogisa
+acti_dark_mode,Fa'agaoioi le Pogisa, i le Pogisa Fa'aitiitia le paoa
+actz,Fa'agaoioi
+poz,Malosiaga
+minz,Laiti
+avgo,averesi
+mixi1,maualuga
+msg_dis,E mou atu le fe'au pe a uma le 24 itula pe a lava fa'amaumauga e fa'aali ai le ata atoa.
+no_enough,Le lava fa'amatalaga e fa'aalia
+log_graph,I ni nai itula o le a e va'ai i se kalafi iinei e mafai ai ona e siaki le vevela o le maa, voltage, amperage ma le maualuga i le 24 itula talu ai.
+week,vaiaso
+buy_it,Fa'atau
+one_pur,Totogi e tasi le taimi o
+refun_pur,e mafai ona toe fa'afo'i le fa'atau i totonu ole 2 itula.
+each_month,O le saofaga e otometi ona faʻafouina i masina taʻitasi ma faʻaauau pea le tau i le masina. E mafai ona fa'aleaogaina le saofaga i so'o se taimi.
+mng_subs,pulea saofaga
+subsci,lesitala
+will_cost_week,E fa'afou-autometi le lesitala i vaiaso ta'itasi ma fa'aauau le tau ile vaiaso. E mafai ona fa'aleaogaina le saofaga i so'o se taimi.
+lfllong,i le olaga atoa
+mthly,masina
+wkly,Vaiaso
+hoto,vevela
+prm_ben_title,Fa'amanuiaga fa'apitoa
+sync_title,Fa'atasi
+dis_sync_inc,O le fa'agataina o le feso'ota'iga o le a fa'atuputeleina ai le ola ma'a e ala i le le fa'aogaina o auaunaga i tua
+time_out,Uma le taimi
+dec_extend,O le fa'aitiitia o le taimi a'o le'i tape le fa'aaliga e fa'ateleina ai le ola maa
+u_end_opti,E te mautinoa e te mana'o e fa'amuta le fa'agasologa o le fa'atonuga?
+no_why_perm,Leai se faatagaga
+bright_exp,E mana'omia e le Pule o le Ba'a Suiga le fa'atonuga o le faiga e fa'aitiitia ai le pupula o le mata pe tape le Bluetooth.
+tg_title,Auai i le ala Telegram!
+tg_text,Tumau i le taimi nei i faʻafouga o app, fai vave fausia, ma fesoasoani e suʻe foliga fou. Fautuaina ou manatu, fai fesili ma vave maua tali
+join_tg,auai
+curr_consumption,taumafa i le taimi nei
+scrn_onn,i luga le lau
+srcn_off,tape le lau
+mob_charg,Totogiina
+discha,Fa'asalaina
+activea,Malosi
+slpmode,Ala moe
+chagingspeed,Ole saoasaoa o lo'o iai nei
+dta_proxt,Puipuiga o faamatalaga
+governs,O lenei faiga fa'alilolilo e fa'atonutonu ai lou fa'aogaina ole Battery Manager mo masini feavea'i na faia e Baxolino.
+info_u_provide,Faʻamatalaga tuʻuina atu e le tagata faʻaoga
+no_pass_per,Matou te le tuʻuina atu faʻamatalaga patino i isi vaega. A e imeli mai ia i matou, o loʻo i ai lau tuatusi imeli, ae matou te faʻaaogaina e fesoasoani ia te oe i a matou polokalama.
+info_auto_coll,Fa'amatalaga e aoina otometi
+exp_admob_use,Matou te fa'aogaina le Google Admob e fa'asalalau ai fa'asalalauga. O le fa'aogaina o nei 'au'aunaga e fa'atatau i aiaiga o le puipuiga o fa'amaumauga a Google ile https://www.google.com/policies/privacy/.
+we_real_time,E aoina e le Pule o le Battery sa'o fa'amatalaga o le nofoaga i le taimi moni mai le masini?
+exp_loc_perm_man,E na'o le siakiina o le Battery Manger pe ua fa'agaoioia le nofoaga pe fa'agata, ae le aoina mai fa'amatalaga sa'o e uiga i le nofoaga o lau masini feavea'i. O ia galuega fa'atatau ile nofoaga e fa'atulaga e le fa'aletonu. E mafai ona e fa'agata pe toe fa'agaoioia nei galuega i fa'atulagaga o lau masini. Aʻo leʻi faʻapipiʻi pe a maeʻa ona faʻapipiʻi ia polokalama, o le a fesiligia oe - faʻatatau i le masini - pe e te manaʻo e faʻamalo pe faʻagaoioia nei galuega. E mafai ona matou aoina faʻamatalaga e uiga i lou nofoaga pe afai e te faʻagaoioia ia nofoaga auaunaga.
+chng,Suiga
+pri_update_exp,O lenei faiga fa'alilolilo e mafai ona fa'afouina mai lea taimi i lea taimi mo so'o se mafua'aga. O le a matou logoina oe e uiga i suiga i la matou tulafono faʻapitoa e ala i le lafoina o le tulafono faʻalilolilo fou i luga o lenei tuatusi upega tafaʻilagi ma logoina oe e ala i se feʻau i totonu o le app. E fautuaina e te fa'afeso'ota'i e le aunoa lenei Faiga Fa'alilolilo mo suiga, aua o le fa'aauauina o le fa'aogaina o lo'o manatu e fa'amaonia ai suiga uma. E mafai ona e toe iloiloina le talafaasolopito o lenei faiga faavae i luga o lenei upega tafaʻilagi.
+contct,Fa'afeso'ota'i
+any_que,Afai ei ai ni au fesili e uiga i le puipuiga o faʻamatalaga aʻo e faʻaogaina le talosaga pe iai ni au fesili e uiga ia matou faiga, faʻamolemole lafo mai se imeli i baxolino.de@gmail.com
+mem_opti,E manaʻomia e le Pule o le Battery le avanoa "manatua" ina ia mafai ai ona suʻesuʻeina ma faʻalelei polokalame. E mafai ona e faʻateʻaina pe faʻagaoioia nei galuega i faʻatulagaga o lau masini. Aʻo leʻi faʻapipiʻi pe a maeʻa ona faʻapipiʻi le app, o le a fesiligia oe - faʻatatau i le masini - pe e te manaʻo e faʻamalo pe faʻagaoioia nei galuega.
+storg,Teuga
+ble_set_acc,blue_set_perm, E mana'omia e le Pule Ma'a le avanoa "Bluetooth seti avanoa" ina ia mafai ona siaki pe ua fa'agaoioia le Bluetooth pe fa'agata. Ma ia fa'agaoioia pe fa'agata le Bluetooth.
+ble_title,Bluetooth
+needz_del,E manaʻomia e le Pule o le Battery le avanoa "Talosaga le tapeina o afifi" e amata ai le aveese o se app. E na'o le aveese o le app pe afai e te fa'atagaina manino.
+deletion_pkg,Talosaga le tapeina o afifi
+need_adnd,E mana'omia e le Pule o le Ma'a le "Aua le Fa'alavelave" le avanoa e mafai ai pe fa'amalo le faiga Aua le Fa'alavelave.
+adnd,Avanoa Aua le Fa'alavelave
+need_wlan_acc,E mana'omia e le Pule o le Ba'a le avanoa i le "Get WLAN Connections" ina ia mafai e le Pule o le Ba'a ona siaki pe ua fa'agaoioia pe fa'agata le WLAN. Ma ia fa'agaoioia pe fa'amalo le WLAN.
+wln_conn,Maua so'oga WLAN
+shop_bill_exp,A e fa'atau ile Google Play In App Billing, Google e tu'uina mai ia i matou lou atunu'u e te nofo ai ma o nisi taimi o le setete, taulaga, ma le zip code, ae le o le tuatusi atoa. Matou te fa'aogaina nei fa'amatalaga e tausisia ai lafoga ma tulafono fa'amaumauga.
+pri_date,E oʻo mai i le 02/21/2021
+how_to_stop,E mafai ona e taofia le aoina atoa o faʻamatalaga e ala i le talosaga e ala i le tapeina o le talosaga. E mafai ona e fa'aogaina faiga fa'ata'atia masani o lo'o avanoa o se vaega o lau masini feavea'i po'o le maketi po'o feso'ota'iga mo talosaga feavea'i.
+opt_out,O a la'u aia tatau e filifili ai i fafo?
+ur_permission,lau faatagaga
+accept_privacy,I le fa'aogaina o le talosaga, ua e malie ai i le matou fa'agaioiina o au fa'amatalaga e pei ona fa'ata'atia mai i lenei faiga fa'alilolilo ma e pei ona teuteuina e matou.

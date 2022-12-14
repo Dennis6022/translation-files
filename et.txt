@@ -1,0 +1,347 @@
+title,Battery Manager Lite on erinev
+extend_life,Parim viis aku tööea pikendamiseks ja tervise hoidmiseks põhineb kogemustel ja teadusuuringutel.
+measured,Läbipaistval viisil näitame teile ainult tegelikult mõõdetud andmeid ja nende arvutamise viisi.
+healthy,Hoidke oma aku terve
+double_battery,Kahekordistage oma aku tööiga, kui te akut täielikult ei laadi. Teadlased on seda oma uurimistööga tõestanud.
+charge_limit,Kasutades meie laadimispiirangu teatist, saadetakse teade, kui aku saavutab kasutaja määratud läve.
+smart,See saab iga päevaga targemaks
+analyze,Mida kauem Battery Manager Lite'i kasutate, seda paremini saame teie aku jõudlust analüüsida.
+update_every_time,Järelejäänud aku kasutusaega värskendatakse iga kord, kui kasutate või laadite seadet.
+runtime,Avastage oma aku tegelik tööaeg
+discharge_cycle,Iga kord, kui teie telefon läbib tühjendustsükli, saab mõõta täpse hinnangu selle tööaja kohta.
+accurate_life,Kasutage Battery Manager Lite'i aku täpse tööea mõõtmiseks.
+no_exit,Ärge väljuge rakendusest Battery Manager Lite!
+bg_require,Battery Manager Lite vajab akustatistika kogumiseks ning aku laadimise ja tühjenemise aja mõõtmiseks taustateenust. Teie seade peatab tõenäoliselt teenuse või ei lase sellel töötada, kui rakendus on suletud. Selle vältimiseks on meil teile hea lahendus. Klõpsake lihtsalt lingil.
+man,Käsiraamat
+cali,Kalibreerimine
+polarity,Selles etapis tuvastab rakendus teie aku laadimispolaarsuse ja projekteerimisvõimsuse.
+disch,Tühjenemine
+ch_pol,Laadimise polaarsus
+power_meter,Võimsuse mõõtja
+unit_mesure,Mõõtühik
+capacity,Aku mahutavus
+wrong,Kas pole õige?
+calib,Kalibreerige
+ye,Jah
+no,Ei
+neg,Negatiivne
+pos,Positiivne
+lunch,Käivitage rakendus
+manufac,Mahutavus vastavalt tootjale
+design_des,Projekteeritud mahutavus on tegelik aku mahutavus, mõõdetuna mAh-des. Kuna võimsuse määramiseks pole ametlikku võimalust, võib tagastatav väärtus olla vale.
+correct_it,Kui kuvatud mahutavus ei ole õige, parandage see.
+cancel,Tühista
+ok,Okei
+runtime,Aku tööaeg
+wait,ootamas
+per_hr,Aku tarbimine tunnis
+life_for,Aku eluiga jaoks
+battery_cond,Aku seisukord
+bat_info,Aku teave
+bat_cap,Aku mahutavus
+bat_volt,Aku pinge
+bat_cur,Aku vool
+unit_mes,Mõõtühik
+done,Valmis
+c_bat_temp,Praegune aku temperatuur
+min_bat_tem,Minimaalne aku temperatuur
+mx_bat_tem,Aku maksimaalne temperatuur
+avg_bat_tem,Keskmine aku temperatuur
+dig_last,Viimane diagnoos enne
+rem_time,Järelejäänud aeg
+volt,Pinge
+curr,Praegune
+status,Olek
+run_time,Jooksuaeg
+currently,Praegu
+avg,Keskmine
+minmal,Minimaalne
+maximal,Maksimaalne
+tool,Tööriistad
+rem_apps,Desinstallige rakendused, mida te enam ei kasuta, et vältida rakenduste asjatut käitamist ja aku tühjendamist
+uninst_apps,Desinstallige rakendused
+stat,Alusta
+act_eng_save,Aku tarbimise vähendamiseks aktiveerige energiasäästurežiim
+pow_save,Energiasäästurežiim
+tempe,Temperatuur
+heal,Tervis
+tips,Hoidke oma akut heas seisukorras näpunäidete ja näpunäidete abil.
+recomm,Soovitused
+prem,Premium
+more_func,Rohkem funktsioone teile. Hankige lisatasu, hankige rohkem.
+more,Rohkem
+ur_cond_bat,Aku seisukord on
+ur_bat_life,Teie aku eluiga on
+ur_bat_temp,Teie aku temperatuur on
+wow,Suurepärane
+normal,Tavaline
+poor,Halvasti
+days,Päevad
+mins,Minutid
+hrs,Tundi
+chging,Laadimine
+ful,Täis
+dis_chrg,Tühjenemine
+unkn,Tundmatu
+too_lit,Liiga vähe akuandmeid
+car_any,Teostage igal juhul
+endz_,Lõpp
+dig_any,Paremate diagnostikatulemuste saamiseks peab rakendus teie akut taustal analüüsima. Alustage diagnoosimist 24 tunni pärast
+end_dig,Diagnoosi lõpp
+quit_dig,Lõpetage tõesti diagnoosimine
+batty_temp,Aku temperatuur
+akku_manager,Akku Manager
+u_agree,"START"-ga nõustute andmekaitseeeskirjadega
+elemn_opti,Elemente saab optimeerida
+looks_good,Kõik näeb hea välja
+optimize_,Optimeerige
+toolz_,Tööriistad
+akku_check,Akku Check
+ctrl_load,Kontrollitud laadimine
+mng_apps,Rakenduste haldamine
+infosm,Teave
+tenzion,pinget
+electy,elektrit
+lvl,Tase
+akku_man_premium,Akku Manager Premium
+premimum_highlight,Kasutage akuhaldurit täiesti ilma reklaamideta ja teil on juurdepääs kasutajaliidese ulatuslikule kohandamisele.
+design,Disain
+subjs,teemasid
+genrally,Üldiselt
+temp_unit,Temperatuuri ühik
+oth_apps,Muud rakendused
+dat_protect,Andmekaitse
+thx_akku,Täname, et toetasite Akku Managerit premium-versiooni ostmisel.
+user_got_pre,Nüüd on teil juurdepääs kasutajaliidese ja kasutamise ulatuslikule kohandamisele ilma reklaamideta.
+exp_more,Tulevastes värskendustes võite oodata rohkem funktsioone
+ap_optimiz,Rakenduse optimeerimine
+sys_bat_usage,Süsteemi aku tarbimine
+bat_usage_det,Aku kasutamise üksikasjad
+end_optiz,Lõpeta optimeerimine
+abort,Katkesta
+break_up,lahku minema
+scn,skannimiseks
+scn_bgh,Ekraani heledus
+dact_wlan,Deaktiveerige WLAN
+dact_save_batt,Aku säästmiseks deaktiveerige
+dact,Deaktiveeri
+dact_ble,Deaktiveerige Bluetooth
+red_brigh,Vähenda heledust
+bright_txt,Aku säästmiseks vähendage ekraani heledust
+to_reduce,Vähendama
+dact_gps,Deaktiveerige GPS
+appz_optimz,Rakendused optimeeritud
+start_bat_check_det,Alustage üksikasjalikku akukontrolli, et olla alati ohutu
+act_eng_save,Aku tarbimise vähendamiseks aktiveerige energiasäästurežiim
+remove_useless,Desinstallige rakendused, mida enam ei kasutata
+premium,Premium
+clear_mem,Puhastage mälu
+clear_mem_des,Et teie nutitelefon töötaks kiiresti ja sujuvalt.
+clenaup,Korista ära
+rat,hinnang
+rat_free,Hinda Battery Managerit tasuta
+sendz,Saada
+elmn_found,Leitud elemendid
+drumz,Trummid
+status,Olek
+end_akk_check,Lõpetage aku kontroll
+bat_detlz,Aku üksikasjad
+temp_checked,Temperatuuri kontrollitakse
+cond_checked,Kontrollitakse aku seisukorda
+checkz_start,Aku kontroll algab
+plug_in,Ühendatud
+techz,Tehnoloogia
+coldz,Külm
+until,Kuni
+well,Noh
+ovr_heat,Ülekuumenemine
+ovr_load,Ülekoormus
+renam,ümber nimetatud
+not_def,ei ole defineeritud
+chrgz,Lae
+full,Täis
+unloadz,Mahalaadimine
+not_charge_unkn,laetud või teadmata
+usb,USB
+charger,laadija
+wless,juhtmevaba
+not_at_al,mitte midagi
+uninstall,Desinstalli
+update,Uuendama
+setting,Seaded
+app,Rakendused
+not_found,Rakendust ei leitud
+search,Otsige rakendusi
+version_code,Versioonikood
+api_level,API tase
+app_version,Rakenduse versioon
+authorization,luba
+open,avama
+play_store,Play pood
+control,kontroll
+systemstandart,Süsteemistandard
+white,Valge
+dark,Tume
+ocean,Ookean
+black,Must
+dark_blue,Tumesinine
+excellent,Suurepärane
+bad,Halb
+battery_bad,Aku on kergelt kahjustatud
+very_bad,Väga halb
+battery_damaged,Aku on kahjustatud
+custom_mode,Kohandatud režiim
+brightness,Heledus
+automatic_brightness,Automaatne heledus
+normal,Tavaline
+sound_modus,Sound Modus
+tone_work,Kõik toonid töötavad
+mute,Vaigista
+call_note_mute,Kõned ja märguanded on vaigistatud
+not_bother,Ära näe vaeva
+tones_vibration_mute,Lülitage helinad ja vibratsioon välja, välja arvatud äratushelid
+sound,Helid
+music,muusika
+notification,Teavitus
+alarm,Alarm
+ultra_saving,Ultra energiasäästurežiim
+edit,Redigeerimiseks
+disable_ultra_saving,Keelake ultraenergia säästurežiim
+min_remaining,min jäänud
+hours,tundi
+activted_ultra_saving,Ultra-energiasäästurežiim on aktiveeritud
+charged_in,sisse laetud
+min,min
+limit_power,Piirata energiatarbimist
+reduce_screen,Vähendage ekraani heledust
+restrict_bg_act_explain,Piirake taustategevusi
+volatge_check,Pinge kontrollitakse
+software_optimized,Tarkvara on optimeeritud
+connect_charger,Ühendage laadija
+charger_removed,Laadija saab eemaldada
+power_consump_title,Energiatarve
+srcn_bg_title,Ekraani heledus
+bg_al_activities,Taustategevused
+sftware,Tarkvara
+get_primium,Kui ostate esmaklassilise versiooni, saate kõik praegused funktsioonid ja ka kõik uued funktsioonid tulevikus.
+cuztomize_face,Kasutajaliidese kohandamine
+comp_scheme,Koostage oma Battery Manageri värviskeem erinevate teemade põhjal.
+bat_check_detail,Üksikasjalik aku kontroll
+check_cond_test,Kasutage akuhaldurit aku seisukorra kontrollimiseks, et olla alati ohutu.
+no_ads_yo,Ei mingit reklaami
+use_explain_noads,Kasutage Battery Manageri ilma reklaamideta
+act_energy_save,Aktiveerige ülienergiasäästurežiim, et hädaolukorras aku kasutusiga pikendada.
+buy_title,Osta Premium
+loc_title,Asukoht
+cap_title,mahutavus
+cap_remain,Ülejäänud võimsus
+sleepy,Magama
+sek,Sekundid
+sing_min,Minut
+miniotes,Minutid
+finish,Valmis
+mobi_data,mobiilne andmeside
+plz_rate,Hinda akuhaldurit Play poes
+ur_data_cus,Kas saame jätkata teie andmete kasutamist teie jaoks reklaamide kohandamiseks?
+in_slep_mode,Unerežiimis
+in_use,Kasutusel
+with_curr_pow,Praeguse energiatarbimisega
+rem_bat_life,Aku järelejäänud tööiga
+qck_acc,Kiire juurdepääs
+notif_txt,teatis
+notif_at,Teavitada aadressil
+chg_curr,Laadimisvool
+charge_perm,Laadimise jõudlus
+maxi_charge_per,Maksimaalne laadimise jõudlus
+enb_notif,Luba märguanne
+perm_send_notif,Akuhaldur nõuab teatise saatmiseks luba, see peab olema seadme seadetes aktiveeritud.
+to_set,Seadete juurde
+title_autost,Aktiveerige automaatne käivitamine
+auto_explain,Akuhaldur nõuab aku oleku päringu tegemiseks ja teatise saatmiseks luba taustal aktiivseks jääda.
+sync_auto,Sünkrooni automaatselt
+dis_auto_sync,Automaatse sünkroonimise keelamine vähendab märkimisväärselt äratuslukke. Mõned funktsioonid, nagu e-kirjade vastuvõtmine, lähevad aga kaotsi.
+chg_lim,Tasu limiit
+avoid_ful_explain,Kui laadite akut maksimaalselt või tühjendate selle seni, kuni see välja lülitatakse, väheneb aku seisukord ja kasutusiga. Järgnevalt saate määrata aku minimaalse ja maksimaalse laadimise või tühjenemise oleku ning teid teavitatakse iga kord, kui läviväärtus on saavutatud. Vältige aku täielikku laadimist ja tühjenemist ning pikendage aku eluiga.
+rec_notif,Kas te pole teadet saanud?
+title_allow_bg_act,Luba taustategevus
+allow_bg_act,Selleks, et saaksite akuhaldurit piiranguteta kasutada, ilma et operatsioonisüsteem seda kogemata sulgeks, peate võib-olla seadetes välja lülitama akuhalduse ja aku kasutamise erifunktsioonid. Kuna erinevad tootjad erinevad nende valikute tähistuste poolest sõltuvalt kasutatavast operatsioonisüsteemist. Tehke jaotises Rakenduse teave jaotises Unerežiim või aku valik Puuduvad piirangud või Luba taustategevus.
+dev_usage,Seadme kasutamine
+dep_sleep,Sügav uni on olek, kus teie seade kasutab kõige vähem akut. Sügava une kestus mõjutab energiasäästu positiivselt. Sügavat und võivad katkestada taustatööd, mistõttu aku tühjeneb kiiremini. Sel juhul taaskäivitage seade.
+title_bat_temp,Aku temperatuur
+bat_tempp,Aku temperatuur on üks olulisemaid tegureid. Kui akut hoitakse geelis kõrgel temperatuuril, mõjutab see nii aku kasutusiga kui ka jõudlust. Kui temperatuur tõuseb, võib aku sisemine struktuur kahjustada saada.
+rdc_brightness,Vähendage ekraani heledust
+display_explain,Ekraan on üks komponentidest, mis tarbib suurema osa energiast. Maksimaalse heleduse vähendamine aitab vähendada üldist tarbimist ja saavutada märgatavat säästu. Enne heleduse vähendamist deaktiveerige automaatne heledus, et heledust asjatult ei muudetaks.
+tst_charge,Testi laadijat
+best_way_test,Parim viis laadija ja kaabli testimiseks on kontrollida laadimiskiirust, kui ekraan on välja lülitatud. Laadimiskiirus, kui ekraan on sisse lülitatud, ei ole hea etalon, kuna telefon tarbib energiat, mis põhjustab kõikumisi. Ühendage laadija vooluvõrku, lülitage ekraan mõneks minutiks välja ja seejärel kontrollige maksimaalset laadimisvoolu.
+wait_title,Ootab
+rfsh_rate,Värskendamise määr
+low_sizty,Värskendussageduse langetamine 60 Hz-ni pikendab aku tööiga.
+drk_mode,Tume režiim
+acti_dark_mode,Aktiveerige tume režiim, pimedas režiimis tarbite vähem energiat
+actz,Aktiveerige
+poz,Võimsus
+minz,Minimaalne
+avgo,Keskmine
+mixi1,Maksimaalne
+msg_dis,Teade kaob 24 tunni pärast, kui diagrammi täielikuks kuvamiseks on piisavalt andmeid.
+no_enough,Kuvamiseks pole piisavalt andmeid
+log_graph,Mõne tunni pärast näete siin graafikut, mis võimaldab teil kontrollida aku temperatuuri, pinget, voolutugevust ja taset viimase 24 tunni jooksul.
+week,nädal
+buy_it,Osta
+one_pur,Ühekordne tasu
+refun_pur,ostu eest saab raha tagasi 2 tunni jooksul.
+each_month,Tellimus uueneb automaatselt iga kuu ja maksab jätkuvalt kuus. Tellimuse saab igal ajal tühistada.
+mng_subs,tellimust hallata
+subsci,tellida
+will_cost_week,Tellimus uueneb automaatselt igal nädalal ja maksab jätkuvalt nädalas. Tellimuse saab igal ajal tühistada.
+lfllong,eluaegne
+mthly,igakuine
+wkly,Iganädalane
+hoto,Kuum
+prm_ben_title,Lisatasu eelised
+sync_title,Sünkrooni
+dis_sync_inc,Sünkroonimise keelamine pikendab aku kasutusaega, kuna teenuseid taustal ei sünkroonita
+time_out,Aeg maha
+dec_extend,Ekraani väljalülitumise aja lühendamine pikendab aku tööiga
+u_end_opti,Kas olete kindel, et soovite optimeerimisprotsessi lõpetada?
+no_why_perm,Luba puudub
+bright_exp,Akuhaldur nõuab ekraani heleduse vähendamiseks või Bluetoothi ​​väljalülitamiseks süsteemiseadete muutmise luba.
+tg_title,Liituge Telegrami kanaliga!
+tg_text,Olge kursis rakenduste värskendustega, hankige varased järgud ja aidake katsetada uusi funktsioone. Soovitage oma ideid, esitage küsimusi ja saate kiiremini vastuseid
+join_tg,liituda
+curr_consumption,praegune kasutus
+scrn_onn,ekraan sisse
+srcn_off,ekraan väljas
+mob_charg,Laadimine
+discha,Tühjenemine
+activea,Aktiivne
+slpmode,Puhkerežiim
+chagingspeed,Praegune laadimiskiirus
+dta_proxt,Andmekaitse
+governs,See privaatsuspoliitika reguleerib Baxolino loodud mobiilseadmetele mõeldud tarkvararakenduse Battery Manager kasutamist.
+info_u_provide,Kasutaja antud teave
+no_pass_per,Me ei edasta isikuandmeid kolmandatele isikutele. Kui saadate meile meili, on meil teie e-posti aadress, kuid kasutame seda ainult teie rakenduste abistamiseks.
+info_auto_coll,Teave kogutakse automaatselt
+exp_admob_use,Kasutame reklaamide esitamiseks Google Admobi. Nende teenuste kasutamisel kehtivad Google'i andmekaitsesätted aadressil https://www.google.com/policies/privacy/.
+we_real_time,Kas Battery Manager kogub seadmest täpset reaalajas asukohateavet?
+exp_loc_perm_man,Battery Manger kontrollib ainult seda, kas asukoht on aktiveeritud või deaktiveeritud, kuid ei kogu teie mobiilseadme asukoha kohta täpset teavet. Sellised asukohapõhised funktsioonid on vaikimisi seatud. Saate need funktsioonid desaktiveerida või uuesti aktiveerida vastava seadme seadetes. Enne või pärast rakenduste installimist küsitakse teilt olenevalt seadmest, kas eelistate need funktsioonid desaktiveerida või aktiveerida. Saame koguda andmeid teie asukoha kohta ainult siis, kui aktiveerite sellised asukohateenused.
+chng,Muudatused
+pri_update_exp,Seda privaatsuspoliitikat võidakse aeg-ajalt mis tahes põhjusel uuendada. Teavitame teid oma privaatsuspoliitika muudatustest, postitades sellele veebiaadressile uue privaatsuspoliitika ja teavitades teid rakenduses oleva sõnumiga. Soovitatav on muudatuste tegemiseks regulaarselt tutvuda käesoleva privaatsuspoliitikaga, kuna jätkuvat kasutamist loetakse kõigi muudatuste heakskiitmiseks. Sellel veebisaidil saate tutvuda selle poliitika ajalooga.
+contct,Võtke ühendust
+any_que,Kui teil on rakenduse kasutamise ajal küsimusi andmekaitse kohta või küsimusi meie tavade kohta, saatke e-kiri aadressile baxolino.de@gmail.com
+mem_opti,Akuhaldur vajab "mälu" juurdepääsu, et rakendusi saaks skannida ja optimeerida. Saate need funktsioonid desaktiveerida või aktiveerida vastava seadme seadetes. Enne või pärast rakenduse installimist küsitakse teilt olenevalt seadmest, kas eelistate need funktsioonid desaktiveerida või aktiveerida.
+storg,Säilitamine
+ble_set_acc,blue_set_perm,Akuhaldur nõuab juurdepääsu "Bluetoothi ​​seadistuste juurdepääs", et saaks kontrollida, kas Bluetooth on aktiveeritud või deaktiveeritud. Ja Bluetoothi ​​aktiveerimiseks või deaktiveerimiseks.
+ble_title,Bluetooth
+needz_del,Akuhaldur nõuab rakenduse desinstallimise alustamiseks juurdepääsu „Taotle pakettide kustutamist”. Rakendus desinstallitakse ainult siis, kui lubate selle selgesõnaliselt.
+deletion_pkg,Taotlege pakettide kustutamist
+need_adnd,Akuhaldur nõuab režiimi Mitte segada lubamiseks või keelamiseks juurdepääsu „Ära sega”.
+adnd,Juurdepääs režiimile Mitte segada
+need_wlan_acc,Akuhaldur nõuab juurdepääsu funktsioonile „Hangi WLAN-ühendused”, et akuhaldur saaks kontrollida, kas WLAN on aktiveeritud või desaktiveeritud. Ja WLAN-i aktiveerimiseks või deaktiveerimiseks.
+wln_conn,Hankige WLAN-ühendused
+shop_bill_exp,Kui ostate Google Play rakendusesisese arvelduse kaudu, annab Google meile teie elukohariigi ja mõnikord osariigi, linna ja sihtnumbri, kuid mitte kunagi täielikku aadressi. Kasutame seda teavet maksu- ja raamatupidamiseeskirjade järgimiseks.
+pri_date,21.02.2021 seisuga
+how_to_stop,Saate peatada kogu rakenduse teabe kogumise, lihtsalt rakenduse desinstallides. Saate kasutada tavalisi desinstallimisprotsesse, mis on saadaval oma mobiilseadme osana või mobiilirakenduste turu või võrgu kaudu.
+opt_out,Millised on minu loobumisõigused?
+ur_permission,teie luba
+accept_privacy,Rakendust kasutades nõustute teie andmete töötlemisega, nagu on sätestatud käesolevas privaatsuspoliitikas ja meie poolt muudetud kujul.

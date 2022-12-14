@@ -1,0 +1,347 @@
+title,Battery Manager Lite は違います
+extend_life,バッテリーの寿命を延ばして健康を維持する最善の方法は、経験と科学的研究に基づいています。
+measured,透過的な方法で、実際に測定されたデータとその計算方法のみを示します。
+healthy,バッテリーを健康に保つ
+double_battery,バッテリーを完全に充電しないことで、バッテリー寿命を 2 倍にします。科学者たちは彼らの研究でこれを証明しました。
+charge_limit,充電制限通知を使用すると、バッテリーがユーザー定義のしきい値に達すると通知が送信されます。
+smart,日々賢くなる
+analyze,Battery Manager Lite を長く使用すればするほど、バッテリーのパフォーマンスをより正確に分析できるようになります。
+update_every_time,残りのバッテリー寿命の測定値は、デバイスを使用または充電するたびに更新されます。
+runtime,バッテリーの実際のランタイムを発見する
+discharge_cycle,お使いの携帯電話が放電サイクルを経るたびに、そのランタイムの正確な推定値を測定できます。
+accurate_life,Battery Manager Lite を使用して、正確なバッテリー寿命を測定します。
+no_exit,Battery Manager Lite を終了しないでください。
+bg_require,Battery Manager Lite は、バッテリー統計を収集し、バッテリーの充電および放電時間を測定するバックグラウンド サービスを必要とします。アプリを閉じると、デバイスがサービスを停止しているか、サービスの実行を許可していない可能性があります。これを避けるために、私たちはあなたのための良い解決策を持っています.リンクをクリックするだけです。
+man,マニュアル
+cali,較正
+polarity,このステップでは、アプリはバッテリーの充電極性と設計容量を検出します。
+disch,放電
+ch_pol,充電極性
+power_meter,パワーメーター
+unit_mesure,測定の単位
+capacity,バッテリー容量
+wrong,違う？
+calib,校正する
+ye,はい
+no,いいえ
+neg,ネガティブ
+pos,ポジティブ
+lunch,アプリを起動
+manufac,メーカー別容量
+design_des,設計容量は実際のバッテリー容量で、mAh で測定されます。容量を決定する正式な方法がないため、返される値が間違っている可能性があります。
+correct_it,表示された容量が正しくない場合は、修正してください。
+cancel,キャンセル
+ok,わかった
+runtime,バッテリー稼働時間
+wait,待っている
+per_hr,1 時間あたりのバッテリー消費量
+life_for,のバッテリー寿命
+battery_cond,バッテリーの状態
+bat_info,バッテリー情報
+bat_cap,バッテリー容量
+bat_volt,バッテリー電圧
+bat_cur,バッテリー電流
+unit_mes,測定の単位
+done,終わり
+c_bat_temp,現在のバッテリー温度
+min_bat_tem,最低バッテリー温度
+mx_bat_tem,最大バッテリー温度
+avg_bat_tem,平均バッテリー温度
+dig_last,以前の最終診断
+rem_time,残り時間
+volt,電圧
+curr,現時点の
+status,状態
+run_time,実行時間
+currently,現在
+avg,平均
+minmal,最小限
+maximal,最大
+tool,ツール
+rem_apps,使用しなくなったアプリをアンインストールして、アプリが不必要に実行されてバッテリーが消耗するのを防ぎます
+uninst_apps,アプリのアンインストール
+stat,始める
+act_eng_save,省エネモードを有効にしてバッテリーの消費を抑える
+pow_save,省電力モード
+tempe,温度
+heal,健康
+tips,ヒントとコツでバッテリーを良好な状態に保ちます。
+recomm,推奨事項
+prem,プレミアム
+more_func,あなたのためのより多くの機能。プレミアムを手に入れて、もっと手に入れましょう。
+more,もっと
+ur_cond_bat,バッテリーの状態は
+ur_bat_life,あなたのバッテリー寿命は
+ur_bat_temp,あなたのバッテリー温度は
+wow,優秀な
+normal,普通
+poor,不完全に
+days,日々
+mins,分
+hrs,時間
+chging,充電
+ful,満杯
+dis_chrg,放電中
+unkn,わからない
+too_lit,バッテリーデータが少なすぎる
+car_any,とにかく実行する
+endz_,終わり
+dig_any,より良い診断結果を得るために、アプリはバックグラウンドでバッテリーを分析する必要があります。 24時間後に診断を開始してください
+end_dig,診断終了
+quit_dig,本当に診断をやめる
+batty_temp,バッテリー温度
+akku_manager,アックマネージャー
+u_agree,「START」により、データ保護規則に同意したことになります
+elemn_opti,要素を最適化できます
+looks_good,すべてが良さそう
+optimize_,最適化
+toolz_,ツール
+akku_check,アックチェック
+ctrl_load,制御されたローディング
+mng_apps,アプリの管理
+infosm,情報
+tenzion,テンション
+electy,電気
+lvl,レベル
+akku_man_premium,アックマネージャープレミアム
+premimum_highlight,広告なしでバッテリー マネージャーを完全に使用し、ユーザー インターフェイスの広範なカスタマイズにアクセスできます。
+design,デザイン
+subjs,科目
+genrally,一般的
+temp_unit,温度単位
+oth_apps,他のアプリ
+dat_protect,データ保護
+thx_akku,プレミアム バージョンの購入で Akku Manager をサポートしていただきありがとうございます。
+user_got_pre,広告なしで、ユーザー インターフェイスと使用法を大幅にカスタマイズできるようになりました。
+exp_more,今後のアップデートでさらに多くの機能を期待できます
+ap_optimiz,アプリの最適化
+sys_bat_usage,システムのバッテリー消費
+bat_usage_det,バッテリー使用量の詳細
+end_optiz,最適化の終了
+abort,アボート
+break_up,別れる
+scn,スキャンする
+scn_bgh,画面の明るさ
+dact_wlan,WLAN を無効にする
+dact_save_batt,無効にしてバッテリーを節約する
+dact,無効にする
+dact_ble,ブルートゥースを無効にする
+red_brigh,明るさを下げる
+bright_txt,ディスプレイの輝度を下げてバッテリーを節約する
+to_reduce,削減する
+dact_gps,GPS を無効にする
+appz_optimz,最適化されたアプリ
+start_bat_check_det,詳細なバッテリーチェックを開始して、常に安全を確保してください
+act_eng_save,省エネモードを有効にしてバッテリーの消費を抑える
+remove_useless,使わなくなったアプリをアンインストールする
+premium,プレミアム
+clear_mem,メモリのクリーンアップ
+clear_mem_des,スマートフォンがすばやくスムーズに動作するようにします。
+clenaup,掃除
+rat,評価
+rat_free,バッテリー マネージャーを無料で評価する
+sendz,送信
+elmn_found,見つかった要素
+drumz,ドラム
+status,状態
+end_akk_check,バッテリーチェック終了
+bat_detlz,バッテリーの詳細
+temp_checked,体温チェック
+cond_checked,バッテリーの状態をチェック
+checkz_start,バッテリーチェック開始
+plug_in,差し込む
+techz,テクノロジー
+coldz,寒い
+until,それまで
+well,良い
+ovr_heat,過熱
+ovr_load,過負荷
+renam,改名
+not_def,定義されていません
+chrgz,充電
+full,満杯
+unloadz,荷降ろし
+not_charge_unkn,未請求または不明
+usb,USB
+charger,充電器
+wless,無線
+not_at_al,何もない
+uninstall,アンインストール
+update,更新するには
+setting,設定
+app,アプリ
+not_found,アプリが見つかりません
+search,アプリを検索
+version_code,バージョンコード
+api_level,API レベル
+app_version,アプリのバージョン
+authorization,認可
+open,開く
+play_store,プレイストア
+control,コントロール
+systemstandart,システム標準
+white,白
+dark,暗い
+ocean,海洋
+black,黒
+dark_blue,濃紺
+excellent,優秀な
+bad,悪い
+battery_bad,バッテリーが少し傷んでいます
+very_bad,ひどい
+battery_damaged,バッテリーが損傷している
+custom_mode,カスタムモード
+brightness,輝度
+automatic_brightness,自動輝度
+normal,普通
+sound_modus,サウンドモード
+tone_work,すべてのトーンが機能します
+mute,ミュート
+call_note_mute,通話と通知はミュートされています
+not_bother,邪魔しないで
+tones_vibration_mute,アラーム音以外のトーンとバイブレーションをオフにする
+sound,サウンド
+music,音楽
+notification,通知
+alarm,警報
+ultra_saving,超省エネモード
+edit,編集するには
+disable_ultra_saving,超省エネモードを無効にする
+min_remaining,残り分
+hours,時間
+activted_ultra_saving,超省エネモードが発動
+charged_in,請求された
+min,分
+limit_power,消費電力を制限する
+reduce_screen,画面の明るさを下げる
+restrict_bg_act_explain,バックグラウンド アクティビティを制限する
+volatge_check,電圧チェック
+software_optimized,ソフトウェアは最適化されています
+connect_charger,充電器を接続
+charger_removed,充電器は取り外し可能
+power_consump_title,消費電力
+srcn_bg_title,画面の明るさ
+bg_al_activities,背景活動
+sftware,ソフトウェア
+get_primium,プレミアム バージョンを購入すると、現在のすべての機能だけでなく、将来のすべての新機能も利用できます。
+cuztomize_face,ユーザーインターフェースのカスタマイズ
+comp_scheme,さまざまなテーマからバッテリー マネージャーの配色を構成します。
+bat_check_detail,詳細なバッテリーチェック
+check_cond_test,バッテリー マネージャーを使用して、バッテリーの状態をチェックし、常に安全を確保してください。
+no_ads_yo,広告なし
+use_explain_noads,広告なしでバッテリーマネージャーを使用する
+act_energy_save,超省エネモードを有効にして、緊急時のバッテリー寿命を延ばします。
+buy_title,プレミアムを購入
+loc_title,位置
+cap_title,容量
+cap_remain,残容量
+sleepy,寝る
+sek,秒
+sing_min,分
+miniotes,分
+finish,終了した
+mobi_data,モバイルデータ
+plz_rate,Play ストアで Battery Manager を評価してください
+ur_data_cus,広告をカスタマイズするために引き続きデータを使用できますか?
+in_slep_mode,スリープモード時
+in_use,使用中で
+with_curr_pow,現在の消費電力で
+rem_bat_life,電池残量
+qck_acc,迅速なアクセス
+notif_txt,通知
+notif_at,で通知
+chg_curr,充電電流
+charge_perm,充電性能
+maxi_charge_per,最大充電性能
+enb_notif,通知を有効にする
+perm_send_notif,Battery Manager には通知を送信する権限が必要です。デバイスの設定で有効にする必要があります。
+to_set,設定へ
+title_autost,自動起動を有効にする
+auto_explain,Battery Manager は、バッテリーの状態を照会して通知を送信するために、バックグラウンドでアクティブ化されたままにする許可を必要とします。
+sync_auto,自動同期
+dis_auto_sync,自動同期を無効にすると、ウェイクロックが大幅に減少します。ただし、メール受信などの一部機能が使えなくなります。
+chg_lim,チャージリミット
+avoid_ful_explain,バッテリーを最大まで充電したり、電源を切るまで放電したりすると、バッテリーの状態と寿命が短くなります。以下では、バッテリーの最小および最大の充電または放電ステータスを設定でき、しきい値に達するたびに通知されます。バッテリーを完全に充電して放電することを避け、バッテリーの寿命を延ばしてください。
+rec_notif,通知を受け取っていませんか？
+title_allow_bg_act,バックグラウンド アクティビティを許可する
+allow_bg_act,オペレーティング システムによって意図せず閉じられることなく、バッテリー マネージャーを制限なく使用できるようにするには、設定でバッテリー管理とバッテリー使用のための特別な機能をオフにする必要がある場合があります。さまざまなメーカーが、使用するオペレーティング システムに応じて、これらのオプションの指定が異なるためです。 [アプリ情報] 領域の [スリープまたはバッテリー] で、[制限なし] または [バックグラウンド アクティビティを許可] を選択します。
+dev_usage,デバイスの使用状況
+dep_sleep,ディープ スリープとは、デバイスのバッテリー使用量が最も少ない状態です。深い睡眠の持続時間は、エネルギーの節約にプラスの効果があります。ディープ スリープはバックグラウンド タスクによって中断される可能性があり、これによりバッテリーの放電が速くなります。この場合、デバイスを再起動してください。
+title_bat_temp,バッテリー温度
+bat_tempp,バッテリーの温度は、最も重要な要素の 1 つです。バッテリーを高温でゲル化させておくと、バッテリーの寿命と性能の両方に影響します。温度が上昇すると、バッテリーの内部構造が損傷する可能性があります。
+rdc_brightness,画面の明るさを下げる
+display_explain,ディスプレイは、最も多くのエネルギーを消費するコンポーネントの 1 つです。最大輝度を下げると、全体的な消費量が減り、大幅な節約を実現できます。明るさを下げる前に、明るさが不必要に変更されないように自動明るさを無効にします。
+tst_charge,テスト充電器
+best_way_test,充電器とケーブルをテストする最良の方法は、画面をオフにして充電速度を確認することです。画面がオンのときの充電速度は、携帯電話が電力を消費して変動するため、適切なベンチマークではありません。充電器を接続し、画面を数分間オフにしてから、最大充電電流を確認します。
+wait_title,待っている
+rfsh_rate,リフレッシュレート
+low_sizty,リフレッシュ レートを 60 Hz に下げると、バッテリー寿命が向上します。
+drk_mode,ダークモード
+acti_dark_mode,ダークモードを有効にすると、ダークモードでは消費電力が少なくなります
+actz,活性化
+poz,力
+minz,最小
+avgo,平均
+mixi1,最大
+msg_dis,ダイアグラムを完全に表示するのに十分なデータがある場合、メッセージは 24 時間後に消えます。
+no_enough,表示するデータが不足しています
+log_graph,数時間後、ここにグラフが表示され、過去 24 時間のバッテリー温度、電圧、アンペア数、およびレベルを確認できます。
+week,週
+buy_it,買う
+one_pur,1回あたりの料金
+refun_pur,購入は 2 時間以内に払い戻しできます。
+each_month,サブスクリプションは毎月自動更新され、引き続き月額料金がかかります。サブスクリプションはいつでもキャンセルできます。
+mng_subs,サブスクリプションを管理する
+subsci,申し込む
+will_cost_week,サブスクリプションは毎週自動更新され、引き続き 1 週間あたりの料金がかかります。サブスクリプションはいつでもキャンセルできます。
+lfllong,生涯
+mthly,毎月
+wkly,毎週
+hoto,熱い
+prm_ben_title,プレミアム特典
+sync_title,同期する
+dis_sync_inc,同期を無効にすると、サービスがバックグラウンドで同期されないため、バッテリー寿命が長くなります
+time_out,タイムアウト
+dec_extend,ディスプレイがオフになるまでの時間を短縮すると、バッテリー寿命が長くなります
+u_end_opti,最適化プロセスを終了してもよろしいですか?
+no_why_perm,無許可
+bright_exp,バッテリー マネージャーで画面の明るさを下げたり、Bluetooth をオフにしたりするには、システム設定の変更権限が必要です。
+tg_title,テレグラムチャンネルに参加しよう！
+tg_text,アプリのアップデートで最新の状態を維持し、早期ビルドを取得して、新機能のテストを支援します。アイデアを提案し、質問をして、より迅速に回答を得る
+join_tg,加入
+curr_consumption,消費電流
+scrn_onn,画面オン
+srcn_off,画面オフ
+mob_charg,充電
+discha,放電中
+activea,アクティブ
+slpmode,スリープモード
+chagingspeed,現在の充電速度
+dta_proxt,データ保護
+governs,このプライバシー ポリシーは、Baxolino によって作成されたモバイル デバイス用の Battery Manager ソフトウェア アプリケーションの使用を管理します。
+info_u_provide,ユーザーから提供された情報
+no_pass_per,個人データを第三者に渡すことはありません。あなたが私たちに電子メールを送るとき、私たちはあなたの電子メールアドレスを持っていますが、私たちはそれを私たちのアプリであなたを助けるためにのみ使用します.
+info_auto_coll,自動的に収集される情報
+exp_admob_use,Google Admob を使用して広告を配信しています。これらのサービスの使用は、https://www.google.com/policies/privacy/ の Google データ保護条項の対象となります。
+we_real_time,Battery Manager はデバイスから正確なリアルタイムの位置情報を収集しますか?
+exp_loc_perm_man,バッテリー マネージャーは、位置情報がアクティブか非アクティブかを確認するだけで、モバイル デバイスの位置に関する正確な情報は収集しません。このようなロケーションベースの機能は、デフォルトで設定されています。これらの機能は、それぞれのデバイスの設定で無効化または再有効化できます。アプリをインストールする前または後に、デバイスに応じて、これらの機能を無効にするか有効にするかを尋ねられます。そのような位置情報サービスを有効にしている場合にのみ、位置情報に関するデータを収集できます。
+chng,変更点
+pri_update_exp,このプライバシー ポリシーは、何らかの理由で随時更新される場合があります。このウェブアドレスに新しいプライバシーポリシーを掲載し、アプリ内のメッセージで通知することにより、プライバシーポリシーの変更をお知らせします。継続的な使用はすべての変更の承認と見なされるため、変更についてはこのプライバシー ポリシーを定期的に参照することをお勧めします。このポリシーの履歴は、この Web サイトで確認できます。
+contct,コンタクト
+any_que,アプリケーションの使用中のデータ保護について質問がある場合、または当社の慣行について質問がある場合は、baxolino.de@gmail.com にメールを送信してください。
+mem_opti,アプリをスキャンして最適化できるように、Battery Manager には「メモリ」アクセスが必要です。これらの機能は、それぞれのデバイスの設定で無効または有効にすることができます。アプリのインストール前またはインストール後に、デバイスに応じて、これらの機能を無効にするか有効にするかを尋ねられます。
+storg,保管所
+ble_set_acc,blue_set_perm,Battery Manager には、Bluetooth が有効か無効かを確認できるように、「Bluetooth 設定アクセス」のアクセスが必要です。また、Bluetooth を有効または無効にします。
+ble_title,ブルートゥース
+needz_del,Battery Manager でアプリのアンインストールを開始するには、「パッケージの削除をリクエストする」アクセスが必要です。アプリは、明示的に許可した場合にのみアンインストールされます。
+deletion_pkg,パッケージの削除をリクエストする
+need_adnd,バッテリー マネージャーでは、おやすみモードを有効または無効にするには、「おやすみモード」アクセスが必要です。
+adnd,アクセス サイレント モード
+need_wlan_acc,Battery Manager は、WLAN がアクティブか非アクティブかを Battery Manager が確認できるように、「Get WLAN Connections」へのアクセスを必要とします。また、WLAN を有効または無効にします。
+wln_conn,WLAN 接続を取得する
+shop_bill_exp,Google Play In App Billing で買い物をすると、Google はお客様の居住国と、場合によっては州、市、郵便番号を提供しますが、完全な住所を提供することはありません。この情報は、税および会計規則を遵守するために使用されます。
+pri_date,2021 年 2 月 21 日現在
+how_to_stop,アプリケーションをアンインストールするだけで、アプリケーションによる情報の収集全体を停止できます。モバイル デバイスの一部として利用できる標準のアンインストール プロセスを使用することも、モバイル アプリケーションのマーケットプレイスやネットワークを通じて利用することもできます。
+opt_out,私のオプトアウトの権利とは何ですか?
+ur_permission,あなたの許可
+accept_privacy,アプリケーションを使用することにより、このプライバシーポリシーに記載され、当社が修正したデータの処理に同意したことになります。

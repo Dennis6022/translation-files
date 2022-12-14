@@ -1,0 +1,347 @@
+title,Tá Battery Manager Lite difriúil
+extend_life,Is é an bealach is fearr chun saol ceallraí a leathnú agus tú a choinneáil sláintiúil bunaithe ar thaithí agus ar thaighde eolaíoch.
+measured,Ar bhealach trédhearcach ní thaispeánaimid duit ach na sonraí iarbhír tomhaiste agus conas a ríomhtar iad.
+healthy,Coinnigh do ceallraí sláintiúil
+double_battery,Déan do shaol ceallraí a dhúbailt trí gan do cheallraí a mhuirearú go hiomlán. Tá sé seo cruthaithe ag eolaithe ina gcuid taighde.
+charge_limit,Ag baint úsáide as ár bhfógra teorann muirir, seolfar fógra nuair a shroicheann an ceallraí tairseach atá sainithe ag an úsáideoir.
+smart,Éiríonn sé níos cliste gach lá
+analyze,Dá fhaide a úsáideann tú Battery Manager Lite, is amhlaidh is fearr a éireoidh linn anailís a dhéanamh ar fheidhmíocht do chuid ceallraí.
+update_every_time,Déantar an tomhas saoil ceallraí atá fágtha a nuashonrú gach uair a úsáideann tú nó a ghearrann tú do ghléas.
+runtime,Faigh amach an t-am rite iarbhír do cheallraí
+discharge_cycle,Gach uair a théann do ghuthán trí thimthriall scaoilte, is féidir meastachán cruinn ar a am rite a thomhas.
+accurate_life,Bain úsáid as Battery Manager Lite chun saol ceallraí cruinn a thomhas.
+no_exit,Ná scoir Battery Manager Lite!
+bg_require,Éilíonn Battery Manager Lite seirbhís chúlra chun staitisticí ceallraí a bhailiú agus muirear ceallraí agus am urscaoilte a thomhas. Is dócha go stopfaidh do ghléas an tseirbhís nó nach ligeann sé dó rith nuair a bhíonn an aip dúnta. Chun é seo a sheachaint, tá réiteach maith againn duit. Níl le déanamh ach cliceáil ar an nasc.
+man,Lámhleabhar
+cali,Calabrú
+polarity,Sa chéim seo, aimsíonn an app an polaraíocht luchtaithe agus cumas dearaidh do cheallraí.
+disch,Scaoileadh
+ch_pol,Polaracht luchtaithe
+power_meter,Méadar cumhachta
+unit_mesure,Aonad tomhais
+capacity,Cumas Battery
+wrong,Mícheart?
+calib,Calabraigh
+ye,Tá
+no,Níl
+neg,Diúltach
+pos,Dearfach
+lunch,Seoladh App
+manufac,Cumas de réir an mhonaróra
+design_des,Is é an cumas dearaidh an cumas ceallraí iarbhír, arna thomhas i mAh. Toisc nach bhfuil aon bhealach oifigiúil ann chun an acmhainn a chinneadh, d'fhéadfadh an luach ar ais a bheith mícheart.
+correct_it,Mura bhfuil an toilleadh ar taispeáint ceart, ceartaigh é le do thoil.
+cancel,Cealaigh
+ok,ceart go leor
+runtime,Am rite Ceallraí
+wait,ag fanacht
+per_hr,Tomhaltas ceallraí in aghaidh na huaire
+life_for,Saol ceallraí le haghaidh
+battery_cond,Coinníoll ceallraí
+bat_info,Faisnéis ceallraí
+bat_cap,Cumas ceallraí
+bat_volt,Voltas ceallraí
+bat_cur,Reatha ceallraí
+unit_mes,Aonad tomhais
+done,Déanta
+c_bat_temp,Teocht Reatha Battery
+min_bat_tem,Teocht íosta Battery
+mx_bat_tem,Teocht uasta ceallraí
+avg_bat_tem,Meán-teocht ceallraí
+dig_last,Diagnóis dheireanach roimh
+rem_time,Am fágtha
+volt,Voltas
+curr,Reatha
+status,Stádas
+run_time,Rith am
+currently,Faoi láthair
+avg,Meán
+minmal,Íosráta
+maximal,Uasmhéid
+tool,Uirlisí
+rem_apps,Díshuiteáil aipeanna nach n-úsáideann tú a thuilleadh chun aipeanna a chosc ó rith gan ghá agus do cheallraí a dhraenáil
+uninst_apps,Díshuiteáil Apps
+stat,Tosaigh
+act_eng_save,Gníomhachtaigh an modh coigilte fuinnimh chun tomhaltas ceallraí a laghdú
+pow_save,Modh coigilte cumhachta
+tempe,Teocht
+heal,Sláinte
+tips,Coinnigh do Battery i riocht maith le leideanna agus cleasanna.
+recomm,Moltaí
+prem,Préimh
+more_func,Tuilleadh feidhmeanna duit. Faigh préimhe, faigh níos mó.
+more,Tuilleadh
+ur_cond_bat,Is é an coinníoll ceallraí
+ur_bat_life,Tá do shaol ceallraí
+ur_bat_temp,Tá do Teocht Battery
+wow,Ar fheabhas
+normal,Gnáth
+poor,Go dona
+days,Laethanta
+mins,Nóiméad
+hrs,Uaireanta
+chging,Muirearú
+ful,Iomlán
+dis_chrg,Ag scaoileadh
+unkn,Anaithnid
+too_lit,Róbheagán Sonraí Battery
+car_any,Déan mar sin féin
+endz_,Deireadh
+dig_any,D'fhonn torthaí diagnóiseacha níos fearr a fháil, ní mór don app anailís a dhéanamh ar do cheallraí sa chúlra. Cuir tús leis an diagnóis tar éis 24 uair an chloig
+end_dig,Deireadh diagnóis
+quit_dig,I ndáiríre Scoir Diagnóis
+batty_temp,Teocht ceallraí
+akku_manager,Bainisteoir Akku
+u_agree,Le "START" aontaíonn tú leis na rialacháin um chosaint sonraí
+elemn_opti,Is féidir eilimintí a bharrfheabhsú
+looks_good,Breathnaíonn gach rud go maith
+optimize_,Optamaigh
+toolz_,Uirlisí
+akku_check,Seiceáil Akku
+ctrl_load,Luchtú rialaithe
+mng_apps,Bainistigh aipeanna
+infosm,Eolas
+tenzion,teannas
+electy,leictreachas
+lvl,Leibhéal
+akku_man_premium,Akku Bainisteoir Préimh
+premimum_highlight,Bain úsáid as an Bainisteoir Battery go hiomlán gan fógraíocht agus tá rochtain agat ar shaincheapadh fairsing an chomhéadan úsáideora.
+design,Dearadh
+subjs,ábhair
+genrally,Go ginearálta
+temp_unit,Aonad teochta
+oth_apps,Feidhmchláir Eile
+dat_protect,Cosaint sonraí
+thx_akku,Go raibh maith agat as tacú le Bainisteoir Akku le ceannach an leagan préimhe.
+user_got_pre,Tá rochtain agat anois ar shaincheapadh fairsing ar an gcomhéadan úsáideora agus ar úsáid gan fógraíocht.
+exp_more,Is féidir leat a bheith ag súil le gnéithe breise i nuashonruithe amach anseo
+ap_optimiz,Optimization app
+sys_bat_usage,Tomhaltas ceallraí córais
+bat_usage_det,Sonraí úsáide ceallraí
+end_optiz,Críochnaigh leas iomlán a bhaint
+abort,ginmhilleadh
+break_up,briseadh suas
+scn,a scanadh
+scn_bgh,Gile an scáileáin
+dact_wlan,Díghníomhachtaigh WLAN
+dact_save_batt,Díghníomhachtaigh chun ceallraí a shábháil
+dact,Díghníomhachtaigh
+dact_ble,Díghníomhachtaigh bluetooth
+red_brigh,Laghdaigh gile
+bright_txt,Laghdaigh gile an taispeántais chun ceallraí a shábháil
+to_reduce,A laghdú
+dact_gps,Díghníomhachtaigh GPS
+appz_optimz,Apps optamaithe
+start_bat_check_det,Tosaigh seiceáil ceallraí mionsonraithe a bheith i gcónaí ar an taobh sábháilte
+act_eng_save,Gníomhachtaigh modh coigilte fuinnimh chun tomhaltas ceallraí a laghdú
+remove_useless,Díshuiteáil aipeanna nach n-úsáidtear a thuilleadh
+premium,Préimh
+clear_mem,Glan suas cuimhne
+clear_mem_des,Ionas go ritheann do ghuthán cliste go tapa agus go réidh.
+clenaup,Glan Suas
+rat,rátáil
+rat_free,Ráta Bainisteoir ceallraí saor in aisce,
+sendz,Seol
+elmn_found,Eilimintí aimsithe
+drumz,Drumaí
+status,Stádas
+end_akk_check,Cuir deireadh le seiceáil ceallraí
+bat_detlz,Sonraí ceallraí
+temp_checked,Déantar an teocht a sheiceáil
+cond_checked,Déantar riocht na ceallraí a sheiceáil
+checkz_start,Tosaíonn seiceáil ceallraí
+plug_in,Plugáilte isteach
+techz,Teicneolaíocht
+coldz,Fuar
+until,Go dtí
+well,Bhuel
+ovr_heat,Róthéamh
+ovr_load,Ró-ualach
+renam,athainmnithe
+not_def,gan sainmhíniú
+chrgz,Muirear
+full,Iomlán
+unloadz,Ag díluchtú
+not_charge_unkn,gan muirear nó anaithnid
+usb,USB
+charger,luchtaire
+wless,Gan sreang
+not_at_al,tada ar bith
+uninstall,Dhíshuiteáil
+update,Chun nuashonrú
+setting,Socruithe
+app,Feidhmchláir
+not_found,Níor aimsíodh an aip
+search,Cuardaigh apps
+version_code,Cód Leagan
+api_level,Leibhéal API
+app_version,Leagan App
+authorization,údarú
+open,oscail
+play_store,Store Súgartha
+control,smacht
+systemstandart,Caighdeán an chórais
+white,Bán
+dark,Dorcha
+ocean,Aigéan
+black,Dubh
+dark_blue,Dúghorm
+excellent,Ar fheabhas
+bad,olc
+battery_bad,Tá beagán damáiste ar an gceallraí
+very_bad,An-dona
+battery_damaged,Tá an ceallraí damáiste
+custom_mode,Mód Saincheaptha
+brightness,Gile
+automatic_brightness,Gile Uathoibríoch
+normal,Gnáth
+sound_modus,Modus fuaime
+tone_work,Gach Tones Oibríonn
+mute,Balbhaigh
+call_note_mute,Tá glaonna agus fógraí balbhaithe
+not_bother,Ná bac
+tones_vibration_mute,Múch toin agus creathadh, ach amháin i gcás toin aláraim
+sound,Fuaimeanna
+music,Ceol
+notification,Fógra
+alarm,Aláram
+ultra_saving,Modh coigilte fuinnimh ultra
+edit,A chur in eagar
+disable_ultra_saving,Díchumasaigh Mód Coigilte Fuinnimh Ultra
+min_remaining,min fágtha
+hours,uair an chloig
+activted_ultra_saving,Tá modh coigilte fuinnimh ultra i ngníomh
+charged_in,muirearaithe i
+min,nóim
+limit_power,Teorainn tomhaltas cumhachta
+reduce_screen,Laghdaigh gile an scáileáin
+restrict_bg_act_explain,Srian a chur ar ghníomhaíochtaí cúlra
+volatge_check,Déantar voltas a sheiceáil
+software_optimized,Tá bogearraí optamaithe
+connect_charger,Ceangail charger
+charger_removed,Is féidir charger a bhaint
+power_consump_title,Ídiú cumhachta
+srcn_bg_title,Gile an scáileáin
+bg_al_activities,Gníomhaíochtaí cúlra
+sftware,Bogearraí
+get_primium,Má cheannaíonn tú an leagan préimhe, gheobhaidh tú na feidhmeanna reatha go léir chomh maith le gach feidhm nua sa todhchaí.
+cuztomize_face,Saincheapadh an chomhéadan úsáideora
+comp_scheme,Cum do scéim dathanna Bainisteoir Battery ó théamaí éagsúla.
+bat_check_detail,Seiceáil ceallraí mionsonraithe
+check_cond_test,Bain úsáid as an Bainisteoir Ceallraí chun riocht do cheallraí a sheiceáil le bheith ar an taobh sábháilte i gcónaí.
+no_ads_yo,Gan fógraíocht
+use_explain_noads,Bain úsáid as Bainisteoir Battery gan aon fhógraíocht
+act_energy_save,Gníomhachtaigh an modh coigilte fuinnimh ultra chun saol na ceallraí a mhéadú i gcás éigeandála.
+buy_title,Ceannaigh Préimh
+loc_title,Suíomh
+cap_title,acmhainn
+cap_remain,Cumas fágtha
+sleepy,Codladh
+sek,Soicind
+sing_min,Nóiméad
+miniotes,Nóiméad
+finish,Críochnaithe
+mobi_data,sonraí soghluaiste
+plz_rate,Déan rátáil ar Bhainisteoir Ceallraí sa Play Store
+ur_data_cus,An féidir linn leanúint ar aghaidh ag úsáid do shonraí chun fógraí a shaincheapadh duit?
+in_slep_mode,I mód codlata
+in_use,In úsáid
+with_curr_pow,Le tomhaltas cumhachta reatha
+rem_bat_life,Saol ceallraí fágtha
+qck_acc,Rochtain thapa
+notif_txt,fógra
+notif_at,Fógra ag
+chg_curr,Reatha á luchtú
+charge_perm,Feidhmíocht luchtaithe
+maxi_charge_per,Feidhmíocht muirir uasta
+enb_notif,Cumasaigh fógra
+perm_send_notif,Teastaíonn cead ón mBainisteoir Battery fógra a sheoladh, ní mór é a ghníomhachtú i socruithe an ghléis.
+to_set,Chun na socruithe
+title_autost,Gníomhachtaigh Autostart
+auto_explain,Teastaíonn cead ón mBainisteoir Cadhnraí fanacht i ngníomh sa chúlra chun stádas na ceallraí a fhiosrú agus fógra a sheoladh.
+sync_auto,Sioncrónaigh go huathoibríoch
+dis_auto_sync,Laghdaíonn díchumasú sioncrónaithe uathoibríoch go suntasach wakelocks. Mar sin féin, caillfear roinnt feidhmeanna ar nós ríomhphost a fháil.
+chg_lim,Teorainn Muirear
+avoid_ful_explain,Má ghearrann tú do cheallraí go dtí an t-uasmhéid nó má scaoileann tú é go dtí go múchtar é, laghdófar riocht agus saol seirbhíse na ceallraí. Seo a leanas is féidir leat an táille íosta agus uasta nó stádas urscaoilte na ceallraí a shocrú agus cuirfear in iúl duit gach uair a shroichtear luach na tairsí. Seachain ceann amháin a mhuirearú go hiomlán agus do cheallraí a scaoileadh amach agus saol na ceallraí a leathnú.
+rec_notif,Ní bhfuarthas fógra?
+title_allow_bg_act,Ceadaigh gníomhaíocht chúlra
+allow_bg_act,Ionas go mbeidh tú in ann an Bainisteoir Ceallraí a úsáid gan srianta gan é a bheith dúnta go neamhbheartaithe ag an gcóras oibriúcháin, b'fhéidir go mbeadh ort feidhmeanna speisialta a mhúchadh maidir le bainistiú ceallraí agus úsáid ceallraí sna socruithe. Toisc go bhfuil difríocht idir na monaróirí éagsúla maidir le hainmniú na roghanna seo ag brath ar an gcóras oibriúcháin a úsáidtear. Sa réimse App Information, faoi Codladh nó Ceallraí, roghnaigh Gan Srianta nó Ceadaigh Gníomhaíocht Chúlra.
+dev_usage,Úsáid gléas
+dep_sleep,Is éard atá i gcodladh domhain ná staid ina bhfuil do ghléas ag baint úsáide as an méid is lú ceallraí. Tá éifeacht dhearfach ag fad codlata domhain ar shábháil fuinnimh. Is féidir cur isteach ar an gcodladh domhain le tascanna cúlra, rud a fhágann go n-urscaoileadh an ceallraí níos tapúla. Sa chás seo, atosú do gléas.
+title_bat_temp,Teocht ceallraí
+bat_tempp,Tá teocht na ceallraí ar cheann de na fachtóirí is tábhachtaí. Má choinnítear an ceallraí glóthach ag teocht ard, bíonn tionchar aige seo ar shaol na seirbhíse agus ar fheidhmíocht na ceallraí. Má ardaíonn an teocht, is féidir damáiste a dhéanamh do struchtúr inmheánach na ceallraí.
+rdc_brightness,Laghdaigh gile an scáileáin
+display_explain,Tá an taispeáint ar cheann de na comhpháirteanna a ídíonn an chuid is mó den fhuinneamh. Cuidíonn laghdú an ghile uasta le tomhaltas foriomlán a laghdú agus coigilteas suntasach a bhaint amach. Sula laghdaítear an gile, díghníomhachtaigh an gile uathoibríoch ionas nach n-athraítear an gile gan ghá.
+tst_charge,Charger tástála
+best_way_test,Is é an bealach is fearr chun an charger agus an cábla a thástáil ná an luas muirir a sheiceáil agus an scáileán as. Ní tagarmharc maith é an luas muirir nuair a bhíonn an scáileán ar siúl toisc go bhfuil do ghuthán ag ídiú cumhachta, rud a fhágann luaineachtaí. Plug isteach an charger, cas as an scáileán ar feadh cúpla nóiméad, agus ansin seiceáil an t-uasmhéid reatha muirear.
+wait_title,Ag fanacht
+rfsh_rate,Ráta athnuachana
+low_sizty,Feabhsaíonn an ráta athnuachana go 60 Hz saol na ceallraí.
+drk_mode,Mód Dorcha
+acti_dark_mode,Gníomhachtaigh Mód Dorcha, i Mód Dorcha níos lú cumhachta a chaitear
+actz,Gníomhachtaigh
+poz,Cumhacht
+minz,íosmhéid
+avgo,Meán
+mixi1,Uasmhéid
+msg_dis,Imíonn an teachtaireacht tar éis 24 uair an chloig má tá go leor sonraí ann chun an léaráid a thaispeáint ina hiomláine.
+no_enough,Níl go leor sonraí le taispeáint
+log_graph,I gceann cúpla uair an chloig feicfidh tú graf anseo a ligfidh duit teocht, voltas, amperage agus leibhéal na ceallraí a sheiceáil le 24 uair an chloig anuas.
+week,seachtain
+buy_it,Ceannaigh
+one_pur,Táille aonuaire de
+refun_pur,is féidir an ceannach a aisíoc laistigh de 2 uair an chloig.
+each_month,Déantar an síntiús a athnuachan go huathoibríoch gach mí agus leanann sé ar aghaidh ag costas in aghaidh na míosa. Is féidir an síntiús a chur ar ceal am ar bith.
+mng_subs,síntiús a bhainistiú
+subsci,liostáil
+will_cost_week,Déantar suibscríbhinn a athnuachan go huathoibríoch gach seachtain agus leanann sé ar aghaidh ag costas in aghaidh na seachtaine. Is féidir an síntiús a chur ar ceal am ar bith.
+lfllong,ar feadh an tsaoil
+mthly,míosúil
+wkly,Seachtainiúil
+hoto,te
+prm_ben_title,Buntáistí préimhe
+sync_title,Sioncrónaigh
+dis_sync_inc,Má dhíchumasaítear sioncronú méadófar saol na ceallraí mura ndéantar seirbhísí a shioncronú sa chúlra
+time_out,Sos
+dec_extend,Má laghdaítear an t-am sula gcasann an taispeáint as, leathnaítear saol na ceallraí
+u_end_opti,An bhfuil tú cinnte gur mhaith leat deireadh a chur leis an bpróiseas optamaithe?
+no_why_perm,Gan cead
+bright_exp,Teastaíonn cead ón mBainisteoir Cadhnraí Athraigh socruithe an chórais chun gile an scáileáin a laghdú nó Bluetooth a mhúchadh.
+tg_title,Glac páirt sa chainéal Telegram!
+tg_text,Bí i láthair na huaire le nuashonruithe aipeanna, faigh tógáil luath, agus cuidigh le gnéithe nua a thástáil. Mol do chuid smaointe, cuir ceisteanna agus faigh freagraí níos tapúla
+join_tg,isteach
+curr_consumption,tomhaltas reatha
+scrn_onn,scáileán ar
+srcn_off,scáileán as
+mob_charg,Muirearú
+discha,Ag scaoileadh
+activea,Gníomhach
+slpmode,Modh codlata
+chagingspeed,Luas luchtaithe Reatha
+dta_proxt,Cosaint sonraí
+governs,Rialaíonn an polasaí príobháideachta seo an úsáid a bhaineann tú as feidhmchlár bogearraí an Bhainisteora Ceallraí le haghaidh gléasanna soghluaiste a chruthaíonn Baxolino.
+info_u_provide,Faisnéis a sholáthraíonn an t-úsáideoir
+no_pass_per,Ní chuirimid sonraí pearsanta ar aghaidh chuig tríú páirtithe. Nuair a chuireann tú ríomhphost chugainn, tá do sheoladh ríomhphoist againn, ach ní úsáidimid é ach chun cabhrú leat lenár n-aipeanna.
+info_auto_coll,Faisnéis a bhailítear go huathoibríoch
+exp_admob_use,Bainimid úsáid as Google Admob chun fógraí a sheirbheáil. Tá úsáid na seirbhísí seo faoi réir fhorálacha cosanta sonraí Google ag https://www.google.com/policies/privacy/.
+we_real_time,An mbailíonn Bainisteoir Ceallraí faisnéis chruinn suímh fíor-ama ón bhfeiste?
+exp_loc_perm_man,Ní seiceálann an Bainisteoir Battery ach an bhfuil an suíomh gníomhachtaithe nó díghníomhaithe, ach ní bhailíonn sé aon fhaisnéis bheacht faoi shuíomh do ghléis mhóibíligh. Socraítear feidhmeanna bunaithe ar shuíomh dá leithéid de réir réamhshocraithe. Is féidir leat na feidhmeanna seo a dhíghníomhachtú nó a athghníomhachtú i socruithe do ghléis faoi seach. Roimh nó tar éis na haipeanna a shuiteáil, iarrfar ort - ag brath ar an ngléas - cé acu arbh fhearr leat na feidhmeanna seo a dhíghníomhachtú nó a ghníomhachtú. Ní féidir linn sonraí a bhailiú faoi do shuíomh ach amháin má ghníomhaíonn tú a leithéid de sheirbhísí suímh.
+chng,Athruithe
+pri_update_exp,Féadfar an polasaí príobháideachta seo a nuashonrú ó am go ham ar chúis ar bith. Cuirfimid tú ar an eolas faoi athruithe ar ár bpolasaí príobháideachais tríd an bpolasaí príobháideachta nua a phostáil ar an seoladh gréasáin seo agus fógra a thabhairt duit trí theachtaireacht san aip. Moltar duit dul i gcomhairle go rialta leis an bPolasaí Príobháideachta seo le haghaidh athruithe, mar go meastar úsáid leanúnach a bheith ceadaithe do gach athrú. Is féidir leat stair an pholasaí seo a athbhreithniú ar an suíomh Gréasáin seo.
+contct,Teagmháil
+any_que,Má tá aon cheist agat faoi chosaint sonraí agus an feidhmchlár á úsáid agat nó má tá ceisteanna agat faoinár gcleachtais, seol ríomhphost chuig baxolino.de@gmail.com
+mem_opti,Tá an rochtain "chuimhne" ag teastáil ó Bhainisteoir Battery ionas gur féidir apps a scanadh agus a bharrfheabhsú. Is féidir leat na feidhmeanna seo a dhíghníomhachtú nó a ghníomhachtú i socruithe do ghléis faoi seach. Roimh nó tar éis an aip a shuiteáil, iarrfar ort - ag brath ar an ngléas - cé acu arbh fhearr leat na feidhmeanna seo a dhíghníomhachtú nó a ghníomhachtú.
+storg,Stóráil
+ble_set_acc,blue_set_perm, éilíonn Bainisteoir Battery an rochtain "Rochtain socrú Bluetooth" ionas gur féidir a sheiceáil cibé an bhfuil Bluetooth gníomhachtaithe nó díghníomhaithe. Agus Bluetooth a ghníomhachtú nó a dhíghníomhachtú.
+ble_title,Bluetooth
+needz_del,Éilíonn Bainisteoir Battery an rochtain "Iarratas a scriosadh pacáistí" chun tús a chur le díshuiteáil app. Ní dhéanfar an aip a dhíshuiteáil ach amháin má cheadaíonn tú go sainráite é.
+deletion_pkg,Iarraidh pacáistí a scriosadh
+need_adnd,Teastaíonn rochtain “Ná Cuir Isteach” ar Bhainisteoir Ceallraí chun mód Ná Cuir Isteach a chumasú nó a dhíchumasú.
+adnd,Rochtain Ná Cuir Isteach
+need_wlan_acc,Éilíonn Bainisteoir Battery rochtain ar "Faigh naisc WLAN" ionas gur féidir le Bainisteoir Battery a sheiceáil cibé an bhfuil WLAN gníomhachtaithe nó díghníomhaithe. Agus WLAN a ghníomhachtú nó a dhíghníomhachtú.
+wln_conn,Faigh naisc WLAN
+shop_bill_exp,Nuair a dhéanann tú siopadóireacht trí Google Play In App Billing, tugann Google dúinn do thír chónaithe agus uaireanta an stát, an chathair agus an cód zip, ach ní thugann sé an seoladh iomlán riamh. Bainimid úsáid as an bhfaisnéis seo chun cloí le rialacháin chánach agus chuntasaíochta.
+pri_date,Amhail an 21/02/2021
+how_to_stop,Is féidir leat an bailiúchán iomlán faisnéise ag an bhfeidhmchlár a stopadh go simplí ach an feidhmchlár a dhíshuiteáil. Is féidir leat na próisis chaighdeánacha díshuiteála atá ar fáil mar chuid de do ghléas soghluaiste a úsáid nó tríd an margadh nó líonra le haghaidh feidhmchláir mhóibíleacha.
+opt_out,Cad iad mo chearta rogha an diúltaithe?
+ur_permission,do chead
+accept_privacy,Trí úsáid a bhaint as an bhfeidhmchlár, toilíonn tú lenár bpróiseáil ar do shonraí mar atá leagtha amach sa bheartas príobháideachta seo agus arna leasú againn.

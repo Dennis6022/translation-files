@@ -1,0 +1,347 @@
+title,Battery Manager Lite é diferente
+extend_life,A melhor maneira de prolongar a vida útil da bateria e mantê-lo saudável é baseada na experiência e na pesquisa científica.
+measured,De forma transparente, mostramos apenas os dados realmente medidos e como eles são calculados.
+healthy,Mantenha sua bateria saudável
+double_battery,Duplique a duração da bateria não carregando totalmente a bateria. Os cientistas provaram isso em suas pesquisas.
+charge_limit,Usando nossa notificação de limite de carga, uma notificação será enviada quando a bateria atingir um limite definido pelo usuário.
+smart,Fica mais inteligente a cada dia
+analyze,Quanto mais você usar o Battery Manager Lite, melhor analisaremos o desempenho da sua bateria.
+update_every_time,A medição da duração restante da bateria é atualizada sempre que você usa ou carrega seu dispositivo.
+runtime,Descubra a duração real da sua bateria
+discharge_cycle,Cada vez que seu telefone passa por um ciclo de descarga, uma estimativa precisa de seu tempo de execução pode ser medida.
+accurate_life,Use o Battery Manager Lite para medir com precisão a duração da bateria.
+no_exit,Não saia do Battery Manager Lite!
+bg_require,O Battery Manager Lite requer um serviço em segundo plano para coletar estatísticas da bateria e medir a carga e o tempo de descarga da bateria. Seu dispositivo provavelmente está interrompendo o serviço ou não permitindo que ele seja executado quando o aplicativo é fechado. Para evitar isso, temos uma boa solução para você. Basta clicar no link.
+man,Manual
+cali,calibração
+polarity,Nesta etapa, o aplicativo detecta a polaridade de carregamento e a capacidade de projeto de sua bateria.
+disch,Descarga
+ch_pol,Polaridade de carregamento
+power_meter,Medidor de energia
+unit_mesure,Unidade de medida
+capacity,Capacidade de carga
+wrong,Não está certo?
+calib,Calibrar
+ye,Sim
+no,Não
+neg,Negativo
+pos,Positivo
+lunch,Lançamento do Aplicativo
+manufac,Capacidade de acordo com o fabricante
+design_des,A capacidade projetada é a capacidade real da bateria, medida em mAh. Como não há uma forma oficial de determinar a capacidade, o valor retornado pode estar errado.
+correct_it,Se a capacidade exibida não estiver correta, corrija-a.
+cancel,Cancelar
+ok,Ok
+runtime,Duração da bateria
+wait,espera
+per_hr,Consumo de bateria por hora
+life_for,Duração da bateria para
+battery_cond,condição da bateria
+bat_info,Informações da bateria
+bat_cap,Capacidade de carga
+bat_volt,Voltagem da bateria
+bat_cur,corrente da bateria
+unit_mes,Unidade de medida
+done,Feito
+c_bat_temp,Temperatura atual da bateria
+min_bat_tem,Temperatura mínima da bateria
+mx_bat_tem,Temperatura máxima da bateria
+avg_bat_tem,Temperatura média da bateria
+dig_last,Último diagnóstico antes
+rem_time,Tempo restante
+volt,Tensão
+curr,Atual
+status,Status
+run_time,Tempo de execução
+currently,Atualmente
+avg,Média
+minmal,Mínimo
+maximal,Máximo
+tool,Ferramentas
+rem_apps,Desinstale aplicativos que você não usa mais para evitar que aplicativos sejam executados desnecessariamente e esgote sua bateria
+uninst_apps,Desinstalar aplicativos
+stat,Começar
+act_eng_save,Ative o modo de economia de energia para reduzir o consumo de bateria
+pow_save,Modo de economia de energia
+tempe,Temperatura
+heal,Saúde
+tips,Mantenha sua bateria em boas condições com dicas e truques.
+recomm,Recomendações
+prem,Prêmio
+more_func,Mais funções para você. Obtenha premium, obtenha mais.
+more,Mais
+ur_cond_bat,A condição da bateria é
+ur_bat_life,A duração da sua bateria é
+ur_bat_temp,A temperatura da bateria é
+wow,Excelente
+normal,Normal
+poor,Mal
+days,Dias
+mins,Minutos
+hrs,Horas
+chging,Carregando
+ful,Cheio
+dis_chrg,Descarregando
+unkn,Desconhecido
+too_lit,Poucos dados da bateria
+car_any,Realizar de qualquer maneira
+endz_,Fim
+dig_any,Para obter melhores resultados de diagnóstico, o aplicativo precisa analisar sua bateria em segundo plano. Inicie o diagnóstico após 24 horas
+end_dig,Diagnóstico final
+quit_dig,Realmente Desistir do Diagnóstico
+batty_temp,Temperatura da bateria
+akku_manager,Gerente Akku
+u_agree,Com "START" você concorda com os regulamentos de proteção de dados
+elemn_opti,Os elementos podem ser otimizados
+looks_good,Tudo parece bem
+optimize_,otimizar
+toolz_,Ferramentas
+akku_check,Cheque Akku
+ctrl_load,Carregamento controlado
+mng_apps,Gerenciar aplicativos
+infosm,Em formação
+tenzion,tensão
+electy,eletricidade
+lvl,Nível
+akku_man_premium,Akku Manager Premium
+premimum_highlight,Use o Battery Manager completamente sem publicidade e você terá acesso a uma ampla personalização da interface do usuário.
+design,Projeto
+subjs,assuntos
+genrally,Geralmente
+temp_unit,Unidade de temperatura
+oth_apps,Outros aplicativos
+dat_protect,Proteção de dados
+thx_akku,Obrigado por apoiar o Akku Manager com a compra da versão premium.
+user_got_pre,Agora você tem acesso a ampla personalização da interface do usuário e uso sem publicidade.
+exp_more,Você pode esperar mais recursos em atualizações futuras
+ap_optimiz,Otimização de aplicativos
+sys_bat_usage,Consumo de bateria do sistema
+bat_usage_det,Detalhes de uso da bateria
+end_optiz,Otimização final
+abort,Abortar
+break_up,rompimento
+scn,Digitalizar
+scn_bgh,Brilho do ecrã
+dact_wlan,Desativar WLAN
+dact_save_batt,Desative para economizar bateria
+dact,Desativar
+dact_ble,desativar bluetooth
+red_brigh,Reduza o brilho
+bright_txt,Reduza o brilho da tela para economizar bateria
+to_reduce,Reduzir
+dact_gps,Desativar GPS
+appz_optimz,Aplicativos otimizados
+start_bat_check_det,Inicie uma verificação detalhada da bateria para estar sempre no lado seguro
+act_eng_save,Ative o modo de economia de energia para reduzir o consumo de bateria
+remove_useless,Desinstale aplicativos que não são mais usados
+premium,Prêmio
+clear_mem,Limpar memória
+clear_mem_des,Para que seu smartphone funcione de forma rápida e sem problemas.
+clenaup,Limpar
+rat,Avaliação
+rat_free,Avalie Gerenciador de Bateria gratuitamente
+sendz,Mandar
+elmn_found,Elementos encontrados
+drumz,Bateria
+status,Status
+end_akk_check,Terminar verificação da bateria
+bat_detlz,Detalhes da bateria
+temp_checked,A temperatura é verificada
+cond_checked,A condição da bateria é verificada
+checkz_start,A verificação da bateria começa
+plug_in,conectado
+techz,Tecnologia
+coldz,Resfriado
+until,Até
+well,Nós iremos
+ovr_heat,Superaquecimento
+ovr_load,Sobrecarga
+renam,renomeado
+not_def,não definido
+chrgz,Carregar
+full,Cheio
+unloadz,Descarregando
+not_charge_unkn,não cobrado ou desconhecido
+usb,USB
+charger,carregador
+wless,sem fio
+not_at_al,nada mesmo
+uninstall,Desinstalar
+update,Atualizar
+setting,Definições
+app,aplicativos
+not_found,Aplicativo não encontrado
+search,Aplicativos de pesquisa
+version_code,Código da versão
+api_level,Nível da API
+app_version,Versão do aplicativo
+authorization,autorização
+open,abrir
+play_store,Loja de jogos
+control,ao controle
+systemstandart,padrão do sistema
+white,Branco
+dark,Escuro
+ocean,oceano
+black,Preto
+dark_blue,Azul escuro
+excellent,Excelente
+bad,Mau
+battery_bad,A bateria está ligeiramente danificada
+very_bad,Muito mal
+battery_damaged,A bateria está danificada
+custom_mode,Modo personalizado
+brightness,Brilho
+automatic_brightness,Brilho Automático
+normal,Normal
+sound_modus,Modo de Som
+tone_work,Todos os tons funcionam
+mute,Mudo
+call_note_mute,Chamadas e notificações são silenciadas
+not_bother,Nao ligue
+tones_vibration_mute,Desligue tons e vibrações, exceto tons de alarme
+sound,Sons
+music,música
+notification,Notificação
+alarm,Alarme
+ultra_saving,Modo de ultra economia de energia
+edit,Editar
+disable_ultra_saving,Desativar modo de economia de energia ultra
+min_remaining,min restante
+hours,horas
+activted_ultra_saving,O modo de ultra economia de energia está ativado
+charged_in,cobrado em
+min,min
+limit_power,Limite o consumo de energia
+reduce_screen,Reduzir o brilho da tela
+restrict_bg_act_explain,Restringir atividades em segundo plano
+volatge_check,A tensão é verificada
+software_optimized,O software é otimizado
+connect_charger,Conectar carregador
+charger_removed,O carregador pode ser removido
+power_consump_title,Consumo de energia
+srcn_bg_title,Brilho do ecrã
+bg_al_activities,Atividades em segundo plano
+sftware,Programas
+get_primium,Se você comprar a versão premium, receberá todas as funções atuais, bem como todas as novas funções no futuro.
+cuztomize_face,Customização da interface do usuário
+comp_scheme,Componha seu esquema de cores do Battery Manager a partir de uma variedade de temas.
+bat_check_detail,Verificação detalhada da bateria
+check_cond_test,Use o gerenciador de bateria para verificar a condição de sua bateria para estar sempre no lado seguro.
+no_ads_yo,Sem publicidade
+use_explain_noads,Use o Gerenciador de bateria sem publicidade
+act_energy_save,Ative o modo de ultra economia de energia para aumentar a duração da bateria em caso de emergência.
+buy_title,Comprar Premium
+loc_title,Localização
+cap_title,capacidade
+cap_remain,Capacidade restante
+sleepy,Dorme
+sek,Segundos
+sing_min,Minuto
+miniotes,Minutos
+finish,Finalizado
+mobi_data,Dados móveis
+plz_rate,Avalie o Battery Manager na Play Store
+ur_data_cus,Podemos continuar a usar seus dados para personalizar anúncios para você?
+in_slep_mode,No modo de suspensão
+in_use,Em uso
+with_curr_pow,Com consumo de energia atual
+rem_bat_life,Duração restante da bateria
+qck_acc,Acesso rápido
+notif_txt,notificação
+notif_at,Notificar em
+chg_curr,corrente de carga
+charge_perm,Desempenho de carregamento
+maxi_charge_per,Desempenho máximo de carregamento
+enb_notif,Ativar notificação
+perm_send_notif,Battery Manager requer permissão para enviar uma notificação, deve ser ativado nas configurações do dispositivo.
+to_set,para as configurações
+title_autost,Ativar início automático
+auto_explain,O Gerenciador de bateria requer permissão para permanecer ativado em segundo plano para consultar o status da bateria e enviar uma notificação.
+sync_auto,Sincronizar automaticamente
+dis_auto_sync,Desativar a sincronização automática reduz significativamente os wakelocks. No entanto, algumas funções, como receber e-mail, serão perdidas.
+chg_lim,Limite de carga
+avoid_ful_explain,Se você carregar sua bateria ao máximo ou descarregá-la até que seja desligada, a condição e a vida útil da bateria serão reduzidas. A seguir, você pode definir o status mínimo e máximo de carga ou descarga da bateria e será notificado sempre que o valor limite for atingido. Evite carregar e descarregar totalmente a bateria e prolongar a vida útil da bateria.
+rec_notif,Não recebeu notificação?
+title_allow_bg_act,Permitir atividade em segundo plano
+allow_bg_act,Para que você possa usar o gerenciador de bateria sem restrições sem que ele seja fechado acidentalmente pelo sistema operacional, você pode ter que desligar funções especiais para gerenciamento de bateria e uso da bateria nas configurações. Porque os vários fabricantes diferem na designação dessas opções, dependendo do sistema operacional usado. Na área Informações do aplicativo, em Suspensão ou Bateria, selecione Sem restrições ou Permitir atividade em segundo plano.
+dev_usage,Uso do dispositivo
+dep_sleep,O sono profundo é um estado em que seu dispositivo está usando a menor quantidade de bateria. A duração do sono profundo tem um efeito positivo na economia de energia. O sono profundo pode ser interrompido por tarefas em segundo plano, o que faz com que a bateria descarregue mais rapidamente. Neste caso, reinicie o seu dispositivo.
+title_bat_temp,Temperatura da bateria
+bat_tempp,A temperatura da bateria é um dos fatores mais importantes. Se a bateria for mantida em gel em altas temperaturas, isso afetará a vida útil e o desempenho da bateria. Se a temperatura subir, a estrutura interna da bateria pode ser danificada.
+rdc_brightness,Reduzir o brilho da tela
+display_explain,O display é um dos componentes que mais consome energia. Reduzir o brilho máximo ajuda a reduzir o consumo geral e a obter economias perceptíveis. Antes de reduzir o brilho, desative o brilho automático para que o brilho não seja alterado desnecessariamente.
+tst_charge,carregador de teste
+best_way_test,A melhor forma de testar o carregador e o cabo é verificando a velocidade de carregamento com a tela desligada. A velocidade de carregamento quando a tela está ligada não é uma boa referência porque seu telefone está consumindo energia, o que causa flutuações. Conecte o carregador, desligue a tela por alguns minutos e verifique a corrente de carga máxima.
+wait_title,Espera
+rfsh_rate,Taxa de atualização
+low_sizty,Baixar a taxa de atualização para 60 Hz melhora a duração da bateria.
+drk_mode,Modo Escuro
+acti_dark_mode,Ative o Modo Escuro, no Modo Escuro consome menos energia
+actz,Ativar
+poz,Poder
+minz,Mínimo
+avgo,Média
+mixi1,Máximo
+msg_dis,A mensagem desaparece após 24 horas se houver dados suficientes para exibir o diagrama completo.
+no_enough,Não há dados suficientes para exibir
+log_graph,Em algumas horas, você verá aqui um gráfico que permitirá verificar a temperatura, tensão, amperagem e nível da bateria nas últimas 24 horas.
+week,semana
+buy_it,Comprar
+one_pur,Taxa única de
+refun_pur,a compra pode ser reembolsada em até 2 horas.
+each_month,A assinatura é renovada automaticamente a cada mês e continua a custar por mês. A assinatura pode ser cancelada a qualquer momento.
+mng_subs,gerenciar assinatura
+subsci,se inscrever
+will_cost_week,A assinatura é renovada automaticamente a cada semana e continua a custar por semana. A assinatura pode ser cancelada a qualquer momento.
+lfllong,vitalício
+mthly,por mês
+wkly,Semanalmente
+hoto,Quente
+prm_ben_title,Benefícios premium
+sync_title,Sincronizar
+dis_sync_inc,Desativar a sincronização aumentará a duração da bateria ao não sincronizar os serviços em segundo plano
+time_out,Tempo esgotado
+dec_extend,Diminuir o tempo antes de o visor desligar prolonga a vida útil da bateria
+u_end_opti,Tem certeza de que deseja encerrar o processo de otimização?
+no_why_perm,Sem permissão
+bright_exp,O gerenciador de bateria requer permissão para alterar as configurações do sistema para reduzir o brilho da tela ou desligar o Bluetooth.
+tg_title,Participe do canal do Telegram!
+tg_text,Mantenha-se atualizado com as atualizações de aplicativos, obtenha compilações iniciais e ajude a testar novos recursos. Sugira suas ideias, faça perguntas e obtenha respostas mais rapidamente
+join_tg,Junte
+curr_consumption,Consumo atual
+scrn_onn,Tela ligada
+srcn_off,tela apagada
+mob_charg,Carregando
+discha,Descarregando
+activea,Ativo
+slpmode,Modo dormir
+chagingspeed,Velocidade de carregamento atual
+dta_proxt,Proteção de dados
+governs,Esta política de privacidade rege o uso do aplicativo de software Battery Manager para dispositivos móveis criado pela Baxolino.
+info_u_provide,Informações fornecidas pelo usuário
+no_pass_per,Não cedemos dados pessoais a terceiros. Quando você nos envia um e-mail, temos seu endereço de e-mail, mas o usamos apenas para ajudá-lo com nossos aplicativos.
+info_auto_coll,Informações coletadas automaticamente
+exp_admob_use,Usamos o Google Admob para veicular anúncios. O uso desses serviços está sujeito às disposições de proteção de dados do Google em https://www.google.com/policies/privacy/.
+we_real_time,O Battery Manager coleta informações precisas de localização em tempo real do dispositivo?
+exp_loc_perm_man,O Battery Manager apenas verifica se a localização está ativada ou desativada, mas não coleta informações precisas sobre a localização do seu dispositivo móvel. Essas funções baseadas em localização são definidas por padrão. Você pode desativar ou reativar essas funções nas configurações do seu respectivo dispositivo. Antes ou depois de instalar os aplicativos, você será perguntado - dependendo do dispositivo - se prefere desativar ou ativar essas funções. Só podemos coletar dados sobre sua localização se você ativar esses serviços de localização.
+chng,Mudanças
+pri_update_exp,Esta política de privacidade pode ser atualizada de tempos em tempos por qualquer motivo. Informaremos você sobre alterações em nossa política de privacidade publicando a nova política de privacidade neste endereço da web e notificando você por meio de uma mensagem no aplicativo. Recomenda-se que você consulte regularmente esta Política de Privacidade para alterações, pois o uso continuado é considerado aprovação de todas as alterações. Você pode revisar o histórico desta política neste site.
+contct,Contato
+any_que,Se você tiver alguma dúvida sobre proteção de dados durante o uso do aplicativo ou tiver dúvidas sobre nossas práticas, envie um e-mail para baxolino.de@gmail.com
+mem_opti,O Battery Manager precisa do acesso à "memória" para que os aplicativos possam ser verificados e otimizados. Você pode desativar ou ativar essas funções nas configurações do seu respectivo dispositivo. Antes ou depois de instalar o aplicativo, você será perguntado - dependendo do dispositivo - se prefere desativar ou ativar essas funções.
+storg,Armazenar
+ble_set_acc,blue_set_perm,Battery Manager requer o acesso "Bluetooth setting access" para que possa ser verificado se o Bluetooth está ativado ou desativado. E para ativar ou desativar o Bluetooth.
+ble_title,Bluetooth
+needz_del,O Battery Manager requer o acesso "Solicitar exclusão de pacotes" para iniciar a desinstalação de um aplicativo. O aplicativo só será desinstalado se você permitir explicitamente.
+deletion_pkg,Solicitar exclusão de pacotes
+need_adnd,O Gerenciador de bateria requer acesso "Não perturbe" para ativar ou desativar o modo Não perturbe.
+adnd,Acessar Não Perturbe
+need_wlan_acc,O Gerenciador de bateria requer acesso a "Obter conexões WLAN" para que o Gerenciador de bateria possa verificar se a WLAN está ativada ou desativada. E para ativar ou desativar WLAN.
+wln_conn,Obter conexões WLAN
+shop_bill_exp,Quando você compra por meio do Google Play In App Billing, o Google nos fornece seu país de residência e, às vezes, o estado, a cidade e o CEP, mas nunca o endereço completo. Usamos essas informações para cumprir os regulamentos fiscais e contábeis.
+pri_date,A partir de 21/02/2021
+how_to_stop,Você pode interromper toda a coleta de informações pelo aplicativo simplesmente desinstalando o aplicativo. Você pode usar os processos de desinstalação padrão disponíveis como parte de seu dispositivo móvel ou por meio do mercado ou rede para aplicativos móveis.
+opt_out,Quais são meus direitos de exclusão?
+ur_permission,sua permissão
+accept_privacy,Ao usar o aplicativo, você concorda com o processamento de seus dados conforme estabelecido nesta política de privacidade e conforme alterado por nós.

@@ -1,0 +1,347 @@
+title,Battery Manager Lite ist anders
+extend_life,Der beste Weg, die Batterielebensdauer zu verlängern und Sie gesund zu halten, basiert auf Erfahrung und wissenschaftlicher Forschung.
+measured,Auf transparente Weise zeigen wir Ihnen nur die tatsächlich gemessenen Daten und wie sie berechnet werden.
+healthy,Halten Sie Ihre Batterie gesund
+double_battery,Verdoppeln Sie die Akkulaufzeit, indem Sie den Akku nicht vollständig aufladen. Wissenschaftler haben dies in ihrer Forschung bewiesen.
+charge_limit,Mit unserer Ladelimit-Benachrichtigung wird eine Benachrichtigung gesendet, wenn der Akku einen benutzerdefinierten Schwellenwert erreicht.
+smart,Es wird jeden Tag intelligenter
+analyze,Je länger Sie Battery Manager Lite verwenden, desto besser können wir die Leistung Ihres Akkus analysieren.
+update_every_time,Die Messung der verbleibenden Akkulaufzeit wird jedes Mal aktualisiert, wenn Sie Ihr Gerät verwenden oder aufladen.
+runtime,Entdecken Sie die tatsächliche Laufzeit Ihres Akkus
+discharge_cycle,Jedes Mal, wenn Ihr Telefon einen Entladezyklus durchläuft, kann eine genaue Schätzung seiner Laufzeit gemessen werden.
+accurate_life,Verwenden Sie Battery Manager Lite, um die genaue Akkulaufzeit zu messen.
+no_exit,Beenden Sie Battery Manager Lite nicht!
+bg_require,Battery Manager Lite erfordert einen Hintergrunddienst, um Akkustatistiken zu sammeln und die Lade- und Entladezeit des Akkus zu messen. Ihr Gerät stoppt wahrscheinlich den Dienst oder lässt ihn nicht laufen, wenn die App geschlossen ist. Um dies zu vermeiden, haben wir eine gute Lösung für Sie. Klicken Sie einfach auf den Link.
+man,Handbuch
+cali,Kalibrierung
+polarity,In diesem Schritt erkennt die App die Ladepolarität und die Auslegungskapazität Ihres Akkus.
+disch,Entladung
+ch_pol,Ladepolarität
+power_meter,Leistungsmesser
+unit_mesure,Maßeinheit
+capacity,Batteriekapazität
+wrong,Nicht in Ordnung?
+calib,Kalibrieren
+ye,Ja
+no,Nein
+neg,Negativ
+pos,Positiv
+lunch,App starten
+manufac,Kapazität laut Hersteller
+design_des,Die Auslegungskapazität ist die tatsächliche Batteriekapazität, gemessen in mAh. Da es keine offizielle Möglichkeit gibt, die Kapazität zu bestimmen, kann der zurückgegebene Wert falsch sein.
+correct_it,Wenn die angezeigte Kapazität nicht korrekt ist, korrigieren Sie sie bitte.
+cancel,Absagen
+ok,Okay
+runtime,Akkulaufzeit
+wait,warten
+per_hr,Batterieverbrauch pro Stunde
+life_for,Akkulaufzeit für
+battery_cond,Batteriezustand
+bat_info,Batterieinformationen
+bat_cap,Batteriekapazität
+bat_volt,Batteriespannung
+bat_cur,Batteriestrom
+unit_mes,Maßeinheit
+done,Fertig
+c_bat_temp,Aktuelle Batterietemperatur
+min_bat_tem,Minimale Batterietemperatur
+mx_bat_tem,Maximale Batterietemperatur
+avg_bat_tem,Durchschnittliche Batterietemperatur
+dig_last,Letzte Diagnose davor
+rem_time,Verbleibende Zeit
+volt,Stromspannung
+curr,Aktuell
+status,Status
+run_time,Laufzeit
+currently,Zur Zeit
+avg,Durchschnitt
+minmal,Minimal
+maximal,Maximal
+tool,Werkzeug
+rem_apps,Deinstallieren Sie Apps, die Sie nicht mehr verwenden, um zu verhindern, dass Apps unnötigerweise ausgeführt werden und Ihren Akku entladen
+uninst_apps,Apps deinstallieren
+stat,Anfang
+act_eng_save,Aktivieren Sie den Energiesparmodus, um den Batterieverbrauch zu reduzieren
+pow_save,Energiesparmodus
+tempe,Temperatur
+heal,Die Gesundheit
+tips,Halten Sie Ihre Batterie mit Tipps und Tricks in gutem Zustand.
+recomm,Empfehlungen
+prem,Prämie
+more_func,Mehr Funktionen für Sie. Holen Sie sich Premium, erhalten Sie mehr.
+more,Mehr
+ur_cond_bat,Der Batteriezustand ist
+ur_bat_life,Ihre Akkulaufzeit ist
+ur_bat_temp,Ihre Batterietemperatur ist
+wow,Exzellent
+normal,Normal
+poor,Schlecht
+days,Tage
+mins,Protokoll
+hrs,Std
+chging,Laden
+ful,Voll
+dis_chrg,Entladen
+unkn,Unbekannt
+too_lit,Zu wenig Batteriedaten
+car_any,Trotzdem durchführen
+endz_,Ende
+dig_any,Um bessere Diagnoseergebnisse zu erhalten, muss die App Ihren Akku im Hintergrund analysieren. Bitte starten Sie die Diagnose nach 24 Stunden
+end_dig,Diagnose beenden
+quit_dig,Beenden Sie die Diagnose wirklich
+batty_temp,Batterietemperatur
+akku_manager,Akku-Manager
+u_agree,Mit „START“ stimmen Sie den Datenschutzbestimmungen zu
+elemn_opti,Elemente können optimiert werden
+looks_good,Alles sieht gut aus
+optimize_,Optimieren
+toolz_,Werkzeug
+akku_check,Akku-Check
+ctrl_load,Kontrolliertes Laden
+mng_apps,Apps verwalten
+infosm,Information
+tenzion,Spannung
+electy,Elektrizität
+lvl,Eben
+akku_man_premium,Akku-Manager Premium
+premimum_highlight,Nutzen Sie den Battery Manager komplett ohne Werbung und Sie haben Zugriff auf die umfangreiche Individualisierung der Benutzeroberfläche.
+design,Entwurf
+subjs,Themen
+genrally,Allgemein
+temp_unit,Temperatureinheit
+oth_apps,Andere Apps
+dat_protect,Datenschutz
+thx_akku,Vielen Dank, dass Sie Akku Manager mit dem Kauf der Premium-Version unterstützen.
+user_got_pre,Sie haben jetzt Zugriff auf eine umfassende Anpassung der Benutzeroberfläche und eine werbefreie Nutzung.
+exp_more,Sie können weitere Funktionen in zukünftigen Updates erwarten
+ap_optimiz,App-Optimierung
+sys_bat_usage,Batterieverbrauch des Systems
+bat_usage_det,Details zur Batterienutzung
+end_optiz,Optimierung beenden
+abort,Abbrechen
+break_up,beenden
+scn,Scannen
+scn_bgh,Bildschirmhelligkeit
+dact_wlan,WLAN deaktivieren
+dact_save_batt,Deaktivieren, um Akku zu sparen
+dact,Deaktivieren
+dact_ble,Bluetooth deaktivieren
+red_brigh,Helligkeit reduzieren
+bright_txt,Reduzieren Sie die Helligkeit des Displays, um Akku zu sparen
+to_reduce,Reduzieren
+dact_gps,GPS deaktivieren
+appz_optimz,Anwendungen optimiert
+start_bat_check_det,Starten Sie einen ausführlichen Batteriecheck, um immer auf der sicheren Seite zu sein
+act_eng_save,Aktivieren Sie den Energiesparmodus, um den Batterieverbrauch zu reduzieren
+remove_useless,Deinstallieren Sie Apps, die nicht mehr verwendet werden
+premium,Prämie
+clear_mem,Speicher aufräumen
+clear_mem_des,Damit Ihr Smartphone schnell und reibungslos läuft.
+clenaup,Aufräumen
+rat,Bewertung
+rat_free,Battery Manager kostenlos bewerten
+sendz,Senden
+elmn_found,Elemente gefunden
+drumz,Schlagzeug
+status,Status
+end_akk_check,Batterietest beenden
+bat_detlz,Batteriedetails
+temp_checked,Die Temperatur wird überprüft
+cond_checked,Der Zustand der Batterie wird überprüft
+checkz_start,Batterietest beginnt
+plug_in,Eingesteckt
+techz,Technologie
+coldz,Kalt
+until,Bis um
+well,Brunnen
+ovr_heat,Überhitzung
+ovr_load,Überlast
+renam,umbenannt
+not_def,nicht definiert
+chrgz,Aufladen
+full,Voll
+unloadz,Entladung
+not_charge_unkn,nicht belastet oder unbekannt
+usb,USB
+charger,Ladegerät
+wless,kabellos
+not_at_al,gar nichts
+uninstall,Deinstallieren
+update,Aktualisieren
+setting,Einstellungen
+app,Anwendungen
+not_found,Anwendung nicht gefunden
+search,Apps suchen
+version_code,Versionscode
+api_level,API-Ebene
+app_version,App Version
+authorization,Genehmigung
+open,öffnen
+play_store,Spielladen
+control,Kontrolle
+systemstandart,Systemstandard
+white,Weiß
+dark,Dunkel
+ocean,Ozean
+black,Schwarz
+dark_blue,Dunkelblau
+excellent,Exzellent
+bad,Schlecht
+battery_bad,Akku ist leicht beschädigt
+very_bad,Sehr schlecht
+battery_damaged,Der Akku ist beschädigt
+custom_mode,Benutzerdefinierter Modus
+brightness,Helligkeit
+automatic_brightness,Automatische Helligkeit
+normal,Normal
+sound_modus,Sound-Modus
+tone_work,Alle Töne funktionieren
+mute,Stumm
+call_note_mute,Anrufe und Benachrichtigungen sind stummgeschaltet
+not_bother,kümmern Sie sich nicht
+tones_vibration_mute,Schalten Sie Töne und Vibrationen außer Alarmtönen aus
+sound,Geräusche
+music,Musik
+notification,Benachrichtigung
+alarm,Alarm
+ultra_saving,Ultra-Energiesparmodus
+edit,Bearbeiten
+disable_ultra_saving,Deaktivieren Sie den Ultra-Energiesparmodus
+min_remaining,Minute übrig
+hours,Std.
+activted_ultra_saving,Der Ultra-Energiesparmodus ist aktiviert
+charged_in,aufgeladen
+min,Mindest
+limit_power,Stromverbrauch begrenzen
+reduce_screen,Reduzieren Sie die Bildschirmhelligkeit
+restrict_bg_act_explain,Beschränken Sie Hintergrundaktivitäten
+volatge_check,Spannung wird geprüft
+software_optimized,Software ist optimiert
+connect_charger,Ladegerät anschließen
+charger_removed,Ladegerät kann entfernt werden
+power_consump_title,Energieverbrauch
+srcn_bg_title,Bildschirmhelligkeit
+bg_al_activities,Hintergrundaktivitäten
+sftware,Software
+get_primium,Wenn Sie die Premium-Version kaufen, erhalten Sie alle aktuellen Funktionen sowie alle neuen Funktionen in der Zukunft.
+cuztomize_face,Anpassung der Benutzeroberfläche
+comp_scheme,Stellen Sie Ihr Battery Manager-Farbschema aus einer Vielzahl von Themen zusammen.
+bat_check_detail,Detaillierter Batteriecheck
+check_cond_test,Prüfen Sie mit dem Battery Manager den Zustand Ihres Akkus, um immer auf der sicheren Seite zu sein.
+no_ads_yo,Keine Werbung
+use_explain_noads,Verwenden Sie Battery Manager ohne Werbung
+act_energy_save,Aktivieren Sie den Ultra-Energiesparmodus, um im Notfall die Akkulaufzeit zu verlängern.
+buy_title,Prämie kaufen
+loc_title,Ort
+cap_title,Kapazität
+cap_remain,Verbleibende Kapazität
+sleepy,Schlafen
+sek,Sekunden
+sing_min,Minute
+miniotes,Protokoll
+finish,Fertig
+mobi_data,mobile Daten
+plz_rate,Bitte bewerten Sie Battery Manager im Play Store
+ur_data_cus,Können wir Ihre Daten weiterhin verwenden, um Werbung für Sie anzupassen?
+in_slep_mode,Im Schlafmodus
+in_use,In Benutzung
+with_curr_pow,Mit aktueller Leistungsaufnahme
+rem_bat_life,Verbleibende Akkulaufzeit
+qck_acc,Schneller Zugang
+notif_txt,Benachrichtigung
+notif_at,Benachrichtigen unter
+chg_curr,Ladestrom
+charge_perm,Ladeleistung
+maxi_charge_per,Maximale Ladeleistung
+enb_notif,Aktiviere Benachrichtigungen
+perm_send_notif,Battery Manager benötigt die Erlaubnis, eine Benachrichtigung zu senden, es muss in den Einstellungen des Geräts aktiviert werden.
+to_set,Zu den Einstellungen
+title_autost,Autostart aktivieren
+auto_explain,Battery Manager benötigt die Erlaubnis, im Hintergrund aktiviert zu bleiben, um den Batteriestatus abzufragen und eine Benachrichtigung zu senden.
+sync_auto,Automatisch synchronisieren
+dis_auto_sync,Durch das Deaktivieren der automatischen Synchronisierung werden Wakelocks erheblich reduziert. Einige Funktionen wie der E-Mail-Empfang gehen jedoch verloren.
+chg_lim,Belastungslimit
+avoid_ful_explain,Wenn Sie Ihren Akku maximal aufladen oder bis zum Ausschalten entladen, verringern sich Zustand und Lebensdauer des Akkus. Im Folgenden können Sie den minimalen und maximalen Lade- bzw. Entladezustand des Akkus einstellen und werden bei jedem Erreichen des Schwellwertes benachrichtigt. Vermeiden Sie ein vollständiges Laden und Entladen Ihres Akkus und verlängern Sie die Lebensdauer des Akkus.
+rec_notif,Benachrichtigung nicht erhalten?
+title_allow_bg_act,Hintergrundaktivität zulassen
+allow_bg_act,Damit Sie den Battery Manager uneingeschränkt nutzen können, ohne dass er ungewollt vom Betriebssystem geschlossen wird, müssen Sie ggf. spezielle Funktionen zur Akkuverwaltung und Akkunutzung in den Einstellungen ausschalten. Denn die verschiedenen Hersteller unterscheiden sich in der Bezeichnung dieser Optionen je nach verwendetem Betriebssystem. Wählen Sie im Bereich „App-Informationen“ unter „Energiesparmodus“ oder „Akku“ die Option „Keine Einschränkungen“ oder „Hintergrundaktivität zulassen“.
+dev_usage,Gerätenutzung
+dep_sleep,Der Tiefschlaf ist ein Zustand, in dem Ihr Gerät am wenigsten Akku verbraucht. Die Dauer des Tiefschlafs wirkt sich positiv auf die Energieeinsparung aus. Der Tiefschlaf kann durch Hintergrundaufgaben unterbrochen werden, wodurch sich der Akku schneller entlädt. Starten Sie in diesem Fall Ihr Gerät neu.
+title_bat_temp,Batterietemperatur
+bat_tempp,Die Batterietemperatur ist einer der wichtigsten Faktoren. Wenn die Batterie Gel bei hohen Temperaturen gehalten wird, wirkt sich dies sowohl auf die Lebensdauer als auch auf die Leistung der Batterie aus. Wenn die Temperatur ansteigt, kann die interne Struktur der Batterie beschädigt werden.
+rdc_brightness,Reduzieren Sie die Bildschirmhelligkeit
+display_explain,Das Display ist eine der Komponenten, die die meiste Energie verbraucht. Die Reduzierung der maximalen Helligkeit hilft, den Gesamtverbrauch zu reduzieren und spürbare Einsparungen zu erzielen. Deaktivieren Sie vor dem Reduzieren der Helligkeit die automatische Helligkeit, damit die Helligkeit nicht unnötig verändert wird.
+tst_charge,Ladegerät testen
+best_way_test,Der beste Weg, um das Ladegerät und das Kabel zu testen, besteht darin, die Ladegeschwindigkeit bei ausgeschaltetem Bildschirm zu überprüfen. Die Ladegeschwindigkeit bei eingeschaltetem Bildschirm ist kein guter Maßstab, da Ihr Telefon Strom verbraucht, was zu Schwankungen führt. Schließen Sie das Ladegerät an, schalten Sie den Bildschirm für einige Minuten aus und überprüfen Sie dann den maximalen Ladestrom.
+wait_title,Warten
+rfsh_rate,Aktualisierungsrate
+low_sizty,Die Reduzierung der Bildwiederholfrequenz auf 60 Hz verbessert die Akkulaufzeit.
+drk_mode,Dunkler Modus
+acti_dark_mode,Dark Mode aktivieren, im Dark Mode weniger Strom verbrauchen
+actz,aktivieren Sie
+poz,Leistung
+minz,Minimum
+avgo,Durchschnitt
+mixi1,Maximal
+msg_dis,Die Meldung verschwindet nach 24 Stunden, wenn genügend Daten vorhanden sind, um das Diagramm vollständig anzuzeigen.
+no_enough,Nicht genügend Daten zum Anzeigen
+log_graph,In ein paar Stunden sehen Sie hier ein Diagramm, mit dem Sie die Batterietemperatur, Spannung, Stromstärke und den Füllstand der letzten 24 Stunden überprüfen können.
+week,Woche
+buy_it,Besorgen
+one_pur,Einmalige Gebühr von
+refun_pur,Der Kauf kann innerhalb von 2 Stunden erstattet werden.
+each_month,Das Abonnement verlängert sich jeden Monat automatisch und kostet weiterhin pro Monat. Das Abonnement kann jederzeit gekündigt werden.
+mng_subs,Abonnement verwalten
+subsci,Abonnieren
+will_cost_week,Das Abonnement verlängert sich jede Woche automatisch und kostet weiterhin pro Woche. Das Abonnement kann jederzeit gekündigt werden.
+lfllong,lebenslang
+mthly,monatlich
+wkly,Wöchentlich
+hoto,Heiß
+prm_ben_title,Premium-Vorteile
+sync_title,Synchronisieren
+dis_sync_inc,Durch das Deaktivieren der Synchronisierung wird die Akkulaufzeit verlängert, da keine Dienste im Hintergrund synchronisiert werden
+time_out,Auszeit
+dec_extend,Die Verringerung der Zeit, bevor sich das Display ausschaltet, verlängert die Batterielebensdauer
+u_end_opti,Möchten Sie den Optimierungsprozess wirklich beenden?
+no_why_perm,Keine Erlaubnis
+bright_exp,Battery Manager benötigt die Berechtigung Systemeinstellungen ändern, um die Bildschirmhelligkeit zu reduzieren oder Bluetooth zu deaktivieren.
+tg_title,Tritt dem Telegram-Kanal bei!
+tg_text,Bleiben Sie mit App-Updates auf dem Laufenden, erhalten Sie frühe Builds und helfen Sie beim Testen neuer Funktionen. Schlagen Sie Ihre Ideen vor, stellen Sie Fragen und erhalten Sie schneller Antworten
+join_tg,beitreten
+curr_consumption,derzeitiger Verbrauch
+scrn_onn,Bildschirm An
+srcn_off,Abblenden
+mob_charg,Laden
+discha,Entladen
+activea,Aktiv
+slpmode,Schlafmodus
+chagingspeed,Aktuelle Ladegeschwindigkeit
+dta_proxt,Datenschutz
+governs,Diese Datenschutzrichtlinie regelt Ihre Nutzung der Battery Manager-Softwareanwendung für mobile Geräte, die von Baxolino erstellt wurde.
+info_u_provide,Vom Benutzer bereitgestellte Informationen
+no_pass_per,Wir geben personenbezogene Daten nicht an Dritte weiter. Wenn Sie uns eine E-Mail senden, haben wir Ihre E-Mail-Adresse, aber wir verwenden sie nur, um Ihnen mit unseren Apps zu helfen.
+info_auto_coll,Automatisch gesammelte Informationen
+exp_admob_use,Wir verwenden Google Admob, um Anzeigen zu schalten. Die Nutzung dieser Dienste unterliegt den Datenschutzbestimmungen von Google unter https://www.google.com/policies/privacy/.
+we_real_time,Sammelt Battery Manager genaue Echtzeit-Standortinformationen vom Gerät?
+exp_loc_perm_man,Battery Manager prüft lediglich, ob der Standort aktiviert oder deaktiviert ist, erhebt aber keine genauen Informationen über den Standort Ihres Mobilgeräts. Solche ortsbezogenen Funktionen sind standardmäßig eingestellt. Sie können diese Funktionen in den Einstellungen Ihres jeweiligen Geräts deaktivieren oder wieder aktivieren. Vor oder nach der Installation der Apps werden Sie – je nach Gerät – gefragt, ob Sie diese Funktionen lieber deaktivieren oder aktivieren möchten. Wir können Daten über Ihren Standort nur erheben, wenn Sie solche Ortungsdienste aktivieren.
+chng,Änderungen
+pri_update_exp,Diese Datenschutzrichtlinie kann von Zeit zu Zeit aus beliebigem Grund aktualisiert werden. Wir werden Sie über Änderungen unserer Datenschutzrichtlinie informieren, indem wir die neue Datenschutzrichtlinie auf dieser Webadresse veröffentlichen und Sie über eine Nachricht in der App benachrichtigen. Es wird empfohlen, diese Datenschutzerklärung regelmäßig auf Änderungen hin zu konsultieren, da die fortgesetzte Nutzung als Zustimmung zu allen Änderungen gilt. Sie können den Verlauf dieser Richtlinie auf dieser Website einsehen.
+contct,Kontakt
+any_que,Wenn Sie Fragen zum Datenschutz bei der Nutzung der Anwendung haben oder Fragen zu unseren Praktiken haben, senden Sie bitte eine E-Mail an baxolino.de@gmail.com
+mem_opti,Battery Manager benötigt den "Speicher"-Zugriff, damit Apps gescannt und optimiert werden können. Sie können diese Funktionen in den Einstellungen Ihres jeweiligen Geräts deaktivieren oder aktivieren. Vor oder nach der Installation der App werden Sie – je nach Gerät – gefragt, ob Sie diese Funktionen lieber deaktivieren oder aktivieren möchten.
+storg,Lagerung
+ble_set_acc,blue_set_perm,Battery Manager benötigt den Zugang „Bluetooth Setting Access“, damit geprüft werden kann, ob Bluetooth aktiviert oder deaktiviert ist. Und zum Aktivieren oder Deaktivieren von Bluetooth.
+ble_title,Bluetooth
+needz_del,Battery Manager benötigt den Zugang „Löschen von Paketen anfordern“, um eine Deinstallation einer App zu starten. Die App wird nur deinstalliert, wenn Sie dies ausdrücklich zulassen.
+deletion_pkg,Löschen von Paketen anfordern
+need_adnd,Battery Manager benötigt „Nicht stören“-Zugriff, um den „Nicht stören“-Modus zu aktivieren oder zu deaktivieren.
+adnd,Greifen Sie auf „Nicht stören“ zu
+need_wlan_acc,Battery Manager benötigt Zugriff auf „Get WLAN Connections“, damit Battery Manager prüfen kann, ob WLAN aktiviert oder deaktiviert ist. Und zum Aktivieren oder Deaktivieren von WLAN.
+wln_conn,Erhalten Sie WLAN-Verbindungen
+shop_bill_exp,Wenn Sie über Google Play In App Billing einkaufen, gibt Google uns Ihr Wohnsitzland und manchmal das Bundesland, die Stadt und die Postleitzahl, aber niemals die vollständige Adresse. Wir verwenden diese Informationen, um Steuer- und Rechnungslegungsvorschriften einzuhalten.
+pri_date,Stand 21.02.2021
+how_to_stop,Sie können die gesamte Sammlung von Informationen durch die Anwendung stoppen, indem Sie einfach die Anwendung deinstallieren. Sie können die standardmäßigen Deinstallationsprozesse verwenden, die als Teil Ihres Mobilgeräts oder über den Marktplatz oder das Netzwerk für mobile Anwendungen verfügbar sind.
+opt_out,Welche Opt-out-Rechte habe ich?
+ur_permission,Ihre Genehmigung
+accept_privacy,Durch die Nutzung der Anwendung stimmen Sie unserer Verarbeitung Ihrer Daten gemäß dieser Datenschutzerklärung und der von uns geänderten Fassung zu.

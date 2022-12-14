@@ -1,0 +1,347 @@
+title,Battery Manager Lite skiriasi
+extend_life,Patirtimi ir moksliniais tyrimais pagrįstas geriausias būdas prailginti baterijos veikimo laiką ir išlaikyti jūsų sveikatą.
+measured,Skaidriai parodome tik faktiškai išmatuotus duomenis ir kaip jie apskaičiuojami.
+healthy,Laikykite savo akumuliatorių sveiką
+double_battery,Dvigubai pailginkite akumuliatoriaus veikimo laiką visiškai neįkraudami akumuliatoriaus. Mokslininkai tai įrodė savo tyrimais.
+charge_limit,Naudojant mūsų įspėjimą apie įkrovos limitą, bus išsiųstas pranešimas, kai baterija pasieks vartotojo nustatytą ribą.
+smart,Kasdien darosi vis protingesnis
+analyze,Kuo ilgiau naudosite „Battery Manager Lite“, tuo geriau galėsime analizuoti akumuliatoriaus našumą.
+update_every_time,Likęs akumuliatoriaus veikimo laikas atnaujinamas kiekvieną kartą, kai naudojate arba įkraunate įrenginį.
+runtime,Sužinokite tikrąjį akumuliatoriaus veikimo laiką
+discharge_cycle,Kiekvieną kartą, kai jūsų telefonas pereina iškrovimo ciklą, galima tiksliai įvertinti jo veikimo laiką.
+accurate_life,Norėdami tiksliai išmatuoti akumuliatoriaus veikimo laiką, naudokite „Battery Manager Lite“.
+no_exit,Neišeikite iš Battery Manager Lite!
+bg_require,„Battery Manager Lite“ reikalinga foninė paslauga, kad būtų galima rinkti akumuliatoriaus statistiką ir matuoti akumuliatoriaus įkrovimo bei išsikrovimo laiką. Tikėtina, kad jūsų įrenginys sustabdo paslaugą arba neleidžia jai paleisti, kai programa uždaryta. Norėdami to išvengti, turime jums gerą sprendimą. Tiesiog spustelėkite nuorodą.
+man,vadovas
+cali,Kalibravimas
+polarity,Atlikdama šį veiksmą, programa nustato įkrovimo poliškumą ir baterijos projektinę talpą.
+disch,Iškrovimas
+ch_pol,Įkrovimo poliškumas
+power_meter,Galios matuoklis
+unit_mesure,Matavimo vienetas
+capacity,Baterijos talpa
+wrong,Neteisus?
+calib,Kalibruoti
+ye,Taip
+no,Nr
+neg,Neigiamas
+pos,Teigiamas
+lunch,Paleiskite programą
+manufac,Talpa pagal gamintoją
+design_des,Projektinė talpa yra tikroji akumuliatoriaus talpa, matuojama mAh. Kadangi nėra oficialaus būdo nustatyti pajėgumą, grąžinama vertė gali būti klaidinga.
+correct_it,Jei rodoma talpa neteisinga, pataisykite ją.
+cancel,Atšaukti
+ok,Gerai
+runtime,Baterijos veikimo laikas
+wait,laukimas
+per_hr,Baterijos suvartojimas per valandą
+life_for,Baterijos veikimo laikas skirtas
+battery_cond,Baterijos būklė
+bat_info,Informacija apie akumuliatorių
+bat_cap,Baterijos talpa
+bat_volt,Akumuliatoriaus įtampa
+bat_cur,Akumuliatoriaus srovė
+unit_mes,Matavimo vienetas
+done,padaryta
+c_bat_temp,Dabartinė akumuliatoriaus temperatūra
+min_bat_tem,Minimali akumuliatoriaus temperatūra
+mx_bat_tem,Maksimali akumuliatoriaus temperatūra
+avg_bat_tem,Vidutinė akumuliatoriaus temperatūra
+dig_last,Paskutinė diagnozė prieš
+rem_time,Likęs laikas
+volt,Įtampa
+curr,Dabartinė
+status,Būsena
+run_time,Veikimo laikas
+currently,Šiuo metu
+avg,Vidutinis
+minmal,Minimalus
+maximal,Maksimalus
+tool,Įrankiai
+rem_apps,Pašalinkite nebenaudojamas programas, kad programos be reikalo neveiktų ir neišeikvotumėte akumuliatoriaus
+uninst_apps,Pašalinkite programas
+stat,Pradėti
+act_eng_save,Įjunkite energijos taupymo režimą, kad sumažintumėte akumuliatoriaus suvartojimą
+pow_save,Energijos taupymo rėžimas
+tempe,Temperatūra
+heal,Sveikata
+tips,Laikykite savo akumuliatorių geros būklės, naudodamiesi patarimais ir gudrybėmis.
+recomm,Rekomendacijos
+prem,Premija
+more_func,Daugiau funkcijų jums. Gaukite aukščiausios kokybės, gaukite daugiau.
+more,Daugiau
+ur_cond_bat,Akumuliatoriaus būklė yra
+ur_bat_life,Jūsų akumuliatoriaus veikimo laikas yra
+ur_bat_temp,Jūsų akumuliatoriaus temperatūra yra
+wow,Puikiai
+normal,Normalus
+poor,Prastai
+days,Dienos
+mins,Minutės
+hrs,Valandos
+chging,Įkrovimas
+ful,Pilnas
+dis_chrg,Išsikrovimas
+unkn,Nežinoma
+too_lit,Per mažai baterijos duomenų
+car_any,Vis tiek vykdyk
+endz_,Pabaiga
+dig_any,Norint gauti geresnių diagnostikos rezultatų, programa turi analizuoti akumuliatoriaus būklę fone. Pradėkite diagnozę po 24 valandų
+end_dig,Baigti diagnozę
+quit_dig,Tikrai nutraukite diagnozę
+batty_temp,Baterijos temperatūra
+akku_manager,Akku vadybininkas
+u_agree,Naudodami „START“ sutinkate su duomenų apsaugos taisyklėmis
+elemn_opti,Elementus galima optimizuoti
+looks_good,Viskas atrodo gerai
+optimize_,Optimizuoti
+toolz_,Įrankiai
+akku_check,Akku patikrinimas
+ctrl_load,Kontroliuojamas pakrovimas
+mng_apps,Tvarkyti programas
+infosm,Informacija
+tenzion,įtampa
+electy,elektros
+lvl,Lygis
+akku_man_premium,Akku Manager Premium
+premimum_highlight,Naudokite Battery Manager visiškai be reklamos ir turėsite prieigą prie plataus vartotojo sąsajos tinkinimo.
+design,Dizainas
+subjs,dalykų
+genrally,Apskritai
+temp_unit,Temperatūros vienetas
+oth_apps,Kitos programos
+dat_protect,Duomenų apsauga
+thx_akku,Dėkojame, kad palaikote Akku Manager įsigyjant aukščiausios kokybės versiją.
+user_got_pre,Dabar turite prieigą prie plataus vartotojo sąsajos tinkinimo ir naudojimo be reklamos.
+exp_more,Būsimuose atnaujinimuose galite tikėtis daugiau funkcijų
+ap_optimiz,Programėlės optimizavimas
+sys_bat_usage,Sistemos akumuliatoriaus suvartojimas
+bat_usage_det,Išsami informacija apie akumuliatoriaus naudojimą
+end_optiz,Užbaikite optimizavimą
+abort,Nutraukti
+break_up,išsiskirti
+scn,skanuoti
+scn_bgh,Ekrano ryškumas
+dact_wlan,Išjunkite WLAN
+dact_save_batt,Išjunkite, kad taupytumėte akumuliatorių
+dact,Išjungti
+dact_ble,Išjunkite „Bluetooth“.
+red_brigh,Sumažinti ryškumą
+bright_txt,Sumažinkite ekrano ryškumą, kad taupytumėte akumuliatoriaus energiją
+to_reduce,Siekiant sumažinti
+dact_gps,Išjunkite GPS
+appz_optimz,Programos optimizuotos
+start_bat_check_det,Pradėkite išsamų akumuliatoriaus patikrinimą, kad visada būtumėte saugūs
+act_eng_save,Įjunkite energijos taupymo režimą, kad sumažintumėte akumuliatoriaus suvartojimą
+remove_useless,Pašalinkite nebenaudojamas programas
+premium,Premija
+clear_mem,Išvalykite atmintį
+clear_mem_des,Kad jūsų išmanusis telefonas veiktų greitai ir sklandžiai.
+clenaup,Išvalyti
+rat,įvertinimas
+rat_free,Įvertinkite Battery Manager nemokamai
+sendz,Siųsti
+elmn_found,Rasti elementai
+drumz,Būgnai
+status,Būsena
+end_akk_check,Baigti akumuliatoriaus patikrinimą
+bat_detlz,Baterijos detalės
+temp_checked,Temperatūra tikrinama
+cond_checked,Akumuliatoriaus būklė patikrinama
+checkz_start,Pradedamas akumuliatoriaus patikrinimas
+plug_in,Prijungtas
+techz,Technologijos
+coldz,Šalta
+until,Iki
+well,Na
+ovr_heat,Perkaitimas
+ovr_load,Perkrova
+renam,pervadinta
+not_def,neapibrėžtas
+chrgz,Įkrauti
+full,Pilnas
+unloadz,Iškrovimas
+not_charge_unkn,neapmokestintas arba nežinomas
+usb,USB
+charger,įkroviklis
+wless,bevielis
+not_at_al,visiškai nieko
+uninstall,Pašalinkite
+update,Atnaujinti
+setting,Nustatymai
+app,Programėlės
+not_found,Programa nerasta
+search,Ieškoti programų
+version_code,Versijos kodas
+api_level,API lygis
+app_version,Programos versija
+authorization,įgaliojimas
+open,atidaryti
+play_store,Zaidimu parduotuve
+control,kontrolė
+systemstandart,Sistemos standartas
+white,Baltas
+dark,Tamsus
+ocean,Vandenynas
+black,Juoda
+dark_blue,Tamsiai mėlyna
+excellent,Puikiai
+bad,Blogai
+battery_bad,Baterija šiek tiek pažeista
+very_bad,Labai blogai
+battery_damaged,Baterija pažeista
+custom_mode,Pasirinktinis režimas
+brightness,Ryškumas
+automatic_brightness,Automatinis ryškumas
+normal,Normalus
+sound_modus,Sound Modus
+tone_work,Visi tonai veikia
+mute,Nutildyti
+call_note_mute,Skambučiai ir pranešimai nutildyti
+not_bother,Nesivarginkit
+tones_vibration_mute,Išjunkite tonus ir vibraciją, išskyrus žadintuvo tonus
+sound,Garsai
+music,muzika
+notification,Pranešimas
+alarm,Signalizacija
+ultra_saving,Ultra energijos taupymo režimas
+edit,Redaguoti
+disable_ultra_saving,Išjunkite itin energijos taupymo režimą
+min_remaining,liko min
+hours,valandų
+activted_ultra_saving,Įjungtas itin energijos taupymo režimas
+charged_in,įkrautas
+min,min
+limit_power,Apriboti energijos suvartojimą
+reduce_screen,Sumažinkite ekrano ryškumą
+restrict_bg_act_explain,Apriboti foninę veiklą
+volatge_check,Tikrinama įtampa
+software_optimized,Programinė įranga optimizuota
+connect_charger,Prijunkite įkroviklį
+charger_removed,Įkroviklį galima išimti
+power_consump_title,Energijos sąnaudos
+srcn_bg_title,Ekrano ryškumas
+bg_al_activities,Fono veikla
+sftware,Programinė įranga
+get_primium,Jei įsigysite aukščiausios kokybės versiją, gausite visas dabartines ir visas naujas funkcijas ateityje.
+cuztomize_face,Vartotojo sąsajos pritaikymas
+comp_scheme,Sukurkite savo Battery Manager spalvų schemą iš įvairių temų.
+bat_check_detail,Išsamus akumuliatoriaus patikrinimas
+check_cond_test,Naudodami Battery Manager patikrinkite akumuliatoriaus būklę, kad visada būtumėte saugūs.
+no_ads_yo,Jokios reklamos
+use_explain_noads,Naudokite „Battery Manager“ be jokios reklamos
+act_energy_save,Įjunkite itin energijos taupymo režimą, kad pailgintumėte akumuliatoriaus veikimo laiką kritiniu atveju.
+buy_title,Pirkite Premium
+loc_title,Vieta
+cap_title,talpa
+cap_remain,Likęs pajėgumas
+sleepy,Miegoti
+sek,sekundės
+sing_min,Minutė
+miniotes,Minutės
+finish,Baigta
+mobi_data,Mobilus duomenys
+plz_rate,Įvertinkite „Battery Manager“ „Play“ parduotuvėje
+ur_data_cus,Ar galime ir toliau naudoti jūsų duomenis, kad pritaikytume jums reklamas?
+in_slep_mode,Miego režimu
+in_use,Vartojamas
+with_curr_pow,Esant dabartiniam energijos suvartojimui
+rem_bat_life,Likęs akumuliatoriaus veikimo laikas
+qck_acc,Greita prieiga
+notif_txt,pranešimas
+notif_at,Pranešti adresu
+chg_curr,Įkrovimo srovė
+charge_perm,Įkrovimo našumas
+maxi_charge_per,Maksimalus įkrovimo našumas
+enb_notif,Įgalinti pranešimą
+perm_send_notif,„Battery Manager“ reikalauja leidimo siųsti pranešimą, jis turi būti suaktyvintas įrenginio nustatymuose.
+to_set,Į nustatymus
+title_autost,Suaktyvinkite automatinį paleidimą
+auto_explain,„Battery Manager“ reikalauja leidimo likti aktyvuotai fone, kad galėtų pateikti užklausą apie akumuliatoriaus būseną ir išsiųsti pranešimą.
+sync_auto,Sinchronizuoti automatiškai
+dis_auto_sync,Automatinio sinchronizavimo išjungimas žymiai sumažina „wakelock“ skaičių. Tačiau kai kurios funkcijos, pvz., el. pašto gavimas, bus prarastos.
+chg_lim,Apmokestinimo limitas
+avoid_ful_explain,Jei akumuliatorių įkraunate maksimaliai arba iškraunate, kol jis bus išjungtas, akumuliatoriaus būklė ir tarnavimo laikas sumažės. Toliau galite nustatyti minimalų ir maksimalų akumuliatoriaus įkrovimo arba iškrovimo būseną ir jums bus pranešta kiekvieną kartą, kai pasieksite slenkstinę vertę. Venkite vieno visiškai įkrauti ir neiškrauti akumuliatoriaus ir prailginkite akumuliatoriaus tarnavimo laiką.
+rec_notif,Negavote pranešimo?
+title_allow_bg_act,Leisti foninę veiklą
+allow_bg_act,Kad galėtumėte naudoti Battery Manager be apribojimų ir operacinė sistema jos netyčia neuždarytų, nustatymuose gali tekti išjungti specialias akumuliatoriaus valdymo ir akumuliatoriaus naudojimo funkcijas. Kadangi skirtingi gamintojai skiriasi šių parinkčių žymėjimu, priklausomai nuo naudojamos operacinės sistemos. Programos informacijos srities dalyje Miego režimas arba Akumuliatorius pasirinkite Jokių apribojimų arba Leisti foninę veiklą.
+dev_usage,Įrenginio naudojimas
+dep_sleep,Gilus miegas – tai būsena, kai įrenginys naudoja mažiausiai akumuliatoriaus energijos. Gilaus miego trukmė teigiamai veikia energijos taupymą. Gilų miegą gali nutraukti foninės užduotys, todėl akumuliatorius išsikrauna greičiau. Tokiu atveju iš naujo paleiskite įrenginį.
+title_bat_temp,Baterijos temperatūra
+bat_tempp,Akumuliatoriaus temperatūra yra vienas iš svarbiausių veiksnių. Jei akumuliatorius laikomas gelyje aukštoje temperatūroje, tai turi įtakos ir akumuliatoriaus tarnavimo laikui, ir veikimui. Jei temperatūra pakyla, gali būti pažeista vidinė akumuliatoriaus konstrukcija.
+rdc_brightness,Sumažinkite ekrano ryškumą
+display_explain,Ekranas yra vienas iš komponentų, sunaudojančių daugiausia energijos. Maksimalaus ryškumo sumažinimas padeda sumažinti bendrą suvartojimą ir pastebimai sutaupyti. Prieš mažindami ryškumą, išjunkite automatinį ryškumą, kad ryškumas nebūtų keičiamas be reikalo.
+tst_charge,Bandomasis įkroviklis
+best_way_test,Geriausias būdas patikrinti įkroviklį ir laidą yra patikrinti įkrovimo greitį išjungus ekraną. Įkrovimo greitis, kai ekranas įjungtas, nėra geras etalonas, nes jūsų telefonas vartoja energiją, o tai sukelia svyravimus. Įjunkite įkroviklį, kelioms minutėms išjunkite ekraną ir patikrinkite maksimalią įkrovimo srovę.
+wait_title,Laukia
+rfsh_rate,Atnaujinimo dažnis
+low_sizty,Sumažinus atnaujinimo dažnį iki 60 Hz, pailgėja baterijos veikimo laikas.
+drk_mode,Tamsusis režimas
+acti_dark_mode,Įjunkite tamsųjį režimą, tamsaus režimu sunaudojama mažiau energijos
+actz,Suaktyvinti
+poz,Galia
+minz,Minimumas
+avgo,Vidutinis
+mixi1,Maksimalus
+msg_dis,Pranešimas dingsta po 24 valandų, jei yra pakankamai duomenų, kad būtų rodoma visa diagrama.
+no_enough,Nepakanka duomenų rodyti
+log_graph,Po kelių valandų čia pamatysite grafiką, kuris leis patikrinti baterijos temperatūrą, įtampą, srovės stiprumą ir lygį per pastarąsias 24 valandas.
+week,savaitę
+buy_it,Pirkti
+one_pur,Vienkartinis mokestis
+refun_pur,pirkinys gali būti grąžintas per 2 valandas.
+each_month,Prenumerata automatiškai atnaujinama kiekvieną mėnesį ir toliau kainuoja per mėnesį. Prenumerata gali būti atšaukta bet kuriuo metu.
+mng_subs,valdyti prenumeratą
+subsci,Prenumeruoti
+will_cost_week,Prenumerata automatiškai atnaujinama kiekvieną savaitę ir toliau kainuoja per savaitę. Prenumerata gali būti atšaukta bet kuriuo metu.
+lfllong,visą gyvenimą
+mthly,kas mėnesį
+wkly,Kas savaitę
+hoto,Karšta
+prm_ben_title,Premium privalumai
+sync_title,Sinchronizuoti
+dis_sync_inc,Išjungus sinchronizavimą pailgės baterijos veikimo laikas, nes paslaugos nesinchronizuojamos fone
+time_out,Laikas baigėsi
+dec_extend,Sumažinus laiką, kol ekranas išsijungia, pailgėja baterijos veikimo laikas
+u_end_opti,Ar tikrai norite baigti optimizavimo procesą?
+no_why_perm,Nėra leidimo
+bright_exp,Battery Manager reikalingas leidimas Keisti sistemos nustatymus, kad sumažintų ekrano ryškumą arba išjungtų „Bluetooth“.
+tg_title,Prisijunkite prie Telegram kanalo!
+tg_text,Sekite programos naujinius, gaukite ankstyvas versijas ir padėkite išbandyti naujas funkcijas. Siūlykite savo idėjas, užduokite klausimus ir greičiau gaukite atsakymus
+join_tg,prisijungti
+curr_consumption,srovės suvartojimas
+scrn_onn,ekranas įjungtas
+srcn_off,ekranas išjungtas
+mob_charg,Įkrovimas
+discha,Išsikrovimas
+activea,Aktyvus
+slpmode,Miegojimo rezimas
+chagingspeed,Dabartinis įkrovimo greitis
+dta_proxt,Duomenų apsauga
+governs,Ši privatumo politika reglamentuoja „Baxolino“ sukurtos Battery Manager programinės įrangos, skirtos mobiliesiems įrenginiams, naudojimą.
+info_u_provide,Vartotojo pateikta informacija
+no_pass_per,Mes neperduodame asmens duomenų trečiosioms šalims. Kai siunčiate mums el. laišką, turime jūsų el. pašto adresą, bet naudojame jį tik norėdami padėti jums su mūsų programėlėmis.
+info_auto_coll,Informacija renkama automatiškai
+exp_admob_use,Skelbimams teikti naudojame Google Admob. Naudojantis šiomis paslaugomis taikomos „Google“ duomenų apsaugos nuostatos adresu https://www.google.com/policies/privacy/.
+we_real_time,Ar „Battery Manager“ iš įrenginio renka tikslią vietos informaciją realiuoju laiku?
+exp_loc_perm_man,Battery Manger tik tikrina, ar vieta suaktyvinta ar išjungta, bet nerenka jokios tikslios informacijos apie jūsų mobiliojo įrenginio vietą. Tokios vietos pagrįstos funkcijos nustatomos pagal numatytuosius nustatymus. Šias funkcijas galite išjungti arba iš naujo įjungti atitinkamo įrenginio nustatymuose. Prieš diegiant arba įdiegus programėles, jūsų paklaus – priklausomai nuo įrenginio – ar norėtumėte išjungti ar suaktyvinti šias funkcijas. Duomenis apie jūsų buvimo vietą galime rinkti tik tuo atveju, jei suaktyvinsite tokias vietos nustatymo paslaugas.
+chng,Pakeitimai
+pri_update_exp,Ši privatumo politika gali būti kartkartėmis atnaujinama dėl bet kokios priežasties. Informuosime apie privatumo politikos pakeitimus paskelbdami naują privatumo politiką šiuo interneto adresu ir pranešdami programėlėje. Dėl pakeitimų rekomenduojama reguliariai susipažinti su šia Privatumo politika, nes tolesnis naudojimasis laikomas visų pakeitimų patvirtinimu. Šios politikos istoriją galite peržiūrėti šioje svetainėje.
+contct,kontaktas
+any_que,Jei turite klausimų dėl duomenų apsaugos naudojant programą arba turite klausimų apie mūsų praktiką, atsiųskite el. laišką adresu baxolino.de@gmail.com
+mem_opti,„Battery Manager“ reikalinga „atminties“ prieiga, kad programas būtų galima nuskaityti ir optimizuoti. Šias funkcijas galite išjungti arba įjungti atitinkamo įrenginio nustatymuose. Prieš diegiant arba įdiegus programėlę, jūsų paklaus – priklausomai nuo įrenginio – ar norėtumėte išjungti ar suaktyvinti šias funkcijas.
+storg,Sandėliavimas
+ble_set_acc,blue_set_perm,Battery Manager reikalauja prieigos „Bluetooth“ nustatymų prieigos, kad būtų galima patikrinti, ar „Bluetooth“ įjungtas, ar išjungtas. Ir įjungti arba išjungti Bluetooth.
+ble_title,Bluetooth
+needz_del,„Battery Manager“ reikalauja prieigos „Prašyti ištrinti paketus“, kad būtų pradėtas programos pašalinimas. Programa bus pašalinta tik tuo atveju, jei tai aiškiai leisite.
+deletion_pkg,Prašyti ištrinti paketus
+need_adnd,„Battery Manager“ reikalauja prieigos „Netrukdyti“, kad būtų įjungtas arba išjungtas režimas „Netrukdyti“.
+adnd,Pasiekite netrukdymo režimą
+need_wlan_acc,„Battery Manager“ reikalauja prieigos prie „Gauti WLAN ryšius“, kad „Battery Manager“ galėtų patikrinti, ar WLAN įjungtas ar išjungtas. Ir įjungti arba išjungti WLAN.
+wln_conn,Gaukite WLAN ryšius
+shop_bill_exp,Kai perkate per „Google Play“ atsiskaitymą programoje, „Google“ mums pateikia jūsų gyvenamąją šalį ir kartais valstiją, miestą ir pašto kodą, bet ne visą adresą. Šią informaciją naudojame siekdami laikytis mokesčių ir apskaitos taisyklių.
+pri_date,Nuo 2021-02-21
+how_to_stop,Galite sustabdyti visą programos informacijos rinkimą tiesiog pašalindami programą. Galite naudoti standartinius pašalinimo procesus, kurie yra mobiliojo įrenginio dalis arba mobiliųjų programų prekyvietėje ar tinkle.
+opt_out,Kokios yra mano atsisakymo teisės?
+ur_permission,jūsų leidimas
+accept_privacy,Naudodamiesi programa jūs sutinkate, kad mes tvarkytume jūsų duomenis, kaip nurodyta šioje privatumo politikoje ir su mūsų pakeitimais.

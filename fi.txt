@@ -1,0 +1,347 @@
+title,Battery Manager Lite on erilainen
+extend_life,Paras tapa pidentää akun käyttöikää ja pitää sinut terveenä perustuu kokemukseen ja tieteelliseen tutkimukseen.
+measured,Näytämme läpinäkyvällä tavalla vain todellisuudessa mitatut tiedot ja sen laskentatavan.
+healthy,Pidä akku terveenä
+double_battery,Kaksinkertaista akun käyttöikää jättämällä lataamatta akkua täyteen. Tiedemiehet ovat todistaneet tämän tutkimuksissaan.
+charge_limit,Latausraja-ilmoituksemme avulla lähetetään ilmoitus, kun akku saavuttaa käyttäjän määrittämän kynnyksen.
+smart,Se tulee älykkäämmäksi joka päivä
+analyze,Mitä kauemmin käytät Battery Manager Litea, sitä paremmin pystymme analysoimaan akun suorituskykyä.
+update_every_time,Akun jäljellä olevan käyttöajan mittaus päivitetään aina, kun käytät tai lataat laitetta.
+runtime,Tutustu akun todelliseen käyttöaikaan
+discharge_cycle,Joka kerta, kun puhelimesi käy läpi purkausjakson, sen käyttöajasta voidaan mitata tarkka arvio.
+accurate_life,Käytä Battery Manager Lite -ohjelmaa akun tarkan käyttöiän mittaamiseen.
+no_exit,Älä poistu Battery Manager Lite -sovelluksesta!
+bg_require,Battery Manager Lite vaatii taustapalvelun akkutilastojen keräämiseen ja akun lataus- ja purkuajan mittaamiseen. Laitteesi todennäköisesti pysäyttää palvelun tai ei anna sen toimia, kun sovellus on suljettu. Tämän välttämiseksi meillä on sinulle hyvä ratkaisu. Napsauta vain linkkiä.
+man,Manuaalinen
+cali,Kalibrointi
+polarity,Tässä vaiheessa sovellus havaitsee latausnapaisuuden ja akun suunnittelukapasiteetin.
+disch,Purkaa
+ch_pol,Latausnapaisuus
+power_meter,Voimamittari
+unit_mesure,Mittayksikkö
+capacity,Akun kapasiteetti
+wrong,Ei oikein?
+calib,Kalibroida
+ye,Joo
+no,Ei
+neg,Negatiivinen
+pos,Positiivinen
+lunch,Käynnistä sovellus
+manufac,Kapasiteetti valmistajan mukaan
+design_des,Suunniteltu kapasiteetti on todellinen akun kapasiteetti mitattuna mAh. Koska ei ole virallista tapaa määrittää kapasiteettia, palautettu arvo voi olla väärä.
+correct_it,Jos näytettävä kapasiteetti ei ole oikea, korjaa se.
+cancel,Peruuttaa
+ok,Okei
+runtime,Akun käyttöaika
+wait,odottaa
+per_hr,Akun kulutus tunnissa
+life_for,Akun käyttöikä varten
+battery_cond,Akun kunto
+bat_info,Akun tiedot
+bat_cap,Akun kapasiteetti
+bat_volt,Akun jännite
+bat_cur,Akun virta
+unit_mes,Mittayksikkö
+done,Tehty
+c_bat_temp,Akun nykyinen lämpötila
+min_bat_tem,Akun vähimmäislämpötila
+mx_bat_tem,Akun enimmäislämpötila
+avg_bat_tem,Akun keskilämpötila
+dig_last,Viimeisin diagnoosi ennen
+rem_time,Jäljellä oleva aika
+volt,Jännite
+curr,Nykyinen
+status,Tila
+run_time,Käyntiaika
+currently,Tällä hetkellä
+avg,Keskiverto
+minmal,Minimaalinen
+maximal,Enimmäismäärä
+tool,Työkalut
+rem_apps,Poista sovellukset, joita et enää käytä, jotta sovellukset eivät käynnisty tarpeettomasti ja akku tyhjenevät
+uninst_apps,Poista sovellukset
+stat,alkaa
+act_eng_save,Aktivoi energiansäästötila vähentääksesi akun kulutusta
+pow_save,Virransäästötila
+tempe,Lämpötila
+heal,Terveys
+tips,Pidä akkusi hyvässä kunnossa vinkeillä ja temppuilla.
+recomm,Suositukset
+prem,Premium
+more_func,Lisää toimintoja sinulle. Hanki premium, hanki enemmän.
+more,Lisää
+ur_cond_bat,Akun kunto on
+ur_bat_life,Akun kestoaika on
+ur_bat_temp,Akun lämpötila on
+wow,Erinomainen
+normal,Normaali
+poor,Huonosti
+days,päivää
+mins,Pöytäkirja
+hrs,Tuntia
+chging,Lataus
+ful,Koko
+dis_chrg,Purkautuminen
+unkn,Tuntematon
+too_lit,Liian vähän akkutietoja
+car_any,Suorita joka tapauksessa
+endz_,Loppu
+dig_any,Parempien diagnostisten tulosten saamiseksi sovelluksen on analysoitava akkusi taustalla. Aloita diagnoosi 24 tunnin kuluttua
+end_dig,Lopeta diagnoosi
+quit_dig,Lopeta todellakin diagnoosi
+batty_temp,Akun lämpötila
+akku_manager,Akku Manager
+u_agree,"START":lla hyväksyt tietosuojasäännökset
+elemn_opti,Elementit voidaan optimoida
+looks_good,Kaikki näyttää hyvältä
+optimize_,Optimoida
+toolz_,Työkalut
+akku_check,Akku Tarkista
+ctrl_load,Ohjattu lastaus
+mng_apps,Hallinnoi sovelluksia
+infosm,Tiedot
+tenzion,jännitystä
+electy,sähköä
+lvl,Taso
+akku_man_premium,Akku Manager Premium
+premimum_highlight,Käytä Battery Manageria täysin ilman mainoksia ja sinulla on pääsy käyttöliittymän laajaan mukauttamiseen.
+design,Design
+subjs,aiheita
+genrally,Yleisesti
+temp_unit,Lämpötilayksikkö
+oth_apps,Muut sovellukset
+dat_protect,Datan suojelu
+thx_akku,Kiitos, että tuet Akku Manageria premium-version hankinnassa.
+user_got_pre,Sinulla on nyt pääsy laajaan käyttöliittymän ja käytön mukauttamiseen ilman mainoksia.
+exp_more,Voit odottaa lisää ominaisuuksia tulevissa päivityksissä
+ap_optimiz,Sovelluksen optimointi
+sys_bat_usage,Järjestelmän akun kulutus
+bat_usage_det,Akun käyttötiedot
+end_optiz,Lopeta optimointi
+abort,Keskeyttää
+break_up,erota
+scn,skannata
+scn_bgh,Näytön kirkkaus
+dact_wlan,Poista WLAN käytöstä
+dact_save_batt,Poista käytöstä säästääksesi akkua
+dact,Poista käytöstä
+dact_ble,Poista Bluetooth käytöstä
+red_brigh,Vähennä kirkkautta
+bright_txt,Vähennä näytön kirkkautta säästääksesi akkua
+to_reduce,Vähentää
+dact_gps,Poista GPS käytöstä
+appz_optimz,Sovellukset optimoitu
+start_bat_check_det,Aloita yksityiskohtainen akun tarkistus ollaksesi aina turvassa
+act_eng_save,Aktivoi energiansäästötila vähentääksesi akun kulutusta
+remove_useless,Poista sovellukset, joita ei enää käytetä
+premium,Premium
+clear_mem,Puhdista muisti
+clear_mem_des,Jotta älypuhelimesi toimii nopeasti ja sujuvasti.
+clenaup,Siivota
+rat,luokitus
+rat_free,Arvioi Battery Manager ilmaiseksi
+sendz,Lähettää
+elmn_found,Elementtejä löydetty
+drumz,Rummut
+status,Tila
+end_akk_check,Lopeta akun tarkistus
+bat_detlz,Akun tiedot
+temp_checked,Lämpötila tarkistetaan
+cond_checked,Akun kunto tarkistetaan
+checkz_start,Akun tarkistus alkaa
+plug_in,Kytketty
+techz,Tekniikka
+coldz,Kylmä
+until,Siihen asti kun
+well,Hyvin
+ovr_heat,Ylikuumeneminen
+ovr_load,Ylikuormitus
+renam,nimetty uudelleen
+not_def,ei määritelty
+chrgz,Lataa
+full,Koko
+unloadz,Purku
+not_charge_unkn,ei veloitettu tai tuntematon
+usb,USB
+charger,laturi
+wless,langaton
+not_at_al,ei mitään
+uninstall,Poista asennus
+update,Päivittää
+setting,asetukset
+app,Sovellukset
+not_found,Sovellusta ei löydy
+search,Hae sovelluksia
+version_code,Versiokoodi
+api_level,API-taso
+app_version,Sovelluksen versio
+authorization,valtuutus
+open,avata
+play_store,Pelikauppa
+control,ohjata
+systemstandart,Järjestelmästandardi
+white,Valkoinen
+dark,Tumma
+ocean,valtameri
+black,Musta
+dark_blue,Tummansininen
+excellent,Erinomainen
+bad,Huono
+battery_bad,Akku on hieman vaurioitunut
+very_bad,Todella paha
+battery_damaged,Akku on vaurioitunut
+custom_mode,Mukautettu tila
+brightness,Kirkkaus
+automatic_brightness,Automaattinen kirkkaus
+normal,Normaali
+sound_modus,Sound Modus
+tone_work,Kaikki äänet toimivat
+mute,Mykistä
+call_note_mute,Puhelut ja ilmoitukset on mykistetty
+not_bother,Älä vaivaudu
+tones_vibration_mute,Poista äänet ja värinät hälytysääniä lukuun ottamatta
+sound,Äänet
+music,musiikkia
+notification,Ilmoitus
+alarm,Hälytys
+ultra_saving,Erittäin energiansäästötila
+edit,muokata
+disable_ultra_saving,Poista Ultra Energy Saving Mode käytöstä
+min_remaining,min jäljellä
+hours,tuntia
+activted_ultra_saving,Ultra-energiansäästötila on aktivoitu
+charged_in,ladattu sisään
+min,min
+limit_power,Rajoita virrankulutusta
+reduce_screen,Vähennä näytön kirkkautta
+restrict_bg_act_explain,Rajoita taustatoimintoja
+volatge_check,Jännite tarkistetaan
+software_optimized,Ohjelmisto on optimoitu
+connect_charger,Liitä laturi
+charger_removed,Laturi voidaan irrottaa
+power_consump_title,Tehon kulutus
+srcn_bg_title,Näytön kirkkaus
+bg_al_activities,Taustatoimintaa
+sftware,Ohjelmisto
+get_primium,Jos ostat premium-version, saat kaikki nykyiset toiminnot sekä kaikki uudet toiminnot tulevaisuudessa.
+cuztomize_face,Käyttöliittymän mukauttaminen
+comp_scheme,Laadi Battery Manager -väriteema useista eri teemoista.
+bat_check_detail,Yksityiskohtainen akun tarkistus
+check_cond_test,Käytä Battery Manageria akun kunnon tarkistamiseen, jotta pysyt aina turvassa.
+no_ads_yo,Ei mainontaa
+use_explain_noads,Käytä Battery Manageria ilman mainoksia
+act_energy_save,Aktivoi ultraenergiansäästötila akun käyttöiän pidentämiseksi hätätilanteessa.
+buy_title,Osta Premium
+loc_title,Sijainti
+cap_title,kapasiteettia
+cap_remain,Jäljellä oleva kapasiteetti
+sleepy,Nukkua
+sek,Sekuntia
+sing_min,Minuutti
+miniotes,Pöytäkirja
+finish,Valmis
+mobi_data,Mobiilidata
+plz_rate,Arvioi Battery Manager Play Kaupassa
+ur_data_cus,Voimmeko jatkaa tietojesi käyttöä mainosten räätälöimiseen puolestasi?
+in_slep_mode,Lepotilassa
+in_use,Käytössä
+with_curr_pow,Nykyisellä virrankulutuksella
+rem_bat_life,Akun jäljellä oleva käyttöikä
+qck_acc,Nopea pääsy
+notif_txt,ilmoitus
+notif_at,Ilmoita osoitteessa
+chg_curr,Latausvirta
+charge_perm,Lataussuorituskyky
+maxi_charge_per,Suurin latausteho
+enb_notif,Ota ilmoitus käyttöön
+perm_send_notif,Battery Manager vaatii luvan lähettää ilmoitus, se on aktivoitava laitteen asetuksista.
+to_set,Asetuksiin
+title_autost,Aktivoi Autostart
+auto_explain,Battery Manager vaatii luvan pysyä aktiivisena taustalla, jotta se voi kysyä akun tilaa ja lähettää ilmoituksen.
+sync_auto,Synkronoi automaattisesti
+dis_auto_sync,Automaattisen synkronoinnin poistaminen käytöstä vähentää merkittävästi wakelockia. Jotkut toiminnot, kuten sähköpostin vastaanottaminen, kuitenkin menetetään.
+chg_lim,Latausraja
+avoid_ful_explain,Jos lataat akun täyteen tai purat sen, kunnes se sammutetaan, akun kunto ja käyttöikä lyhenee. Seuraavassa voit asettaa akun minimi- ja maksimilataus- tai purkaustilan ja saat ilmoituksen aina kun kynnysarvo saavutetaan. Vältä yhtä täyttä latausta ja akun purkamista ja pidennä akun käyttöikää.
+rec_notif,Etkö saanut ilmoitusta?
+title_allow_bg_act,Salli taustatoiminta
+allow_bg_act,Jotta voit käyttää Battery Manageria rajoituksetta ilman, että käyttöjärjestelmä sulkee sen vahingossa, saatat joutua kytkemään akun hallinnan ja akun käytön erikoistoiminnot pois päältä asetuksista. Koska eri valmistajat eroavat näiden vaihtoehtojen nimeämisestä riippuen käytetystä käyttöjärjestelmästä. Valitse Sovellustiedot-alueen Lepotila tai Akku -kohdassa Ei rajoituksia tai Salli taustatoiminta.
+dev_usage,Laitteen käyttö
+dep_sleep,Syvä uni on tila, jossa laitteesi käyttää vähiten akkua. Syvän unen kesto vaikuttaa positiivisesti energiansäästöön. Taustatyöt voivat keskeyttää syvän unen, jolloin akku purkautuu nopeammin. Tässä tapauksessa käynnistä laite uudelleen.
+title_bat_temp,Akun lämpötila
+bat_tempp,Akun lämpötila on yksi tärkeimmistä tekijöistä. Jos akkua pidetään geelinä korkeissa lämpötiloissa, tämä vaikuttaa sekä akun käyttöikään että suorituskykyyn. Jos lämpötila nousee, akun sisäinen rakenne voi vaurioitua.
+rdc_brightness,Vähennä näytön kirkkautta
+display_explain,Näyttö on yksi komponenteista, joka kuluttaa suurimman osan energiasta. Maksimikirkkauden vähentäminen auttaa vähentämään kokonaiskulutusta ja saavuttamaan huomattavia säästöjä. Ennen kuin vähennät kirkkautta, kytke automaattinen kirkkaus pois päältä, jotta kirkkaus ei muutu tarpeettomasti.
+tst_charge,Testaa laturia
+best_way_test,Paras tapa testata laturia ja kaapelia on tarkistaa latausnopeus näytön ollessa pois päältä. Latausnopeus näytön ollessa päällä ei ole hyvä vertailukohta, koska puhelimesi kuluttaa virtaa, mikä aiheuttaa vaihteluita. Kytke laturi pistorasiaan, sammuta näyttö muutamaksi minuutiksi ja tarkista sitten enimmäislatausvirta.
+wait_title,Odottaa
+rfsh_rate,Virkistystaajuus
+low_sizty,Virkistystaajuuden laskeminen 60 Hz:iin pidentää akun käyttöikää.
+drk_mode,Tumma tila
+acti_dark_mode,Aktivoi tumma tila, jolloin Dark Mode kuluttaa vähemmän virtaa
+actz,Aktivoida
+poz,Tehoa
+minz,Minimi
+avgo,Keskiverto
+mixi1,Enimmäismäärä
+msg_dis,Viesti katoaa 24 tunnin kuluttua, jos dataa on tarpeeksi kaavion näyttämiseen kokonaisuudessaan.
+no_enough,Ei tarpeeksi dataa näytettäväksi
+log_graph,Muutaman tunnin kuluttua näet tässä kaavion, jonka avulla voit tarkistaa akun lämpötilan, jännitteen, ampeerin ja tason viimeisen 24 tunnin ajalta.
+week,viikko
+buy_it,Ostaa
+one_pur,Kertamaksu
+refun_pur,osto voidaan palauttaa 2 tunnin sisällä.
+each_month,Tilaus uusiutuu automaattisesti kuukausittain ja maksaa edelleen kuukausittain. Tilauksen voi peruuttaa milloin tahansa.
+mng_subs,hallita tilausta
+subsci,tilata
+will_cost_week,Tilaus uusiutuu automaattisesti joka viikko ja maksaa edelleen viikossa. Tilauksen voi peruuttaa milloin tahansa.
+lfllong,elinikäinen
+mthly,kuukausittain
+wkly,Viikoittain
+hoto,Kuuma
+prm_ben_title,Premium-edut
+sync_title,Synkronoida
+dis_sync_inc,Synkronoinnin poistaminen käytöstä pidentää akun käyttöikää, koska palveluita ei synkronoida taustalla
+time_out,Aikalisä
+dec_extend,Näytön sammumiseen kuluvan ajan lyhentäminen pidentää akun käyttöikää
+u_end_opti,Oletko varma, että haluat lopettaa optimointiprosessin?
+no_why_perm,Ei lupaa
+bright_exp,Battery Manager vaatii Muuta järjestelmäasetuksia -luvan näytön kirkkauden vähentämiseksi tai Bluetoothin poistamiseksi käytöstä.
+tg_title,Liity Telegram-kanavalle!
+tg_text,Pysy ajan tasalla sovelluspäivityksistä, hanki varhaisia ​​koontiversioita ja auta testaamaan uusia ominaisuuksia. Ehdota ideoitasi, esitä kysymyksiä ja saat vastauksia nopeammin
+join_tg,liittyä seuraan
+curr_consumption,nykyinen kulutus
+scrn_onn,näyttö päällä
+srcn_off,näyttö pois päältä
+mob_charg,Lataus
+discha,Purkautuminen
+activea,Aktiivinen
+slpmode,Nukkumismoodi
+chagingspeed,Nykyinen latausnopeus
+dta_proxt,Datan suojelu
+governs,Tämä tietosuojakäytäntö säätelee Baxolinon luoman Battery Manager -ohjelmistosovelluksen käyttöä mobiililaitteille.
+info_u_provide,Käyttäjän antamat tiedot
+no_pass_per,Emme luovuta henkilötietoja kolmansille osapuolille. Kun lähetät meille sähköpostia, meillä on sähköpostiosoitteesi, mutta käytämme sitä vain auttamaan sinua sovelluksissamme.
+info_auto_coll,Tiedot kerätään automaattisesti
+exp_admob_use,Käytämme Google Admobia mainosten näyttämiseen. Näiden palveluiden käyttöön sovelletaan Googlen tietosuojamääräyksiä osoitteessa https://www.google.com/policies/privacy/.
+we_real_time,Kerääkö Battery Manager tarkkoja reaaliaikaisia ​​sijaintitietoja laitteesta?
+exp_loc_perm_man,Battery Manger vain tarkistaa, onko sijainti aktivoitu vai deaktivoitu, mutta ei kerää tarkkoja tietoja mobiililaitteesi sijainnista. Tällaiset sijaintiin perustuvat toiminnot on asetettu oletusarvoisesti. Voit poistaa nämä toiminnot käytöstä tai ottaa uudelleen käyttöön vastaavan laitteen asetuksista. Ennen tai jälkeen sovellusten asentamisen sinulta kysytään - laitteesta riippuen - haluatko poistaa vai aktivoida nämä toiminnot. Voimme kerätä tietoja sijainnistasi vain, jos aktivoit tällaiset sijaintipalvelut.
+chng,Muutokset
+pri_update_exp,Tätä tietosuojakäytäntöä voidaan päivittää ajoittain mistä tahansa syystä. Ilmoitamme sinulle tietosuojakäytäntömme muutoksista julkaisemalla uuden tietosuojakäytännön tähän verkko-osoitteeseen ja ilmoittamalla sinulle viestillä sovelluksessa. Suosittelemme, että tutustut säännöllisesti tähän tietosuojakäytäntöön muutosten varalta, koska käytön jatkaminen katsotaan kaikkien muutosten hyväksymiseksi. Voit tarkastella tämän käytännön historiaa tällä verkkosivustolla.
+contct,Ottaa yhteyttä
+any_que,Jos sinulla on kysyttävää tietosuojasta sovelluksen käytön aikana tai sinulla on kysyttävää käytännöistämme, lähetä sähköpostia osoitteeseen baxolino.de@gmail.com
+mem_opti,Battery Manager tarvitsee "muistin" käyttöoikeuden, jotta sovelluksia voidaan skannata ja optimoida. Voit poistaa nämä toiminnot käytöstä tai ottaa ne käyttöön oman laitteesi asetuksista. Ennen sovelluksen asentamista tai sen jälkeen sinulta kysytään - laitteesta riippuen - haluatko poistaa vai aktivoida nämä toiminnot.
+storg,Varastointi
+ble_set_acc,blue_set_perm,Battery Manager vaatii pääsyn "Bluetooth-asetusten käyttöoikeus", jotta voidaan tarkistaa, onko Bluetooth käytössä vai pois käytöstä. Ja Bluetoothin aktivoiminen tai poistaminen käytöstä.
+ble_title,Bluetooth
+needz_del,Battery Manager vaatii pääsyn "Pyydä pakettien poistamista" sovelluksen asennuksen poistamisen aloittamiseksi. Sovellus poistetaan vain, jos annat sen erikseen.
+deletion_pkg,Pyydä pakettien poistamista
+need_adnd,Battery Manager vaatii "Älä häiritse" -käyttöoikeuden, jotta Älä häiritse -tila otetaan käyttöön tai poistetaan käytöstä.
+adnd,Käytä Älä häiritse
+need_wlan_acc,Battery Manager vaatii pääsyn "Hanki WLAN-yhteydet", jotta Battery Manager voi tarkistaa, onko WLAN käytössä vai pois käytöstä. Ja WLAN:n aktivointi tai deaktivointi.
+wln_conn,Hanki WLAN-yhteydet
+shop_bill_exp,Kun teet ostoksia Google Play In App Billing -palvelun kautta, Google antaa meille asuinmaasi ja joskus osavaltion, kaupungin ja postinumeron, mutta ei koskaan täyttä osoitetta. Käytämme näitä tietoja noudattaaksemme vero- ja kirjanpitomääräyksiä.
+pri_date,21.2.2021 mennessä
+how_to_stop,Voit lopettaa sovelluksen koko tiedonkeruun yksinkertaisesti poistamalla sovelluksen. Voit käyttää tavallisia asennuksen poistoprosesseja, jotka ovat saatavilla osana mobiililaitettasi tai mobiilisovellusten markkinapaikan tai verkon kautta.
+opt_out,Mitkä ovat kieltäytymisoikeuteni?
+ur_permission,sinun lupaasi
+accept_privacy,Käyttämällä sovellusta hyväksyt tietojesi käsittelyn tässä tietosuojaselosteessa ja meidän muuttamisessamme kuvatulla tavalla.

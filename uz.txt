@@ -1,0 +1,347 @@
+title,Batareya menejeri Lite boshqacha
+extend_life,Batareyaning ishlash muddatini uzaytirish va sizni sog'lom saqlashning eng yaxshi usuli tajriba va ilmiy tadqiqotlarga asoslangan.
+measured,Shaffof tarzda biz sizga faqat haqiqatda o'lchangan ma'lumotlarni va ular qanday hisoblanganligini ko'rsatamiz.
+healthy,Batareyangizni sog'lom saqlang
+double_battery,Batareyani to'liq zaryad qilmaslik orqali batareyaning ishlash muddatini ikki baravar oshiring. Buni olimlar o‘z tadqiqotlarida isbotladilar.
+charge_limit,Batareya zaryadlash chegarasi haqidagi bildirishnomamizdan foydalanib, batareya foydalanuvchi tomonidan belgilangan chegaraga yetganda bildirishnoma yuboriladi.
+smart,Har kuni aqlliroq bo'ladi
+analyze,Battery Manager Lite-dan qanchalik uzoq foydalansangiz, batareyangiz unumdorligini shunchalik yaxshi tahlil qilamiz.
+update_every_time,Qolgan batareya quvvati o'lchovi har safar qurilmangizdan foydalanganingizda yoki zaryadlanganingizda yangilanadi.
+runtime,Batareyangizning haqiqiy ish vaqtini bilib oling
+discharge_cycle,Telefoningiz zaryadsizlanish davrini har safar o'tganda, uning ish vaqtini aniq baholash mumkin.
+accurate_life,Batareyaning ishlash muddatini aniq o'lchash uchun Battery Manager Lite dasturidan foydalaning.
+no_exit,Battery Manager Lite dasturidan chiqmang!
+bg_require,Batareya menejeri Lite batareya statistikasini yig'ish va batareya zaryadi va zaryadsizlanish vaqtini o'lchash uchun fon xizmatini talab qiladi. Qurilmangiz xizmatni to‘xtatayotgan yoki ilova yopilganda uning ishlashiga ruxsat bermasligi mumkin. Bunga yo'l qo'ymaslik uchun siz uchun yaxshi yechimimiz bor. Shunchaki havolani bosing.
+man,Qo'llanma
+cali,Kalibrlash
+polarity,Ushbu bosqichda ilova zaryadlash polaritesini va batareyangizning dizayn hajmini aniqlaydi.
+disch,Bo'shatish
+ch_pol,Zaryadlash polaritesi
+power_meter,Quvvat o'lchagich
+unit_mesure,O'lchov birligi
+capacity,Batareya quvvati
+wrong,To'g'ri emasmi?
+calib,Kalibrlash
+ye,Ha
+no,Yo'q
+neg,Salbiy
+pos,Ijobiy
+lunch,Ilovani ishga tushiring
+manufac,Ishlab chiqaruvchiga ko'ra quvvat
+design_des,Dizayn quvvati haqiqiy batareya quvvati bo'lib, mAh bilan o'lchanadi. Imkoniyatlarni aniqlashning rasmiy usuli yo'qligi sababli, qaytarilgan qiymat noto'g'ri bo'lishi mumkin.
+correct_it,Agar ko'rsatilgan quvvat noto'g'ri bo'lsa, uni to'g'rilang.
+cancel,Bekor qilish
+ok,xop
+runtime,Batareyaning ishlash vaqti
+wait,kutish
+per_hr,Bir soatlik batareya iste'moli
+life_for,Batareya muddati uchun
+battery_cond,Batareya holati
+bat_info,Batareya haqida ma'lumot
+bat_cap,Batareya quvvati
+bat_volt,Batareya kuchlanishi
+bat_cur,Batareya oqimi
+unit_mes,O'lchov birligi
+done,Bajarildi
+c_bat_temp,Joriy batareya harorati
+min_bat_tem,Minimal batareya harorati
+mx_bat_tem,Maksimal batareya harorati
+avg_bat_tem,O'rtacha batareya harorati
+dig_last,Avvalgi oxirgi tashxis
+rem_time,Qolgan vaqt
+volt,Kuchlanishi
+curr,Hozirgi
+status,Holat
+run_time,Ishlash vaqti
+currently,Hozirda
+avg,O'rtacha
+minmal,Minimal
+maximal,Maksimal
+tool,Asboblar
+rem_apps,Ilovalar keraksiz ishlamasligi va batareya quvvatini sarflashining oldini olish uchun foydalanmaydigan ilovalarni oʻchirib tashlang
+uninst_apps,Ilovalarni o'chirish
+stat,Boshlash
+act_eng_save,Batareya sarfini kamaytirish uchun energiya tejash rejimini yoqing
+pow_save,Quvvatni tejash rejimi
+tempe,Harorat
+heal,Salomatlik
+tips,Maslahatlar va tavsiyalar bilan batareyangizni yaxshi holatda saqlang.
+recomm,Tavsiyalar
+prem,Premium
+more_func,Siz uchun ko'proq funksiyalar. Premium oling, ko'proq oling.
+more,Ko'proq
+ur_cond_bat,Batareya holati
+ur_bat_life,Batareyaning ishlash muddati
+ur_bat_temp,Batareya harorati
+wow,Ajoyib
+normal,Oddiy
+poor,Yomon
+days,kunlar
+mins,Daqiqalar
+hrs,Soat
+chging,Zaryadlanmoqda
+ful,Toʻliq
+dis_chrg,Bo'shatish
+unkn,Noma'lum
+too_lit,Batareya maʼlumotlari juda kam
+car_any,Baribir bajaring
+endz_,Oxiri
+dig_any,Yaxshiroq diagnostika natijalarini olish uchun ilova batareyangizni fonda tahlil qilishi kerak. Iltimos, tashxisni 24 soatdan keyin boshlang
+end_dig,Yakuniy tashxis
+quit_dig,Haqiqatan ham tashxisni to'xtating
+batty_temp,Batareya harorati
+akku_manager,Akku menejeri
+u_agree,"START" bilan siz ma'lumotlarni himoya qilish qoidalariga rozilik bildirasiz
+elemn_opti,Elementlarni optimallashtirish mumkin
+looks_good,Hammasi yaxshi ko'rinadi
+optimize_,Optimallashtirish
+toolz_,Asboblar
+akku_check,Akku tekshiring
+ctrl_load,Boshqariladigan yuklash
+mng_apps,Ilovalarni boshqarish
+infosm,Ma `lumot
+tenzion,kuchlanish
+electy,elektr energiyasi
+lvl,Daraja
+akku_man_premium,Akku Manager Premium
+premimum_highlight,Batareya menejeridan to'liq reklamasiz foydalaning va foydalanuvchi interfeysini keng ko'lamli sozlash imkoniyatiga ega bo'lasiz.
+design,Dizayn
+subjs,mavzular
+genrally,Umuman
+temp_unit,Harorat birligi
+oth_apps,Boshqa ilovalar
+dat_protect,Ma'lumotlarni himoya qilish
+thx_akku,Akku menejerini premium versiyani sotib olishda qo'llab-quvvatlaganingiz uchun tashakkur.
+user_got_pre,Endi siz foydalanuvchi interfeysini keng ko'lamli sozlash va reklamasiz foydalanish imkoniyatiga egasiz.
+exp_more,Kelgusi yangilanishlarda ko'proq xususiyatlarni kutishingiz mumkin
+ap_optimiz,Ilovani optimallashtirish
+sys_bat_usage,Tizim batareyasining iste'moli
+bat_usage_det,Batareyadan foydalanish tafsilotlari
+end_optiz,Optimallashtirishni tugatish
+abort,Bekor qilish
+break_up,sindirish; ayrilish; to'xtatish
+scn,skanerlash
+scn_bgh,Ekran yorqinligi
+dact_wlan,WLAN-ni o'chiring
+dact_save_batt,Batareyani tejash uchun o'chiring
+dact,Faolsizlantirish
+dact_ble,Bluetooth-ni o'chiring
+red_brigh,Yorqinlikni kamaytiring
+bright_txt,Batareyani tejash uchun displey yorqinligini kamaytiring
+to_reduce,Kamaytirish uchun
+dact_gps,GPS-ni o'chiring
+appz_optimz,Ilovalar optimallashtirilgan
+start_bat_check_det,Har doim xavfsiz tomonda bo'lish uchun batareyani batafsil tekshirishni boshlang
+act_eng_save,Batareya sarfini kamaytirish uchun energiya tejash rejimini yoqing
+remove_useless,Endi ishlatilmaydigan ilovalarni olib tashlang
+premium,Premium
+clear_mem,Xotirani tozalash
+clear_mem_des,Shunday qilib, smartfoningiz tez va muammosiz ishlaydi.
+clenaup,Tozalash
+rat,reyting
+rat_free,Batareya menejerini bepul baholang
+sendz,Yuborish
+elmn_found,Elementlar topildi
+drumz,Barabanlar
+status,Holat
+end_akk_check,Batareyani tekshirishni tugatish
+bat_detlz,Batareya tafsilotlari
+temp_checked,Harorat tekshiriladi
+cond_checked,Batareyaning holati tekshiriladi
+checkz_start,Batareyani tekshirish boshlanadi
+plug_in,Tarmoqqa ulangan
+techz,Texnologiya
+coldz,Sovuq
+until,gacha
+well,Xo'sh
+ovr_heat,Haddan tashqari qizib ketish
+ovr_load,Haddan tashqari yuk
+renam,qayta nomlandi
+not_def,aniqlanmagan
+chrgz,Zaryadlash
+full,Toʻliq
+unloadz,Yuk tushirish
+not_charge_unkn,to'lanmagan yoki noma'lum
+usb,USB
+charger,zaryadlovchi
+wless,simsiz
+not_at_al,hech narsa
+uninstall,Oʻchirish
+update,Yangilash uchun
+setting,Sozlamalar
+app,Ilovalar
+not_found,Ilova topilmadi
+search,Ilovalarni qidirish
+version_code,Versiya kodi
+api_level,API darajasi
+app_version,Ilova versiyasi
+authorization,ruxsat
+open,ochish
+play_store,Play Store
+control,boshqaruv
+systemstandart,Tizim standarti
+white,Oq
+dark,Qorong'i
+ocean,Okean
+black,Qora
+dark_blue,Toʻq koʻk
+excellent,Ajoyib
+bad,Yomon
+battery_bad,Batareya biroz shikastlangan
+very_bad,Juda yomon
+battery_damaged,Batareya shikastlangan
+custom_mode,Maxsus rejim
+brightness,Yorqinlik
+automatic_brightness,Avtomatik yorqinlik
+normal,Oddiy
+sound_modus,Ovoz rejimi
+tone_work,Barcha ohanglar ishlaydi
+mute,Ovozsiz
+call_note_mute,Qo'ng'iroqlar va bildirishnomalar o'chirilgan
+not_bother,Bezovta qilmang
+tones_vibration_mute,Signal ohanglaridan tashqari ohanglar va tebranishlarni o'chiring
+sound,Tovushlar
+music,musiqa
+notification,Bildirishnoma
+alarm,Signal
+ultra_saving,Ultra energiya tejash rejimi
+edit,Tahrirlash uchun
+disable_ultra_saving,Ultra energiya tejash rejimini o'chiring
+min_remaining,min qolgan
+hours,soat
+activted_ultra_saving,Ultra energiya tejash rejimi yoqilgan
+charged_in,zaryadlangan
+min,min
+limit_power,Quvvat sarfini cheklash
+reduce_screen,Ekran yorqinligini kamaytiring
+restrict_bg_act_explain,Fondagi faoliyatni cheklash
+volatge_check,Voltaj tekshiriladi
+software_optimized,Dasturiy ta'minot optimallashtirilgan
+connect_charger,Zaryadlovchini ulang
+charger_removed,Zaryadlovchini olib tashlash mumkin
+power_consump_title,Quvvat iste'moli
+srcn_bg_title,Ekran yorqinligi
+bg_al_activities,Fon faoliyati
+sftware,Dasturiy ta'minot
+get_primium,Agar siz premium versiyani sotib olsangiz, kelajakda barcha joriy funktsiyalar bilan bir qatorda barcha yangi funksiyalarni ham olasiz.
+cuztomize_face,Foydalanuvchi interfeysini moslashtirish
+comp_scheme,Batareya menejeri rang sxemasini turli mavzulardan tuzing.
+bat_check_detail,Batareyani batafsil tekshirish
+check_cond_test,Har doim xavfsiz tomonda bo'lish uchun batareyangiz holatini tekshirish uchun Batareya menejeridan foydalaning.
+no_ads_yo,Reklamasiz
+use_explain_noads,Batareya menejeridan hech qanday reklamasiz foydalaning
+act_energy_save,Favqulodda vaziyatda batareyaning ishlash muddatini oshirish uchun ultra energiya tejash rejimini yoqing.
+buy_title,Premium sotib oling
+loc_title,Manzil
+cap_title,sig'im
+cap_remain,Qolgan quvvat
+sleepy,Uxlash
+sek,soniyalar
+sing_min,Daqiqa
+miniotes,Daqiqalar
+finish,Tugallandi
+mobi_data,mobil ma'lumotlar
+plz_rate,Play Marketda Batareya menejerini baholang
+ur_data_cus,Reklamalarni sizga moslashtirish uchun maʼlumotlaringizdan foydalanishda davom eta olamizmi?
+in_slep_mode,Uyqu rejimida
+in_use,Foydalanishda
+with_curr_pow,Hozirgi quvvat sarfi bilan
+rem_bat_life,Qolgan batareya quvvati
+qck_acc,Tez kirish
+notif_txt,bildirishnoma
+notif_at,Xabar berish
+chg_curr,Zaryadlash oqimi
+charge_perm,Zaryadlash samaradorligi
+maxi_charge_per,Maksimal zaryadlash samaradorligi
+enb_notif,Bildirishnomani yoqish
+perm_send_notif,Batareya menejeri bildirishnoma yuborish uchun ruxsat talab qiladi, u qurilma sozlamalarida faollashtirilgan bo'lishi kerak.
+to_set,Sozlamalarga
+title_autost,Avtomatik ishga tushirishni faollashtiring
+auto_explain,Batareya menejeri batareya holatini so'rash va bildirishnoma yuborish uchun fonda faol qolishi uchun ruxsat talab qiladi.
+sync_auto,Avtomatik sinxronlash
+dis_auto_sync,Avtomatik sinxronlashni o'chirib qo'yish uyg'onish bloklarini sezilarli darajada kamaytiradi. Biroq, elektron pochtani qabul qilish kabi ba'zi funktsiyalar yo'qoladi.
+chg_lim,To'lov chegarasi
+avoid_ful_explain,Agar siz batareyangizni maksimal darajada zaryad qilsangiz yoki uni o'chirilguncha zaryadsizlantirsangiz, batareyaning holati va xizmat qilish muddati qisqaradi. Quyida siz batareyaning minimal va maksimal zaryad yoki zaryadsizlanish holatini o'rnatishingiz mumkin va har safar chegara qiymatiga erishilganda sizga xabar beriladi. Batareyani to'liq zaryadlash va zaryadsizlantirishdan saqlaning va batareyaning ishlash muddatini uzaytiring.
+rec_notif,Bildirishnoma olinmadimi?
+title_allow_bg_act,Fondagi faoliyatga ruxsat berish
+allow_bg_act,Batareya menejeridan hech qanday cheklovlarsiz, operatsion tizim tomonidan beixtiyor yopilmagan holda foydalanish imkoniyatiga ega bo'lishingiz uchun sozlamalarda batareyani boshqarish va batareyadan foydalanish bo'yicha maxsus funksiyalarni o'chirib qo'yishingiz kerak bo'lishi mumkin. Chunki turli ishlab chiqaruvchilar ushbu variantlarni belgilashda ishlatiladigan operatsion tizimga qarab farqlanadi. Ilova haqida ma'lumot maydonida Kutish yoki Batareya ostida Cheklovsiz yoki Fondagi faoliyatga ruxsat berish-ni tanlang.
+dev_usage,Qurilmadan foydalanish
+dep_sleep,Chuqur uyqu - bu qurilmangiz eng kam quvvat sarflayotgan holat. Chuqur uyquning davomiyligi energiya tejashga ijobiy ta'sir ko'rsatadi. Chuqur uyqu fon vazifalari bilan to'xtatilishi mumkin, bu batareyaning tezroq zaryadsizlanishiga olib keladi. Bunday holda, qurilmangizni qayta ishga tushiring.
+title_bat_temp,Batareya harorati
+bat_tempp,Batareya harorati eng muhim omillardan biridir. Agar batareya yuqori haroratda jel bo'lsa, bu batareyaning ishlash muddati va ishlashiga ta'sir qiladi. Agar harorat ko'tarilsa, batareyaning ichki tuzilishi shikastlanishi mumkin.
+rdc_brightness,Ekran yorqinligini kamaytiring
+display_explain,Displey energiyaning ko'p qismini sarflaydigan komponentlardan biridir. Maksimal yorqinlikni kamaytirish umumiy iste'molni kamaytirishga va sezilarli tejashga yordam beradi. Yorqinlikni kamaytirishdan oldin, yorug'lik keraksiz o'zgarmasligi uchun avtomatik yorqinlikni o'chiring.
+tst_charge,Sinov zaryadlovchi
+best_way_test,Zaryadlovchi va kabelni sinab ko'rishning eng yaxshi usuli - bu ekran o'chirilgan holda zaryadlash tezligini tekshirish. Ekran yoqilgan paytda zaryadlash tezligi yaxshi mezon emas, chunki telefoningiz quvvat sarflaydi, bu esa tebranishlarga olib keladi. Zaryadlovchini rozetkaga ulang, ekranni bir necha daqiqaga o'chiring va maksimal zaryad oqimini tekshiring.
+wait_title,Kutilmoqda
+rfsh_rate,Yangilanish tezligi
+low_sizty,Yangilash tezligini 60 Gts ga tushirish batareyaning ishlash muddatini yaxshilaydi.
+drk_mode,Qorong'i rejim
+acti_dark_mode,Qorong'i rejimni faollashtiring, qorong'u rejimda kamroq quvvat sarflanadi
+actz,Faollashtirish
+poz,Quvvat
+minz,Eng kam
+avgo,O'rtacha
+mixi1,Maksimal
+msg_dis,Diagrammani to'liq ko'rsatish uchun etarli ma'lumot bo'lsa, xabar 24 soatdan keyin yo'qoladi.
+no_enough,Koʻrsatish uchun maʼlumotlar yetarli emas
+log_graph,Bir necha soatdan so'ng siz so'nggi 24 soat ichida batareyaning harorati, kuchlanishi, amperi va darajasini tekshirish imkonini beruvchi grafikni ko'rasiz.
+week,hafta
+buy_it,Sotib olish
+one_pur,Bir martalik to'lov
+refun_pur,xarid 2 soat ichida qaytarilishi mumkin.
+each_month,Obuna har oy avtomatik ravishda yangilanadi va oylik narxini oshirishda davom etadi. Obuna istalgan vaqtda bekor qilinishi mumkin.
+mng_subs,obunani boshqarish
+subsci,obuna bo'ling
+will_cost_week,Obuna har hafta avtomatik yangilanadi va har hafta narxi oshadi. Obuna istalgan vaqtda bekor qilinishi mumkin.
+lfllong,umrbod
+mthly,oylik
+wkly,Haftalik
+hoto,Issiq
+prm_ben_title,Premium imtiyozlar
+sync_title,Sinxronlash
+dis_sync_inc,Sinxronizatsiyani o'chirib qo'yish xizmatlarni fonda sinxronlashtirmaslik orqali batareyaning ishlash muddatini oshiradi
+time_out,Taym-aut; turib qolish; tanaffus
+dec_extend,Displey o'chguncha vaqtni qisqartirish batareyaning ishlash muddatini uzaytiradi
+u_end_opti,Haqiqatan ham optimallashtirish jarayonini tugatmoqchimisiz?
+no_why_perm,Ruxsat yo'q
+bright_exp,Batareya menejeri ekran yorqinligini kamaytirish yoki Bluetooth-ni o'chirish uchun tizim sozlamalarini o'zgartirish ruxsatini talab qiladi.
+tg_title,Telegram kanaliga qo'shiling!
+tg_text,Ilova yangilanishlaridan xabardor bo'ling, dastlabki tuzilmalarga ega bo'ling va yangi xususiyatlarni sinab ko'rishga yordam bering. Fikrlaringizni taklif qiling, savollar bering va tezroq javob oling
+join_tg,qo'shilish
+curr_consumption,joriy iste'mol
+scrn_onn,ekran yoqilgan
+srcn_off,ekran o'chirilgan
+mob_charg,Zaryadlanmoqda
+discha,Bo'shatish
+activea,Faol
+slpmode,Uyqu rejimi
+chagingspeed,Joriy zaryadlash tezligi
+dta_proxt,Ma'lumotlarni himoya qilish
+governs,Ushbu maxfiylik siyosati Baxolino tomonidan yaratilgan mobil qurilmalar uchun Batareya menejeri dasturiy ilovasidan foydalanishingizni boshqaradi.
+info_u_provide,Foydalanuvchi tomonidan taqdim etilgan ma'lumotlar
+no_pass_per,Biz shaxsiy ma'lumotlarni uchinchi shaxslarga bermaymiz. Bizga elektron pochta xabarlarini yuborganingizda, bizda sizning elektron pochta manzilingiz bor, lekin biz undan faqat ilovalarimizda yordam berish uchun foydalanamiz.
+info_auto_coll,Ma'lumotlar avtomatik ravishda yig'iladi
+exp_admob_use,Reklamalarni ko'rsatish uchun biz Google Admob-dan foydalanamiz. Ushbu xizmatlardan foydalanish https://www.google.com/policies/privacy/ manzilidagi Google ma'lumotlarini himoya qilish qoidalariga bo'ysunadi.
+we_real_time,Batareya menejeri qurilmadan aniq real vaqtda joylashuv ma'lumotlarini to'playdimi?
+exp_loc_perm_man,Batareya boshqaruvchisi faqat joylashuv faollashtirilgan yoki o'chirilganligini tekshiradi, lekin mobil qurilmangiz joylashuvi haqida hech qanday aniq ma'lumot to'plamaydi. Bunday joylashuvga asoslangan funksiyalar sukut bo'yicha o'rnatiladi. Siz ushbu funksiyalarni tegishli qurilmangiz sozlamalarida oʻchirishingiz yoki qayta faollashtirishingiz mumkin. Ilovalarni o'rnatishdan oldin yoki keyin, qurilmaga qarab, sizdan ushbu funksiyalarni o'chirish yoki faollashtirishni afzal ko'rasizmi, so'raladi. Agar siz joylashuvni aniqlash xizmatlarini faollashtirsangizgina biz sizning joylashuvingiz haqidagi ma'lumotlarni to'plashimiz mumkin.
+chng,O'zgarishlar
+pri_update_exp,Ushbu maxfiylik siyosati vaqti-vaqti bilan har qanday sababga ko'ra yangilanishi mumkin. Ushbu veb-manzilda yangi maxfiylik siyosatini joylashtirish va ilovadagi xabar orqali sizni xabardor qilish orqali maxfiylik siyosatimizdagi o'zgarishlar haqida sizga xabar beramiz. O'zgartirishlar uchun ushbu Maxfiylik siyosati bilan muntazam ravishda maslahatlashib turish tavsiya etiladi, chunki doimiy foydalanish barcha o'zgarishlarni ma'qullagan deb hisoblanadi. Siz ushbu siyosat tarixini ushbu veb-saytda ko'rishingiz mumkin.
+contct,Aloqa
+any_que,Ilovadan foydalanishda maʼlumotlarni himoya qilish boʻyicha savollaringiz yoki amaliyotimiz haqida savollaringiz boʻlsa, baxolino.de@gmail.com manziliga xat yuboring.
+mem_opti,Ilovalarni skanerlash va optimallashtirish uchun batareya menejeriga "xotira" ruxsati kerak. Siz ushbu funksiyalarni tegishli qurilmangiz sozlamalarida o‘chirib qo‘yishingiz yoki faollashtirishingiz mumkin. Ilovani o'rnatishdan oldin yoki keyin, sizdan qurilmaga qarab - bu funksiyalarni o'chirish yoki faollashtirishni afzal ko'rasizmi, so'raladi.
+storg,Saqlash
+ble_set_acc,blue_set_perm,Batareya menejeri Bluetooth yoqilgan yoki o'chirilganligini tekshirish uchun "Bluetooth sozlamalariga kirish" ruxsatini talab qiladi. Va Bluetooth-ni yoqish yoki o'chirish uchun.
+ble_title,Bluetooth
+needz_del,Batareya menejeri ilovani oʻchirishni boshlash uchun “Paketlarni oʻchirishni soʻrash” ruxsatini talab qiladi. Agar siz unga aniq ruxsat bergan bo'lsangiz, ilova o'chirib tashlanadi.
+deletion_pkg,Paketlarni o'chirishni so'rash
+need_adnd,Bezovta qilinmasin rejimini yoqish yoki o‘chirish uchun Batareya menejeri “Bezovta qilinmasin” rejimiga kirishni talab qiladi.
+adnd,Bezovta qilinmasin rejimiga kirish
+need_wlan_acc,Batareya menejeri WLAN faollashtirilgan yoki o'chirilganligini tekshirishi uchun "WLAN ulanishlarini olish" ga kirishni talab qiladi. Va WLANni faollashtirish yoki o'chirish uchun.
+wln_conn,WLAN ulanishlarini oling
+shop_bill_exp,Google Play In App Billing orqali xarid qilganingizda, Google bizga yashash joyingiz va baʼzan shtat, shahar va pochta indeksini beradi, lekin hech qachon toʻliq manzilni koʻrsatmaydi. Biz ushbu ma'lumotlardan soliq va buxgalteriya qoidalariga rioya qilish uchun foydalanamiz.
+pri_date,21.02.2021 holatiga ko'ra
+how_to_stop,Siz shunchaki dasturni o'chirish orqali dastur tomonidan ma'lumotlar to'plamini to'xtatishingiz mumkin. Siz mobil qurilmangizning bir qismi sifatida yoki mobil ilovalar uchun bozor yoki tarmoq orqali mavjud bo'lgan standart o'chirish jarayonlaridan foydalanishingiz mumkin.
+opt_out,Mening voz kechish huquqlarim qanday?
+ur_permission,sizning ruxsatingiz
+accept_privacy,Ilovadan foydalanish orqali siz ma'lumotlaringizni ushbu maxfiylik siyosatida ko'rsatilgan va biz tomonidan tuzatilgan tarzda qayta ishlashimizga rozilik bildirasiz.

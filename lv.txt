@@ -1,0 +1,347 @@
+title,Battery Manager Lite ir atšķirīgs
+extend_life,Labākais veids, kā pagarināt akumulatora darbības laiku un uzturēt veselību, ir balstīts uz pieredzi un zinātniskiem pētījumiem.
+measured,Pārskatāmā veidā mēs parādām tikai faktiski izmērītos datus un to aprēķināšanas veidu.
+healthy,Uzturiet akumulatoru veselīgu
+double_battery,Divkāršojiet akumulatora darbības laiku, pilnībā neuzlādējot akumulatoru. Zinātnieki to ir pierādījuši savos pētījumos.
+charge_limit,Izmantojot mūsu paziņojumu par uzlādes ierobežojumu, tiks nosūtīts paziņojums, kad akumulators sasniegs lietotāja noteikto slieksni.
+smart,Ar katru dienu tas kļūst gudrāks
+analyze,Jo ilgāk izmantojat Battery Manager Lite, jo labāk mēs varēsim analizēt jūsu akumulatora veiktspēju.
+update_every_time,Atlikušais akumulatora darbības laiks tiek atjaunināts katru reizi, kad izmantojat vai uzlādējat ierīci.
+runtime,Atklājiet faktisko akumulatora darbības laiku
+discharge_cycle,Katru reizi, kad tālrunis izlādējas, var precīzi novērtēt tā izpildes laiku.
+accurate_life,Izmantojiet Battery Manager Lite, lai noteiktu precīzu akumulatora darbības laiku.
+no_exit,Neaizveriet Battery Manager Lite!
+bg_require,Battery Manager Lite ir nepieciešams fona pakalpojums, lai apkopotu akumulatora statistiku un izmērītu akumulatora uzlādes un izlādes laiku. Jūsu ierīce, visticamāk, aptur pakalpojumu vai neļauj tam darboties, kad lietotne ir aizvērta. Lai no tā izvairītos, mums ir labs risinājums. Vienkārši noklikšķiniet uz saites.
+man,Rokasgrāmata
+cali,Kalibrēšana
+polarity,Šajā darbībā lietotne nosaka uzlādes polaritāti un akumulatora projektēto jaudu.
+disch,Izlāde
+ch_pol,Uzlādes polaritāte
+power_meter,Jaudas mērītājs
+unit_mesure,Mērvienība
+capacity,Akumulatora ietilpība
+wrong,Nav pareizi?
+calib,Kalibrēt
+ye,Jā
+no,Nē
+neg,Negatīvs
+pos,Pozitīvi
+lunch,Palaidiet lietotni
+manufac,Jauda saskaņā ar ražotāju
+design_des,Projektētā jauda ir faktiskā akumulatora jauda, ​​ko mēra mAh. Tā kā nav oficiāla veida, kā noteikt jaudu, atgrieztā vērtība var būt nepareiza.
+correct_it,Ja parādītā jauda nav pareiza, lūdzu, izlabojiet to.
+cancel,Atcelt
+ok,Labi
+runtime,Akumulatora darbības laiks
+wait,gaida
+per_hr,Akumulatora patēriņš stundā
+life_for,Akumulatora darbības laiks priekš
+battery_cond,Akumulatora stāvoklis
+bat_info,Informācija par akumulatoru
+bat_cap,Akumulatora ietilpība
+bat_volt,Akumulatora spriegums
+bat_cur,Akumulatora strāva
+unit_mes,Mērvienība
+done,Gatavs
+c_bat_temp,Pašreizējā akumulatora temperatūra
+min_bat_tem,Minimālā akumulatora temperatūra
+mx_bat_tem,Maksimālā akumulatora temperatūra
+avg_bat_tem,Vidējā akumulatora temperatūra
+dig_last,Pēdējā diagnoze pirms
+rem_time,Atlikušais laiks
+volt,spriegums
+curr,Pašreizējais
+status,Statuss
+run_time,Darbības laiks
+currently,Šobrīd
+avg,Vidēji
+minmal,Minimāli
+maximal,Maksimums
+tool,Rīki
+rem_apps,Atinstalējiet lietotnes, kuras vairs neizmantojat, lai novērstu to nevajadzīgu darbību un akumulatora iztukšošanos
+uninst_apps,Atinstalējiet lietotnes
+stat,Sākt
+act_eng_save,Aktivizējiet enerģijas taupīšanas režīmu, lai samazinātu akumulatora patēriņu
+pow_save,Enerģijas taupīšanas režīms
+tempe,Temperatūra
+heal,Veselība
+tips,Uzturiet akumulatoru labā stāvoklī, izmantojot padomus un ieteikumus.
+recomm,Ieteikumi
+prem,Premium
+more_func,Vairāk funkciju jums. Saņemiet premium, iegūstiet vairāk.
+more,Vairāk
+ur_cond_bat,Akumulatora stāvoklis ir
+ur_bat_life,Jūsu akumulatora darbības laiks ir
+ur_bat_temp,Jūsu akumulatora temperatūra ir
+wow,Lieliski
+normal,Normāls
+poor,Slikti
+days,Dienas
+mins,Minūtes
+hrs,Stundas
+chging,Uzlāde
+ful,Pilns
+dis_chrg,Izlāde
+unkn,Nezināms
+too_lit,Pārāk maz akumulatora datu
+car_any,Izpildi jebkurā gadījumā
+endz_,Beigas
+dig_any,Lai iegūtu labākus diagnostikas rezultātus, lietotnei fonā ir jāanalizē akumulators. Lūdzu, sāciet diagnostiku pēc 24 stundām
+end_dig,Beigu diagnostika
+quit_dig,Tiešām pārtrauciet diagnostiku
+batty_temp,Akumulatora temperatūra
+akku_manager,Akku vadītājs
+u_agree,Ar "START" jūs piekrītat datu aizsardzības noteikumiem
+elemn_opti,Elementus var optimizēt
+looks_good,Viss izskatās labi
+optimize_,Optimizēt
+toolz_,Rīki
+akku_check,Akku pārbaude
+ctrl_load,Kontrolēta iekraušana
+mng_apps,Pārvaldīt lietotnes
+infosm,Informācija
+tenzion,spriedze
+electy,elektrība
+lvl,Līmenis
+akku_man_premium,Akku Manager Premium
+premimum_highlight,Izmantojiet Battery Manager pilnībā bez reklāmas, un jums ir piekļuve plašajai lietotāja interfeisa pielāgošanai.
+design,Dizains
+subjs,priekšmetus
+genrally,Vispārīgi
+temp_unit,Temperatūras mērvienība
+oth_apps,Citas lietotnes
+dat_protect,Datu aizsardzība
+thx_akku,Paldies, ka atbalstāt Akku Manager, iegādājoties premium versiju.
+user_got_pre,Tagad jums ir pieejama plaša lietotāja interfeisa un lietošanas pielāgošana bez reklāmas.
+exp_more,Nākamajos atjauninājumos varat sagaidīt vairāk funkciju
+ap_optimiz,Lietotņu optimizācija
+sys_bat_usage,Sistēmas akumulatora patēriņš
+bat_usage_det,Informācija par akumulatora lietošanu
+end_optiz,Beigt optimizāciju
+abort,Pārtraukt
+break_up,izšķirties
+scn,lai skenētu
+scn_bgh,Ekrāna spilgtums
+dact_wlan,Deaktivizēt WLAN
+dact_save_batt,Deaktivizējiet, lai taupītu akumulatoru
+dact,Deaktivizēt
+dact_ble,Deaktivizējiet Bluetooth
+red_brigh,Samaziniet spilgtumu
+bright_txt,Samaziniet displeja spilgtumu, lai taupītu akumulatoru
+to_reduce,Lai samazinātu
+dact_gps,Deaktivizēt GPS
+appz_optimz,Lietojumprogrammas optimizētas
+start_bat_check_det,Sāciet detalizētu akumulatora pārbaudi, lai vienmēr būtu drošībā
+act_eng_save,Aktivizējiet enerģijas taupīšanas režīmu, lai samazinātu akumulatora patēriņu
+remove_useless,Atinstalējiet lietotnes, kas vairs netiek izmantotas
+premium,Premium
+clear_mem,Iztīriet atmiņu
+clear_mem_des,Lai viedtālrunis darbotos ātri un vienmērīgi.
+clenaup,Satīrīt
+rat,reitings
+rat_free,Novērtējiet Battery Manager bez maksas
+sendz,Sūtīt
+elmn_found,Elementi atrasti
+drumz,Bungas
+status,Statuss
+end_akk_check,Beigt akumulatora pārbaudi
+bat_detlz,Informācija par akumulatoru
+temp_checked,Temperatūra tiek pārbaudīta
+cond_checked,Tiek pārbaudīts akumulatora stāvoklis
+checkz_start,Sākas akumulatora pārbaude
+plug_in,Iesprausts
+techz,Tehnoloģija
+coldz,Auksts
+until,Līdz plkst
+well,Nu
+ovr_heat,Pārkaršana
+ovr_load,Pārslodze
+renam,pārdēvēta
+not_def,nav definēts
+chrgz,Uzlādē
+full,Pilns
+unloadz,Izkraušana
+not_charge_unkn,nav iekasēts vai nav zināms
+usb,USB
+charger,lādētājs
+wless,bezvadu
+not_at_al,pavisam nekas
+uninstall,Atinstalēt
+update,Atjaunot
+setting,Iestatījumi
+app,Lietotnes
+not_found,Lietotne nav atrasta
+search,Meklēt lietotnes
+version_code,Versijas kods
+api_level,API līmenis
+app_version,Lietotnes versija
+authorization,autorizācija
+open,atvērt
+play_store,Spēļu veikals
+control,kontrole
+systemstandart,Sistēmas standarts
+white,Balts
+dark,Tumšs
+ocean,Okeāns
+black,Melns
+dark_blue,Tumši zils
+excellent,Lieliski
+bad,Slikti
+battery_bad,Akumulators ir nedaudz bojāts
+very_bad,Ļoti slikti
+battery_damaged,Akumulators ir bojāts
+custom_mode,Pielāgots režīms
+brightness,Spilgtums
+automatic_brightness,Automātiskais spilgtums
+normal,Normāls
+sound_modus,Sound Modus
+tone_work,Visi toņi darbojas
+mute,Izslēgt skaņu
+call_note_mute,Zvani un paziņojumi ir izslēgti
+not_bother,Neuztraucieties
+tones_vibration_mute,Izslēdziet signālus un vibrācijas, izņemot modinātāja signālus
+sound,Skaņas
+music,mūzika
+notification,Paziņojums
+alarm,Signalizācija
+ultra_saving,Ultra enerģijas taupīšanas režīms
+edit,Lai rediģētu
+disable_ultra_saving,Atspējojiet īpaši enerģijas taupīšanas režīmu
+min_remaining,min atlicis
+hours,stundas
+activted_ultra_saving,Ir aktivizēts īpaši enerģijas taupīšanas režīms
+charged_in,iekasēts
+min,min
+limit_power,Ierobežojiet enerģijas patēriņu
+reduce_screen,Samaziniet ekrāna spilgtumu
+restrict_bg_act_explain,Ierobežojiet fona darbības
+volatge_check,Spriegums tiek pārbaudīts
+software_optimized,Programmatūra ir optimizēta
+connect_charger,Pievienojiet lādētāju
+charger_removed,Lādētāju var noņemt
+power_consump_title,Elektrības patēriņš
+srcn_bg_title,Ekrāna spilgtums
+bg_al_activities,Fona aktivitātes
+sftware,Programmatūra
+get_primium,Iegādājoties premium versiju, jūs iegūsit visas pašreizējās funkcijas, kā arī visas jaunās funkcijas nākotnē.
+cuztomize_face,Lietotāja saskarnes pielāgošana
+comp_scheme,Izveidojiet Battery Manager krāsu shēmu no dažādām tēmām.
+bat_check_detail,Detalizēta akumulatora pārbaude
+check_cond_test,Izmantojiet Battery Manager, lai pārbaudītu akumulatora stāvokli, lai vienmēr būtu drošībā.
+no_ads_yo,Nekādas reklāmas
+use_explain_noads,Izmantojiet Battery Manager bez reklāmas
+act_energy_save,Aktivizējiet īpaši enerģijas taupīšanas režīmu, lai ārkārtas situācijā palielinātu akumulatora darbības laiku.
+buy_title,Pērciet Premium
+loc_title,Atrašanās vieta
+cap_title,jaudu
+cap_remain,Atlikusī jauda
+sleepy,Gulēt
+sek,Sekundes
+sing_min,Minūte
+miniotes,Minūtes
+finish,Pabeigts
+mobi_data,mobilie dati
+plz_rate,Lūdzu, novērtējiet Battery Manager Play veikalā
+ur_data_cus,Vai mēs varam turpināt izmantot jūsu datus, lai pielāgotu reklāmas jums?
+in_slep_mode,Miega režīmā
+in_use,Lietošanā
+with_curr_pow,Ar pašreizējo enerģijas patēriņu
+rem_bat_life,Atlikušais akumulatora darbības laiks
+qck_acc,Ātra piekļuve
+notif_txt,paziņojumu
+notif_at,Paziņot plkst
+chg_curr,Uzlādes strāva
+charge_perm,Uzlādes veiktspēja
+maxi_charge_per,Maksimāla uzlādes veiktspēja
+enb_notif,Iespējot paziņojumu
+perm_send_notif,Battery Manager ir nepieciešama atļauja nosūtīt paziņojumu, tā ir jāaktivizē ierīces iestatījumos.
+to_set,Uz iestatījumiem
+title_autost,Aktivizējiet automātisko palaišanu
+auto_explain,Battery Manager pieprasa atļauju palikt aktivizētam fonā, lai noskaidrotu akumulatora statusu un nosūtītu paziņojumu.
+sync_auto,Sinhronizēt automātiski
+dis_auto_sync,Automātiskās sinhronizācijas atspējošana ievērojami samazina aktivizēšanas gadījumu skaitu. Tomēr dažas funkcijas, piemēram, e-pasta saņemšana, tiks zaudētas.
+chg_lim,Maksas ierobežojums
+avoid_ful_explain,Ja uzlādējat akumulatoru līdz maksimumam vai izlādējat, līdz tas tiek izslēgts, akumulatora stāvoklis un kalpošanas laiks samazināsies. Tālāk varat iestatīt minimālo un maksimālo akumulatora uzlādes vai izlādes statusu, un jūs saņemsit paziņojumu katru reizi, kad tiks sasniegta sliekšņa vērtība. Izvairieties no vienas pilnīgas akumulatora uzlādes un izlādēšanās, kā arī pagariniet akumulatora darbības laiku.
+rec_notif,Vai neesat saņēmis paziņojumu?
+title_allow_bg_act,Atļaut darbības fonā
+allow_bg_act,Lai jūs varētu bez ierobežojumiem izmantot Battery Manager, to netīši neaizverot operētājsistēmai, iespējams, iestatījumos būs jāizslēdz īpašas akumulatora pārvaldības un akumulatora lietošanas funkcijas. Tā kā dažādi ražotāji šo opciju apzīmējumos atšķiras atkarībā no izmantotās operētājsistēmas. Apgabala Informācija par lietotni sadaļā Miega režīms vai Akumulators atlasiet Bez ierobežojumiem vai Atļaut fona darbības.
+dev_usage,Ierīces lietojums
+dep_sleep,Dziļais miegs ir stāvoklis, kurā ierīce patērē vismazāko akumulatora enerģijas daudzumu. Dziļa miega ilgums pozitīvi ietekmē enerģijas taupīšanu. Dziļo miegu var pārtraukt fona uzdevumi, kā rezultātā akumulators ātrāk izlādējas. Šādā gadījumā restartējiet ierīci.
+title_bat_temp,Akumulatora temperatūra
+bat_tempp,Akumulatora temperatūra ir viens no svarīgākajiem faktoriem. Ja akumulators tiek turēts gēlā augstā temperatūrā, tas ietekmē gan akumulatora kalpošanas laiku, gan veiktspēju. Ja temperatūra paaugstinās, var tikt bojāta akumulatora iekšējā struktūra.
+rdc_brightness,Samaziniet ekrāna spilgtumu
+display_explain,Displejs ir viena no sastāvdaļām, kas patērē lielāko daļu enerģijas. Maksimālā spilgtuma samazināšana palīdz samazināt kopējo patēriņu un panākt ievērojamus ietaupījumus. Pirms spilgtuma samazināšanas deaktivizējiet automātisko spilgtumu, lai bez vajadzības netiktu mainīts spilgtums.
+tst_charge,Pārbaudi lādētāju
+best_way_test,Labākais veids, kā pārbaudīt lādētāju un kabeli, ir pārbaudīt uzlādes ātrumu, kad ekrāns ir izslēgts. Uzlādes ātrums, kad ekrāns ir ieslēgts, nav labs etalons, jo tālrunis patērē enerģiju, kas izraisa svārstības. Pievienojiet lādētāju, uz dažām minūtēm izslēdziet ekrānu un pēc tam pārbaudiet maksimālo uzlādes strāvu.
+wait_title,Gaida
+rfsh_rate,Atjaunošanas biežums
+low_sizty,Atsvaidzes intensitātes samazināšana līdz 60 Hz uzlabo akumulatora darbības laiku.
+drk_mode,Tumšais režīms
+acti_dark_mode,Aktivizējiet tumšo režīmu, tumšajā režīmā patērē mazāk enerģijas
+actz,Aktivizēt
+poz,Jauda
+minz,Minimums
+avgo,Vidēji
+mixi1,Maksimums
+msg_dis,Ziņojums pazūd pēc 24 stundām, ja ir pietiekami daudz datu, lai diagrammu parādītu pilnībā.
+no_enough,Nav pietiekami daudz datu, lai parādītu
+log_graph,Pēc dažām stundām šeit būs redzams grafiks, kas ļaus pārbaudīt akumulatora temperatūru, spriegumu, strāvas stiprumu un līmeni pēdējo 24 stundu laikā.
+week,nedēļa
+buy_it,Pirkt
+one_pur,Vienreizēja maksa par
+refun_pur,pirkumu var atmaksāt 2 stundu laikā.
+each_month,Abonements tiek automātiski atjaunots katru mēnesi un turpina maksāt mēnesī. Abonementu var atcelt jebkurā laikā.
+mng_subs,pārvaldīt abonementu
+subsci,abonēt
+will_cost_week,Abonements tiek automātiski atjaunots katru nedēļu un turpina maksāt par nedēļu. Abonementu var atcelt jebkurā laikā.
+lfllong,mūža garumā
+mthly,katru mēnesi
+wkly,Iknedēļas
+hoto,Karsts
+prm_ben_title,Premium priekšrocības
+sync_title,Sinhronizēt
+dis_sync_inc,Sinhronizācijas atspējošana pagarinās akumulatora darbības laiku, jo fonā netiks sinhronizēti pakalpojumi
+time_out,Pārtraukums
+dec_extend,Samazinot laiku pirms displeja izslēgšanas, tiek pagarināts akumulatora darbības laiks
+u_end_opti,Vai tiešām vēlaties beigt optimizācijas procesu?
+no_why_perm,Nav atļaujas
+bright_exp,Battery Manager nepieciešama atļauja Mainīt sistēmas iestatījumus, lai samazinātu ekrāna spilgtumu vai izslēgtu Bluetooth.
+tg_title,Pievienojieties telegrammas kanālam!
+tg_text,Sekojiet līdzi lietotņu atjauninājumiem, iegūstiet agrīnās versijas un palīdziet pārbaudīt jaunas funkcijas. Iesakiet savas idejas, uzdodiet jautājumus un saņemiet atbildes ātrāk
+join_tg,pievienoties
+curr_consumption,pašreizējais patēriņš
+scrn_onn,ekrāns ieslēgts
+srcn_off,ekrāns izslēgts
+mob_charg,Uzlāde
+discha,Izlāde
+activea,Aktīvs
+slpmode,Miega režīms
+chagingspeed,Pašreizējais uzlādes ātrums
+dta_proxt,Datu aizsardzība
+governs,Šī konfidencialitātes politika regulē Baxolino izveidotās lietojumprogrammas Battery Manager lietošanu mobilajām ierīcēm.
+info_u_provide,Lietotāja sniegtā informācija
+no_pass_per,Mēs nenododam personas datus trešajām personām. Kad sūtāt mums e-pasta ziņojumu, mums ir jūsu e-pasta adrese, taču mēs to izmantojam tikai, lai palīdzētu jums ar mūsu lietotnēm.
+info_auto_coll,Informācija tiek savākta automātiski
+exp_admob_use,Mēs izmantojam Google Admob, lai rādītu reklāmas. Uz šo pakalpojumu izmantošanu attiecas Google datu aizsardzības noteikumi vietnē https://www.google.com/policies/privacy/.
+we_real_time,Vai Battery Manager apkopo precīzu reāllaika atrašanās vietas informāciju no ierīces?
+exp_loc_perm_man,Battery Manger tikai pārbauda, ​​vai atrašanās vieta ir aktivizēta vai deaktivizēta, bet neievāc nekādu precīzu informāciju par jūsu mobilās ierīces atrašanās vietu. Šādas uz atrašanās vietu balstītas funkcijas ir iestatītas pēc noklusējuma. Šīs funkcijas varat deaktivizēt vai atkārtoti aktivizēt savas attiecīgās ierīces iestatījumos. Pirms vai pēc lietotņu instalēšanas, atkarībā no ierīces, jums tiks jautāts, vai vēlaties deaktivizēt vai aktivizēt šīs funkcijas. Mēs varam apkopot datus par jūsu atrašanās vietu tikai tad, ja aktivizējat šādus atrašanās vietas pakalpojumus.
+chng,Izmaiņas
+pri_update_exp,Šī privātuma politika var tikt laiku pa laikam atjaunināta jebkāda iemesla dēļ. Mēs jūs informēsim par izmaiņām mūsu privātuma politikā, ievietojot jauno konfidencialitātes politiku šajā tīmekļa adresē un paziņojot par to lietotnē. Ieteicams regulāri iepazīties ar šo Privātuma politiku par izmaiņām, jo ​​turpmāka izmantošana tiek uzskatīta par visu izmaiņu apstiprināšanu. Šajā vietnē varat pārskatīt šīs politikas vēsturi.
+contct,Sazināties
+any_que,Ja jums ir kādi jautājumi par datu aizsardzību lietojumprogrammas lietošanas laikā vai ir jautājumi par mūsu praksi, lūdzu, sūtiet e-pastu uz baxolino.de@gmail.com
+mem_opti,Battery Manager ir nepieciešama "atmiņas" piekļuve, lai lietotnes varētu skenēt un optimizēt. Šīs funkcijas varat deaktivizēt vai aktivizēt savas attiecīgās ierīces iestatījumos. Pirms vai pēc lietotnes instalēšanas, atkarībā no ierīces, jums tiks jautāts, vai vēlaties deaktivizēt vai aktivizēt šīs funkcijas.
+storg,Uzglabāšana
+ble_set_acc,blue_set_perm,Battery Manager pieprasa piekļuvi "Bluetooth iestatījumu piekļuve", lai varētu pārbaudīt, vai Bluetooth ir aktivizēts vai deaktivizēts. Un, lai aktivizētu vai deaktivizētu Bluetooth.
+ble_title,Bluetooth
+needz_del,Battery Manager nepieciešama piekļuve "Pieprasīt pakotņu dzēšanu", lai sāktu lietotnes atinstalēšanu. Lietotne tiks atinstalēta tikai tad, ja to skaidri atļausiet.
+deletion_pkg,Pieprasīt pakotņu dzēšanu
+need_adnd,Lai iespējotu vai atspējotu režīmu Netraucēt, pakalpojumam Battery Manager ir nepieciešama piekļuve režīmam “Netraucēt”.
+adnd,Piekļūstiet režīmam Netraucēt
+need_wlan_acc,Battery Manager ir nepieciešama piekļuve funkcijai "Iegūt WLAN savienojumus", lai Battery Manager varētu pārbaudīt, vai WLAN ir aktivizēts vai deaktivizēts. Un, lai aktivizētu vai deaktivizētu WLAN.
+wln_conn,Iegūstiet WLAN savienojumus
+shop_bill_exp,Kad iepērkaties pakalpojumā Google Play In App Norēķini, Google sniedz mums jūsu dzīvesvietas valsti un dažreiz arī štatu, pilsētu un pasta indeksu, bet nekad nenorāda pilnu adresi. Mēs izmantojam šo informāciju, lai nodrošinātu atbilstību nodokļu un grāmatvedības noteikumiem.
+pri_date,Uz 21.02.2021
+how_to_stop,Varat apturēt visu lietojumprogrammas informācijas apkopošanu, vienkārši atinstalējot lietojumprogrammu. Varat izmantot standarta atinstalēšanas procesus, kas pieejami kā daļa no jūsu mobilās ierīces vai izmantojot mobilo lietojumprogrammu tirgu vai tīklu.
+opt_out,Kādas ir manas atteikšanās tiesības?
+ur_permission,jūsu atļauja
+accept_privacy,Izmantojot lietojumprogrammu, jūs piekrītat mūsu veiktajai jūsu datu apstrādei, kā norādīts šajā privātuma politikā un mūsu veiktajos grozījumos.

@@ -1,0 +1,347 @@
+title,Manajan baturi Lite ya bambanta
+extend_life,Hanya mafi kyau don tsawaita rayuwar batir da kiyaye lafiyar ku ta dogara ne akan ƙwarewa da binciken kimiyya.
+measured,A zahiri muna nuna muku ainihin bayanan da aka auna da yadda ake ƙididdige su.
+healthy,Ka kiyaye batirinka lafiya
+double_battery,Sau biyu rayuwar baturin ku ta hanyar rashin cikakken cajin baturin ku. Masana kimiyya sun tabbatar da haka a cikin binciken su.
+charge_limit,Yin amfani da sanarwar iyakar cajinmu, za a aika sanarwa lokacin da baturin ya kai madaidaicin madaidaicin mai amfani.
+smart,Yana samun wayo kowace rana
+analyze,Muddin kuna amfani da Manajan Baturi Lite, mafi kyawun za mu samu wajen nazarin aikin baturin ku.
+update_every_time,Ana sabunta ma'aunin rayuwar baturi da ya rage a duk lokacin da kake amfani da ko cajin na'urarka.
+runtime,Gano ainihin lokacin aiki na baturin ku
+discharge_cycle,A duk lokacin da wayarka ta wuce ta zagayowar fitarwa, ana iya auna madaidaicin kimanta lokacin aiki.
+accurate_life,Yi amfani da Manajan Baturi Lite don auna ingantaccen rayuwar batir.
+no_exit,Kar a fita daga Manajan Baturi Lite!
+bg_require,Manajan Baturi Lite yana buƙatar sabis na bango don tattara ƙididdigar baturi da auna cajin baturi da lokacin fitarwa. Wataƙila na'urarka ta dakatar da sabis ɗin ko ba ta ƙyale ta ta yi aiki ba lokacin da app ɗin ke rufe. Don guje wa wannan, muna da mafita mai kyau a gare ku. Kawai danna mahaɗin.
+man,Manual
+cali,Daidaitawa
+polarity,A cikin wannan matakin, app ɗin yana gano ƙarfin caji da ƙarfin ƙira na baturin ku.
+disch,Zazzagewa
+ch_pol,Cajin polarity
+power_meter,Mitar wutar lantarki
+unit_mesure,Ƙungiyar ma'auni
+capacity,Ƙarfin baturi
+wrong,Ba daidai ba?
+calib,Calibrate
+ye,Ee
+no,A'a
+neg,Korau
+pos,M
+lunch,Kaddamar da App
+manufac,Capacity bisa ga masana'anta
+design_des,Ƙimar ƙira ita ce ainihin ƙarfin baturi, wanda aka auna shi cikin mAh. Kamar yadda babu wata hanyar hukuma don tantance ƙarfin, ƙimar da aka dawo zata iya zama kuskure.
+correct_it,Idan ƙarfin da aka nuna ba daidai ba ne, da fatan za a gyara shi.
+cancel,Soke
+ok,Lafiya
+runtime,Lokacin Gudun Baturi
+wait,jira
+per_hr,Amfanin baturi a awa daya
+life_for,Rayuwar baturi don
+battery_cond,Yanayin baturi
+bat_info,Bayanin baturi
+bat_cap,Ƙarfin baturi
+bat_volt,Wutar lantarki
+bat_cur,Batirin halin yanzu
+unit_mes,Ƙungiyar ma'auni
+done,Anyi
+c_bat_temp,Yanayin Baturi na Yanzu
+min_bat_tem,Mafi ƙarancin zafin baturi
+mx_bat_tem,Matsakaicin zafin baturi
+avg_bat_tem,Matsakaicin zafin baturi
+dig_last,Ƙarshe ganewar asali kafin
+rem_time,Ragowar Lokaci
+volt,Wutar lantarki
+curr,A halin yanzu
+status,Matsayi
+run_time,Lokacin gudu
+currently,A halin yanzu
+avg,Matsakaicin
+minmal,Karamin
+maximal,Matsakaicin
+tool,Kayan aiki
+rem_apps,Cire ƙa'idodin da ba ku ƙara amfani da su don hana ƙa'idodin yin aiki ba dole ba kuma suna zubar da baturin ku
+uninst_apps,Cire Apps
+stat,Fara
+act_eng_save,Kunna yanayin ceton kuzari don rage yawan baturi
+pow_save,Yanayin ajiyar wuta
+tempe,Zazzabi
+heal,Lafiya
+tips,Kiyaye baturin ku cikin kyakkyawan yanayi tare da tukwici da dabaru.
+recomm,Shawarwari
+prem,Premium
+more_func,Ƙarin ayyuka a gare ku. Samun kuɗi, sami ƙari.
+more,Kara
+ur_cond_bat,Yanayin baturi shine
+ur_bat_life,Rayuwar baturin ku ita ce
+ur_bat_temp,Yanayin batirinka shine
+wow,Madalla
+normal,Na al'ada
+poor,Talauci
+days,Kwanaki
+mins,Mintuna
+hrs,Awanni
+chging,Cajin
+ful,Cikakkun
+dis_chrg,Ana fitarwa
+unkn,Ba a sani ba
+too_lit,Bayanan Baturi kaɗan
+car_any,Yi komai
+endz_,Ƙarshe
+dig_any,Domin samun ingantattun sakamakon bincike, app ɗin yana buƙatar bincika baturin ku a bango. Da fatan za a fara ganewar asali bayan sa'o'i 24
+end_dig,Ƙarshen ganewar asali
+quit_dig,Da gaske A daina Ganewa
+batty_temp,Yanayin baturi
+akku_manager,Akku Manager
+u_agree,Tare da "START" kun yarda da ƙa'idodin kariyar bayanai
+elemn_opti,Ana iya inganta abubuwa
+looks_good,Komai yayi kyau
+optimize_,Inganta
+toolz_,Kayan aiki
+akku_check,Aku Check
+ctrl_load,Sarrafa lodi
+mng_apps,Sarrafa aikace-aikace
+infosm,Bayani
+tenzion,tashin hankali
+electy,wutar lantarki
+lvl,Mataki
+akku_man_premium,Akku Manager Premium
+premimum_highlight,Yi amfani da Manajan baturi gaba ɗaya ba tare da talla ba kuma kuna da damar yin babban keɓancewa na ƙirar mai amfani.
+design,Zane
+subjs,batutuwa
+genrally,Gabaɗaya
+temp_unit,Naúrar zafin jiki
+oth_apps,Sauran Apps
+dat_protect,Kariyar bayanai
+thx_akku,Na gode don tallafawa Manajan Akku tare da siyan sigar kyauta.
+user_got_pre,Yanzu kuna da damar yin ɗimbin gyare-gyare na ƙirar mai amfani da amfani ba tare da talla ba.
+exp_more,Kuna iya tsammanin ƙarin fasali a sabuntawa na gaba
+ap_optimiz,Ingantaccen app
+sys_bat_usage,Amfanin baturi na tsarin
+bat_usage_det,Bayanan amfani da baturi
+end_optiz,Ƙarshen ingantawa
+abort,Zubar da ciki
+break_up,rabu
+scn,don duba
+scn_bgh,Hasken allo
+dact_wlan,Kashe WLAN
+dact_save_batt,Kashe don ajiye baturi
+dact,Kashe
+dact_ble,Kashe bluetooth
+red_brigh,Rage haske
+bright_txt,Rage hasken nuni don ajiye baturi
+to_reduce,Don rage
+dact_gps,Kashe GPS
+appz_optimz,Abubuwan da aka inganta
+start_bat_check_det,Fara cikakken binciken baturi don kasancewa koyaushe a gefen aminci
+act_eng_save,Kunna yanayin ceton kuzari don rage yawan baturi
+remove_useless,Cire aikace-aikacen da ba a yi amfani da su ba
+premium,Premium
+clear_mem,Tsaftace ƙwaƙwalwar ajiya
+clear_mem_des,Domin wayar ku ta yi aiki da sauri da sauƙi.
+clenaup,Tsaftacewa
+rat,rating
+rat_free,Rate Manajan Baturi kyauta
+sendz,Aika
+elmn_found,An samo abubuwa
+drumz,Ganguna
+status,Matsayi
+end_akk_check,Ƙare duban baturi
+bat_detlz,Bayanin baturi
+temp_checked,Ana duba yanayin zafi
+cond_checked,Ana duba yanayin baturin
+checkz_start,Duban baturi yana farawa
+plug_in,Toshe ciki
+techz,Fasaha
+coldz,Sanyi
+until,Har zuwa
+well,To
+ovr_heat,Yin zafi fiye da kima
+ovr_load,Yawaita kaya
+renam,sake suna
+not_def,ba a ayyana shi ba
+chrgz,Caji
+full,Cikakkun
+unloadz,Ana saukewa
+not_charge_unkn,ba a caje ko ba a sani ba
+usb,USB
+charger,caja
+wless,mara waya
+not_at_al,ba komai
+uninstall,Cire shigarwa
+update,Don sabuntawa
+setting,Saituna
+app,Aikace-aikace
+not_found,Ba a samo app ba
+search,Bincika apps
+version_code,Lambar Sigar
+api_level,Matsayin API
+app_version,Shafin App
+authorization,izini
+open,budewa
+play_store,Play Store
+control,sarrafawa
+systemstandart,Tsarin tsarin
+white,Fari
+dark,Duhu
+ocean,Tekun
+black,Baki
+dark_blue,Dark Blue
+excellent,Madalla
+bad,Mummuna
+battery_bad,Baturi ya ɗan lalace
+very_bad,Mummuna sosai
+battery_damaged,Baturin ya lalace
+custom_mode,Yanayin Al'ada
+brightness,Haske
+automatic_brightness,Haske ta atomatik
+normal,Na al'ada
+sound_modus,Sauti Modus
+tone_work,Duk Sautuna Aiki
+mute,Yi shiru
+call_note_mute,An soke kira da sanarwa
+not_bother,Kada ku damu
+tones_vibration_mute,Kashe sautuna da rawar jiki, ban da sautunan ƙararrawa
+sound,Sauti
+music,kiɗa
+notification,Sanarwa
+alarm,Ƙararrawa
+ultra_saving,Yanayin ceton makamashi Ultra
+edit,Don gyarawa
+disable_ultra_saving,Kashe Yanayin Ajiye Makamashi na Ultra
+min_remaining,min saura
+hours,hours
+activted_ultra_saving,Ana kunna yanayin ceton kuzarin ƙarami
+charged_in,caje a
+min,min
+limit_power,Iyakance amfani da wutar lantarki
+reduce_screen,Rage hasken allo
+restrict_bg_act_explain,Ƙuntata ayyukan baya
+volatge_check,Ana duba wutar lantarki
+software_optimized,An inganta software
+connect_charger,Haɗa caja
+charger_removed,Ana iya cire caja
+power_consump_title,Amfanin wutar lantarki
+srcn_bg_title,Hasken allo
+bg_al_activities,Ayyukan bango
+sftware,Software
+get_primium,Idan ka sayi sigar ƙima, za ka sami duk ayyuka na yanzu da kuma duk sabbin ayyuka a nan gaba.
+cuztomize_face,Ƙirƙirar ƙirar mai amfani
+comp_scheme,Ƙirƙirar tsarin launi na Manajan baturi daga jigogi iri-iri.
+bat_check_detail,Cikakken binciken baturi
+check_cond_test,Yi amfani da Manajan baturi don duba yanayin baturin ku don kasancewa koyaushe a gefen aminci.
+no_ads_yo,Babu talla
+use_explain_noads,Yi amfani da Manajan baturi ba tare da wani talla ba
+act_energy_save,Kunna yanayin ceton makamashi na matsananci don ƙara rayuwar baturi a cikin gaggawa.
+buy_title,Sayi Premium
+loc_title,Wuri
+cap_title,iya aiki
+cap_remain,Ragowar iya aiki
+sleepy,Barci
+sek,Dakika
+sing_min,Minti
+miniotes,Mintuna
+finish,An gama
+mobi_data,wayar hannu data
+plz_rate,Da fatan za a kimanta manajan baturi a cikin Play Store
+ur_data_cus,Za mu iya ci gaba da amfani da bayananku don keɓance muku tallace-tallace?
+in_slep_mode,A cikin yanayin barci
+in_use,Ana amfani
+with_curr_pow,Tare da amfani da wutar lantarki na yanzu
+rem_bat_life,Ragowar rayuwar baturi
+qck_acc,Saurin shiga
+notif_txt,sanarwa
+notif_at,Sanarwa a
+chg_curr,Cajin halin yanzu
+charge_perm,Yin caji
+maxi_charge_per,Matsakaicin aikin caji
+enb_notif,Kunna sanarwa
+perm_send_notif,Manajan baturi yana buƙatar izini don aika sanarwa, dole ne a kunna shi a cikin saitunan na'urar.
+to_set,Zuwa saitunan
+title_autost,Kunna Autostart
+auto_explain,Manajan baturi yana buƙatar izini don ci gaba da kunnawa a bango don neman halin baturi da aika sanarwa.
+sync_auto,Aiki tare ta atomatik
+dis_auto_sync,Kashe aiki tare ta atomatik yana rage makulli sosai. Koyaya, wasu ayyuka kamar karɓar imel ɗin zasu ɓace.
+chg_lim,Iyakar Caji
+avoid_ful_explain,Idan ka yi cajin baturinka zuwa matsakaicin ko fitar da shi har sai an kashe shi, za a rage yanayin da rayuwar rayuwar baturin. A cikin masu biyowa zaku iya saita mafi ƙaranci da matsakaicin caji ko halin fitarwa na baturin kuma za a sanar da ku duk lokacin da ƙimar ƙima ta kai. Ka guje wa caji ɗaya cikakke kuma cire baturin ka kuma ƙara tsawon rayuwar baturin.
+rec_notif,Ba a karɓi sanarwa ba?
+title_allow_bg_act,Ba da izinin ayyukan bango
+allow_bg_act,Domin samun damar amfani da Manajan baturi ba tare da hani ba ba tare da tsarin aiki ya rufe ba da gangan ba, ƙila ka kashe ayyuka na musamman don sarrafa baturi da amfani da baturi a cikin saitunan. Domin masana'antun daban-daban sun bambanta wajen zayyana waɗannan zaɓuɓɓukan dangane da tsarin aiki da ake amfani da su. A cikin yankin Bayanin App, ƙarƙashin Barci ko Baturi, zaɓi Babu Ƙuntatawa ko Bada Ayyukan Baya.
+dev_usage,Amfanin na'ura
+dep_sleep,Barci mai zurfi shine yanayin da na'urarka ke amfani da mafi ƙarancin adadin baturi. Tsawon lokacin barci mai zurfi yana da tasiri mai kyau akan ceton makamashi. Za a iya katse barci mai zurfi ta ayyuka na baya, wanda ke sa baturi ya fita da sauri. A wannan yanayin, sake kunna na'urar ku.
+title_bat_temp,Yanayin baturi
+bat_tempp,Yanayin baturi yana ɗaya daga cikin mahimman abubuwan. Idan an ajiye baturin gel a yanayin zafi mai girma, wannan yana rinjayar duka rayuwar sabis da aikin baturin. Idan zafin jiki ya tashi, tsarin ciki na baturin zai iya lalacewa.
+rdc_brightness,Rage hasken allo
+display_explain,Nunin yana ɗaya daga cikin abubuwan da ke cinye yawancin kuzari. Rage matsakaicin haske yana taimakawa rage yawan amfani da kuma cimma tanadin gani. Kafin rage haske, kashe hasken atomatik don kada hasken ya canza ba dole ba.
+tst_charge,Gwajin caja
+best_way_test,Hanya mafi kyau don gwada caja da kebul shine ta duba saurin caji tare da kashe allon. Gudun caji lokacin da allon ke kunne ba kyakkyawan ma'auni bane saboda wayarka tana cin wuta, wanda ke haifar da sauyi. Toshe caja, kashe allon na ƴan mintuna, sannan duba matsakaicin cajin halin yanzu.
+wait_title,Jira
+rfsh_rate,Yawan wartsakewa
+low_sizty,Rage yawan wartsakewa zuwa 60 Hz yana inganta rayuwar baturi.
+drk_mode,Yanayin duhu
+acti_dark_mode,Kunna Yanayin Duhu, a cikin Yanayin duhu ƙasa da wutar da ake cinyewa
+actz,Kunna
+poz,Ƙarfi
+minz,Mafi ƙarancin
+avgo,Matsakaicin
+mixi1,Matsakaicin
+msg_dis,Saƙon yana ɓacewa bayan sa'o'i 24 idan akwai isassun bayanai don nuna zane a cikakke.
+no_enough,Babu isassun bayanai don nunawa
+log_graph,A cikin 'yan sa'o'i kadan za ku ga jadawali a nan wanda zai ba ku damar duba zafin baturi, ƙarfin lantarki, amperage da matakin a cikin sa'o'i 24 da suka gabata.
+week,mako
+buy_it,Saya
+one_pur,Kuɗin lokaci ɗaya na
+refun_pur,za a iya mayar da sayan a cikin sa'o'i 2.
+each_month,Biyan kuɗin yana sabuntawa ta atomatik kowane wata kuma yana ci gaba da tsada kowane wata. Za a iya soke biyan kuɗin shiga kowane lokaci.
+mng_subs,sarrafa biyan kuɗi
+subsci,biyan kuɗi
+will_cost_week,Biyan kuɗi yana sabuntawa ta atomatik kowane mako kuma yana ci gaba da tsada kowane mako. Za a iya soke biyan kuɗin shiga kowane lokaci.
+lfllong,tsawon rai
+mthly,kowane wata
+wkly,mako-mako
+hoto,Zafi
+prm_ben_title,Amfanin Premium
+sync_title,Aiki tare
+dis_sync_inc,Kashe aiki tare zai ƙara rayuwar baturi ta rashin daidaita ayyuka a bango
+time_out,Lokaci ya ƙare
+dec_extend,Rage lokacin kafin nunin ya kashe yana ƙara tsawon rayuwar batir
+u_end_opti,Shin kun tabbata kuna son kawo ƙarshen aikin ingantawa?
+no_why_perm,Babu izini
+bright_exp,Mai sarrafa baturi yana buƙatar Canja izinin saitunan tsarin don rage hasken allo ko kashe Bluetooth.
+tg_title,Join Telegram channel!
+tg_text,Kasance a halin yanzu tare da sabuntawar ƙa'idar, samun haɓakawa da wuri, da taimakawa gwada sabbin abubuwa. Ba da shawarar ra'ayoyin ku, yi tambayoyi kuma ku sami amsoshi cikin sauri
+join_tg,shiga
+curr_consumption,amfani na yanzu
+scrn_onn,allo a kunne
+srcn_off,allon kashewa
+mob_charg,Cajin
+discha,Ana fitarwa
+activea,Mai aiki
+slpmode,Yanayin barci
+chagingspeed,Gudun caji na yanzu
+dta_proxt,Kariyar bayanai
+governs,Wannan manufar keɓantawa tana sarrafa amfani da aikace-aikacen software na Manajan baturi don na'urorin hannu wanda Baxolino ya ƙirƙira.
+info_u_provide,Bayanin da mai amfani ya bayar
+no_pass_per,Ba mu aika bayanan sirri ga wasu na uku. Lokacin da kuka aiko mana imel, muna da adireshin imel ɗin ku, amma muna amfani da shi kawai don taimaka muku da aikace-aikacen mu.
+info_auto_coll,Bayanin da aka tattara ta atomatik
+exp_admob_use,Muna amfani da Google Admob don ba da tallace-tallace. Amfani da waɗannan ayyukan yana ƙarƙashin tanadin kariyar bayanan Google a https://www.google.com/policies/privacy/.
+we_real_time,Shin Manajan Baturi yana tattara ingantattun bayanan wuri na ainihin lokacin daga na'urar?
+exp_loc_perm_man,Manger na baturi yana bincika ko an kunna ko kashe wurin, amma baya tattara kowane takamaiman bayani game da wurin da na'urar tafi da gidanka take. Irin waɗannan ayyukan tushen wuri an saita su ta tsohuwa. Kuna iya kashewa ko sake kunna waɗannan ayyuka a cikin saitunan na'urar ku. Kafin ko bayan shigar da apps, za a tambaye ku - ya danganta da na'urar - ko kuna son kashewa ko kunna waɗannan ayyukan. Za mu iya tattara bayanai game da wurin ku kawai idan kun kunna irin waɗannan ayyukan wurin.
+chng,Canje-canje
+pri_update_exp,Ana iya sabunta wannan manufar keɓantawa daga lokaci zuwa lokaci don kowane dalili. Za mu sanar da ku canje-canje ga manufofin sirrinmu ta hanyar buga sabuwar manufar keɓantawa akan wannan adireshin gidan yanar gizon da kuma sanar da ku ta hanyar saƙo a cikin app. Ana ba da shawarar cewa ku tuntuɓi wannan Dokar Sirri akai-akai don canje-canje, kamar yadda ake ɗaukar ci gaba da amfani da amincewar duk canje-canje. Kuna iya duba tarihin wannan manufar akan wannan gidan yanar gizon.
+contct,Tuntuɓar
+any_que,Idan kuna da wasu tambayoyi game da kariyar bayanai yayin amfani da aikace-aikacen ko kuna da tambayoyi game da ayyukanmu, da fatan za a aiko da imel zuwa garejilino.de@gmail.com
+mem_opti,Manajan baturi yana buƙatar samun dama ga "ƙwaƙwalwar ajiya" don a iya bincika ƙa'idodin da inganta su. Kuna iya kashewa ko kunna waɗannan ayyuka a cikin saitunan na'urar ku. Kafin ko bayan shigar da app, za a tambaye ku - ya danganta da na'urar - ko kuna son kashewa ko kunna waɗannan ayyukan.
+storg,Adana
+ble_set_acc,blue_set_perm, Mai sarrafa baturi yana buƙatar samun dama ga "hanyar hanyar saitin Bluetooth" domin a iya bincika ko an kunna Bluetooth ko kashewa. Kuma don kunna ko kashe Bluetooth.
+ble_title,Bluetooth
+needz_del,Manajan baturi yana buƙatar samun dama ga "Nemi share fakiti" don fara cire kayan aikin. Za a cire app ɗin ne kawai idan kun ba da izini a sarari.
+deletion_pkg,Nemi share fakitin
+need_adnd,Manajan baturi yana buƙatar samun dama ga "Kada ku damu" don kunna ko kashe yanayin Kar a dame.
+adnd,Samun shiga Kada ku dame
+need_wlan_acc,Manajan baturi yana buƙatar samun dama ga "Samu Haɗin WLAN" don Manajan Baturi ya iya bincika ko an kunna WLAN ko kashewa. Kuma don kunna ko kashe WLAN.
+wln_conn,Samun haɗin WLAN
+shop_bill_exp,Lokacin da kuke siyayya ta hanyar Google Play In App Billing, Google yana ba mu ƙasar zama kuma wani lokacin jiha, birni, da lambar zip, amma ba cikakken adireshin ba. Muna amfani da wannan bayanin don biyan ka'idojin haraji da lissafin kuɗi.
+pri_date,Kamar yadda 02/21/2021
+how_to_stop,Kuna iya dakatar da duk tarin bayanai ta aikace-aikacen ta hanyar cire aikace-aikacen kawai. Kuna iya amfani da daidaitattun matakan cirewa da ake samu azaman ɓangare na na'urar tafi da gidanka ko ta kasuwa ko hanyar sadarwa don aikace-aikacen hannu.
+opt_out,Menene haƙƙin ficewa na?
+ur_permission,iznin ku
+accept_privacy,Ta amfani da aikace-aikacen, kun yarda da sarrafa bayanan ku kamar yadda aka tsara a cikin wannan manufar keɓantawa kuma kamar yadda muka gyara.

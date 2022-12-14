@@ -1,0 +1,347 @@
+title,A Battery Manager Lite más
+extend_life,Az akkumulátor élettartamának meghosszabbításának és egészségének megőrzésének legjobb módja a tapasztalatokon és a tudományos kutatásokon alapul.
+measured,Átlátható módon csak a ténylegesen mért adatokat és azok számítási módját mutatjuk meg.
+healthy,Tartsa egészségesen az akkumulátort
+double_battery,Duplázza meg az akkumulátor élettartamát, ha nem tölti fel teljesen az akkumulátort. A tudósok ezt bizonyították kutatásaik során.
+charge_limit,A töltési korlátról szóló értesítésünk segítségével értesítést küldünk, ha az akkumulátor eléri a felhasználó által meghatározott küszöbértéket.
+smart,Minden nappal okosabb lesz
+analyze,Minél tovább használja a Battery Manager Lite-ot, annál jobban tudjuk elemezni az akkumulátor teljesítményét.
+update_every_time,Az akkumulátor hátralévő élettartamának mérése minden alkalommal frissül, amikor használja vagy tölti az eszközt.
+runtime,Fedezze fel az akkumulátor tényleges üzemidejét
+discharge_cycle,Minden alkalommal, amikor a telefon lemerülési cikluson megy keresztül, pontosan megbecsülhető a működési ideje.
+accurate_life,A Battery Manager Lite segítségével pontosan mérheti az akkumulátor élettartamát.
+no_exit,Ne lépjen ki a Battery Manager Lite alkalmazásból!
+bg_require,A Battery Manager Lite háttérszolgáltatást igényel az akkumulátorstatisztika gyűjtéséhez, valamint az akkumulátor töltési és lemerülési idejének méréséhez. Az eszköz valószínűleg leállítja a szolgáltatást, vagy nem engedi futni, amikor az alkalmazás be van zárva. Ennek elkerülésére van egy jó megoldásunk az Ön számára. Csak kattintson a linkre.
+man,Kézikönyv
+cali,Kalibráció
+polarity,Ebben a lépésben az alkalmazás észleli az akkumulátor töltési polaritását és tervezési kapacitását.
+disch,Kisülés
+ch_pol,Töltési polaritás
+power_meter,Teljesítménymérő
+unit_mesure,Mértékegység
+capacity,Akkumulátor-kapacitás
+wrong,Nem jó?
+calib,Kalibrálni
+ye,Igen
+no,Nem
+neg,Negatív
+pos,Pozitív
+lunch,Indítsa el az alkalmazást
+manufac,Kapacitás a gyártó szerint
+design_des,A tervezési kapacitás a tényleges akkumulátorkapacitás, mAh-ban mérve. Mivel a kapacitás meghatározására nincs hivatalos mód, előfordulhat, hogy a visszaadott érték hibás.
+correct_it,Ha a megjelenített kapacitás nem megfelelő, javítsa ki.
+cancel,Megszünteti
+ok,oké
+runtime,Akkumulátor üzemidő
+wait,várakozás
+per_hr,Akkumulátor fogyasztás óránként
+life_for,Az akkumulátor élettartama a
+battery_cond,Akkumulátor állapota
+bat_info,Akkumulátor információ
+bat_cap,Akkumulátor-kapacitás
+bat_volt,Akkumulátor feszültség
+bat_cur,Akkumulátor áram
+unit_mes,Mértékegység
+done,Kész
+c_bat_temp,Az akkumulátor aktuális hőmérséklete
+min_bat_tem,Minimális akkumulátor hőmérséklet
+mx_bat_tem,Maximális akkumulátor hőmérséklet
+avg_bat_tem,Átlagos akkumulátor hőmérséklet
+dig_last,Előtte az utolsó diagnózis
+rem_time,Hátralévő idő
+volt,Feszültség
+curr,Jelenlegi
+status,Állapot
+run_time,Futási idő
+currently,Jelenleg
+avg,Átlagos
+minmal,Minimális
+maximal,Maximális
+tool,Eszközök
+rem_apps,Távolítsa el a már nem használt alkalmazásokat, hogy megakadályozza az alkalmazások szükségtelen működését és az akkumulátor lemerítését
+uninst_apps,Alkalmazások eltávolítása
+stat,Rajt
+act_eng_save,Kapcsolja be az energiatakarékos módot az akkumulátorfogyasztás csökkentése érdekében
+pow_save,Energiatakarékos üzemmód
+tempe,Hőfok
+heal,Egészség
+tips,Tartsa az akkumulátort jó állapotban tippekkel és trükkökkel.
+recomm,Ajánlások
+prem,Prémium
+more_func,További funkciók az Ön számára. Szerezzen prémiumot, szerezzen többet.
+more,Több
+ur_cond_bat,Az akkumulátor állapota az
+ur_bat_life,Az akkumulátor élettartama az
+ur_bat_temp,Az akkumulátor hőmérséklete
+wow,Kiváló
+normal,Normál
+poor,Rosszul
+days,Napok
+mins,Percek
+hrs,Órák
+chging,Töltés
+ful,Teljes
+dis_chrg,Kisütés
+unkn,Ismeretlen
+too_lit,Túl kevés akkumulátor adat
+car_any,Mindenképpen hajtsd végre
+endz_,Vége
+dig_any,A jobb diagnosztikai eredmények elérése érdekében az alkalmazásnak elemeznie kell az akkumulátort a háttérben. Kérjük, 24 óra elteltével kezdje meg a diagnózist
+end_dig,Vége a diagnózisnak
+quit_dig,Tényleg hagyja abba a diagnózist
+batty_temp,Az akkumulátor hőmérséklete
+akku_manager,Akku Manager
+u_agree,A "START"-mal elfogadja az adatvédelmi szabályzatot
+elemn_opti,Az elemek optimalizálhatók
+looks_good,Minden jól néz ki
+optimize_,Optimalizálás
+toolz_,Eszközök
+akku_check,Akku Check
+ctrl_load,Ellenőrzött rakodás
+mng_apps,Alkalmazások kezelése
+infosm,Információ
+tenzion,feszültség
+electy,elektromosság
+lvl,Szint
+akku_man_premium,Akku Manager Premium
+premimum_highlight,Használja a Battery Managert teljesen reklám nélkül, és hozzáférhet a felhasználói felület széleskörű testreszabásához.
+design,Tervezés
+subjs,tantárgyak
+genrally,Általában
+temp_unit,Hőmérséklet mértékegysége
+oth_apps,Egyéb alkalmazások
+dat_protect,Adat védelem
+thx_akku,Köszönjük, hogy támogatja az Akku Managert a prémium verzió megvásárlásában.
+user_got_pre,Mostantól hirdetés nélkül hozzáférhet a felhasználói felület és a használat széles körű testreszabásához.
+exp_more,További funkciókra számíthat a jövőbeni frissítésekben
+ap_optimiz,Alkalmazásoptimalizálás
+sys_bat_usage,A rendszer akkumulátor fogyasztása
+bat_usage_det,Az akkumulátor használatának részletei
+end_optiz,Az optimalizálás befejezése
+abort,Elvetél
+break_up,szakítás
+scn,Szkennelni
+scn_bgh,Képernyő fényereje
+dact_wlan,A WLAN kikapcsolása
+dact_save_batt,Az akkumulátor kímélése érdekében kapcsolja ki
+dact,Deaktiválás
+dact_ble,A Bluetooth kikapcsolása
+red_brigh,Csökkentse a fényerőt
+bright_txt,Az akkumulátor kímélése érdekében csökkentse a kijelző fényerejét
+to_reduce,Hogy csökkentsék
+dact_gps,A GPS kikapcsolása
+appz_optimz,Alkalmazások optimalizálva
+start_bat_check_det,Kezdjen el részletes akkumulátor-ellenőrzést, hogy mindig biztonságban legyen
+act_eng_save,Aktiválja az energiatakarékos módot az akkumulátorfogyasztás csökkentése érdekében
+remove_useless,Távolítsa el a már nem használt alkalmazásokat
+premium,Prémium
+clear_mem,Tisztítsa meg a memóriát
+clear_mem_des,Annak érdekében, hogy okostelefonja gyorsan és zökkenőmentesen működjön.
+clenaup,Tisztítás
+rat,értékelés
+rat_free,Értékelje az akkumulátorkezelőt ingyen
+sendz,Küld
+elmn_found,Elemek találhatók
+drumz,Dobok
+status,Állapot
+end_akk_check,Végezze el az akkumulátor ellenőrzését
+bat_detlz,Az akkumulátor részletei
+temp_checked,A hőmérsékletet ellenőrzik
+cond_checked,Ellenőrzik az akkumulátor állapotát
+checkz_start,Elindul az akkumulátor ellenőrzése
+plug_in,Bedugva
+techz,Technológia
+coldz,Hideg
+until,Amíg
+well,Jól
+ovr_heat,Túlmelegedés
+ovr_load,Túlterhelés
+renam,átnevezték
+not_def,nem meghatározott
+chrgz,Díj
+full,Teljes
+unloadz,Kirakodás
+not_charge_unkn,nincs feltöltve vagy ismeretlen
+usb,USB
+charger,töltő
+wless,vezeték nélküli
+not_at_al,semmi sem
+uninstall,Eltávolítás
+update,Frissíteni
+setting,Beállítások
+app,Alkalmazások elemre
+not_found,Az alkalmazás nem található
+search,Alkalmazások keresése
+version_code,Verziókód
+api_level,API szint
+app_version,Alkalmazás verziója
+authorization,felhatalmazást
+open,kinyitni
+play_store,A Play Áruház
+control,ellenőrzés
+systemstandart,Rendszerszabvány
+white,fehér
+dark,Sötét
+ocean,óceán
+black,Fekete
+dark_blue,Sötétkék
+excellent,Kiváló
+bad,Rossz
+battery_bad,Az akkumulátor enyhén sérült
+very_bad,Nagyon rossz
+battery_damaged,Az akkumulátor sérült
+custom_mode,Egyedi mód
+brightness,Fényerősség
+automatic_brightness,Automatikus fényerő
+normal,Normál
+sound_modus,Sound Modus
+tone_work,Minden hang működik
+mute,Néma
+call_note_mute,A hívások és az értesítések némítva vannak
+not_bother,Ne zavarjon
+tones_vibration_mute,Kapcsolja ki a hangokat és a rezgéseket, kivéve a riasztási hangokat
+sound,Hangok
+music,zene
+notification,Értesítés
+alarm,Riasztás
+ultra_saving,Ultra energiatakarékos mód
+edit,Szerkeszteni
+disable_ultra_saving,Az Ultra Energiatakarékos mód letiltása
+min_remaining,perc hátralévő
+hours,órák
+activted_ultra_saving,Az ultra energiatakarékos üzemmód aktiválva van
+charged_in,be van töltve
+min,min
+limit_power,Korlátozza az energiafogyasztást
+reduce_screen,Csökkentse a képernyő fényerejét
+restrict_bg_act_explain,Korlátozza a háttértevékenységeket
+volatge_check,A feszültség ellenőrzésre kerül
+software_optimized,A szoftver optimalizálva van
+connect_charger,Csatlakoztassa a töltőt
+charger_removed,A töltő eltávolítható
+power_consump_title,Energiafelhasználás
+srcn_bg_title,Képernyő fényereje
+bg_al_activities,Háttértevékenységek
+sftware,Szoftver
+get_primium,Ha megvásárolja a prémium verziót, akkor az összes jelenlegi funkciót megkapja, valamint minden új funkciót a jövőben.
+cuztomize_face,A felhasználói felület testreszabása
+comp_scheme,Állítsa össze a Battery Manager színsémáját különféle témákból.
+bat_check_detail,Részletes akkumulátor ellenőrzés
+check_cond_test,A Battery Manager segítségével ellenőrizze az akkumulátor állapotát, hogy mindig biztonságban legyen.
+no_ads_yo,Nincs reklám
+use_explain_noads,Használja az Akkumulátorkezelőt reklám nélkül
+act_energy_save,Aktiválja az ultra energiatakarékos módot, hogy vészhelyzetben megnövelje az akkumulátor élettartamát.
+buy_title,Prémium vásárlás
+loc_title,Elhelyezkedés
+cap_title,kapacitás
+cap_remain,Fennmaradó kapacitás
+sleepy,Alvás
+sek,Másodpercek
+sing_min,Perc
+miniotes,Percek
+finish,Befejezett
+mobi_data,mobil adatok
+plz_rate,Kérjük, értékelje az Akkumulátorkezelőt a Play Áruházban
+ur_data_cus,Továbbra is felhasználhatjuk adatait hirdetések személyre szabására?
+in_slep_mode,Alvó üzemmódban
+in_use,Használatban
+with_curr_pow,Jelenlegi fogyasztás mellett
+rem_bat_life,Az akkumulátor hátralévő élettartama
+qck_acc,Gyors hozzáférés
+notif_txt,értesítés
+notif_at,Értesítés a címen
+chg_curr,Töltőáram
+charge_perm,Töltési teljesítmény
+maxi_charge_per,Maximális töltési teljesítmény
+enb_notif,Értesítés engedélyezése
+perm_send_notif,A Battery Manager engedélyt kér az értesítés küldéséhez, ezt aktiválni kell az eszköz beállításaiban.
+to_set,A beállításokhoz
+title_autost,Aktiválja az Automatikus indítást
+auto_explain,A Battery Manager engedélyt kér ahhoz, hogy a háttérben aktív maradjon az akkumulátor állapotának lekérdezéséhez és értesítés küldéséhez.
+sync_auto,Automatikus szinkronizálás
+dis_auto_sync,Az automatikus szinkronizálás letiltása jelentősen csökkenti a wakelockok számát. Egyes funkciók, például az e-mailek fogadása azonban elvesznek.
+chg_lim,Töltési limit
+avoid_ful_explain,Ha az akkumulátort a maximumra tölti vagy lemeríti, amíg ki nem kapcsol, az akkumulátor állapota és élettartama csökken. A következőkben beállíthatja az akkumulátor minimális és maximális töltési vagy lemerülési állapotát, és minden küszöbérték elérésekor értesítést kap. Kerülje el az akkumulátor egy teljes feltöltését és lemerülését, és növelje meg az akkumulátor élettartamát.
+rec_notif,Nem kapott értesítést?
+title_allow_bg_act,Háttértevékenység engedélyezése
+allow_bg_act,Annak érdekében, hogy a Battery Managert korlátozás nélkül tudja használni anélkül, hogy az operációs rendszer véletlenül bezárná, előfordulhat, hogy a beállításokban ki kell kapcsolnia az akkumulátorkezeléshez és az akkumulátorhasználathoz kapcsolódó speciális funkciókat. Mivel a különböző gyártók eltérően jelölik ezeket az opciókat a használt operációs rendszertől függően. Az Alkalmazásinformációk területen az Alvó állapot vagy az Akkumulátor alatt válassza a Nincs korlátozás vagy a Háttértevékenység engedélyezése lehetőséget.
+dev_usage,Eszközhasználat
+dep_sleep,A mély alvás egy olyan állapot, amelyben eszköze a legkevesebb akkumulátort használja. A mély alvás időtartama pozitív hatással van az energiamegtakarításra. A mély alvást háttérfeladatok zavarhatják meg, ami miatt az akkumulátor gyorsabban lemerül. Ebben az esetben indítsa újra a készüléket.
+title_bat_temp,Az akkumulátor hőmérséklete
+bat_tempp,Az akkumulátor hőmérséklete az egyik legfontosabb tényező. Ha az akkumulátort zselés állapotban tartják magas hőmérsékleten, az befolyásolja az akkumulátor élettartamát és teljesítményét. Ha a hőmérséklet emelkedik, az akkumulátor belső szerkezete megsérülhet.
+rdc_brightness,Csökkentse a képernyő fényerejét
+display_explain,A kijelző az egyik olyan alkatrész, amely a legtöbb energiát fogyasztja. A maximális fényerő csökkentése segít csökkenteni az általános fogyasztást és észrevehető megtakarítást ér el. A fényerő csökkentése előtt kapcsolja ki az automatikus fényerőt, hogy ne változzon szükségtelenül a fényerő.
+tst_charge,Teszt töltő
+best_way_test,A töltő és a kábel tesztelésének legjobb módja a töltési sebesség ellenőrzése kikapcsolt képernyő mellett. A töltési sebesség, amikor a képernyő be van kapcsolva, nem jó viszonyítási alap, mert a telefon fogyaszt energiát, ami ingadozásokat okoz. Csatlakoztassa a töltőt, kapcsolja ki a képernyőt néhány percre, majd ellenőrizze a maximális töltőáramot.
+wait_title,Várakozás
+rfsh_rate,Frissítési ráta
+low_sizty,A frissítési gyakoriság 60 Hz-re csökkentése javítja az akkumulátor élettartamát.
+drk_mode,Sötét mód
+acti_dark_mode,Aktiválja a Sötét módot, sötét módban kevesebb energiát fogyaszt
+actz,Aktiválja
+poz,Erő
+minz,Minimális
+avgo,Átlagos
+mixi1,Maximális
+msg_dis,Az üzenet 24 óra elteltével eltűnik, ha elegendő adat áll rendelkezésre a diagram teljes megjelenítéséhez.
+no_enough,Nincs elég adat a megjelenítéshez
+log_graph,Néhány óra múlva megjelenik egy grafikon, amely lehetővé teszi az akkumulátor hőmérsékletének, feszültségének, áramerősségének és szintjének ellenőrzését az elmúlt 24 órában.
+week,hét
+buy_it,megvesz
+one_pur,Egyszeri díj
+refun_pur,a vásárlás 2 órán belül visszatéríthető.
+each_month,Az előfizetés minden hónapban automatikusan megújul, és továbbra is havi költséggel jár. Az előfizetés bármikor lemondható.
+mng_subs,előfizetés kezelése
+subsci,Iratkozz fel
+will_cost_week,Az előfizetés minden héten automatikusan megújul, és továbbra is heti költséggel jár. Az előfizetés bármikor lemondható.
+lfllong,élethosszig tartó
+mthly,havi
+wkly,Heti
+hoto,Forró
+prm_ben_title,Prémium előnyök
+sync_title,Szinkronizálás
+dis_sync_inc,A szinkronizálás letiltása megnöveli az akkumulátor élettartamát, mivel nem szinkronizálja a szolgáltatásokat a háttérben
+time_out,Időtúllépés
+dec_extend,A kijelző kikapcsolása előtti idő csökkentése meghosszabbítja az akkumulátor élettartamát
+u_end_opti,Biztos benne, hogy le akarja fejezni az optimalizálási folyamatot?
+no_why_perm,Nincs engedélye
+bright_exp,A Battery Manager rendszerbeállítások módosítása engedélyt igényel a képernyő fényerejének csökkentéséhez vagy a Bluetooth kikapcsolásához.
+tg_title,Csatlakozz a Telegram csatornához!
+tg_text,Legyen naprakész az alkalmazásfrissítésekkel, szerezzen be korai buildeket, és segítsen tesztelni az új funkciókat. Javasoljon ötleteit, tegyen fel kérdéseket, és gyorsabban kapjon válaszokat
+join_tg,csatlakozik
+curr_consumption,a jelenlegi felhasználás
+scrn_onn,képernyő bekapcsolva
+srcn_off,képernyő ki
+mob_charg,Töltés
+discha,Kisütés
+activea,Aktív
+slpmode,Alvó mód
+chagingspeed,Aktuális töltési sebesség
+dta_proxt,Adat védelem
+governs,Ez az adatvédelmi szabályzat szabályozza a Baxolino által létrehozott, mobileszközökhöz készült Battery Manager szoftveralkalmazás használatát.
+info_u_provide,A felhasználó által megadott információk
+no_pass_per,Személyes adatokat harmadik félnek nem adunk ki. Amikor e-mailt küld nekünk, megkapjuk az Ön e-mail címét, de csak arra használjuk, hogy segítsünk az alkalmazásainkkal kapcsolatban.
+info_auto_coll,Automatikusan gyűjtött információk
+exp_admob_use,A hirdetések megjelenítésére a Google Admob szolgáltatást használjuk. Ezeknek a szolgáltatásoknak a használatára a Google adatvédelmi rendelkezései vonatkoznak a https://www.google.com/policies/privacy/ címen.
+we_real_time,A Battery Manager pontos valós idejű helyadatokat gyűjt az eszközről?
+exp_loc_perm_man,A Battery Manger csak azt ellenőrzi, hogy a hely aktiválva van-e vagy deaktiválva, de nem gyűjt semmilyen pontos információt a mobileszköz helyéről. Az ilyen helyalapú funkciók alapértelmezés szerint be vannak állítva. Ezeket a funkciókat az adott készülék beállításaiban deaktiválhatja vagy újra aktiválhatja. Az alkalmazások telepítése előtt vagy után a rendszer megkérdezi – készüléktől függően –, hogy szeretné-e deaktiválni vagy aktiválni ezeket a funkciókat. Csak akkor gyűjthetünk adatokat a tartózkodási helyéről, ha Ön aktiválja az ilyen helymeghatározási szolgáltatásokat.
+chng,Változtatások
+pri_update_exp,Ez az adatvédelmi szabályzat időről időre bármilyen okból frissülhet. Az adatvédelmi szabályzatunk változásairól úgy tájékoztatjuk, hogy közzétesszük az új adatvédelmi szabályzatot ezen a webcímen, és az alkalmazásban üzenetben értesítjük. Javasoljuk, hogy rendszeresen olvassa el ezt az Adatvédelmi szabályzatot a változtatásokkal kapcsolatban, mivel a további használat minden változtatás jóváhagyásának minősül. Ezen a weboldalon áttekintheti a szabályzat előzményeit.
+contct,Kapcsolatba lépni
+any_que,Ha az alkalmazás használata során bármilyen kérdése van az adatvédelemmel kapcsolatban, vagy kérdése van gyakorlatunkkal kapcsolatban, kérjük, küldjön egy e-mailt a baxolino.de@gmail.com címre.
+mem_opti,A Battery Managernek „memória” hozzáférésre van szüksége az alkalmazások átvizsgálásához és optimalizálásához. Ezeket a funkciókat az adott készülék beállításaiban deaktiválhatja vagy aktiválhatja. Az alkalmazás telepítése előtt vagy után a rendszer megkérdezi - készüléktől függően -, hogy szeretné-e deaktiválni vagy aktiválni ezeket a funkciókat.
+storg,Tárolás
+ble_set_acc,blue_set_perm,A Battery Manager a "Bluetooth beállítási hozzáférés" hozzáférést igényli, hogy ellenőrizni lehessen, hogy a Bluetooth be van-e kapcsolva vagy deaktiválva. És a Bluetooth be- és kikapcsolásához.
+ble_title,Bluetooth
+needz_del,A Battery Manager a „Csomagok törlésének kérése” hozzáférést igényel egy alkalmazás eltávolításának elindításához. Az alkalmazás csak akkor lesz eltávolítva, ha kifejezetten engedélyezi.
+deletion_pkg,Csomagok törlésének kérése
+need_adnd,A Battery Manager „Ne zavarjanak” hozzáférést igényel a Ne zavarjanak mód engedélyezéséhez vagy letiltásához.
+adnd,Hozzáférés a Ne zavarjanak funkcióhoz
+need_wlan_acc,A Battery Manager hozzáférést igényel a „Get WLAN Connections” funkcióhoz, hogy a Battery Manager ellenőrizhesse, hogy a WLAN be van-e kapcsolva vagy deaktiválva. És a WLAN aktiválásához vagy deaktiválásához.
+wln_conn,Szerezzen WLAN kapcsolatokat
+shop_bill_exp,Amikor a Google Play In App Billing szolgáltatáson keresztül vásárol, a Google megadja lakóhelyének országát, és néha az államot, a várost és az irányítószámot, de soha nem adja meg a teljes címet. Ezeket az információkat az adózási és számviteli előírások betartására használjuk fel.
+pri_date,2021.02.21-i állapot szerint
+how_to_stop,Az alkalmazás teljes információgyűjtését egyszerűen leállíthatja az alkalmazás eltávolításával. Használhatja a szabványos eltávolítási folyamatokat, amelyek elérhetők a mobileszköz részeként vagy a piactéren vagy a mobilalkalmazások hálózatán keresztül.
+opt_out,Mik a leiratkozási jogaim?
+ur_permission,az ön engedélyét
+accept_privacy,Az alkalmazás használatával Ön hozzájárul ahhoz, hogy adatait a jelen adatvédelmi szabályzatban és az általunk módosított módon kezeljük.

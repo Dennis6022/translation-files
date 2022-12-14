@@ -1,0 +1,347 @@
+title,Battery Manager Lite este diferit
+extend_life,Cel mai bun mod de a prelungi durata de viață a bateriei și de a vă menține sănătos se bazează pe experiență și pe cercetarea științifică.
+measured,Într-un mod transparent, vă arătăm doar datele măsurate efectiv și modul în care sunt calculate.
+healthy,Păstrează-ți bateria sănătoasă
+double_battery,Dublați durata de viață a bateriei, neîncărcându-vă complet bateria. Oamenii de știință au demonstrat acest lucru în cercetările lor.
+charge_limit,Utilizând notificarea noastră privind limita de încărcare, va fi trimisă o notificare când bateria atinge un prag definit de utilizator.
+smart,Devine mai inteligent în fiecare zi
+analyze,Cu cât folosiți mai mult Battery Manager Lite, cu atât vom analiza mai bine performanța bateriei.
+update_every_time,Măsurarea autonomiei rămase a bateriei este actualizată de fiecare dată când utilizați sau încărcați dispozitivul.
+runtime,Descoperiți durata reală de funcționare a bateriei dvs
+discharge_cycle,De fiecare dată când telefonul trece printr-un ciclu de descărcare, poate fi măsurată o estimare precisă a duratei sale de funcționare.
+accurate_life,Utilizați Battery Manager Lite pentru a măsura cu exactitate durata de viață a bateriei.
+no_exit,Nu ieșiți din Battery Manager Lite!
+bg_require,Battery Manager Lite necesită un serviciu de fundal pentru a colecta statistici ale bateriei și pentru a măsura timpul de încărcare și descărcare a bateriei. Este posibil ca dispozitivul dvs. să oprească serviciul sau să nu-i permită să ruleze atunci când aplicația este închisă. Pentru a evita acest lucru, avem o soluție bună pentru tine. Doar faceți clic pe link.
+man,Manual
+cali,Calibrare
+polarity,În acest pas, aplicația detectează polaritatea de încărcare și capacitatea de proiectare a bateriei.
+disch,Descarcare
+ch_pol,Polaritate de încărcare
+power_meter,Masurator de putere
+unit_mesure,Unitate de măsură
+capacity,Capacitatea bateriei
+wrong,Nu dreapta?
+calib,Calibra
+ye,da
+no,Nu
+neg,Negativ
+pos,Pozitiv
+lunch,Lansați aplicația
+manufac,Capacitate conform producatorului
+design_des,Capacitatea de proiectare este capacitatea reală a bateriei, măsurată în mAh. Deoarece nu există o modalitate oficială de a determina capacitatea, valoarea returnată poate fi greșită.
+correct_it,Dacă capacitatea afișată nu este corectă, vă rugăm să o corectați.
+cancel,Anulare
+ok,bine
+runtime,Durata de funcționare a bateriei
+wait,aşteptare
+per_hr,Consumul bateriei pe oră
+life_for,Durata de viata a bateriei pt
+battery_cond,Stare baterie
+bat_info,Informații despre baterie
+bat_cap,Capacitatea bateriei
+bat_volt,Voltajul bateriei
+bat_cur,Curentul bateriei
+unit_mes,Unitate de măsură
+done,Terminat
+c_bat_temp,Temperatura curentă a bateriei
+min_bat_tem,Temperatura minimă a bateriei
+mx_bat_tem,Temperatura maximă a bateriei
+avg_bat_tem,Temperatura medie a bateriei
+dig_last,Ultimul diagnostic înainte
+rem_time,Timp rămas
+volt,Voltaj
+curr,Actual
+status,stare
+run_time,Timpul pentru alergat
+currently,În prezent
+avg,In medie
+minmal,Minim
+maximal,Maxim
+tool,Instrumente
+rem_apps,Dezinstalați aplicațiile pe care nu le mai utilizați pentru a împiedica aplicațiile să ruleze inutil și să vă epuizeze bateria
+uninst_apps,Dezinstalați aplicații
+stat,start
+act_eng_save,Activați modul de economisire a energiei pentru a reduce consumul bateriei
+pow_save,Modul de economisire a energiei
+tempe,Temperatura
+heal,Sănătate
+tips,Păstrați bateria în stare bună cu sfaturi și trucuri.
+recomm,Recomandări
+prem,Premium
+more_func,Mai multe funcții pentru tine. Primiți premium, obțineți mai mult.
+more,Mai mult
+ur_cond_bat,Starea bateriei este
+ur_bat_life,Durata de viață a bateriei dvs. este
+ur_bat_temp,Temperatura bateriei dvs. este
+wow,Excelent
+normal,Normal
+poor,Slab
+days,Zile
+mins,Minute
+hrs,Ore
+chging,Încărcare
+ful,Deplin
+dis_chrg,Descarcare
+unkn,Necunoscut
+too_lit,Prea puține date ale bateriei
+car_any,Efectuați oricum
+endz_,Sfârşit
+dig_any,Pentru a obține rezultate de diagnosticare mai bune, aplicația trebuie să vă analizeze bateria în fundal. Vă rugăm să începeți diagnosticul după 24 de ore
+end_dig,Încheiați diagnosticul
+quit_dig,Renunță cu adevărat la diagnostic
+batty_temp,Temperatura bateriei
+akku_manager,Manager Akku
+u_agree,Cu „START” sunteți de acord cu reglementările privind protecția datelor
+elemn_opti,Elementele pot fi optimizate
+looks_good,Totul arată bine
+optimize_,Optimizați
+toolz_,Instrumente
+akku_check,Verificare Akku
+ctrl_load,Încărcare controlată
+mng_apps,Gestionați aplicațiile
+infosm,informație
+tenzion,tensiune
+electy,electricitate
+lvl,Nivel
+akku_man_premium,Akku Manager Premium
+premimum_highlight,Utilizați Battery Manager complet fără publicitate și aveți acces la personalizarea extinsă a interfeței cu utilizatorul.
+design,Proiecta
+subjs,subiecte
+genrally,În general
+temp_unit,Unitate de temperatură
+oth_apps,Alte aplicatii
+dat_protect,Protejarea datelor
+thx_akku,Vă mulțumim că ați sprijinit Akku Manager cu achiziționarea versiunii premium.
+user_got_pre,Acum aveți acces la personalizarea extinsă a interfeței de utilizator și la utilizare fără publicitate.
+exp_more,Vă puteți aștepta la mai multe funcții în actualizările viitoare
+ap_optimiz,Optimizarea aplicației
+sys_bat_usage,Consumul bateriei sistemului
+bat_usage_det,Detalii despre utilizarea bateriei
+end_optiz,Încheiați optimizarea
+abort,Avorta
+break_up,despartire
+scn,a scana
+scn_bgh,Luminozitatea ecranului
+dact_wlan,Dezactivați WLAN
+dact_save_batt,Dezactivați pentru a economisi bateria
+dact,Dezactivați
+dact_ble,Dezactivați bluetooth
+red_brigh,Reduceți luminozitatea
+bright_txt,Reduceți luminozitatea afișajului pentru a economisi bateria
+to_reduce,A reduce
+dact_gps,Dezactivați GPS-ul
+appz_optimz,Aplicații optimizate
+start_bat_check_det,Începeți o verificare detaliată a bateriei pentru a fi întotdeauna în siguranță
+act_eng_save,Activați modul de economisire a energiei pentru a reduce consumul bateriei
+remove_useless,Dezinstalați aplicațiile care nu mai sunt utilizate
+premium,Premium
+clear_mem,Curățați memoria
+clear_mem_des,Pentru ca smartphone-ul tău să funcționeze rapid și fără probleme.
+clenaup,Curăță
+rat,rating
+rat_free,Evaluează Battery Manager gratuit
+sendz,Trimite
+elmn_found,Elemente găsite
+drumz,Tobe
+status,stare
+end_akk_check,Încheiați verificarea bateriei
+bat_detlz,Detalii baterie
+temp_checked,Se verifică temperatura
+cond_checked,Se verifică starea bateriei
+checkz_start,Începe verificarea bateriei
+plug_in,Conectat în
+techz,Tehnologie
+coldz,Rece
+until,Pana cand
+well,Bine
+ovr_heat,Supraîncălzire
+ovr_load,Supraîncărcare
+renam,redenumit
+not_def,nedefinit
+chrgz,Încărca
+full,Deplin
+unloadz,Descărcare
+not_charge_unkn,neîncărcat sau necunoscut
+usb,USB
+charger,încărcător
+wless,fără fir
+not_at_al,nimic
+uninstall,Dezinstalează
+update,A updata
+setting,Setări
+app,Aplicații
+not_found,Aplicația nu a fost găsită
+search,Căutați aplicații
+version_code,Cod versiune
+api_level,Nivelul API
+app_version,Versiunea aplicației
+authorization,autorizare
+open,a deschide
+play_store,Magazin Play
+control,Control
+systemstandart,Sistem standard
+white,alb
+dark,Întuneric
+ocean,Ocean
+black,Negru
+dark_blue,Albastru inchis
+excellent,Excelent
+bad,Rău
+battery_bad,Bateria este ușor deteriorată
+very_bad,Foarte rău
+battery_damaged,Bateria este deteriorată
+custom_mode,Modul personalizat
+brightness,Luminozitate
+automatic_brightness,Luminozitate automată
+normal,Normal
+sound_modus,Modul de sunet
+tone_work,Toate tonurile funcționează
+mute,Mut
+call_note_mute,Apelurile și notificările sunt dezactivate
+not_bother,Nu vă  deranjaţi
+tones_vibration_mute,Opriți tonurile și vibrațiile, cu excepția tonurilor de alarmă
+sound,Sunete
+music,muzică
+notification,Notificare
+alarm,Alarma
+ultra_saving,Mod ultra economisire a energiei
+edit,A edita
+disable_ultra_saving,Dezactivați modul Ultra Energy Saving
+min_remaining,min rămas
+hours,ore
+activted_ultra_saving,Modul ultra economisire a energiei este activat
+charged_in,taxat în
+min,min
+limit_power,Limitați consumul de energie
+reduce_screen,Reduceți luminozitatea ecranului
+restrict_bg_act_explain,Restricționați activitățile de fundal
+volatge_check,Se verifică tensiunea
+software_optimized,Software-ul este optimizat
+connect_charger,Conectați încărcătorul
+charger_removed,Încărcătorul poate fi scos
+power_consump_title,Consumul de energie
+srcn_bg_title,Luminozitatea ecranului
+bg_al_activities,Activități de fundal
+sftware,Software
+get_primium,Dacă cumpărați versiunea premium, veți primi toate funcțiile actuale, precum și toate funcțiile noi în viitor.
+cuztomize_face,Personalizarea interfeței cu utilizatorul
+comp_scheme,Compuneți schema de culori Battery Manager dintr-o varietate de teme.
+bat_check_detail,Verificare detaliată a bateriei
+check_cond_test,Utilizați Managerul bateriei pentru a verifica starea bateriei pentru a fi întotdeauna în siguranță.
+no_ads_yo,Fără publicitate
+use_explain_noads,Utilizați Battery Manager fără publicitate
+act_energy_save,Activați modul ultra economisire a energiei pentru a crește durata de viață a bateriei în caz de urgență.
+buy_title,Cumpărați Premium
+loc_title,Locație
+cap_title,capacitate
+cap_remain,Capacitatea rămasă
+sleepy,Dormi
+sek,secunde
+sing_min,Minut
+miniotes,Minute
+finish,Terminat
+mobi_data,de date mobile
+plz_rate,Vă rugăm să evaluați Battery Manager în Magazinul Play
+ur_data_cus,Putem continua să folosim datele dumneavoastră pentru a personaliza reclamele pentru dvs.?
+in_slep_mode,În modul de repaus
+in_use,In folosinta
+with_curr_pow,Cu curent consum de energie
+rem_bat_life,Durata de viață rămasă a bateriei
+qck_acc,Acces rapid
+notif_txt,notificare
+notif_at,Anuntati la
+chg_curr,Curent de încărcare
+charge_perm,Performanță de încărcare
+maxi_charge_per,Performanță maximă de încărcare
+enb_notif,Activează notificarea
+perm_send_notif,Battery Manager necesită permisiunea de a trimite o notificare, aceasta trebuie activată în setările dispozitivului.
+to_set,La setări
+title_autost,Activați Autostart
+auto_explain,Battery Manager necesită permisiunea de a rămâne activat în fundal pentru a interoga starea bateriei și a trimite o notificare.
+sync_auto,Sincronizează automat
+dis_auto_sync,Dezactivarea sincronizării automate reduce în mod semnificativ wakelock-urile. Cu toate acestea, unele funcții, cum ar fi primirea de e-mail, se vor pierde.
+chg_lim,Limită de încărcare
+avoid_ful_explain,Dacă încărcați bateria la maximum sau o descărcați până când este oprită, starea și durata de viață a bateriei vor fi reduse. În cele ce urmează puteți seta starea de încărcare sau descărcare minimă și maximă a bateriei și veți fi anunțat de fiecare dată când se atinge valoarea pragului. Evitați încărcarea și descărcarea completă a bateriei și prelungiți durata de viață a bateriei.
+rec_notif,Nu ați primit notificarea?
+title_allow_bg_act,Permiteți activitatea de fundal
+allow_bg_act,Pentru a putea folosi Battery Manager fără restricții fără a fi închis accidental de sistemul de operare, este posibil să trebuiască să dezactivați funcțiile speciale pentru gestionarea bateriei și utilizarea bateriei din setări. Deoarece diverșii producători diferă în desemnarea acestor opțiuni în funcție de sistemul de operare utilizat. În zona Informații despre aplicație, sub Repaus sau Baterie, selectați Fără restricții sau Permiteți activitate în fundal.
+dev_usage,Utilizarea dispozitivului
+dep_sleep,Somnul profund este o stare în care dispozitivul dvs. utilizează cea mai mică cantitate de baterie. Durata somnului profund are un efect pozitiv asupra economisirii energiei. Somnul profund poate fi întrerupt de sarcini de fundal, ceea ce face ca bateria să se descarce mai repede. În acest caz, reporniți dispozitivul.
+title_bat_temp,Temperatura bateriei
+bat_tempp,Temperatura bateriei este unul dintre cei mai importanți factori. Dacă bateria este menținută cu gel la temperaturi ridicate, acest lucru afectează atât durata de viață, cât și performanța bateriei. Dacă temperatura crește, structura internă a bateriei poate fi deteriorată.
+rdc_brightness,Reduceți luminozitatea ecranului
+display_explain,Display-ul este una dintre componentele care consumă cea mai mare parte a energiei. Reducerea luminozității maxime ajută la reducerea consumului total și la realizarea de economii vizibile. Înainte de a reduce luminozitatea, dezactivați luminozitatea automată, astfel încât luminozitatea să nu fie modificată inutil.
+tst_charge,Testează încărcătorul
+best_way_test,Cel mai bun mod de a testa încărcătorul și cablul este prin verificarea vitezei de încărcare cu ecranul oprit. Viteza de încărcare atunci când ecranul este pornit nu este un punct de referință bun, deoarece telefonul tău consumă energie, ceea ce provoacă fluctuații. Conectați încărcătorul, opriți ecranul pentru câteva minute și apoi verificați curentul maxim de încărcare.
+wait_title,Aşteptare
+rfsh_rate,Rată de reîmprospătare
+low_sizty,Scăderea ratei de reîmprospătare la 60 Hz îmbunătățește durata de viață a bateriei.
+drk_mode,Modul întunecat
+acti_dark_mode,Activați modul întunecat, în modul întunecat consumați mai puțină energie
+actz,Activati
+poz,Putere
+minz,Minim
+avgo,In medie
+mixi1,Maxim
+msg_dis,Mesajul dispare după 24 de ore dacă există suficiente date pentru a afișa diagrama în întregime.
+no_enough,Nu sunt suficiente date pentru a fi afișate
+log_graph,În câteva ore veți vedea aici un grafic care vă va permite să verificați temperatura, tensiunea, amperajul și nivelul bateriei în ultimele 24 de ore.
+week,săptămână
+buy_it,Cumpără
+one_pur,Taxă unică de
+refun_pur,achiziția poate fi rambursată în 2 ore.
+each_month,Abonamentul se reînnoiește automat în fiecare lună și continuă să coste pe lună. Abonamentul poate fi anulat oricând.
+mng_subs,gestionați abonamentul
+subsci,Abonati-va
+will_cost_week,Abonamentul se reînnoiește automat în fiecare săptămână și continuă să coste pe săptămână. Abonamentul poate fi anulat oricând.
+lfllong,pe tot parcursul vieţii
+mthly,lunar
+wkly,Săptămânal
+hoto,Fierbinte
+prm_ben_title,Beneficii premium
+sync_title,Sincroniza
+dis_sync_inc,Dezactivarea sincronizării va crește durata de viață a bateriei prin nesincronizarea serviciilor în fundal
+time_out,Pauză
+dec_extend,Reducerea timpului înainte de oprirea afișajului prelungește durata de viață a bateriei
+u_end_opti,Sigur doriți să încheiați procesul de optimizare?
+no_why_perm,Fara permisiune
+bright_exp,Battery Manager necesită permisiunea Schimbați setările sistemului pentru a reduce luminozitatea ecranului sau pentru a dezactiva Bluetooth.
+tg_title,Alătură-te canalului Telegram!
+tg_text,Fiți la curent cu actualizările aplicațiilor, obțineți versiuni timpurii și ajutați la testarea noilor funcții. Sugerați-vă ideile, puneți întrebări și obțineți răspunsuri mai repede
+join_tg,a te alatura
+curr_consumption,consum curent
+scrn_onn,ecran aprins
+srcn_off,ecran inchis
+mob_charg,Încărcare
+discha,Descarcare
+activea,Activ
+slpmode,Modul de somn
+chagingspeed,Viteza curentă de încărcare
+dta_proxt,Protejarea datelor
+governs,Această politică de confidențialitate guvernează utilizarea de către dumneavoastră a aplicației software Battery Manager pentru dispozitivele mobile create de Baxolino.
+info_u_provide,Informații furnizate de utilizator
+no_pass_per,Nu transmitem date personale către terți. Când ne trimiteți un e-mail, avem adresa dvs. de e-mail, dar o folosim doar pentru a vă ajuta cu aplicațiile noastre.
+info_auto_coll,Informații colectate automat
+exp_admob_use,Folosim Google Admob pentru a difuza reclame. Utilizarea acestor servicii este supusă prevederilor Google privind protecția datelor la https://www.google.com/policies/privacy/.
+we_real_time,Battery Manager colectează informații exacte despre locație în timp real de pe dispozitiv?
+exp_loc_perm_man,Battery Manger verifică doar dacă locația este activată sau dezactivată, dar nu colectează informații precise despre locația dispozitivului dvs. mobil. Astfel de funcții bazate pe locație sunt setate implicit. Puteți dezactiva sau reactiva aceste funcții în setările dispozitivului respectiv. Înainte sau după instalarea aplicațiilor, veți fi întrebat – în funcție de dispozitiv – dacă preferați să dezactivați sau să activați aceste funcții. Putem colecta date despre locația dvs. numai dacă activați astfel de servicii de localizare.
+chng,Schimbări
+pri_update_exp,Această politică de confidențialitate poate fi actualizată din când în când din orice motiv. Vă vom informa cu privire la modificările aduse politicii noastre de confidențialitate publicând noua politică de confidențialitate pe această adresă web și notificându-vă printr-un mesaj în aplicație. Este recomandat să consultați în mod regulat această Politică de confidențialitate pentru modificări, deoarece utilizarea continuă este considerată aprobarea tuturor modificărilor. Puteți consulta istoricul acestei politici pe acest site web.
+contct,a lua legatura
+any_que,Dacă aveți întrebări despre protecția datelor în timpul utilizării aplicației sau aveți întrebări despre practicile noastre, vă rugăm să trimiteți un e-mail la baxolino.de@gmail.com
+mem_opti,Battery Manager are nevoie de acces la „memorie” pentru ca aplicațiile să poată fi scanate și optimizate. Puteți dezactiva sau activa aceste funcții în setările dispozitivului respectiv. Înainte sau după instalarea aplicației, veți fi întrebat – în funcție de dispozitiv – dacă preferați să dezactivați sau să activați aceste funcții.
+storg,Depozitare
+ble_set_acc,blue_set_perm,Battery Manager necesită accesul „Acces la setarea Bluetooth”, astfel încât să poată fi verificat dacă Bluetooth este activat sau dezactivat. Și pentru a activa sau dezactiva Bluetooth.
+ble_title,Bluetooth
+needz_del,Battery Manager necesită accesul „Solicitați ștergerea pachetelor” pentru a începe dezinstalarea unei aplicații. Aplicația va fi dezinstalată numai dacă o permiteți în mod explicit.
+deletion_pkg,Solicitați ștergerea pachetelor
+need_adnd,Battery Manager necesită acces „Nu deranja” pentru a activa sau dezactiva modul Nu deranja.
+adnd,Acces Nu deranja
+need_wlan_acc,Battery Manager necesită acces la „Obține conexiuni WLAN”, astfel încât Battery Manager poate verifica dacă WLAN este activat sau dezactivat. Și pentru a activa sau dezactiva WLAN.
+wln_conn,Obțineți conexiuni WLAN
+shop_bill_exp,Când faceți cumpărături prin Google Play In App Billing, Google ne oferă țara dvs. de reședință și uneori statul, orașul și codul poștal, dar niciodată adresa completă. Folosim aceste informații pentru a respecta reglementările fiscale și contabile.
+pri_date,Din 21.02.2021
+how_to_stop,Puteți opri întreaga colectare de informații de către aplicație pur și simplu dezinstalând aplicația. Puteți utiliza procesele standard de dezinstalare disponibile ca parte a dispozitivului dvs. mobil sau prin intermediul pieței sau al rețelei pentru aplicații mobile.
+opt_out,Care sunt drepturile mele de renunțare?
+ur_permission,permisiunea ta
+accept_privacy,Prin utilizarea aplicației, sunteți de acord cu prelucrarea datelor dumneavoastră conform prezentei politici de confidențialitate și astfel cum am modificat-o.

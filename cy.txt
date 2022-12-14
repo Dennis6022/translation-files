@@ -1,0 +1,347 @@
+title,Mae Rheolwr Batri Lite yn wahanol
+extend_life,Mae'r ffordd orau o ymestyn bywyd batri a'ch cadw'n iach yn seiliedig ar brofiad ac ymchwil wyddonol.
+measured,Mewn ffordd dryloyw dim ond y data a fesurwyd a sut y caiff ei gyfrifo y byddwn yn ei ddangos i chi.
+healthy,Cadwch eich batri yn iach
+double_battery,Dyblwch oes eich batri trwy beidio â gwefru'ch batri yn llawn. Mae gwyddonwyr wedi profi hyn yn eu hymchwil.
+charge_limit,Gan ddefnyddio ein hysbysiad terfyn tâl, bydd hysbysiad yn cael ei anfon pan fydd y batri yn cyrraedd trothwy a ddiffinnir gan y defnyddiwr.
+smart,Mae'n dod yn gallach bob dydd
+analyze,Po hiraf y byddwch chi'n defnyddio Battery Manager Lite, y gorau y byddwn ni'n ei gael wrth ddadansoddi perfformiad eich batri.
+update_every_time,Mae'r mesuriad oes batri sy'n weddill yn cael ei ddiweddaru bob tro y byddwch chi'n defnyddio neu'n gwefru'ch dyfais.
+runtime,Darganfyddwch amser rhedeg gwirioneddol eich batri
+discharge_cycle,Bob tro y bydd eich ffôn yn mynd trwy gylchred rhyddhau, gellir mesur amcangyfrif cywir o'i amser rhedeg.
+accurate_life,Defnyddiwch Battery Manager Lite i fesur bywyd batri cywir.
+no_exit,Peidiwch â gadael Rheolwr Batri Lite!
+bg_require,Mae angen gwasanaeth cefndir ar Reolwr Batri Lite i gasglu ystadegau batri a mesur tâl batri ac amser rhyddhau. Mae'n debygol y bydd eich dyfais yn atal y gwasanaeth neu'n peidio â chaniatáu iddo redeg pan fydd yr ap ar gau. Er mwyn osgoi hyn, mae gennym ateb da i chi. Cliciwch ar y ddolen.
+man,Llawlyfr
+cali,Calibradu
+polarity,Yn y cam hwn, mae'r app yn canfod y polaredd gwefru a chynhwysedd dylunio eich batri.
+disch,Rhyddhau
+ch_pol,Polaredd codi tâl
+power_meter,Mesurydd pŵer
+unit_mesure,Uned fesur
+capacity,Gallu Batri
+wrong,Ddim yn iawn?
+calib,Calibradu
+ye,Oes
+no,Nac ydw
+neg,Negyddol
+pos,Cadarnhaol
+lunch,Lansio Ap
+manufac,Cynhwysedd yn ôl y gwneuthurwr
+design_des,Y gallu dylunio yw'r capasiti batri gwirioneddol, wedi'i fesur mewn mAh. Gan nad oes unrhyw ffordd swyddogol o bennu'r capasiti, efallai bod y gwerth a ddychwelwyd yn anghywir.
+correct_it,Os nad yw'r cynhwysedd a ddangosir yn gywir, cywirwch ef.
+cancel,Canslo
+ok,iawn
+runtime,Amser Rhedeg Batri
+wait,aros
+per_hr,Defnydd batri yr awr
+life_for,Bywyd batri ar gyfer
+battery_cond,Cyflwr batri
+bat_info,Gwybodaeth batri
+bat_cap,Capasiti batri
+bat_volt,Foltedd batri
+bat_cur,Cerrynt batri
+unit_mes,Uned fesur
+done,Wedi'i wneud
+c_bat_temp,Tymheredd Batri Presennol
+min_bat_tem,Isafswm tymheredd batri
+mx_bat_tem,Uchafswm tymheredd y batri
+avg_bat_tem,Tymheredd batri ar gyfartaledd
+dig_last,Diagnosis olaf o'r blaen
+rem_time,Amser Gweddill
+volt,foltedd
+curr,Cyfredol
+status,Statws
+run_time,Amser rhedeg
+currently,Ar hyn o bryd
+avg,Cyfartaledd
+minmal,Lleiaf
+maximal,Uchafswm
+tool,Offer
+rem_apps,Dadosod apiau nad ydych yn eu defnyddio mwyach i atal apiau rhag rhedeg yn ddiangen a draenio'ch batri
+uninst_apps,Dadosod Apiau
+stat,Dechrau
+act_eng_save,Ysgogi'r modd arbed ynni i leihau'r defnydd o batri
+pow_save,Modd arbed pŵer
+tempe,Tymheredd
+heal,Iechyd
+tips,Cadwch eich Batri mewn cyflwr da gydag awgrymiadau a thriciau.
+recomm,Argymhellion
+prem,Premiwm
+more_func,Mwy o swyddogaethau i chi. Cael premiwm, cael mwy.
+more,Mwy
+ur_cond_bat,Cyflwr y batri yw
+ur_bat_life,Eich bywyd batri yw
+ur_bat_temp,Tymheredd Eich Batri yw
+wow,Ardderchog
+normal,Arferol
+poor,Gwael
+days,Dyddiau
+mins,Munudau
+hrs,Oriau
+chging,Codi tâl
+ful,Llawn
+dis_chrg,Rhyddhau
+unkn,Anhysbys
+too_lit,Rhy ychydig o ddata batri
+car_any,Cyflawni beth bynnag
+endz_,Diwedd
+dig_any,Er mwyn cael canlyniadau diagnostig gwell, mae angen i'r app ddadansoddi'ch batri yn y cefndir. Dechreuwch y diagnosis ar ôl 24 awr
+end_dig,Diweddu diagnosis
+quit_dig,Rhoi'r gorau iddi Diagnosis
+batty_temp,Tymheredd batri
+akku_manager,Rheolwr Akku
+u_agree,Gyda "START" rydych yn cytuno i'r rheoliadau diogelu data
+elemn_opti,Gellir optimeiddio elfennau
+looks_good,Mae popeth yn edrych yn dda
+optimize_,Optimeiddio
+toolz_,Offer
+akku_check,Gwirio Akku
+ctrl_load,Llwytho dan reolaeth
+mng_apps,Rheoli apps
+infosm,Gwybodaeth
+tenzion,tensiwn
+electy,trydan
+lvl,Lefel
+akku_man_premium,Premiwm Rheolwr Akku
+premimum_highlight,Defnyddiwch y Rheolwr Batri yn gyfan gwbl heb hysbysebu ac mae gennych fynediad i addasu helaeth y rhyngwyneb defnyddiwr.
+design,Dylunio
+subjs,pynciau
+genrally,Yn gyffredinol
+temp_unit,Uned tymheredd
+oth_apps,Apiau Eraill
+dat_protect,Diogelu data
+thx_akku,Diolch am gefnogi Akku Manager i brynu'r fersiwn premiwm.
+user_got_pre,Bellach mae gennych fynediad i addasu helaeth o'r rhyngwyneb defnyddiwr a defnydd heb hysbysebu.
+exp_more,Gallwch ddisgwyl mwy o nodweddion mewn diweddariadau yn y dyfodol
+ap_optimiz,Optimeiddio ap
+sys_bat_usage,Defnydd batri system
+bat_usage_det,Manylion defnydd batri
+end_optiz,Gorffen optimeiddio
+abort,erthylu
+break_up,torri i fyny
+scn,i sganio
+scn_bgh,Disgleirdeb sgrin
+dact_wlan,Analluogi WLAN
+dact_save_batt,Analluogi i arbed batri
+dact,Dadactifadu
+dact_ble,Analluogi bluetooth
+red_brigh,Lleihau disgleirdeb
+bright_txt,Lleihau disgleirdeb yr arddangosfa i arbed batri
+to_reduce,I ostwng
+dact_gps,Analluogi GPS
+appz_optimz,Apiau wedi'u hoptimeiddio
+start_bat_check_det,Dechreuwch wiriad batri manwl i fod ar yr ochr ddiogel bob amser
+act_eng_save,Ysgogi modd arbed ynni i leihau'r defnydd o batri
+remove_useless,Dadosod apiau nad ydynt yn cael eu defnyddio mwyach
+premium,Premiwm
+clear_mem,Glanhau cof
+clear_mem_des,Fel bod eich ffôn clyfar yn rhedeg yn gyflym ac yn llyfn.
+clenaup,Glanhau
+rat,gradd
+rat_free,Cyfradd Rheolwr Batri am ddim
+sendz,Anfon
+elmn_found,Elfennau wedi'u darganfod
+drumz,Drymiau
+status,Statws
+end_akk_check,Diwedd gwiriad batri
+bat_detlz,Manylion batri
+temp_checked,Mae tymheredd yn cael ei wirio
+cond_checked,Mae cyflwr y batri yn cael ei wirio
+checkz_start,Gwiriad batri yn dechrau
+plug_in,Wedi'i blygio i mewn
+techz,Technoleg
+coldz,Oer
+until,Tan
+well,Wel
+ovr_heat,Gorboethi
+ovr_load,Gorlwytho
+renam,ailenwyd
+not_def,heb ei ddiffinio
+chrgz,Tâl
+full,Llawn
+unloadz,Dadlwytho
+not_charge_unkn,heb ei gyhuddo nac yn anhysbys
+usb,USB
+charger,gwefrydd
+wless,diwifr
+not_at_al,Dim byd o gwbl
+uninstall,Dadosod
+update,I ddiweddaru
+setting,Gosodiadau
+app,Apiau
+not_found,Ap heb ei ddarganfod
+search,Chwilio apiau
+version_code,Cod Fersiwn
+api_level,Lefel API
+app_version,Fersiwn App
+authorization,awdurdodiad
+open,i agor
+play_store,Storfa Chwarae
+control,rheolaeth
+systemstandart,Safon system
+white,Gwyn
+dark,Tywyll
+ocean,Cefnfor
+black,Du
+dark_blue,Glas tywyll
+excellent,Ardderchog
+bad,Drwg
+battery_bad,Mae'r batri wedi'i ddifrodi ychydig
+very_bad,Drwg iawn
+battery_damaged,Mae'r batri wedi'i ddifrodi
+custom_mode,Modd Custom
+brightness,Disgleirdeb
+automatic_brightness,Disgleirdeb Awtomatig
+normal,Arferol
+sound_modus,Modus sain
+tone_work,Pob Tonau yn Gweithio
+mute,Tewi
+call_note_mute,Mae galwadau a hysbysiadau wedi'u tewi
+not_bother,Peidiwch â thrafferthu
+tones_vibration_mute,Diffoddwch arlliwiau a dirgryniadau, ac eithrio arlliwiau larwm
+sound,Swnio
+music,cerddoriaeth
+notification,Hysbysu
+alarm,Larwm
+ultra_saving,Modd arbed ynni ultra
+edit,I olygu
+disable_ultra_saving,Analluogi Modd Arbed Ynni Ultra
+min_remaining,min sy'n weddill
+hours,oriau
+activted_ultra_saving,Mae modd arbed ynni ultra wedi'i actifadu
+charged_in,cyhuddo i mewn
+min,min
+limit_power,Cyfyngu ar y defnydd o bŵer
+reduce_screen,Lleihau disgleirdeb sgrin
+restrict_bg_act_explain,Cyfyngu ar weithgareddau cefndir
+volatge_check,Mae foltedd yn cael ei wirio
+software_optimized,Mae meddalwedd wedi'i optimeiddio
+connect_charger,Cyswllt charger
+charger_removed,Gellir tynnu charger
+power_consump_title,Defnydd pŵer
+srcn_bg_title,Disgleirdeb sgrin
+bg_al_activities,Gweithgareddau cefndirol
+sftware,Meddalwedd
+get_primium,Os prynwch y fersiwn premiwm, fe gewch yr holl swyddogaethau cyfredol yn ogystal â'r holl swyddogaethau newydd yn y dyfodol.
+cuztomize_face,Addasu'r rhyngwyneb defnyddiwr
+comp_scheme,Cyfansoddwch eich cynllun lliw Rheolwr Batri o amrywiaeth o themâu.
+bat_check_detail,Gwiriad batri manwl
+check_cond_test,Defnyddiwch y Rheolwr Batri i wirio cyflwr eich batri i fod ar yr ochr ddiogel bob amser.
+no_ads_yo,Dim hysbysebu
+use_explain_noads,Defnyddiwch y Rheolwr Batri heb unrhyw hysbysebu
+act_energy_save,Ysgogi'r modd arbed ynni ultra i gynyddu bywyd y batri mewn argyfwng.
+buy_title,Prynu Premiwm
+loc_title,Lleoliad
+cap_title,gallu
+cap_remain,Capasiti sy'n weddill
+sleepy,Cwsg
+sek,Eiliadau
+sing_min,Munud
+miniotes,Munudau
+finish,Wedi gorffen
+mobi_data,data symudol
+plz_rate,Rhowch sgôr i Reolwr Batri yn y Play Store
+ur_data_cus,A allwn barhau i ddefnyddio'ch data i addasu hysbysebion ar eich cyfer chi?
+in_slep_mode,Yn y modd cysgu
+in_use,Mewn defnydd
+with_curr_pow,Gyda defnydd pŵer cyfredol
+rem_bat_life,Bywyd batri sy'n weddill
+qck_acc,Mynediad cyflym
+notif_txt,hysbysu
+notif_at,Hysbysu yn
+chg_curr,Codi tâl cyfredol
+charge_perm,Perfformiad codi tâl
+maxi_charge_per,Uchafswm perfformiad codi tâl
+enb_notif,Galluogi hysbysiad
+perm_send_notif,Mae angen caniatâd ar Reolwr Batri i anfon hysbysiad, rhaid ei actifadu yng ngosodiadau'r ddyfais.
+to_set,I'r gosodiadau
+title_autost,Cychwyn Autostart
+auto_explain,Mae angen caniatâd ar Reolwr Batri i aros yn weithredol yn y cefndir er mwyn cwestiynu statws y batri ac anfon hysbysiad.
+sync_auto,Cydamseru yn awtomatig
+dis_auto_sync,Mae analluogi cydamseru awtomatig yn lleihau wakelocks yn sylweddol. Fodd bynnag, bydd rhai swyddogaethau megis derbyn e-bost yn cael eu colli.
+chg_lim,Terfyn Tâl
+avoid_ful_explain,Os byddwch chi'n gwefru'ch batri i'r eithaf neu'n ei ollwng nes iddo gael ei ddiffodd, bydd cyflwr a bywyd gwasanaeth y batri yn cael eu lleihau. Yn y canlynol gallwch osod isafswm ac uchafswm tâl neu statws gollwng y batri a byddwch yn cael gwybod bob tro y cyrhaeddir gwerth y trothwy. Osgoi un gwefru'n llawn a gollwng eich batri ac ymestyn oes y batri.
+rec_notif,Heb dderbyn hysbysiad?
+title_allow_bg_act,Caniatáu gweithgaredd cefndir
+allow_bg_act,Er mwyn i chi allu defnyddio'r Rheolwr Batri heb gyfyngiadau heb iddo gael ei gau'n anfwriadol gan y system weithredu, efallai y bydd yn rhaid i chi ddiffodd swyddogaethau arbennig ar gyfer rheoli batri a defnyddio batri yn y gosodiadau. Oherwydd bod y gwahanol wneuthurwyr yn wahanol o ran dynodiad yr opsiynau hyn yn dibynnu ar y system weithredu a ddefnyddir. Yn yr ardal App Information, o dan Cwsg neu Batri, dewiswch Dim Cyfyngiadau neu Caniatáu Gweithgaredd Cefndir.
+dev_usage,Defnydd dyfais
+dep_sleep,Mae cwsg dwfn yn gyflwr lle mae'ch dyfais yn defnyddio'r swm lleiaf o fatri. Mae hyd cwsg dwfn yn cael effaith gadarnhaol ar arbed ynni. Gall tasgau cefndir amharu ar y cwsg dwfn, sy'n achosi i'r batri ollwng yn gyflymach. Yn yr achos hwn, ailgychwynwch eich dyfais.
+title_bat_temp,Tymheredd batri
+bat_tempp,Tymheredd y batri yw un o'r ffactorau pwysicaf. Os cedwir y batri yn gel ar dymheredd uchel, mae hyn yn effeithio ar fywyd y gwasanaeth a pherfformiad y batri. Os bydd y tymheredd yn codi, gall strwythur mewnol y batri gael ei niweidio.
+rdc_brightness,Lleihau disgleirdeb sgrin
+display_explain,Mae'r arddangosfa yn un o'r cydrannau sy'n defnyddio'r rhan fwyaf o'r egni. Mae lleihau'r disgleirdeb mwyaf yn helpu i leihau'r defnydd cyffredinol a chyflawni arbedion amlwg. Cyn lleihau'r disgleirdeb, dadactifadwch y disgleirdeb awtomatig fel nad yw'r disgleirdeb yn cael ei newid yn ddiangen.
+tst_charge,Prawf charger
+best_way_test,Y ffordd orau o brofi'r gwefrydd a'r cebl yw trwy wirio'r cyflymder gwefru gyda'r sgrin i ffwrdd. Nid yw'r cyflymder gwefru pan fydd y sgrin ymlaen yn feincnod da oherwydd bod eich ffôn yn defnyddio pŵer, sy'n achosi amrywiadau. Plygiwch y charger i mewn, trowch y sgrin i ffwrdd am ychydig funudau, ac yna gwiriwch uchafswm y cerrynt tâl.
+wait_title,Aros
+rfsh_rate,Cyfradd adnewyddu
+low_sizty,Mae gostwng y gyfradd adnewyddu i 60 Hz yn gwella bywyd y batri.
+drk_mode,Modd Tywyll
+acti_dark_mode,Activate Modd Tywyll, yn y Modd Tywyll llai o ynni a ddefnyddir
+actz,Ysgogi
+poz,Grym
+minz,Isafswm
+avgo,Cyfartaledd
+mixi1,Uchafswm
+msg_dis,Mae'r neges yn diflannu ar ôl 24 awr os oes digon o ddata i ddangos y diagram yn llawn.
+no_enough,Dim digon o ddata i'w arddangos
+log_graph,Mewn ychydig oriau fe welwch graff yma a fydd yn caniatáu ichi wirio tymheredd, foltedd, amperage a lefel y batri dros y 24 awr ddiwethaf.
+week,wythnos
+buy_it,Prynwch
+one_pur,Ffi un-amser o
+refun_pur,gellir ad-dalu'r pryniant o fewn 2 awr.
+each_month,Mae'r tanysgrifiad yn adnewyddu'n awtomatig bob mis ac yn parhau i gostio bob mis. Gellir canslo'r tanysgrifiad unrhyw bryd.
+mng_subs,rheoli tanysgrifiad
+subsci,tanysgrifio
+will_cost_week,Mae tanysgrifiad yn adnewyddu'n awtomatig bob wythnos ac yn parhau i gostio'r wythnos. Gellir canslo'r tanysgrifiad unrhyw bryd.
+lfllong,gydol oes
+mthly,yn fisol
+wkly,Wythnosol
+hoto,Poeth
+prm_ben_title,Buddion premiwm
+sync_title,Cydamseru
+dis_sync_inc,Bydd analluogi cysoni yn cynyddu bywyd batri trwy beidio â chysoni gwasanaethau yn y cefndir
+time_out,Amser allan
+dec_extend,Mae lleihau'r amser cyn i'r arddangosfa ddiffodd yn ymestyn oes y batri
+u_end_opti,Ydych chi'n siŵr eich bod am ddod â'r broses optimeiddio i ben?
+no_why_perm,Dim caniatâd
+bright_exp,Mae Rheolwr Batri angen caniatâd Newid gosodiadau system i leihau disgleirdeb sgrin neu ddiffodd Bluetooth.
+tg_title,Ymunwch â sianel Telegram!
+tg_text,Arhoswch yn gyfredol gyda diweddariadau ap, cael adeiladau cynnar, a helpu i brofi nodweddion newydd. Awgrymwch eich syniadau, gofynnwch gwestiynau a chael atebion yn gyflymach
+join_tg,ymuno
+curr_consumption,defnydd presennol
+scrn_onn,sgrin ymlaen
+srcn_off,sgrin i ffwrdd
+mob_charg,Codi tâl
+discha,Rhyddhau
+activea,Actif
+slpmode,Modd cysgu
+chagingspeed,Cyflymder Codi Tâl Cyfredol
+dta_proxt,Diogelu data
+governs,Mae'r polisi preifatrwydd hwn yn rheoli eich defnydd o raglen feddalwedd Batri Rheolwr ar gyfer dyfeisiau symudol a grëwyd gan Baxolino.
+info_u_provide,Gwybodaeth a ddarperir gan y defnyddiwr
+no_pass_per,Nid ydym yn trosglwyddo data personol i drydydd parti. Pan fyddwch yn anfon e-bost atom, mae gennym eich cyfeiriad e-bost, ond dim ond i'ch helpu gyda'n apps y byddwn yn ei ddefnyddio.
+info_auto_coll,Gwybodaeth a gesglir yn awtomatig
+exp_admob_use,Rydym yn defnyddio Google Admob i weini hysbysebion. Mae defnyddio'r gwasanaethau hyn yn amodol ar ddarpariaethau diogelu data Google yn https://www.google.com/policies/privacy/.
+we_real_time,A yw Rheolwr Batri yn casglu gwybodaeth lleoliad amser real gywir o'r ddyfais?
+exp_loc_perm_man,Mae Rheolwr Batri yn gwirio a yw'r lleoliad wedi'i actifadu neu wedi'i ddadactifadu yn unig, ond nid yw'n casglu unrhyw wybodaeth fanwl gywir am leoliad eich dyfais symudol. Mae swyddogaethau o'r fath sy'n seiliedig ar leoliad yn cael eu gosod yn ddiofyn. Gallwch ddadactifadu neu ail-greu'r swyddogaethau hyn yng ngosodiadau eich dyfais berthnasol. Cyn neu ar ôl gosod yr apiau, gofynnir i chi - yn dibynnu ar y ddyfais - a fyddai'n well gennych ddadactifadu neu actifadu'r swyddogaethau hyn. Dim ond os ydych chi'n actifadu gwasanaethau lleoliad o'r fath y gallwn ni gasglu data am eich lleoliad.
+chng,Newidiadau
+pri_update_exp,Gellir diweddaru'r polisi preifatrwydd hwn o bryd i'w gilydd am unrhyw reswm. Byddwn yn eich hysbysu o newidiadau i'n polisi preifatrwydd trwy bostio'r polisi preifatrwydd newydd ar y cyfeiriad gwe hwn a'ch hysbysu trwy neges yn yr ap. Argymhellir eich bod yn ymgynghori â'r Polisi Preifatrwydd hwn yn rheolaidd am newidiadau, gan fod defnydd parhaus yn cael ei ystyried yn gymeradwyaeth i bob newid. Gallwch adolygu hanes y polisi hwn ar y wefan hon.
+contct,Cysylltwch
+any_que,Os oes gennych unrhyw gwestiynau am ddiogelu data wrth ddefnyddio'r rhaglen neu os oes gennych gwestiynau am ein harferion, anfonwch e-bost at baxolino.de@gmail.com
+mem_opti,Mae angen y mynediad "cof" ar Reolwr Batri fel y gellir sganio a optimeiddio apiau. Gallwch ddadactifadu neu actifadu'r swyddogaethau hyn yng ngosodiadau eich dyfais berthnasol. Cyn neu ar ôl gosod yr app, gofynnir i chi - yn dibynnu ar y ddyfais - a fyddai'n well gennych ddadactifadu neu actifadu'r swyddogaethau hyn.
+storg,Storio
+ble_set_acc,blue_set_perm, mae angen y mynediad "Mynediad gosodiad Bluetooth" ar Reolwr Batri fel y gellir gwirio a yw Bluetooth wedi'i actifadu neu wedi'i ddadactifadu. Ac i actifadu neu ddadactifadu Bluetooth.
+ble_title,Bluetooth
+needz_del,Mae Rheolwr Batri yn gofyn am fynediad "Gofyn am ddileu pecynnau" i ddechrau dadosod ap. Dim ond os byddwch chi'n caniatáu hynny'n benodol y bydd yr ap yn cael ei ddadosod.
+deletion_pkg,Gofyn am ddileu pecynnau
+need_adnd,Mae Rheolwr Batri yn gofyn am fynediad "Peidiwch ag Aflonyddu" i alluogi neu analluogi modd Peidiwch ag Aflonyddu.
+adnd,Mynediad Peidiwch ag Aflonyddu
+need_wlan_acc,Mae Rheolwr Batri yn gofyn am fynediad i "Get WLAN Connections" fel y gall Rheolwr Batri wirio a yw WLAN wedi'i actifadu neu wedi'i ddadactifadu. Ac i actifadu neu ddadactifadu WLAN.
+wln_conn,Cael cysylltiadau WLAN
+shop_bill_exp,Pan fyddwch chi'n siopa trwy Google Play In App Billing, mae Google yn rhoi eich gwlad breswyl i ni ac weithiau'r wladwriaeth, dinas a chod zip, ond byth y cyfeiriad llawn. Rydym yn defnyddio'r wybodaeth hon i gydymffurfio â rheoliadau treth a chyfrifyddu.
+pri_date,O 02/21/2021 ymlaen
+how_to_stop,Gallwch atal y casgliad cyfan o wybodaeth gan y rhaglen yn syml trwy ddadosod y rhaglen. Gallwch ddefnyddio'r prosesau dadosod safonol sydd ar gael fel rhan o'ch dyfais symudol neu drwy'r farchnad neu'r rhwydwaith ar gyfer cymwysiadau symudol.
+opt_out,Beth yw fy hawliau optio allan?
+ur_permission,eich caniatâd
+accept_privacy,Trwy ddefnyddio'r cais, rydych yn cydsynio i ni brosesu eich data fel y nodir yn y polisi preifatrwydd hwn ac fel y'i diwygiwyd gennym ni.

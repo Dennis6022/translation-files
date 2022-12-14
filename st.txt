@@ -1,0 +1,347 @@
+title,Battery Manager Lite e fapane
+extend_life,Mokhoa o motle oa ho lelefatsa bophelo ba betri le ho u boloka u phetse hantle o ipapisitse le boiphihlelo le lipatlisiso tsa mahlale.
+measured,Ka tsela e pepeneneng re u bontša feela data e hlileng e lekantsoeng le hore na e baloa joang.
+healthy,Boloka betri ea hau e phetse hantle
+double_battery,Habedi bophelo ba betri ya hao ka ho se tjhaje betri ya hao ka botlalo. Bo-rasaense ba pakile sena liphuputsong tsa bona.
+charge_limit,Ho sebelisoa tsebiso ea rona ea moeli oa tefiso, tsebiso e tla romelloa ha betri e fihla moeling o hlalositsoeng ke mosebelisi.
+smart,E ba bohlale ho feta letsatsi le letsatsi
+analyze,Ha u sebelisa Battery Manager Lite nako e telele, re tla ntlafala ha re hlahloba tšebetso ea betri ea hau.
+update_every_time,Tekanyo e setseng ea bophelo ba betri e ntlafatsoa nako le nako ha u sebelisa kapa u tjhaja sesebelisoa sa hau.
+runtime,Fumana nako ea ts'ebetso ea betri ea hau
+discharge_cycle,Nako le nako ha mohala oa hau o feta nakong ea ho tsoa, ​​ho ka lekanyetsoa khakanyo e nepahetseng ea nako ea ho sebetsa.
+accurate_life,Sebelisa Battery Manager Lite ho lekanya bophelo bo nepahetseng ba betri.
+no_exit,Se ke oa tsoa ho Battery Manager Lite!
+bg_require,Battery Manager Lite e hloka ts'ebeletso ea morao-rao ho bokella lipalo-palo tsa betri le ho lekanya tjhaja ea betri le nako ea ho tsoa. Mohlomong sesebelisoa sa hau se emisa tšebeletso kapa ha se e lumelle ho sebetsa ha app e koetsoe. Ho qoba sena, re na le tharollo e ntle bakeng sa hau. Tobetsa feela sehokelong.
+man,Bukana
+cali,Tekanyetso
+polarity,Mohato ona, sesebelisoa se lemoha polarity ea ho tjhaja le bokhoni ba moralo oa betri ea hau.
+disch,Hlakola
+ch_pol,Ho tjhaja polarity
+power_meter,Metara ea matla
+unit_mesure,Tekanyo ea tekanyo
+capacity,Bokhoni ba Battery
+wrong,Ha ho joalo?
+calib,Lekanya
+ye,Ee
+no,Che
+neg,E mpe
+pos,E ntle
+lunch,Qala App
+manufac,Bokhoni ho latela moetsi
+design_des,Bophahamo ba moralo ke matla a sebele a betri, a lekantsoeng ka mAh. Kaha ha ho na mokhoa oa molao oa ho tseba hore na ke bokae, boleng bo khutlisitsoeng bo kanna ba fosahetse.
+correct_it,Haeba boholo bo bonts'itsoeng bo sa nepahala, ka kopo bo lokise.
+cancel,Hlakola
+ok,Ho lokile
+runtime,Nako ea ho sebetsa ea Battery
+wait,ho leta
+per_hr,Tšebeliso ea betri ka hora
+life_for,Bophelo ba betri bakeng sa
+battery_cond,Boemo ba betri
+bat_info,Lintlha tsa betri
+bat_cap,Bokhoni ba betri
+bat_volt,Matla a betri
+bat_cur,Nako ea betri
+unit_mes,Tekanyo ea tekanyo
+done,E felile
+c_bat_temp,Mocheso oa Battery ea Hona Joale
+min_bat_tem,Mocheso o fokolang oa Battery
+mx_bat_tem,Boholo ba mocheso oa betri
+avg_bat_tem,Mocheso o tloaelehileng oa betri
+dig_last,Tlhahlobo ea ho qetela pele
+rem_time,Nako e Ntseng
+volt,Palo ea li-volts
+curr,Hona joale
+status,Boemo
+run_time,Nako ea ho matha
+currently,Hajoale
+avg,Karolelano
+minmal,Nyenyane
+maximal,Boholo
+tool,Lisebelisoa
+rem_apps,Tlosa lisebelisoa tseo u seng u sa li sebelise ho thibela lits'ebetso ho sebetsa ho sa hlokahale le ho ntša betri ea hau
+uninst_apps,Tlosa Lisebelisoa
+stat,Qala
+act_eng_save,Kenya mokhoa oa ho boloka matla ho fokotsa tšebeliso ea betri
+pow_save,Mokhoa oa ho boloka matla
+tempe,Mocheso
+heal,Bophelo bo botle
+tips,Boloka Betri ea hau e le maemong a matle ka malebela le maqheka.
+recomm,Likhothaletso
+prem,Premium
+more_func,Mesebetsi e meng bakeng sa hau. Fumana premium, fumana ho feta.
+more,Hape
+ur_cond_bat,Boemo ba betri ke
+ur_bat_life,Bophelo ba betri ea hau bo teng
+ur_bat_temp,Thempereichara ea Betri ea hau ke
+wow,E kgabane
+normal,Tloaelehileng
+poor,Hantle
+days,Matsatsi
+mins,Metsotso
+hrs,Lihora
+chging,Ho tjhaja
+ful,E tletse
+dis_chrg,Ho qhala
+unkn,Tse sa tsejoeng
+too_lit,Lintlha tsa Battery tse nyane haholo
+car_any,Etsa joalo
+endz_,QETA
+dig_any,Hore o fumane liphetho tse ntle tsa tlhahlobo, sesebelisoa se hloka ho sekaseka betri ea hau ka morao. Ka kopo qala tlhahlobo ka mor'a lihora tse 24
+end_dig,Qetella tlhahlobo
+quit_dig,Kannete Tlohela Tlhahlobo
+batty_temp,Mocheso oa betri
+akku_manager,Motsamaisi oa Akku
+u_agree,Ka "START" o lumellana le melaoana ea ts'ireletso ea data
+elemn_opti,Lintlha li ka ntlafatsoa
+looks_good,Tsohle di shebahala di lokile
+optimize_,Ntlafatsa
+toolz_,Lisebelisoa
+akku_check,Akku Check
+ctrl_load,Laolwa ho kenya
+mng_apps,Laola lisebelisoa
+infosm,Boitsebiso
+tenzion,tsitsipano
+electy,motlakase
+lvl,Boemo
+akku_man_premium,Akku Manager Premium
+premimum_highlight,Sebelisa Taolo ea Battery ka botlalo ntle le ho bapatsa mme o khona ho fihlella tlhophiso e pharalletseng ea sebopeho sa mosebelisi.
+design,Moralo
+subjs,bafo
+genrally,Ka kakaretso
+temp_unit,Mocheso oa mocheso
+oth_apps,Lisebelisoa tse ling
+dat_protect,Tšireletso ea data
+thx_akku,Kea leboha ka ho tšehetsa Motsamaisi oa Akku ka ho reka mofuta oa premium.
+user_got_pre,Hona joale o na le phihlello ea mokhoa o pharalletseng oa sebopeho sa mosebelisi le ts'ebeliso ntle le papatso.
+exp_more,U ka lebella likarolo tse ling lintlafatsong tse tlang
+ap_optimiz,Ntlafatso ea lisebelisoa
+sys_bat_usage,Ts'ebeliso ea betri ea sistimi
+bat_usage_det,Lintlha tsa tšebeliso ea betri
+end_optiz,Qetella ho ntlafatsa
+abort,Hlakola
+break_up,ho hlalana
+scn,ho hlahloba
+scn_bgh,Khanya ea skrine
+dact_wlan,Tlosa WLAN
+dact_save_batt,E tima ho boloka betri
+dact,Tlosa
+dact_ble,Tlosa bluetooth
+red_brigh,Fokotsa ho kganya
+bright_txt,Fokotsa khanya ea skrine ho boloka betri
+to_reduce,Ho fokotsa
+dact_gps,Thibela GPS
+appz_optimz,Lisebelisoa tse ntlafalitsoeng
+start_bat_check_det,Qala tlhahlobo e qaqileng ea betri ho lula u le ka lehlakoreng le sireletsehileng
+act_eng_save,Kenya mokhoa oa ho boloka matla ho fokotsa tšebeliso ea betri
+remove_useless,Tlosa lisebelisoa tse seng li sa sebelisoe
+premium,Premium
+clear_mem,Hloekisa mohopolo
+clear_mem_des,E le hore smartphone ea hau e sebetse ka potlako le ka thelelo.
+clenaup,Hloekisa
+rat,tekanyetso
+rat_free,Rate Battery Manager mahala
+sendz,Romela
+elmn_found,Lintlha tse fumanoeng
+drumz,Meropa
+status,Boemo
+end_akk_check,Qetella ho hlahloba betri
+bat_detlz,Lintlha tsa betri
+temp_checked,Mocheso o hlahlojoa
+cond_checked,Boemo ba betri boa hlahlojoa
+checkz_start,Ho qala ho hlahloba betri
+plug_in,E kentsoe
+techz,Thekenoloji
+coldz,Ho bata
+until,Ho fihlela
+well,Hantle
+ovr_heat,Ho chesa haholo
+ovr_load,Tse ngata haholo
+renam,rehetsoe bocha
+not_def,ha e hlalosoa
+chrgz,Tefiso
+full,E tletse
+unloadz,Ho laolla
+not_charge_unkn,ha e qosoe kapa e sa tsejoe
+usb,USB
+charger,tjhaja
+wless,waelese
+not_at_al,ha ho letho ho hang
+uninstall,Tlosa
+update,Ho nchafatsa
+setting,Litlhophiso
+app,Lisebelisoa
+not_found,Sesebelisoa ha se fumanehe
+search,Batla lisebelisoa
+version_code,Phetolelo Khoutu
+api_level,Boemo ba API
+app_version,Mofuta oa App
+authorization,tumello
+open,ho bula
+play_store,Play Store
+control,taolo
+systemstandart,Systemstandard
+white,Bosoeu
+dark,Lefifi
+ocean,Leoatle
+black,Ntsho
+dark_blue,Botala bo Lefifi
+excellent,E kgabane
+bad,E mpe
+battery_bad,Betri e senyehile hanyane
+very_bad,E mpe haholo
+battery_damaged,Betri e senyehile
+custom_mode,Mokhoa o Tloaelehileng
+brightness,Khanya
+automatic_brightness,Khanya e iketsang
+normal,Tloaelehileng
+sound_modus,Modus oa molumo
+tone_work,Lithane Tsohle li Sebetsa
+mute,Semumu
+call_note_mute,Mehala le litemoso li khutsisitsoe
+not_bother,U se ke oa itšoenya
+tones_vibration_mute,Koala melumo le ho thothomela, ntle le melumo ea alamo
+sound,Melumo
+music,mmino
+notification,Tsebiso
+alarm,Alamo
+ultra_saving,Mokhoa oa ho boloka matla haholo
+edit,Ho hlophisa
+disable_ultra_saving,Tlosa Mokhoa oa ho Boloka Matla a Ultra
+min_remaining,min e setseng
+hours,lihora
+activted_ultra_saving,Mokhoa oa ho boloka matla haholo o kentsoe tšebetsong
+charged_in,qosoa ka
+min,min
+limit_power,Fokotsa tšebeliso ea matla
+reduce_screen,Fokotsa khanya ea skrine
+restrict_bg_act_explain,Thibela mesebetsi ea morao-rao
+volatge_check,Voltage e hlahlojoa
+software_optimized,Software e ntlafalitsoe
+connect_charger,Hokela tjhaja
+charger_removed,Charger e ka tlosoa
+power_consump_title,Tšebeliso ea matla
+srcn_bg_title,Khanya ea skrine
+bg_al_activities,Mesebetsi ea morao-rao
+sftware,Software
+get_primium,Haeba u reka mofuta oa premium, u tla fumana mesebetsi eohle ea hajoale hammoho le mesebetsi eohle e mecha nakong e tlang.
+cuztomize_face,Boikemisetso ba sebopeho sa mosebelisi
+comp_scheme,Ngola moralo oa hau oa 'mala oa Battery Manager ho tsoa ho lihlooho tse fapaneng.
+bat_check_detail,Tlhahlobo e qaqileng ea betri
+check_cond_test,Sebelisa Motsamaisi oa Battery ho lekola boemo ba betri ea hau hore e lule e le ka lehlakoreng le sireletsehileng.
+no_ads_yo,Ha ho papatso
+use_explain_noads,Sebelisa Taolo ea Battery ntle le papatso
+act_energy_save,Kenya mokhoa oa ho boloka matla haholo ho eketsa bophelo ba betri maemong a tšohanyetso.
+buy_title,Reka Premium
+loc_title,Sebaka
+cap_title,bokhoni
+cap_remain,Bokhoni bo setseng
+sleepy,Robala
+sek,Metsotsoana
+sing_min,Motsotso
+miniotes,Metsotso
+finish,E felile
+mobi_data,data ea mobile
+plz_rate,Ka kopo, reita Taolo ea Betri ho Play Store
+ur_data_cus,Na re ka tsoela pele ho sebelisa lintlha tsa hau ho etsa lipapatso molemong oa hau?
+in_slep_mode,Ka mokhoa oa ho robala
+in_use,E sebelisoa
+with_curr_pow,Ka tšebeliso ea matla ea hona joale
+rem_bat_life,Bophelo ba betri bo setseng
+qck_acc,Ho fihlella kapele
+notif_txt,tsebiso
+notif_at,Tsebisa ho
+chg_curr,Nako ea ho tjhaja
+charge_perm,Ts'ebetso ea ho tjhaja
+maxi_charge_per,Mosebetsi o moholo oa ho tjhaja
+enb_notif,Lumella tsebiso
+perm_send_notif,Motsamaisi oa Battery o hloka tumello ea ho romella tsebiso, e tlameha ho kengoa tšebetsong litlhophisong tsa sesebelisoa.
+to_set,Ho li-setting
+title_autost,Kenya Autostart
+auto_explain,Taolo ea Betri e hloka tumello ea ho lula e butsoitse ka morao molemong oa ho botsa boemo ba betri le ho romella tsebiso.
+sync_auto,Amahanya ka ho iketsa
+dis_auto_sync,Ho thibela khokahano ea othomathike ho fokotsa haholo li-wakelocks. Leha ho le joalo, lits'ebetso tse ling joalo ka ho amohela lengolo-tsoibila li tla lahleha.
+chg_lim,Tefiso Moedi
+avoid_ful_explain,Haeba o tjhaja betri ya hao ho fihla ho bongata kapa o e ntshetsa pele ho fihlela e tima, boemo le bophelo ba betri ya hao bo tla fokotswa. Ho tse latelang o ka seta bonyane le boholo ba tjhaja kapa boemo ba ho tjhaja betri mme o tla tsebiswa nako le nako ha ho fihlelwa boleng ba threshold. Qoba ho tjhaja e le 'ngoe ka botlalo 'me u ntše betri ea hau le ho lelefatsa bophelo ba betri.
+rec_notif,Ha ua fumana tsebiso?
+title_allow_bg_act,Dumella mesebetsi e ka morao
+allow_bg_act,E le hore u tsebe ho sebelisa Mookameli oa Battery ntle le lithibelo ntle le hore o koalehe ka boomo ke tsamaiso ea ts'ebetso, u ka 'na ua tlameha ho tima mesebetsi e khethehileng bakeng sa tsamaiso ea betri le tšebeliso ea betri ho litlhophiso. Hobane bahlahisi ba fapaneng ba fapana ka khetho ea likhetho tsena ho latela sistimi e sebetsang e sebelisitsoeng. Sebakeng sa Boitsebiso ba App, tlas'a Boroko kapa Betri, khetha Ha ho Lithibelo kapa Dumella Ts'ebetso ea Background.
+dev_usage,Tšebeliso ea lisebelisoa
+dep_sleep,Boroko bo tebileng ke boemo boo sesebelisoa sa hau se sebelisang betri e nyane haholo. Nako ea boroko bo tebileng e na le phello e ntle ho boloka matla. Boroko bo tebileng bo ka sitisoa ke mesebetsi e ka morao, e etsang hore betri e tsoe kapele. Tabeng ena, qala sesebelisoa sa hau bocha.
+title_bat_temp,Mocheso oa betri
+bat_tempp,Mocheso oa betri ke e 'ngoe ea lintlha tsa bohlokoa ka ho fetisisa. Haeba betri e bolokoa ka gel mochesong o phahameng, sena se ama bophelo ba ts'ebeletso le ts'ebetso ea betri. Haeba mocheso o phahama, sebopeho sa ka hare sa betri se ka senyeha.
+rdc_brightness,Fokotsa khanya ea skrine
+display_explain,Pontšo ke e 'ngoe ea likarolo tse jang boholo ba matla. Ho fokotsa khanya ho thusa ho fokotsa tšebeliso ea kakaretso le ho boloka chelete e hlokomelehang. Pele o fokotsa ho khanya, tima khanya ea othomathike e le hore khanya e se ke ea fetoha ho sa hlokahale.
+tst_charge,Teko tjhaja
+best_way_test,Mokhoa o motle oa ho lekola tjhaja le thapo ke ka ho lekola lebelo la ho tjhaja ha skrine se koetsoe. Lebelo la ho tjhaja ha skrini se butswe ha se letshwao le letle hobane fono ya hao e ja matla, e leng se bakang ho feto-fetoha ha maemo. Hokela tjhaja, tima skrini ka metsotso e seng mekae, ebe o sheba boholo ba tefiso ya jwale.
+wait_title,Ho leta
+rfsh_rate,Sekhahla sa ho nchafatsa
+low_sizty,Ho theola sekhahla sa ho khatholla ho 60 Hz ho ntlafatsa bophelo ba betri.
+drk_mode,Mokhoa o Lefifi
+acti_dark_mode,Kenya Mokhoa o Lefifi, ho Mokhoa o Lefifi matla a fokolang a sebelisoang
+actz,Kenya tshebetsong
+poz,Matla
+minz,Bonyane
+avgo,Karolelano
+mixi1,Boholo
+msg_dis,Molaetsa o nyamela kamora lihora tse 24 haeba ho na le data e lekaneng ho bonts'a setšoantšo ka botlalo.
+no_enough,Ha ho lintlha tse lekaneng tse ka hlahisoang
+log_graph,Ka lihora tse 'maloa u tla bona kerafo mona e tla u lumella ho lekola mocheso oa betri, voltage, amperage le boemo nakong ea lihora tse 24 tse fetileng.
+week,beke
+buy_it,Reka
+one_pur,Tefiso ea nako e le 'ngoe ea
+refun_pur,theko e ka buseletsoa ka hare ho 2 lihora tse.
+each_month,Ngoliso e nchafatsoa khoeli le khoeli 'me e tsoela pele ho bitsa ka khoeli. Ngoliso e ka hlakoloa ka nako efe kapa efe.
+mng_subs,laola peeletso
+subsci,ngodisa
+will_cost_week,Ngoliso e nchafatsoa beke le beke 'me e tsoela pele ho bitsa ka beke. Ngoliso e ka hlakoloa ka nako efe kapa efe.
+lfllong,bophelo bohle
+mthly,khoeli le khoeli
+wkly,Beke le beke
+hoto,E chesang
+prm_ben_title,Melemo ea Premium
+sync_title,Amahanya
+dis_sync_inc,Ho thibela sync ho tla eketsa bophelo ba betri ka ho se sync litšebeletso ka morao
+time_out,Khefutso
+dec_extend,Ho fokotsa nako pele skrini se tima ho eketsa bophelo ba betri
+u_end_opti,Na u na le bonnete ba hore u batla ho emisa ts'ebetso ea ntlafatso?
+no_why_perm,Ha ho tumello
+bright_exp,Taolo ea Betri e hloka Fetola tumello ea litlhophiso tsa sistimi ho fokotsa khanya ea skrine kapa ho tima Bluetooth.
+tg_title,Kena mocha oa Telegraph!
+tg_text,Lula u ntse u tseba ka lintlafatso tsa app, fumana kaho ea pele, 'me u thuse ho lekola likarolo tse ncha. Etsa tlhahiso ea maikutlo a hau, botsa lipotso 'me u fumane likarabo kapele
+join_tg,kopanya
+curr_consumption,tshebediso ya jwale
+scrn_onn,skrineng
+srcn_off,skrine e tima
+mob_charg,Ho tjhaja
+discha,Ho qhala
+activea,E sebetsa
+slpmode,Mokhoa oa ho robala
+chagingspeed,Lebelo la hajoale la ho tjhaja
+dta_proxt,Tšireletso ea data
+governs,Leano lena la lekunutu le laola tšebeliso ea hau ea software ea Battery Manager bakeng sa lisebelisoa tsa cellular tse entsoeng ke Baxolino.
+info_u_provide,Lintlha tse fanoeng ke mosebelisi
+no_pass_per,Ha re fetisetse data ea hau ho batho ba boraro. Ha o re romella lengolo-tsoibila, re na le aterese ea hau ea lengolo-tsoibila, empa re e sebelisa feela ho u thusa ka lits'ebetso tsa rona.
+info_auto_coll,Boitsebiso bo bokelloa ka bohona
+exp_admob_use,Re sebelisa Google Admob ho fana ka lipapatso. Ts'ebeliso ea lits'ebeletso tsena e ipapisitse le lipehelo tsa ts'ireletso ea lintlha tsa Google ho https://www.google.com/policies/privacy/.
+we_real_time,Na Battery Manager e bokella lintlha tse nepahetseng tsa sebaka sa 'nete ho tsoa sesebelisoa?
+exp_loc_perm_man,Battery Manger e sheba feela hore na sebaka seo se kentsoe tšebetsong kapa ha se sebetse, empa ha e bokelle lintlha tse nepahetseng mabapi le sebaka sa sesebelisoa sa hau sa mohala. Mesebetsi e joalo e thehiloeng sebakeng e behiloe ka mokhoa oa kamehla. U ka koala kapa ua bula lits'ebetso tsena ho li-setting tsa sesebelisoa sa hau se fapaneng. Pele kapa ka mor'a ho kenya lisebelisoa, u tla botsoa - ho itšetlehile ka sesebelisoa - hore na u ka rata ho koala kapa ho kenya tšebetsong mesebetsi ena. Re ka bokella lintlha tsa sebaka seo u leng ho sona ha feela u ka kenya litšebeletso tse joalo tsa sebaka.
+chng,Liphetoho
+pri_update_exp,Leano lena la lekunutu le ka ntlafatsoa nako le nako ka lebaka lefe kapa lefe. Re tla u tsebisa ka liphetoho leanong la rona la lekunutu ka ho beha leano le lecha la lekunutu atereseng ena ea tepo le ho u tsebisa ka molaetsa o ho app. Ho khothaletsoa hore u shebane le Leano lena la Lekunutu khafetsa bakeng sa liphetoho, kaha ts'ebeliso e tsoelang pele e nkuoa e le tumello ea liphetoho tsohle. U ka hlahloba nalane ea pholisi ena webosaeteng ena.
+contct,Ikopanye
+any_que,Haeba u na le lipotso mabapi le ts'ireletso ea data ha u ntse u sebelisa ts'ebeliso kapa u na le lipotso mabapi le litloaelo tsa rona, ka kopo romella lengolo-tsoibila ho baxolino.de@gmail.com
+mem_opti,Motsamaisi oa Battery o hloka phihlello ea "memori" e le hore lits'ebetso li ka hlahlojoa le ho ntlafatsoa. U ka koala kapa ua kenya tšebetsong lits'ebetso tsena litlhophisong tsa sesebelisoa sa hau se fapaneng. Pele kapa ka mor'a ho kenya sesebelisoa, u tla botsoa - ho latela sesebelisoa - hore na u ka rata ho koala kapa ho kenya tšebetsong mesebetsi ena.
+storg,Polokelo
+ble_set_acc,blue_set_perm, Motsamaisi oa Battery o hloka phihlello ea "Bluetooth setting access" e le hore e ka hlahlojoa hore na Bluetooth e butsoitse kapa ha e sebetse. Le ho kenya kapa ho tima Bluetooth.
+ble_title,bluetooth
+needz_del,Motsamaisi oa Battery o hloka ho fihlella "Kopa ho hlakoloa ha liphutheloana" ho qala ho hlakola sesebelisoa. Sesebelisoa se tla hlakoloa ha feela u se lumella ka ho hlaka.
+deletion_pkg,Kopa ho hlakoloa ha liphutheloana
+need_adnd,Selaoli sa Betri se hloka phihlello ea "U se ke Ua Khathatsa" ho bulela kapa ho tima mokhoa oa O seke oa Ts'khathatsa.
+adnd,Kena ho U se ke Ua Khathatsa
+need_wlan_acc,Taolo ya Betri e hloka phihlello ho "Fumana Mahokelo a WLAN" e le hore Taolo ya Betri e tle e hlahlobe hore na WLAN e butswe kapa ha e sebetse. Le ho kenya kapa ho tima WLAN.
+wln_conn,Fumana likhokahano tsa WLAN
+shop_bill_exp,Ha u reka ka Google Play In App Billing, Google e re fa naha ea heno, 'me ka linako tse ling e re fa naha, toropo, le zip code, empa ha ho aterese e felletseng. Re sebelisa tlhahisoleseding ena ho latela melao ea lekhetho le ea likarabello.
+pri_date,Ho tloha ka 02/21/2021
+how_to_stop,U ka emisa pokello eohle ea tlhahisoleseling ka ts'ebeliso feela ka ho hlakola sesebelisoa. U ka sebelisa mekhoa e tloaelehileng ea ho hlakola e fumanehang e le karolo ea sesebelisoa sa hau sa mohala kapa 'marakeng kapa marang-rang bakeng sa lits'ebetso tsa mehala.
+opt_out,Litokelo tsa ka tsa ho tsoa ke life?
+ur_permission,tumello ya hao
+accept_privacy,Ka ho sebelisa ts'ebeliso, o fana ka tumello ea ho sebetsa ha data ea hau joalo ka ha ho boletsoe leanong lena la lekunutu le joalo ka ha le fetotsoe ke rona.

@@ -1,0 +1,347 @@
+title,Oluṣakoso Batiri Lite yatọ
+extend_life,Ọna ti o dara julọ lati fa igbesi aye batiri pọ si ati jẹ ki o ni ilera da lori iriri ati iwadii imọ-jinlẹ.
+measured,Ni ọna ti o han gbangba a fihan ọ nikan data ti o niwọn gangan ati bii o ṣe ṣe iṣiro.
+healthy,Jeki batiri rẹ ni ilera
+double_battery,Ilọpo aye batiri rẹ nipa gbigba agbara ni kikun si batiri rẹ. Awọn onimo ijinlẹ sayensi ti fi idi eyi han ninu iwadi wọn.
+charge_limit,Lilo ifitonileti iye owo idiyele wa, ifitonileti kan yoo firanṣẹ nigbati batiri ba de opin ti asọye olumulo.
+smart,O ma n ni ijafafa ni gbogbo ọjọ
+analyze,Bi o ṣe gun lo Oluṣakoso Batiri Lite, yoo dara julọ ti a yoo ni ni itupalẹ iṣẹ batiri rẹ.
+update_every_time,Iwọn igbesi aye batiri ti o ku jẹ imudojuiwọn ni gbogbo igba ti o ba lo tabi gba agbara si ẹrọ rẹ.
+runtime,Ṣe afẹri akoko asiko ti batiri rẹ gangan
+discharge_cycle,Nigbakugba ti foonu rẹ ba lọ nipasẹ iyipo idasilẹ, iṣiro deede ti akoko asiko rẹ le ṣe iwọn.
+accurate_life,Lo Oluṣakoso Batiri Lite lati wiwọn igbesi aye batiri deede.
+no_exit,Maṣe jade kuro ni Alakoso Batiri Lite!
+bg_require,Oluṣakoso Batiri Lite nilo iṣẹ abẹlẹ lati gba awọn iṣiro batiri ati wiwọn idiyele batiri ati akoko idasilẹ. O ṣee ṣe ki ẹrọ rẹ da iṣẹ naa duro tabi ko gba laaye lati ṣiṣẹ nigbati app ba wa ni pipade. Lati yago fun eyi, a ni kan ti o dara ojutu fun o. O kan tẹ lori ọna asopọ.
+man,Afowoyi
+cali,Isọdiwọn
+polarity,Ni igbesẹ yii, ohun elo naa ṣe iwari polarity gbigba agbara ati agbara apẹrẹ ti batiri rẹ.
+disch,Sisọ silẹ
+ch_pol,Gbigba agbara polarity
+power_meter,Mita agbara
+unit_mesure,Unit ti wiwọn
+capacity,Agbara Batiri
+wrong,Ko tọ?
+calib,Ṣe iwọntunwọnsi
+ye,Bẹẹni
+no,Rara
+neg,Odi
+pos,Rere
+lunch,Ifilọlẹ App
+manufac,Agbara ni ibamu si olupese
+design_des,Agbara apẹrẹ jẹ agbara batiri gangan, ti wọn ni mAh. Bi ko si ọna osise lati pinnu agbara, iye ti o pada le jẹ aṣiṣe.
+correct_it,Ti agbara ifihan ko ba pe, jọwọ ṣe atunṣe.
+cancel,Fagilee
+ok,O dara
+runtime,Batiri Runtime
+wait,nduro
+per_hr,Lilo batiri fun wakati kan
+life_for,Aye batiri fun
+battery_cond,Ipo batiri
+bat_info,Alaye batiri
+bat_cap,Agbara batiri
+bat_volt,Batiri foliteji
+bat_cur,Batiri lọwọlọwọ
+unit_mes,Unit ti wiwọn
+done,Ti ṣe
+c_bat_temp,Iwọn Batiri lọwọlọwọ
+min_bat_tem,Iwọn otutu Batiri to kere julọ
+mx_bat_tem,O pọju batiri otutu
+avg_bat_tem,Apapọ batiri otutu
+dig_last,Ayẹwo ikẹhin ṣaaju
+rem_time,Akoko to ku
+volt,Foliteji
+curr,Lọwọlọwọ
+status,Ipo
+run_time,Akoko ṣiṣe
+currently,Lọwọlọwọ
+avg,Apapọ
+minmal,Kekere
+maximal,O pọju
+tool,Awọn irinṣẹ
+rem_apps,Yọ awọn ohun elo kuro ti o ko lo lati ṣe idiwọ awọn ohun elo lati ṣiṣẹ lainidi ati fifa batiri rẹ kuro
+uninst_apps,Yọ Awọn ohun elo kuro
+stat,Bẹrẹ
+act_eng_save,Mu ipo fifipamọ agbara ṣiṣẹ lati dinku agbara batiri
+pow_save,Ipo fifipamọ agbara
+tempe,Iwọn otutu
+heal,Ilera
+tips,Jeki Batiri rẹ ni ipo ti o dara pẹlu awọn imọran ati ẹtan.
+recomm,Awọn iṣeduro
+prem,Ere
+more_func,Awọn iṣẹ diẹ sii fun ọ. Gba Ere, gba diẹ sii.
+more,Die e sii
+ur_cond_bat,Ipo batiri jẹ
+ur_bat_life,Aye batiri rẹ jẹ
+ur_bat_temp,Iwọn Batiri rẹ jẹ
+wow,O tayọ
+normal,Deede
+poor,Ko dara
+days,Awọn ọjọ
+mins,Iṣẹju
+hrs,Awọn wakati
+chging,Gbigba agbara
+ful,Kun
+dis_chrg,Gbigba agbara
+unkn,Aimọ
+too_lit,Data Batiri kekere ju
+car_any,Gbe jade lonakona
+endz_,Ipari
+dig_any,Lati le ni awọn abajade iwadii aisan to dara julọ, ohun elo naa nilo lati ṣe itupalẹ batiri rẹ ni abẹlẹ. Jọwọ bẹrẹ ayẹwo lẹhin awọn wakati 24
+end_dig,Ipari ayẹwo
+quit_dig,Nitootọ Paarẹ Ayẹwo
+batty_temp,Batiri otutu
+akku_manager,Akku Manager
+u_agree,Pẹlu "Bẹrẹ" o gba si awọn ilana aabo data
+elemn_opti,Awọn eroja le wa ni iṣapeye
+looks_good,Ohun gbogbo wulẹ dara
+optimize_,Mu dara ju
+toolz_,Awọn irinṣẹ
+akku_check,Aku Ṣayẹwo
+ctrl_load,ikojọpọ iṣakoso
+mng_apps,Ṣakoso awọn ohun elo
+infosm,Alaye
+tenzion,ẹdọfu
+electy,itanna
+lvl,Ipele
+akku_man_premium,Akku Manager Ere
+premimum_highlight,Lo Oluṣakoso Batiri naa patapata laisi ipolowo ati pe o ni iraye si isọdi nla ti wiwo olumulo.
+design,Apẹrẹ
+subjs,awọn koko-ọrọ
+genrally,Ni gbogbogbo
+temp_unit,Iwọn otutu
+oth_apps,Awọn ohun elo miiran
+dat_protect,Idaabobo data
+thx_akku,O ṣeun fun atilẹyin Akku Manager pẹlu rira ti ẹya Ere.
+user_got_pre,Bayi o ni iraye si isọdi nla ti wiwo olumulo ati lilo laisi ipolowo.
+exp_more,O le nireti awọn ẹya diẹ sii ni awọn imudojuiwọn ọjọ iwaju
+ap_optimiz,App iṣapeye
+sys_bat_usage,Lilo batiri eto
+bat_usage_det,Awọn alaye lilo batiri
+end_optiz,Ipari iṣapeye
+abort,Joge
+break_up,ya kuro
+scn,lati ọlọjẹ
+scn_bgh,Imọlẹ iboju
+dact_wlan,Muu WLAN ṣiṣẹ
+dact_save_batt,Muu ṣiṣẹ lati fi batiri pamọ
+dact,Muu ṣiṣẹ
+dact_ble,Muu Bluetooth ṣiṣẹ
+red_brigh,Din imọlẹ
+bright_txt,Din imọlẹ ifihan lati fi batiri pamọ
+to_reduce,Lati dinku
+dact_gps,Muu GPS ṣiṣẹ
+appz_optimz,Awọn ohun elo iṣapeye
+start_bat_check_det,Bẹrẹ ayẹwo batiri alaye lati wa nigbagbogbo ni ẹgbẹ ailewu
+act_eng_save,Mu ipo fifipamọ agbara ṣiṣẹ lati dinku agbara batiri
+remove_useless,Yọ awọn ohun elo kuro ti a ko lo mọ
+premium,Ere
+clear_mem,Nu soke iranti
+clear_mem_des,Ki rẹ foonuiyara nṣiṣẹ ni kiakia ati laisiyonu.
+clenaup,Nu kuro
+rat,igbelewọn
+rat_free,Oṣuwọn Alakoso Batiri fun ọfẹ
+sendz,Firanṣẹ
+elmn_found,Awọn eroja ri
+drumz,Ìlù
+status,Ipo
+end_akk_check,Ipari ayẹwo batiri
+bat_detlz,Awọn alaye batiri
+temp_checked,A ṣayẹwo iwọn otutu
+cond_checked,Ipo batiri ti ṣayẹwo
+checkz_start,Ayẹwo batiri bẹrẹ
+plug_in,Ti so sinu
+techz,Imọ ọna ẹrọ
+coldz,Òtútù
+until,Titi di
+well,O dara
+ovr_heat,Gbigbona pupọ
+ovr_load,Apọju
+renam,lorukọmii
+not_def,ko telẹ
+chrgz,Gba agbara
+full,Kun
+unloadz,Ikojọpọ
+not_charge_unkn,ko gba agbara tabi aimọ
+usb,USB
+charger,ṣaja
+wless,alailowaya
+not_at_al,nkankan ni gbogbo
+uninstall,Yọ kuro
+update,Lati ṣe imudojuiwọn
+setting,Ètò
+app,Awọn ohun elo
+not_found,App ko ri
+search,Wa awọn ohun elo
+version_code,Koodu ẹya
+api_level,API Ipele
+app_version,Ẹya App
+authorization,aṣẹ
+open,lati ṣii
+play_store,Play itaja
+control,iṣakoso
+systemstandart,Standard System
+white,funfun
+dark,Dudu
+ocean,Òkun
+black,Dudu
+dark_blue,Bulu dudu
+excellent,O tayọ
+bad,Buburu
+battery_bad,Batiri ti bajẹ die-die
+very_bad,Kodara rara
+battery_damaged,Batiri naa ti bajẹ
+custom_mode,Ipo Aṣa
+brightness,Imọlẹ
+automatic_brightness,Imọlẹ aifọwọyi
+normal,Deede
+sound_modus,Modus ohun
+tone_work,Gbogbo Awọn ohun orin ṣiṣẹ
+mute,Pa ẹnu mọ́
+call_note_mute,Awọn ipe ati awọn iwifunni ti dakẹ
+not_bother,Maṣe damu
+tones_vibration_mute,Pa awọn ohun orin ati awọn gbigbọn, ayafi awọn ohun orin ipe itaniji
+sound,Ohun
+music,orin
+notification,Iwifunni
+alarm,Itaniji
+ultra_saving,Ipo fifipamọ agbara Ultra
+edit,Lati ṣatunkọ
+disable_ultra_saving,Pa Ipo Ifipamọ Agbara Ultra ṣiṣẹ
+min_remaining,min ti o ku
+hours,wakati
+activted_ultra_saving,Ipo fifipamọ agbara Ultra ti mu ṣiṣẹ
+charged_in,gba agbara ni
+min,min
+limit_power,Idiwọn agbara agbara
+reduce_screen,Din imọlẹ iboju din
+restrict_bg_act_explain,Ṣe ihamọ awọn iṣẹ abẹlẹ
+volatge_check,Foliteji ti ṣayẹwo
+software_optimized,Software ti wa ni iṣapeye
+connect_charger,So ṣaja pọ
+charger_removed,Ṣaja le yọ kuro
+power_consump_title,Ilo agbara
+srcn_bg_title,Imọlẹ iboju
+bg_al_activities,Awọn iṣẹ abẹlẹ
+sftware,Software
+get_primium,Ti o ba ra ẹya Ere, iwọ yoo gba gbogbo awọn iṣẹ lọwọlọwọ bi daradara bi gbogbo awọn iṣẹ tuntun ni ọjọ iwaju.
+cuztomize_face,Isọdi ti wiwo olumulo
+comp_scheme,Ṣajọ ero awọ oluṣakoso batiri rẹ lati oriṣiriṣi awọn akori.
+bat_check_detail,Ṣayẹwo batiri alaye
+check_cond_test,Lo Oluṣakoso Batiri lati ṣayẹwo ipo batiri rẹ lati wa nigbagbogbo ni ẹgbẹ ailewu.
+no_ads_yo,Ko si ipolowo
+use_explain_noads,Lo Oluṣakoso Batiri laisi ipolowo eyikeyi
+act_energy_save,Mu ipo fifipamọ agbara olekenka ṣiṣẹ lati mu igbesi aye batiri pọ si ni pajawiri.
+buy_title,Ra Ere
+loc_title,Ipo
+cap_title,agbara
+cap_remain,Agbara to ku
+sleepy,Orun
+sek,Aaya
+sing_min,Iṣẹju
+miniotes,Iṣẹju
+finish,Ti pari
+mobi_data,mobile data
+plz_rate,Jọwọ ṣe oṣuwọn Alakoso Batiri ni Play itaja
+ur_data_cus,Njẹ a le tẹsiwaju lati lo data rẹ lati ṣe akanṣe awọn ipolowo fun ọ?
+in_slep_mode,Ni ipo orun
+in_use,Ni lilo
+with_curr_pow,Pẹlu lilo agbara lọwọlọwọ
+rem_bat_life,Ti o ku aye batiri
+qck_acc,Wiwọle yara yara
+notif_txt,iwifunni
+notif_at,Fi leti ni
+chg_curr,Gbigba agbara lọwọlọwọ
+charge_perm,Gbigba agbara išẹ
+maxi_charge_per,O pọju gbigba agbara išẹ
+enb_notif,Mu iwifunni ṣiṣẹ
+perm_send_notif,Oluṣakoso batiri nilo igbanilaaye lati fi ifitonileti ranṣẹ, o gbọdọ muu ṣiṣẹ ninu awọn eto ẹrọ naa.
+to_set,Si awọn eto
+title_autost,Mu Autostart ṣiṣẹ
+auto_explain,Oluṣakoso batiri nilo igbanilaaye lati wa ni ṣiṣiṣẹ ni abẹlẹ lati beere ipo batiri ati fi iwifunni ranṣẹ.
+sync_auto,Muṣiṣẹpọ laifọwọyi
+dis_auto_sync,Pipa amuṣiṣẹpọ aifọwọyi dinku ni pataki awọn titiipa wake. Sibẹsibẹ, diẹ ninu awọn iṣẹ bii gbigba imeeli yoo sọnu.
+chg_lim,Idiyele idiyele
+avoid_ful_explain,Ti o ba gba agbara si batiri rẹ si iwọn tabi fi silẹ titi o fi wa ni pipa, ipo ati igbesi aye iṣẹ batiri yoo dinku. Ni atẹle o le ṣeto idiyele ti o kere ju ati ipo ti o pọju tabi ipo idasilẹ ti batiri naa yoo gba ọ leti ni igbakugba ti iye ala ti de. Yago fun ọkan ni kikun gbigba agbara ati mu batiri rẹ silẹ ki o fa igbesi aye batiri naa sii.
+rec_notif,Ko gba iwifunni?
+title_allow_bg_act,Gba iṣẹ ṣiṣe lẹhin laaye
+allow_bg_act,Ni ibere fun ọ lati ni anfani lati lo Oluṣakoso Batiri laisi awọn ihamọ laisi aimọkan pipade nipasẹ ẹrọ iṣẹ, o le ni lati paarọ awọn iṣẹ pataki fun iṣakoso batiri ati lilo batiri ni awọn eto. Nitoripe awọn aṣelọpọ oriṣiriṣi yatọ ni yiyan awọn aṣayan wọnyi da lori ẹrọ ṣiṣe ti a lo. Ni agbegbe Alaye App, labẹ Orun tabi Batiri, yan Ko si Awọn ihamọ tabi Gba Iṣẹ ṣiṣe abẹlẹ laaye.
+dev_usage,Lilo ẹrọ
+dep_sleep,Oorun jinlẹ jẹ ipo ti ẹrọ rẹ nlo iye batiri ti o kere ju. Iye akoko oorun jinlẹ ni ipa rere lori fifipamọ agbara. Oorun ti o jinlẹ le ni idilọwọ nipasẹ awọn iṣẹ abẹlẹ, eyiti o fa ki batiri naa jade ni iyara. Ni idi eyi, tun ẹrọ rẹ bẹrẹ.
+title_bat_temp,Batiri otutu
+bat_tempp,Iwọn otutu batiri jẹ ọkan ninu awọn ifosiwewe pataki julọ. Ti batiri naa ba jẹ gel ni awọn iwọn otutu giga, eyi yoo ni ipa lori igbesi aye iṣẹ mejeeji ati iṣẹ batiri naa. Ti iwọn otutu ba ga soke, eto inu ti batiri le bajẹ.
+rdc_brightness,Din imọlẹ iboju din
+display_explain,Ifihan naa jẹ ọkan ninu awọn paati ti o nlo agbara pupọ julọ. Idinku imọlẹ ti o pọju ṣe iranlọwọ lati dinku agbara gbogbogbo ati ṣaṣeyọri awọn ifowopamọ akiyesi. Ṣaaju ki o to dinku imọlẹ, mu maṣiṣẹ imọlẹ aifọwọyi ki imọlẹ ko yipada lainidi.
+tst_charge,Ṣaja idanwo
+best_way_test,Ọna ti o dara julọ lati ṣe idanwo ṣaja ati okun ni nipasẹ ṣiṣe ayẹwo iyara gbigba agbara pẹlu pipa iboju. Iyara gbigba agbara nigbati iboju ba wa ni titan kii ṣe ala ti o dara nitori foonu rẹ n gba agbara, eyiti o fa awọn iyipada. Pulọọgi ṣaja, pa iboju fun iṣẹju diẹ, lẹhinna ṣayẹwo iye idiyele ti o pọju lọwọlọwọ.
+wait_title,Nduro
+rfsh_rate,Oṣuwọn isọdọtun
+low_sizty,Sokale oṣuwọn isọdọtun si 60 Hz ṣe ilọsiwaju igbesi aye batiri.
+drk_mode,Ipo Dudu
+acti_dark_mode,Mu Ipo Dudu ṣiṣẹ, ni Ipo dudu kere si agbara ti o jẹ
+actz,Mu ṣiṣẹ
+poz,Agbara
+minz,O kere ju
+avgo,Apapọ
+mixi1,O pọju
+msg_dis,Ifiranṣẹ naa yoo parẹ lẹhin awọn wakati 24 ti data ba wa to lati ṣafihan aworan atọka ni kikun.
+no_enough,Ko to data lati han
+log_graph,Ni awọn wakati diẹ iwọ yoo rii aworan kan nibi ti yoo gba ọ laaye lati ṣayẹwo iwọn otutu batiri, foliteji, amperage ati ipele ni awọn wakati 24 sẹhin.
+week,ose
+buy_it,Ra
+one_pur,Ọkan-akoko ọya ti
+refun_pur,rira le ti wa ni agbapada laarin 2 wakati.
+each_month,Ṣiṣe-alabapin naa ṣe isọdọtun adaṣe ni oṣu kọọkan ati tẹsiwaju lati jẹ idiyele fun oṣu kan. Ṣiṣe alabapin le fagilee nigbakugba.
+mng_subs,ṣakoso awọn alabapin
+subsci,alabapin
+will_cost_week,Ṣiṣe-alabapin ṣe isọdọtun ni ọsẹ kọọkan ati tẹsiwaju lati idiyele ni ọsẹ kan. Ṣiṣe alabapin le fagilee nigbakugba.
+lfllong,igbesi aye
+mthly,oṣooṣu
+wkly,Osẹ-ọsẹ
+hoto,Gbona
+prm_ben_title,Ere anfani
+sync_title,Muṣiṣẹpọ
+dis_sync_inc,Pipa imuṣiṣẹpọ yoo mu igbesi aye batiri pọ si nipa mimuuṣiṣẹpọ awọn iṣẹ ni abẹlẹ
+time_out,Duro na
+dec_extend,Dinku akoko ṣaaju ki ifihan ba wa ni pipa fa igbesi aye batiri gbooro sii
+u_end_opti,Ṣe o da ọ loju pe o fẹ pari ilana imudara naa?
+no_why_perm,Ko si igbanilaaye
+bright_exp,Oluṣakoso batiri nilo Yi igbanilaaye awọn eto eto pada lati dinku imọlẹ iboju tabi paa Bluetooth.
+tg_title,Darapọ mọ ikanni Telegram!
+tg_text,Duro lọwọlọwọ pẹlu awọn imudojuiwọn app, gba awọn kikọ ni kutukutu, ati ṣe iranlọwọ idanwo awọn ẹya tuntun. Daba awọn imọran rẹ, beere awọn ibeere ati gba awọn idahun ni iyara
+join_tg,da
+curr_consumption,lọwọlọwọ agbara
+scrn_onn,iboju lori
+srcn_off,iboju kuro
+mob_charg,Gbigba agbara
+discha,Gbigba agbara
+activea,Ti nṣiṣe lọwọ
+slpmode,Ipo orun
+chagingspeed,Iyara Gbigba agbara lọwọlọwọ
+dta_proxt,Idaabobo data
+governs,Ilana aṣiri yii n ṣe akoso lilo ohun elo sọfitiwia Oluṣakoso Batiri fun awọn ẹrọ alagbeka ti o ṣẹda nipasẹ Baxolino.
+info_u_provide,Alaye ti a pese nipasẹ olumulo
+no_pass_per,A ko fi data ti ara ẹni ranṣẹ si awọn ẹgbẹ kẹta. Nigbati o ba fi imeeli ranṣẹ si wa, a ni adirẹsi imeeli rẹ, ṣugbọn a lo nikan lati ṣe iranlọwọ fun ọ pẹlu awọn ohun elo wa.
+info_auto_coll,Alaye ti a gba laifọwọyi
+exp_admob_use,A lo Google Admob lati ṣe iṣẹ ipolowo. Lilo awọn iṣẹ wọnyi jẹ koko-ọrọ si awọn ipese aabo data Google ni https://www.google.com/policies/privacy/.
+we_real_time,Ṣe Oluṣakoso Batiri n gba alaye ipo akoko gidi deede lati ẹrọ naa?
+exp_loc_perm_man,Itọju Batiri nikan n ṣayẹwo boya ipo naa ti muu ṣiṣẹ tabi mu ṣiṣẹ, ṣugbọn ko gba alaye pato nipa ipo ẹrọ alagbeka rẹ. Iru awọn iṣẹ orisun ipo ti ṣeto nipasẹ aiyipada. O le mu maṣiṣẹ tabi tun mu awọn iṣẹ wọnyi ṣiṣẹ ni awọn eto ẹrọ oniwun rẹ. Ṣaaju tabi lẹhin fifi awọn ohun elo sii, iwọ yoo beere - da lori ẹrọ naa - boya o fẹ lati mu maṣiṣẹ tabi mu awọn iṣẹ wọnyi ṣiṣẹ. A le gba data nipa ipo rẹ nikan ti o ba mu iru awọn iṣẹ ipo ṣiṣẹ.
+chng,Awọn iyipada
+pri_update_exp,Eto imulo ipamọ yii le ṣe imudojuiwọn lati igba de igba fun eyikeyi idi. A yoo sọ fun ọ ti awọn iyipada si eto imulo ipamọ wa nipa fifiranṣẹ eto imulo ipamọ tuntun lori adirẹsi wẹẹbu yii ati ifitonileti nipasẹ ifiranṣẹ kan ninu app naa. A gba ọ niyanju pe ki o kan si Eto Afihan Aṣiri yii nigbagbogbo fun awọn ayipada, bi lilo tẹsiwaju ni a gba ifọwọsi ti gbogbo awọn ayipada. O le ṣe ayẹwo itan-akọọlẹ eto imulo yii lori oju opo wẹẹbu yii.
+contct,Olubasọrọ
+any_que,Ti o ba ni awọn ibeere eyikeyi nipa aabo data lakoko lilo ohun elo tabi ni awọn ibeere nipa awọn iṣe wa, jọwọ fi imeeli ranṣẹ si lambalino.de@gmail.com
+mem_opti,Oluṣakoso Batiri nilo iraye si “iranti” ki awọn ohun elo le ṣe ayẹwo ati iṣapeye. O le mu maṣiṣẹ tabi mu awọn iṣẹ wọnyi ṣiṣẹ ni awọn eto ẹrọ oniwun rẹ. Ṣaaju tabi lẹhin fifi app sii, iwọ yoo beere - da lori ẹrọ naa - boya o fẹ lati mu maṣiṣẹ tabi mu awọn iṣẹ wọnyi ṣiṣẹ.
+storg,Ibi ipamọ
+ble_set_acc,blue_set_perm, Oluṣakoso Batiri nilo iraye si "Wiwọle eto Bluetooth" ki o le ṣayẹwo boya Bluetooth ti mu ṣiṣẹ tabi mu ṣiṣẹ. Ati lati muu ṣiṣẹ tabi mu maṣiṣẹ Bluetooth.
+ble_title,Bluetooth
+needz_del,Oluṣakoso Batiri nilo iraye si “Beere piparẹ awọn akojọpọ” lati bẹrẹ yiyọ app kan kuro. Ìfilọlẹ naa yoo jẹ yiyọ kuro ti o ba gba laaye ni gbangba.
+deletion_pkg,Beere piparẹ awọn akojọpọ
+need_adnd,Oluṣakoso Batiri nilo iraye si “Maṣe daamu” lati mu ṣiṣẹ tabi mu maṣe mu ipo duro.
+adnd,Wiwọle Maṣe daamu
+need_wlan_acc,Oluṣakoso Batiri nilo iraye si “Gba Awọn isopọ WLAN” ki Oluṣakoso Batiri le ṣayẹwo boya WLAN ti mu ṣiṣẹ tabi mu ṣiṣẹ. Ati lati mu ṣiṣẹ tabi mu maṣiṣẹ WLAN.
+wln_conn,Gba awọn asopọ WLAN
+shop_bill_exp,Nigbati o ba raja nipasẹ Google Play Ni App Ìdíyelé, Google fun wa ni orilẹ-ede ibugbe rẹ ati nigba miiran ipinle, ilu, ati koodu zip, ṣugbọn kii ṣe adirẹsi kikun. A lo alaye yii lati ni ibamu pẹlu owo-ori ati awọn ilana ṣiṣe iṣiro.
+pri_date,Bi 02/21/2021
+how_to_stop,O le da gbogbo ikojọpọ alaye duro nipasẹ ohun elo nìkan nipa yiyo ohun elo naa kuro. O le lo awọn ilana aifi si po boṣewa ti o wa bi apakan ti ẹrọ alagbeka rẹ tabi nipasẹ aaye ọja tabi nẹtiwọọki fun awọn ohun elo alagbeka.
+opt_out,Kini awọn ẹtọ ijade mi?
+ur_permission,igbanilaaye rẹ
+accept_privacy,Nipa lilo ohun elo naa, o gba si sisẹ data rẹ bi a ti ṣeto sinu eto imulo aṣiri yii ati gẹgẹ bi atunṣe nipasẹ wa.

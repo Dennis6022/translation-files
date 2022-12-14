@@ -1,0 +1,347 @@
+title,Iba ang Battery Manager Lite
+extend_life,Ang pinakamahusay na paraan upang mapahaba ang buhay ng baterya at panatilihin kang malusog ay batay sa karanasan at siyentipikong pananaliksik.
+measured,Sa isang transparent na paraan ipinapakita lang namin sa iyo ang aktwal na sinusukat na data at kung paano ito kinakalkula.
+healthy,Panatilihing malusog ang iyong baterya
+double_battery,Doblehin ang buhay ng iyong baterya sa pamamagitan ng hindi ganap na pag-charge sa iyong baterya. Napatunayan ito ng mga siyentipiko sa kanilang pananaliksik.
+charge_limit,Gamit ang aming notification sa limitasyon sa pagsingil, magpapadala ng notification kapag naabot ng baterya ang limitasyon na tinukoy ng user.
+smart,Ito ay nagiging mas matalino araw-araw
+analyze,Kapag mas matagal mong ginagamit ang Battery Manager Lite, mas magiging mahusay kami sa pagsusuri sa performance ng iyong baterya.
+update_every_time,Ang natitirang sukat ng buhay ng baterya ay ina-update sa tuwing gagamitin o icha-charge mo ang iyong device.
+runtime,Tuklasin ang aktwal na runtime ng iyong baterya
+discharge_cycle,Sa tuwing dumadaan ang iyong telepono sa isang ikot ng paglabas, maaaring masukat ang isang tumpak na pagtatantya ng runtime nito.
+accurate_life,Gamitin ang Battery Manager Lite para sukatin ang tumpak na tagal ng baterya.
+no_exit,Huwag lumabas sa Battery Manager Lite!
+bg_require,Ang Battery Manager Lite ay nangangailangan ng serbisyo sa background upang mangolekta ng mga istatistika ng baterya at sukatin ang singil ng baterya at oras ng pag-discharge. Malamang na ihihinto ng iyong device ang serbisyo o hindi ito papayagan na tumakbo kapag sarado ang app. Upang maiwasan ito, mayroon kaming magandang solusyon para sa iyo. I-click lamang ang link.
+man,Manwal
+cali,Pagkakalibrate
+polarity,Sa hakbang na ito, nakita ng app ang polarity ng pag-charge at ang kapasidad ng disenyo ng iyong baterya.
+disch,Paglabas
+ch_pol,Nagcha-charge ng polarity
+power_meter,metro ng kuryente
+unit_mesure,Yunit ng pagsukat
+capacity,Kapasidad ng baterya
+wrong,Hindi tama?
+calib,Mag-calibrate
+ye,Oo
+no,Hindi
+neg,Negatibo
+pos,Positibo
+lunch,Ilunsad ang App
+manufac,Kapasidad ayon sa tagagawa
+design_des,Ang kapasidad ng disenyo ay ang aktwal na kapasidad ng baterya, na sinusukat sa mAh. Dahil walang opisyal na paraan upang matukoy ang kapasidad, maaaring mali ang ibinalik na halaga.
+correct_it,Kung ang ipinapakitang kapasidad ay hindi tama, mangyaring itama ito.
+cancel,Kanselahin
+ok,Sige
+runtime,Runtime ng Baterya
+wait,naghihintay
+per_hr,Pagkonsumo ng baterya kada oras
+life_for,Buhay ng baterya para sa
+battery_cond,Kondisyon ng baterya
+bat_info,Impormasyon ng baterya
+bat_cap,Kapasidad ng baterya
+bat_volt,Boltahe ng baterya
+bat_cur,Kasalukuyang baterya
+unit_mes,Yunit ng pagsukat
+done,Tapos na
+c_bat_temp,Kasalukuyang Temperatura ng Baterya
+min_bat_tem,Pinakamababang temperatura ng baterya
+mx_bat_tem,Pinakamataas na temperatura ng baterya
+avg_bat_tem,Average na temperatura ng baterya
+dig_last,Huling diagnosis bago
+rem_time,Natitirang oras
+volt,Boltahe
+curr,Kasalukuyan
+status,Katayuan
+run_time,Tumatakbo ang oras
+currently,Kasalukuyan
+avg,Katamtaman
+minmal,Minimal
+maximal,Pinakamataas
+tool,Mga gamit
+rem_apps,I-uninstall ang mga app na hindi mo na ginagamit upang pigilan ang mga app na tumakbo nang hindi kinakailangan at maubos ang iyong baterya
+uninst_apps,I-uninstall ang Apps
+stat,Magsimula
+act_eng_save,I-activate ang energy saving mode para bawasan ang pagkonsumo ng baterya
+pow_save,Power saving mode
+tempe,Temperatura
+heal,Kalusugan
+tips,Panatilihing nasa mabuting kondisyon ang iyong Baterya na may mga tip at trick.
+recomm,Mga rekomendasyon
+prem,Premium
+more_func,Higit pang mga function para sa iyo. Kumuha ng premium, makakuha ng higit pa.
+more,Higit pa
+ur_cond_bat,Ang kondisyon ng baterya ay
+ur_bat_life,Ang iyong buhay ng baterya ay
+ur_bat_temp,Ang Temperatura ng iyong Baterya ay
+wow,Mahusay
+normal,Normal
+poor,Mahina
+days,Mga araw
+mins,Mga minuto
+hrs,Oras
+chging,Nagcha-charge
+ful,Puno
+dis_chrg,Pagdiskarga
+unkn,Hindi kilala
+too_lit,Masyadong maliit na Data ng Baterya
+car_any,Isagawa pa rin
+endz_,Tapusin
+dig_any,Upang makakuha ng mas mahusay na mga resulta ng diagnostic, kailangang suriin ng app ang iyong baterya sa background. Mangyaring simulan ang diagnosis pagkatapos ng 24 na oras
+end_dig,Tapusin ang diagnosis
+quit_dig,Talagang Tumigil sa Diagnosis
+batty_temp,Temperatura ng baterya
+akku_manager,Manager ng Akku
+u_agree,Sa "START" sumasang-ayon ka sa mga regulasyon sa proteksyon ng data
+elemn_opti,Maaaring i-optimize ang mga elemento
+looks_good,Mukhang maganda ang lahat
+optimize_,I-optimize
+toolz_,Mga gamit
+akku_check,Akku Check
+ctrl_load,Kinokontrol na pag-load
+mng_apps,Pamahalaan ang mga app
+infosm,Impormasyon
+tenzion,tensyon
+electy,kuryente
+lvl,Antas
+akku_man_premium,Akku Manager Premium
+premimum_highlight,Ganap na gamitin ang Battery Manager nang walang advertising at mayroon kang access sa malawak na pag-customize ng user interface.
+design,Disenyo
+subjs,mga paksa
+genrally,Sa pangkalahatan
+temp_unit,Unit ng temperatura
+oth_apps,Iba pang apps
+dat_protect,Proteksyon ng data
+thx_akku,Salamat sa pagsuporta sa Akku Manager sa pagbili ng premium na bersyon.
+user_got_pre,Mayroon ka na ngayong access sa malawak na pagpapasadya ng user interface at paggamit nang walang advertising.
+exp_more,Maaari mong asahan ang higit pang mga tampok sa hinaharap na mga update
+ap_optimiz,Pag-optimize ng app
+sys_bat_usage,Pagkonsumo ng baterya ng system
+bat_usage_det,Mga detalye ng paggamit ng baterya
+end_optiz,Tapusin ang pag-optimize
+abort,I-abort
+break_up,maghiwalay
+scn,para i-scan
+scn_bgh,Liwanag ng screen
+dact_wlan,I-deactivate ang WLAN
+dact_save_batt,I-deactivate para makatipid ng baterya
+dact,I-deactivate
+dact_ble,I-deactivate ang bluetooth
+red_brigh,Bawasan ang liwanag
+bright_txt,Bawasan ang liwanag ng display para makatipid ng baterya
+to_reduce,Para mabawasan
+dact_gps,I-deactivate ang GPS
+appz_optimz,Na-optimize ang mga app
+start_bat_check_det,Magsimula ng isang detalyadong pagsusuri sa baterya upang palaging nasa ligtas na bahagi
+act_eng_save,I-activate ang energy saving mode para bawasan ang pagkonsumo ng baterya
+remove_useless,I-uninstall ang mga app na hindi na ginagamit
+premium,Premium
+clear_mem,Linisin ang memorya
+clear_mem_des,Upang ang iyong smartphone ay tumakbo nang mabilis at maayos.
+clenaup,Maglinis
+rat,marka
+rat_free,I-rate ang Battery Manager nang libre
+sendz,Ipadala
+elmn_found,Natagpuan ang mga elemento
+drumz,Mga tambol
+status,Katayuan
+end_akk_check,Tapusin ang pagsusuri sa baterya
+bat_detlz,Mga detalye ng baterya
+temp_checked,Sinusuri ang temperatura
+cond_checked,Sinusuri ang kondisyon ng baterya
+checkz_start,Magsisimula ang pagsusuri sa baterya
+plug_in,Nakasaksak
+techz,Teknolohiya
+coldz,Malamig
+until,Hanggang sa
+well,Well
+ovr_heat,sobrang init
+ovr_load,Overload
+renam,pinalitan ng pangalan
+not_def,hindi tinukoy
+chrgz,singilin
+full,Puno
+unloadz,Nagbabawas ng karga
+not_charge_unkn,hindi sinisingil o hindi alam
+usb,USB
+charger,charger
+wless,wireless
+not_at_al,wala naman
+uninstall,I-uninstall
+update,Upang mag-update
+setting,Mga setting
+app,Mga app
+not_found,Hindi nahanap ang app
+search,Maghanap ng mga app
+version_code,Code ng Bersyon
+api_level,Antas ng API
+app_version,Bersyon ng App
+authorization,awtorisasyon
+open,buksan
+play_store,Play Store
+control,kontrol
+systemstandart,Systemstandard
+white,Puti
+dark,Madilim
+ocean,karagatan
+black,Itim
+dark_blue,Madilim na asul
+excellent,Magaling
+bad,Masama
+battery_bad,Medyo nasira ang baterya
+very_bad,Napakasama
+battery_damaged,Nasira ang baterya
+custom_mode,Custom na Mode
+brightness,Liwanag
+automatic_brightness,Awtomatikong Liwanag
+normal,Normal
+sound_modus,Sound Modus
+tone_work,Gumagana ang Lahat ng Tono
+mute,I-mute
+call_note_mute,Naka-mute ang mga tawag at notification
+not_bother,Huwag nang mag-abala
+tones_vibration_mute,I-off ang mga tono at panginginig ng boses, maliban sa mga tono ng alarma
+sound,Mga tunog
+music,musika
+notification,Abiso
+alarm,Alarm
+ultra_saving,Ultra energy saving mode
+edit,Upang i-edit
+disable_ultra_saving,Huwag paganahin ang Ultra Energy Saving Mode
+min_remaining,minutong natitira
+hours,oras
+activted_ultra_saving,Naka-activate ang ultra energy saving mode
+charged_in,sinisingil sa
+min,min
+limit_power,Limitahan ang pagkonsumo ng kuryente
+reduce_screen,Bawasan ang liwanag ng screen
+restrict_bg_act_explain,Limitahan ang mga aktibidad sa background
+volatge_check,Sinusuri ang boltahe
+software_optimized,Ang software ay na-optimize
+connect_charger,Ikonekta ang charger
+charger_removed,Maaaring tanggalin ang charger
+power_consump_title,Konsumo sa enerhiya
+srcn_bg_title,Liwanag ng screen
+bg_al_activities,Mga aktibidad sa background
+sftware,Software
+get_primium,Kung bibili ka ng premium na bersyon, makukuha mo ang lahat ng kasalukuyang function pati na rin ang lahat ng bagong function sa hinaharap.
+cuztomize_face,Pag-customize ng user interface
+comp_scheme,Bumuo ng scheme ng kulay ng iyong Battery Manager mula sa iba't ibang tema.
+bat_check_detail,Detalyadong pagsusuri ng baterya
+check_cond_test,Gamitin ang Battery Manager upang suriin ang kondisyon ng iyong baterya upang palaging nasa ligtas na bahagi.
+no_ads_yo,Walang advertising
+use_explain_noads,Gamitin ang Battery Manager nang walang anumang advertising
+act_energy_save,I-activate ang ultra energy saving mode para mapataas ang buhay ng baterya sa isang emergency.
+buy_title,Bumili ng Premium
+loc_title,Lokasyon
+cap_title,kapasidad
+cap_remain,Natitirang kapasidad
+sleepy,Matulog
+sek,Mga segundo
+sing_min,minuto
+miniotes,Mga minuto
+finish,Tapos na
+mobi_data,mobile data
+plz_rate,Paki-rate ang Battery Manager sa Play Store
+ur_data_cus,Maaari ba naming patuloy na gamitin ang iyong data upang i-customize ang mga ad para sa iyo?
+in_slep_mode,Sa sleep mode
+in_use,Sa paggamit
+with_curr_pow,Sa kasalukuyang pagkonsumo ng kuryente
+rem_bat_life,Ang natitirang buhay ng baterya
+qck_acc,Mabilis na pagpasok
+notif_txt,abiso
+notif_at,Ipaalam sa
+chg_curr,Kasalukuyang nagcha-charge
+charge_perm,Pagganap ng pag-charge
+maxi_charge_per,Pinakamataas na pagganap ng pag-charge
+enb_notif,Paganahin ang notification
+perm_send_notif,Kinakailangan ng Battery Manager ang pahintulot na magpadala ng notification, dapat itong i-activate sa mga setting ng device.
+to_set,Sa mga setting
+title_autost,I-activate ang Autostart
+auto_explain,Nangangailangan ng pahintulot ang Battery Manager na manatiling aktibo sa background upang ma-query ang status ng baterya at magpadala ng notification.
+sync_auto,Awtomatikong i-synchronize
+dis_auto_sync,Ang hindi pagpapagana ng awtomatikong pag-synchronize ay makabuluhang binabawasan ang mga wakelock. Gayunpaman, ang ilang mga function tulad ng pagtanggap ng e-mail ay mawawala.
+chg_lim,Limitasyon sa Pagsingil
+avoid_ful_explain,Kung i-charge mo ang iyong baterya sa maximum o i-discharge ito hanggang sa ito ay patayin, ang kondisyon at buhay ng serbisyo ng baterya ay mababawasan. Sa mga sumusunod, maaari mong itakda ang minimum at maximum na katayuan ng pag-charge o pag-discharge ng baterya at aabisuhan ka sa bawat oras na maabot ang halaga ng threshold. Iwasan ang isang ganap na i-charge at i-discharge ang iyong baterya at pahabain ang buhay ng baterya.
+rec_notif,Hindi nakatanggap ng notification?
+title_allow_bg_act,Payagan ang aktibidad sa background
+allow_bg_act,Upang magamit mo ang Battery Manager nang walang mga paghihigpit nang hindi sinasadyang isinara ito ng operating system, maaaring kailanganin mong patayin ang mga espesyal na function para sa pamamahala ng baterya at paggamit ng baterya sa mga setting. Dahil ang iba't ibang mga tagagawa ay naiiba sa pagtatalaga ng mga pagpipiliang ito depende sa operating system na ginamit. Sa lugar na Impormasyon ng App, sa ilalim ng Sleep o Baterya, piliin ang Walang Mga Paghihigpit o Payagan ang Aktibidad sa Background.
+dev_usage,Paggamit ng device
+dep_sleep,Ang mahimbing na pagtulog ay isang estado kung saan ang iyong device ay gumagamit ng pinakakaunting baterya. Ang tagal ng malalim na pagtulog ay may positibong epekto sa pagtitipid ng enerhiya. Ang mahimbing na pagtulog ay maaaring maantala ng mga gawain sa background, na nagiging sanhi ng pag-discharge ng baterya nang mas mabilis. Sa kasong ito, i-restart ang iyong device.
+title_bat_temp,Temperatura ng baterya
+bat_tempp,Ang temperatura ng baterya ay isa sa pinakamahalagang salik. Kung ang baterya ay pinananatiling gel sa mataas na temperatura, ito ay nakakaapekto sa parehong buhay ng serbisyo at ang pagganap ng baterya. Kung tumaas ang temperatura, maaaring masira ang panloob na istraktura ng baterya.
+rdc_brightness,Bawasan ang liwanag ng screen
+display_explain,Ang display ay isa sa mga sangkap na kumukonsumo ng halos lahat ng enerhiya. Ang pagbabawas ng maximum na liwanag ay nakakatulong na bawasan ang pangkalahatang pagkonsumo at makamit ang kapansin-pansing pagtitipid. Bago bawasan ang liwanag, i-deactivate ang awtomatikong liwanag upang ang liwanag ay hindi mabago nang hindi kinakailangan.
+tst_charge,Subukan ang charger
+best_way_test,Ang pinakamahusay na paraan upang subukan ang charger at cable ay sa pamamagitan ng pagsuri sa bilis ng pag-charge nang naka-off ang screen. Ang bilis ng pag-charge kapag naka-on ang screen ay hindi magandang benchmark dahil kumokonsumo ng kuryente ang iyong telepono, na nagdudulot ng mga pagbabago. Isaksak ang charger, i-off ang screen sa loob ng ilang minuto, at pagkatapos ay suriin ang maximum na kasalukuyang singil.
+wait_title,Naghihintay
+rfsh_rate,Refresh rate
+low_sizty,Ang pagbaba ng refresh rate sa 60 Hz ay ​​nagpapahusay sa buhay ng baterya.
+drk_mode,Dark Mode
+acti_dark_mode,I-activate ang Dark Mode, sa Dark Mode mas kaunting kuryente ang nakonsumo
+actz,I-activate
+poz,kapangyarihan
+minz,pinakamababa
+avgo,Katamtaman
+mixi1,Pinakamataas
+msg_dis,Ang mensahe ay mawawala pagkatapos ng 24 na oras kung mayroong sapat na data upang ipakita ang diagram nang buo.
+no_enough,Hindi sapat na data upang ipakita
+log_graph,Sa ilang oras makakakita ka ng graph dito na magbibigay-daan sa iyong suriin ang temperatura ng baterya, boltahe, amperahe at antas sa nakalipas na 24 na oras.
+week,linggo
+buy_it,Bumili
+one_pur,Isang beses na bayad ng
+refun_pur,ang pagbili ay maaaring i-refund sa loob ng 2 oras.
+each_month,Ang subscription ay awtomatikong nagre-renew bawat buwan at patuloy na nagkakahalaga bawat buwan. Maaaring kanselahin ang subscription anumang oras.
+mng_subs,pamahalaan ang subscription
+subsci,mag-subscribe
+will_cost_week,Ang subscription ay awtomatikong nagre-renew bawat linggo at patuloy na nagkakahalaga bawat linggo. Maaaring kanselahin ang subscription anumang oras.
+lfllong,habang buhay
+mthly,buwanan
+wkly,Linggu-linggo
+hoto,Mainit
+prm_ben_title,Mga premium na benepisyo
+sync_title,I-synchronize
+dis_sync_inc,Ang hindi pag-disable sa pag-sync ay magpapataas ng buhay ng baterya sa pamamagitan ng hindi pag-sync ng mga serbisyo sa background
+time_out,Time out
+dec_extend,Ang pagpapababa ng oras bago mag-off ang display ay magpapahaba ng buhay ng baterya
+u_end_opti,Sigurado ka bang gusto mong tapusin ang proseso ng pag-optimize?
+no_why_perm,Walang pahintulot
+bright_exp,Nangangailangan ang Battery Manager ng pahintulot na Baguhin ang mga setting ng system upang bawasan ang liwanag ng screen o i-off ang Bluetooth.
+tg_title,Sumali sa Telegram channel!
+tg_text,Manatiling napapanahon sa mga update sa app, makakuha ng maagang mga build, at tumulong sa pagsubok ng mga bagong feature. Magmungkahi ng iyong mga ideya, magtanong at makakuha ng mga sagot nang mas mabilis
+join_tg,sumali
+curr_consumption,kasalukuyang pagkonsumo
+scrn_onn,naka-on ang screen
+srcn_off,naka-off ang screen
+mob_charg,Nagcha-charge
+discha,Pagdiskarga
+activea,Aktibo
+slpmode,Sleep mode
+chagingspeed,Kasalukuyang bilis ng Pag-charge
+dta_proxt,Proteksyon ng data
+governs,Ang patakaran sa privacy na ito ay namamahala sa iyong paggamit ng Battery Manager software application para sa mga mobile device na ginawa ni Baxolino.
+info_u_provide,Impormasyon na ibinigay ng gumagamit
+no_pass_per,Hindi kami nagpapasa ng personal na data sa mga third party. Kapag nag-email ka sa amin, mayroon kaming email address mo, ngunit ginagamit lang namin ito para tulungan ka sa aming mga app.
+info_auto_coll,Awtomatikong nakolekta ang impormasyon
+exp_admob_use,Ginagamit namin ang Google Admob upang maghatid ng mga ad. Ang paggamit ng mga serbisyong ito ay napapailalim sa mga probisyon ng proteksyon ng data ng Google sa https://www.google.com/policies/privacy/.
+we_real_time,Nangongolekta ba ang Battery Manager ng tumpak na real-time na impormasyon ng lokasyon mula sa device?
+exp_loc_perm_man,Sinusuri lamang ng Battery Manger kung ang lokasyon ay naka-activate o naka-deactivate, ngunit hindi nangongolekta ng anumang tumpak na impormasyon tungkol sa lokasyon ng iyong mobile device. Ang ganitong mga function na nakabatay sa lokasyon ay itinakda bilang default. Maaari mong i-deactivate o muling isaaktibo ang mga function na ito sa mga setting ng iyong kaukulang device. Bago o pagkatapos i-install ang mga app, tatanungin ka - depende sa device - kung mas gusto mong i-deactivate o i-activate ang mga function na ito. Makakakolekta lang kami ng data tungkol sa iyong lokasyon kung i-activate mo ang mga naturang serbisyo sa lokasyon.
+chng,Mga pagbabago
+pri_update_exp,Ang patakaran sa privacy na ito ay maaaring ma-update paminsan-minsan para sa anumang kadahilanan. Ipapaalam namin sa iyo ang mga pagbabago sa aming patakaran sa privacy sa pamamagitan ng pag-post ng bagong patakaran sa privacy sa web address na ito at pag-abiso sa iyo sa pamamagitan ng isang mensahe sa app. Inirerekomenda na regular kang kumunsulta sa Patakaran sa Privacy na ito para sa mga pagbabago, dahil ang patuloy na paggamit ay itinuturing na pag-apruba ng lahat ng mga pagbabago. Maaari mong suriin ang kasaysayan ng patakarang ito sa website na ito.
+contct,Makipag-ugnayan
+any_que,Kung mayroon kang anumang mga katanungan tungkol sa proteksyon ng data habang ginagamit ang application o may mga tanong tungkol sa aming mga kasanayan, mangyaring magpadala ng email sa baxolino.de@gmail.com
+mem_opti,Kailangan ng Battery Manager ang "memorya" na access para ma-scan at ma-optimize ang mga app. Maaari mong i-deactivate o i-activate ang mga function na ito sa mga setting ng iyong kaukulang device. Bago o pagkatapos i-install ang app, tatanungin ka - depende sa device - kung mas gusto mong i-deactivate o i-activate ang mga function na ito.
+storg,Imbakan
+ble_set_acc,blue_set_perm,Ang Battery Manager ay nangangailangan ng access na "Bluetooth setting access" upang masuri kung ang Bluetooth ay naka-activate o naka-deactivate. At upang i-activate o i-deactivate ang Bluetooth.
+ble_title,Bluetooth
+needz_del,Kinakailangan ng Battery Manager ang access na "Humiling ng pagtanggal ng mga package" upang simulan ang pag-uninstall ng isang app. Maa-uninstall lang ang app kung tahasan mo itong papayagan.
+deletion_pkg,Humiling ng pagtanggal ng mga pakete
+need_adnd,Nangangailangan ang Battery Manager ng access na "Huwag Istorbohin" upang paganahin o i-disable ang Do Not Disturb mode.
+adnd,I-access ang Huwag Istorbohin
+need_wlan_acc,Ang Battery Manager ay nangangailangan ng access sa "Kumuha ng WLAN Connections" upang masuri ng Battery Manager kung ang WLAN ay naka-activate o naka-deactivate. At upang i-activate o i-deactivate ang WLAN.
+wln_conn,Kumuha ng mga koneksyon sa WLAN
+shop_bill_exp,Kapag namimili ka sa pamamagitan ng Google Play In App Billing, ibibigay sa amin ng Google ang iyong bansang tinitirhan at kung minsan ang estado, lungsod, at zip code, ngunit hindi kailanman ang buong address. Ginagamit namin ang impormasyong ito upang sumunod sa mga regulasyon sa buwis at accounting.
+pri_date,Mula noong 02/21/2021
+how_to_stop,Maaari mong ihinto ang buong koleksyon ng impormasyon sa pamamagitan ng application sa pamamagitan lamang ng pag-uninstall ng application. Maaari mong gamitin ang karaniwang mga proseso ng pag-uninstall na magagamit bilang bahagi ng iyong mobile device o sa pamamagitan ng marketplace o network para sa mga mobile application.
+opt_out,Ano ang aking mga karapatan sa pag-opt out?
+ur_permission,ang iyong pahintulot
+accept_privacy,Sa pamamagitan ng paggamit ng application, pumapayag ka sa aming pagpoproseso ng iyong data tulad ng itinakda sa patakaran sa privacy na ito at bilang susugan namin.

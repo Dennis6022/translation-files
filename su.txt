@@ -1,0 +1,347 @@
+title,Batré Manajer Lite béda
+extend_life,Cara anu pangsaéna pikeun manjangkeun umur batre sareng ngajaga anjeun séhat dumasar kana pangalaman sareng panalungtikan ilmiah.
+measured,Dina cara anu transparan kami ngan ukur nunjukkeun anjeun data anu diukur sareng kumaha ngitungna.
+healthy,Tetep batré Anjeun cageur
+double_battery,Gandakeun umur batre anjeun ku henteu ngeusi batre sapinuhna. Élmuwan geus ngabuktikeun ieu dina panalungtikan maranéhanana.
+charge_limit,Nganggo béwara wates muatan kami, béwara bakal dikirim nalika batréna ngahontal ambang anu ditetepkeun ku pangguna.
+smart,Éta janten langkung pinter unggal dinten
+analyze,Beuki lila anjeun ngagunakeun Battery Manager Lite, urang bakal leuwih hadé dina nganalisa kinerja batré anjeun.
+update_every_time,Pangukuran umur batre sésana diropéa unggal waktos anjeun nganggo atanapi ngeusi batre alat anjeun.
+runtime,Panggihan runtime sabenerna batré Anjeun
+discharge_cycle,Unggal waktos telepon anjeun ngaliwat siklus pangecualian, estimasi akurat ngeunaan waktos jalanna tiasa diukur.
+accurate_life,Anggo Battery Manager Lite pikeun ngukur umur batre anu akurat.
+no_exit,Ulah kaluar Batre Manager Lite!
+bg_require,Pangatur Batré Lite butuh jasa latar tukang pikeun ngumpulkeun statistik batré sareng ngukur ngeusi batre sareng waktos nyéépkeun. Alat anjeun kamungkinan ngeureunkeun jasa atanapi henteu ngijinkeun jalan nalika aplikasi ditutup. Pikeun ngahindarkeun ieu, kami gaduh solusi anu saé pikeun anjeun. Ngan klik dina link.
+man,Manual
+cali,Kalibrasi
+polarity,Dina léngkah ieu, aplikasi ngadeteksi polaritasna ngecas sareng kapasitas desain batré anjeun.
+disch,Ngaluarkeun
+ch_pol,Ngecas polaritasna
+power_meter,Méter kakuatan
+unit_mesure,Unit pangukuran
+capacity,Kapasitas batré
+wrong,Henteu leres?
+calib,Kalibrasi
+ye,Sumuhun
+no,No
+neg,Negatip
+pos,Positip
+lunch,Ngajalankeun App
+manufac,Kapasitas nurutkeun produsén
+design_des,Kapasitas desain nyaéta kapasitas batré anu sabenerna, diukur dina mAh. Kusabab teu aya cara resmi pikeun nangtukeun kapasitas, nilai anu dipulangkeun tiasa lepat.
+correct_it,Upami kapasitas anu ditampilkeun henteu leres, punten lereskeun.
+cancel,Ngabolaykeun
+ok,Oké
+runtime,Batré Runtime
+wait,ngantosan
+per_hr,Konsumsi batré per jam
+life_for,hirup batré pikeun
+battery_cond,kaayaan batré
+bat_info,Inpo batré
+bat_cap,Kapasitas batré
+bat_volt,tegangan batré
+bat_cur,Batré ayeuna
+unit_mes,Unit pangukuran
+done,Réngsé
+c_bat_temp,Suhu Batré Ayeuna
+min_bat_tem,Suhu batré minimum
+mx_bat_tem,Suhu batré maksimum
+avg_bat_tem,Suhu batré rata
+dig_last,diagnosis panungtungan saméméh
+rem_time,Waktos sésana
+volt,Voltaseu
+curr,ayeuna
+status,Status
+run_time,waktos ngajalankeun
+currently,Ayeuna
+avg,Rata-rata
+minmal,Minimal
+maximal,maksimal
+tool,Parabot
+rem_apps,Copot pamasangan aplikasi anu anjeun teu dianggo deui pikeun nyegah aplikasi teu dipikabutuh sareng ngabocorkeun batré anjeun
+uninst_apps,Uninstall Aplikasi
+stat,Mimitian
+act_eng_save,Aktipkeun mode hemat energi pikeun ngurangan pamakean batre
+pow_save,Modeu hemat daya
+tempe,Suhu
+heal,Kaséhatan
+tips,Jaga Batré anjeun dina kaayaan saé kalayan tip sareng trik.
+recomm,Rekomendasi
+prem,Premium
+more_func,Langkung seueur fungsi pikeun anjeun. Kéngingkeun premium, kéngingkeun langkung seueur.
+more,Tambih deui
+ur_cond_bat,Kaayaan batréna
+ur_bat_life,umur batre anjeun
+ur_bat_temp,Suhu Batré anjeun nyaéta
+wow,alus teuing
+normal,Biasa
+poor,Goréng
+days,Poé
+mins,Menit
+hrs,Jam-jaman
+chging,Ngecas
+ful,Pinuh
+dis_chrg,Discharging
+unkn,Teu dipikanyaho
+too_lit,Saeutik teuing Data Batré
+car_any,Laksanakeun wae
+endz_,Tungtung
+dig_any,Pikeun kéngingkeun hasil diagnostik anu langkung saé, aplikasi kedah nganalisis batré anjeun di latar tukang. Mangga ngamimitian diagnosis saatos 24 jam
+end_dig,Diagnosis tungtung
+quit_dig,Nyaan kaluar Diagnosis
+batty_temp,Suhu batré
+akku_manager,Manajer Akku
+u_agree,Kalayan "MULAI" anjeun satuju kana aturan panyalindungan data
+elemn_opti,Unsur tiasa dioptimalkeun
+looks_good,Sagalana kasampak alus
+optimize_,Optimalkeun
+toolz_,Parabot
+akku_check,Abdi Cék
+ctrl_load,Loading dikawasa
+mng_apps,Atur aplikasi
+infosm,Émbaran
+tenzion,tegangan
+electy,listrik
+lvl,Tingkat
+akku_man_premium,Akku Manajer Premium
+premimum_highlight,Anggo Pangatur Batré lengkep tanpa pariwara sareng anjeun gaduh aksés kana kustomisasi éksténsif antarbeungeut pangguna.
+design,Desain
+subjs,mata pelajaran
+genrally,Umumna
+temp_unit,Unit suhu
+oth_apps,Aplikasi séjén
+dat_protect,Perlindungan data
+thx_akku,Hatur nuhun pikeun ngadukung Akku Manager kalayan ngagaleuh versi premium.
+user_got_pre,Anjeun ayeuna gaduh aksés kana kustomisasi éksténsif antarbeungeut pangguna sareng pamakean tanpa iklan.
+exp_more,Anjeun tiasa ngaharepkeun langkung seueur fitur dina apdet hareup
+ap_optimiz,Optimasi aplikasi
+sys_bat_usage,Konsumsi batré sistem
+bat_usage_det,Rincian pamakean batre
+end_optiz,Optimasi tungtung
+abort,Ngagugurkeun
+break_up,pegat
+scn,pikeun nyeken
+scn_bgh,Kacaangan layar
+dact_wlan,Nonaktipkeun WLAN
+dact_save_batt,Nonaktipkeun pikeun ngahemat batré
+dact,Nonaktipkeun
+dact_ble,Nonaktipkeun bluetooth
+red_brigh,Ngurangan kacaangan
+bright_txt,Ngurangan kacaangan tampilan pikeun ngahemat batré
+to_reduce,Pikeun ngurangan
+dact_gps,Nonaktipkeun GPS
+appz_optimz,Aplikasi dioptimalkeun
+start_bat_check_det,Mimitian cek batré lengkep pikeun salawasna jadi di sisi aman
+act_eng_save,Aktipkeun mode hemat energi pikeun ngurangan pamakean batre
+remove_useless,Uninstall aplikasi anu henteu dianggo deui
+premium,Premium
+clear_mem,Ngabersihan mémori
+clear_mem_des,Sangkan smartphone Anjeun ngajalankeun gancang sarta lancar.
+clenaup,Bersihkeun
+rat,meunteun
+rat_free,Laju Manajer Batré haratis
+sendz,Ngirim
+elmn_found,Unsur kapanggih
+drumz,kendang
+status,Status
+end_akk_check,Mungkas cék batré
+bat_detlz,Rincian batré
+temp_checked,Suhu dipariksa
+cond_checked,Kaayaan batréna dipariksa
+checkz_start,Pamariksaan batré dimimitian
+plug_in,Dicolokkeun
+techz,Téknologi
+coldz,Tiis
+until,Dugi ka
+well,Muhun
+ovr_heat,Overheating
+ovr_load,Overload
+renam,diganti ngaranna
+not_def,teu dihartikeun
+chrgz,muatan
+full,Pinuh
+unloadz,Ngabongkar momotanana
+not_charge_unkn,teu boga muatan atawa kanyahoan
+usb,USB
+charger,carjer
+wless,nirkabel
+not_at_al,euweuh pisan
+uninstall,Uninstall
+update,Pikeun ngapdet
+setting,Setélan
+app,Aplikasi
+not_found,App teu kapanggih
+search,Pilarian aplikasi
+version_code,Kode Vérsi
+api_level,Tingkat API
+app_version,Vérsi App
+authorization,otorisasina
+open,pikeun muka
+play_store,Play Store
+control,kadali
+systemstandart,Standar sistem
+white,Bodas
+dark,Poek
+ocean,sagara
+black,Hideung
+dark_blue,Biru kolot
+excellent,alus teuing
+bad,Goréng
+battery_bad,Batré rada ruksak
+very_bad,Goreng pisan
+battery_damaged,Batré ruksak
+custom_mode,Modeu custom
+brightness,Caang
+automatic_brightness,Kacaangan otomatis
+normal,Biasa
+sound_modus,Modus sora
+tone_work,Sadayana Tones Gawé
+mute,Ngajempékeun
+call_note_mute,Telepon sareng bewara dijempékeun
+not_bother,Tong ngaganggu
+tones_vibration_mute,Pareuman nada sareng geter, iwal nada alarm
+sound,Sora
+music,musik
+notification,Bewara
+alarm,Alarem
+ultra_saving,Modeu hemat energi ultra
+edit,Pikeun ngédit
+disable_ultra_saving,Nonaktipkeun Ultra Energy Saving Mode
+min_remaining,mnt sésana
+hours,jam
+activted_ultra_saving,Modeu hemat energi ultra diaktipkeun
+charged_in,muatan dina
+min,min
+limit_power,Ngawatesan konsumsi kakuatan
+reduce_screen,Ngurangan kacaangan layar
+restrict_bg_act_explain,Ngawatesan kagiatan latar
+volatge_check,Tegangan dipariksa
+software_optimized,Parangkat lunak dioptimalkeun
+connect_charger,Sambungkeun carjer
+charger_removed,Charger tiasa dicabut
+power_consump_title,Konsumsi kakuatan
+srcn_bg_title,Kacaangan layar
+bg_al_activities,Latar kagiatan
+sftware,Parangkat lunak
+get_primium,Upami anjeun mésér vérsi premium, anjeun bakal nampi sadaya pungsi ayeuna sareng sadaya pungsi énggal di hareup.
+cuztomize_face,Kustomisasi tina panganteur pamaké
+comp_scheme,Tulis skéma warna Pangatur Batré anjeun tina sababaraha téma.
+bat_check_detail,cék batré lengkep
+check_cond_test,Anggo Pangatur Batré pikeun mariksa kaayaan batré anjeun pikeun salawasna aman.
+no_ads_yo,Taya iklan
+use_explain_noads,Anggo Pangatur Batré tanpa iklan
+act_energy_save,Aktipkeun modeu hemat energi ultra pikeun ningkatkeun umur batre dina kaayaan darurat.
+buy_title,Mésér Premium
+loc_title,Lokasi
+cap_title,kapasitas
+cap_remain,Kapasitas sésana
+sleepy,Saré
+sek,Detik-detik
+sing_min,Menit
+miniotes,Menit
+finish,Réngsé
+mobi_data,data mobile
+plz_rate,Punten evaluasi Manajer Batré di Play Store
+ur_data_cus,Naha urang tiasa teras-terasan ngagunakeun data anjeun pikeun ngaluyukeun pariwara pikeun anjeun?
+in_slep_mode,Dina mode sare
+in_use,Di pake
+with_curr_pow,Kalawan konsumsi kakuatan ayeuna
+rem_bat_life,Sésana umur batre
+qck_acc,Aksés gancang
+notif_txt,bewara
+notif_at,Bewara di
+chg_curr,Ngecas arus
+charge_perm,Ngecas kinerja
+maxi_charge_per,kinerja ngecas maksimum
+enb_notif,Aktipkeun bewara
+perm_send_notif,Pangatur Batré butuh idin pikeun ngirim béwara, éta kedah diaktipkeun dina setélan alat.
+to_set,Ka setélan
+title_autost,Aktipkeun Autostart
+auto_explain,Pangatur Batré meryogikeun idin pikeun tetep diaktipkeun dina latar tukang pikeun naroskeun status batré sareng ngirim béwara.
+sync_auto,Nyingkronkeun otomatis
+dis_auto_sync,Nonaktipkeun sinkronisasi otomatis sacara signifikan ngurangan wakelocks. Nanging, sababaraha pungsi sapertos nampi e-mail bakal leungit.
+chg_lim,Wates muatan
+avoid_ful_explain,Upami anjeun ngeusi batre anjeun maksimal atanapi ngaleupaskeun dugi ka pareum, kaayaan sareng umur batre bakal ngirangan. Di handap ieu Anjeun tiasa nyetel muatan minimum jeung maksimum atawa status ngurangan batré jeung anjeun bakal dibere beja unggal waktos nilai bangbarung ngahontal. Hindarkeun hiji pinuh ngeusi batre sareng ngaleupaskeun batré anjeun sareng manjangkeun umur batre.
+rec_notif,Teu nampi bewara?
+title_allow_bg_act,Ngidinan kagiatan latar
+allow_bg_act,Supados anjeun tiasa nganggo Pangatur Batré tanpa larangan tanpa ngahaja ditutup ku sistem operasi, anjeun panginten kedah mareuman pungsi khusus pikeun manajemén batré sareng panggunaan batré dina setélan. Kusabab rupa-rupa pabrik béda dina sebutan pilihan ieu gumantung kana sistem operasi anu dianggo. Di wewengkon Émbaran Aplikasi, dina Saré atawa Batré, pilih Taya Watesan atawa Ngidinan Kagiatan Latar.
+dev_usage,Pamakéan alat
+dep_sleep,Sare jero nyaéta kaayaan dimana alat anjeun nganggo jumlah batre pangsaeutikna. Durasi sare jero boga pangaruh positif kana hemat energi. Saré jero tiasa diganggu ku tugas latar tukang, anu nyababkeun batréna langkung gancang. Dina hal ieu, balikan deui alat Anjeun.
+title_bat_temp,Suhu batré
+bat_tempp,Suhu batré mangrupikeun salah sahiji faktor anu paling penting. Upami batréna dijaga gél dina suhu anu luhur, ieu mangaruhan umur jasa sareng kinerja batré. Lamun hawa naék, struktur internal batré bisa ruksak.
+rdc_brightness,Ngurangan kacaangan layar
+display_explain,Pintonan mangrupikeun salah sahiji komponén anu nyéépkeun seueur énergi. Ngurangan kacaangan maksimum mantuan ngurangan konsumsi sakabéh tur ngahontal tabungan noticeable. Saméméh ngurangan kacaangan, nonaktipkeun kacaangan otomatis jadi kacaangan teu robah teu perlu.
+tst_charge,Tés carjer
+best_way_test,Cara anu pangsaéna pikeun nguji carjer sareng kabel nyaéta ku mariksa laju ngecas nalika layar pareum. Laju ngecas sawaktos layar hurung sanes patokan anu sae sabab telepon anjeun ngonsumsi daya, anu nyababkeun turun naek. Colokkeun carjer, mareuman layar pikeun sababaraha menit, teras pariksa arus muatan maksimum.
+wait_title,Nungguan
+rfsh_rate,Laju nyegerkeun
+low_sizty,Nurunkeun laju refresh ka 60 Hz ningkatkeun umur batre.
+drk_mode,Mode poék
+acti_dark_mode,Aktipkeun Modeu Gelap, dina Modeu Gelap kirang konsumsi kakuatan
+actz,Aktipkeun
+poz,Kakuatan
+minz,Minimal
+avgo,Rata-rata
+mixi1,maksimal
+msg_dis,Suratna ngaleungit saatos 24 jam upami aya data anu cekap pikeun nampilkeun diagram sacara lengkep.
+no_enough,Teu cukup data pikeun nembongkeun
+log_graph,Dina sababaraha jam anjeun bakal nempo grafik di dieu nu bakal ngidinan Anjeun pikeun pariksa suhu batré, tegangan, amperage sarta tingkat leuwih 24 jam kaliwat.
+week,minggu
+buy_it,Meuli
+one_pur,fee hiji-waktos tina
+refun_pur,beuli bisa refunded dina 2 jam.
+each_month,Langganan otomatis-renews unggal bulan jeung terus ongkos per bulan. Langganan tiasa dibatalkeun iraha waé.
+mng_subs,ngatur langganan
+subsci,ngalanggan
+will_cost_week,Langganan otomatis-renews unggal minggu jeung terus ongkos per minggu. Langganan tiasa dibatalkeun iraha waé.
+lfllong,saumur hirup
+mthly,bulanan
+wkly,Mingguan
+hoto,Panas
+prm_ben_title,kauntungan premium
+sync_title,Singkronkeun
+dis_sync_inc,Nonaktipkeun singkronisasi bakal ningkatkeun umur batre ku henteu nyingkronkeun jasa di latar tukang
+time_out,Séép waktos
+dec_extend,Ngurangan waktos sateuacan tampilan dipareuman manjangkeun umur batre
+u_end_opti,Naha anjeun yakin rék ngeureunkeun prosés optimasi?
+no_why_perm,Taya idin
+bright_exp,Pangatur Batré merlukeun idin Robah setélan sistem pikeun ngurangan kacaangan layar atawa mareuman Bluetooth.
+tg_title,Miluan saluran Telegram!
+tg_text,Tetep ayeuna sareng apdet aplikasi, kéngingkeun ngawangun awal, sareng bantosan nguji fitur énggal. Nyarankeun ide anjeun, naroskeun patarosan sareng kéngingkeun jawaban langkung gancang
+join_tg,gabung
+curr_consumption,konsumsi ayeuna
+scrn_onn,layar hurung
+srcn_off,layar pareum
+mob_charg,Ngecas
+discha,Discharging
+activea,Aktip
+slpmode,Modeu sare
+chagingspeed,Laju Ngecas ayeuna
+dta_proxt,Perlindungan data
+governs,Kabijakan privasi ieu ngatur panggunaan aplikasi parangkat lunak Battery Manager pikeun alat sélulér anu diciptakeun ku Baxolino.
+info_u_provide,Inpormasi anu disayogikeun ku pangguna
+no_pass_per,Kami henteu masihan data pribadi ka pihak katilu. Nalika anjeun ngirim email ka kami, kami ngagaduhan alamat email anjeun, tapi kami ngan ukur nganggo éta pikeun ngabantosan anjeun dina aplikasi kami.
+info_auto_coll,Inpormasi dikumpulkeun sacara otomatis
+exp_admob_use,Kami nganggo Google Admob pikeun ngalayanan iklan. Pamakéan jasa ieu tunduk kana katangtuan panyalindungan data Google di https://www.google.com/policies/privacy/.
+we_real_time,Naha Manajer Batré ngumpulkeun inpormasi lokasi sacara real-time anu akurat tina alat?
+exp_loc_perm_man,Batré Manger ngan ukur mariksa naha lokasina diaktipkeun atanapi dinonaktipkeun, tapi henteu ngumpulkeun inpormasi anu tepat ngeunaan lokasi alat sélulér anjeun. Pungsi dumasar lokasi sapertos diatur sacara standar. Anjeun tiasa nganonaktipkeun atanapi ngaktipkeun deui pungsi ieu dina setélan alat anjeun masing-masing. Sateuacan atanapi saatos masang aplikasi, anjeun bakal ditaros - gumantung kana alat - naha anjeun langkung milih mareuman atanapi ngaktipkeun pungsi ieu. Kami ngan ukur tiasa ngumpulkeun data ngeunaan lokasi anjeun upami anjeun ngaktipkeun jasa lokasi sapertos kitu.
+chng,Parobahan
+pri_update_exp,Kabijakan privasi ieu tiasa diénggalan ti waktos ka waktos pikeun alesan naon waé. Kami bakal nginpokeun ka anjeun ngeunaan parobihan kana kabijakan privasi kami ku ngeposkeun kabijakan privasi anyar dina alamat wéb ieu sareng ngabéjaan anjeun liwat pesen dina aplikasi. Disarankeun yén anjeun rutin konsultasi Kabijakan Privasi ieu pikeun parobahan, sabab pamakéan terus dianggap persetujuan sadaya parobahan. Anjeun tiasa marios sajarah kawijakan ieu dina situs wéb ieu.
+contct,Kontak
+any_que,Upami anjeun gaduh patarosan ngeunaan panyalindungan data nalika nganggo aplikasi atanapi gaduh patarosan ngeunaan prakték kami, punten kirimkeun email ka baxolino.de@gmail.com
+mem_opti,Pangatur Batré peryogi aksés "memori" supados aplikasi tiasa diseken sareng dioptimalkeun. Anjeun tiasa nganonaktipkeun atanapi ngaktipkeun pungsi ieu dina setélan alat anjeun masing-masing. Sateuacan atanapi saatos masang aplikasi, anjeun bakal ditaros - gumantung kana alatna - naha anjeun langkung resep mareuman atanapi ngaktipkeun pungsi ieu.
+storg,Panyimpenan
+ble_set_acc,blue_set_perm,Battery Manager merlukeun aksés "Bluetooth setting access" supados tiasa dipariksa naha Bluetooth diaktipkeun atanapi dinonaktipkeun. Sareng pikeun ngaktipkeun atanapi nganonaktipkeun Bluetooth.
+ble_title,Bluetooth
+needz_del,Pangatur Batré ngabutuhkeun aksés "Nyuhunkeun ngahapus bungkusan" pikeun ngamimitian ngahapus pamasangan aplikasi. Aplikasi ngan bakal dipupus upami anjeun sacara eksplisit ngijinkeunana.
+deletion_pkg,Nyuhunkeun ngahapus bungkusan
+need_adnd,Pangatur Batré merlukeun aksés "Ulah Ganggu" pikeun ngaktipkeun atawa nganonaktipkeun modeu Ulah Ganggu.
+adnd,Aksés Ulah ganggu
+need_wlan_acc,Pangatur Batré merlukeun aksés ka "Kéngingkeun Sambungan WLAN" supados Pangatur Batré tiasa mariksa naha WLAN diaktipkeun atanapi dinonaktipkeun. Sareng pikeun ngaktipkeun atanapi nganonaktipkeun WLAN.
+wln_conn,Meunangkeun sambungan WLAN
+shop_bill_exp,Nalika anjeun balanja ngalangkungan Google Play In App Billing, Google masihan kami nagara tempat anjeun sareng kadang nagara bagian, kota, sareng kode pos, tapi sanés alamat lengkepna. Kami nganggo inpormasi ieu pikeun sasuai sareng peraturan pajak sareng akuntansi.
+pri_date,Nepi ka 02/21/2021
+how_to_stop,Anjeun tiasa ngeureunkeun sadaya koléksi inpormasi ku aplikasi ngan ukur ku ngahapus aplikasi. Anjeun tiasa nganggo prosés uninstall standar anu sayogi salaku bagian tina alat sélulér anjeun atanapi ngalangkungan pasar atanapi jaringan pikeun aplikasi sélulér.
+opt_out,Naon hak milih kuring?
+ur_permission,idin Anjeun
+accept_privacy,Ku ngagunakeun aplikasi éta, anjeun idin pikeun ngolah data anjeun sakumaha anu diatur dina kawijakan privasi ieu sareng sakumaha anu dirobih ku kami.

@@ -1,0 +1,347 @@
+title,Battery Manager Lite yakasiyana
+extend_life,Nzira yakanakisa yekuwedzera hupenyu hwebhatiri uye kukuchengetedza hutano inobva pane ruzivo uye tsvakiridzo yesainzi.
+measured,Nenzira yakajeka tinokuratidza chete iyo chaiyo yakayerwa data uye kuti inoverengerwa sei.
+healthy,Chengetedza bhatiri rako rine hutano
+double_battery,Kaviri hupenyu hwebhatiri rako nekusachaja bhatiri rako zvizere. Vesainzi vakaratidza izvi muongororo yavo.
+charge_limit,Tichishandisa chiziviso chedu chekuchaja, chiziviso chinotumirwa kana bhatiri rasvika pachikumbaridzo chakatsanangurwa nemushandisi.
+smart,Zvinowedzera kungwara zuva nezuva
+analyze,Kurebesa kwaunoshandisa Battery Manager Lite, tinowana zviri nani pakuongorora mabatiro ebhatiri rako.
+update_every_time,Iyo yasara kuyerwa kwehupenyu hwebhatiri inovandudzwa pese paunoshandisa kana kuchaja mudziyo wako.
+runtime,Ziva iyo chaiyo yekumhanyisa nguva yebhatiri rako
+discharge_cycle,Nguva imwe neimwe foni yako painotenderera kutenderera, fungidziro chaiyo yenguva yayo yekumhanya inogona kuyerwa.
+accurate_life,Shandisa Battery Manager Lite kuyera hupenyu hwebhatiri hwakakwana.
+no_exit,Usabude Battery Manager Lite!
+bg_require,Bhatiri Maneja Lite inoda sevhisi yekumashure kuunganidza nhamba dzebhatiri uye kuyera bhatiri kuchaji uye nguva yekuburitsa. Chishandiso chako chinogona kunge chiri kumisa sevhisi kana kusachitendera kuti chishande kana app yakavharwa. Kuti udzivise izvi, isu tine mhinduro yakanaka kwauri. Ingobaya pane link.
+man,Manual
+cali,Calibration
+polarity,Mune ino nhanho, iyo app inoona yekuchaja polarity uye dhizaini dhizaini yebhatiri rako.
+disch,Discharge
+ch_pol,Kuchaja polarity
+power_meter,Power mita
+unit_mesure,Chiyero chekuyera
+capacity,Battery Capacity
+wrong,Handizvo here?
+calib,Calibrate
+ye,Ehe
+no,Aihwa
+neg,Negative
+pos,Positive
+lunch,Tanga App
+manufac,Kugona maererano nemugadziri
+design_des,Iyo dhizaini dhizaini ndiyo chaiyo bhatiri huwandu, yakayerwa mumAh. Sezvo pasina nzira yepamutemo yekuona huwandu, kukosha kwakadzorerwa kunogona kunge kusina kunaka.
+correct_it,Kana iyo yakaratidzwa chiyero isina kunaka, ndapota igadzirise.
+cancel,Kanzura
+ok,Zvakanaka
+runtime,Battery Runtime
+wait,kumirira
+per_hr,Kushandiswa kwebhatiri paawa
+life_for,Battery hupenyu hwe
+battery_cond,Battery mamiriro
+bat_info,Battery ruzivo
+bat_cap,Battery simba
+bat_volt,Battery voltage
+bat_cur,Bhatiri ikozvino
+unit_mes,Chiyero chekuyera
+done,Ndapedza
+c_bat_temp,Current Battery Temperature
+min_bat_tem,Minimum Battery tembiricha
+mx_bat_tem,Maximum bhatiri tembiricha
+avg_bat_tem,Avhareji yekushisa kwebhatiri
+dig_last,Kuongororwa kwekupedzisira zvisati zvaitika
+rem_time,Nguva yasara
+volt,Voltage
+curr,Current
+status,Status
+run_time,Nguva yekumhanya
+currently,Parizvino
+avg,Avhareji
+minmal,Minimal
+maximal,Maximum
+tool,Zvishandiso
+rem_apps,Uninstall maapplication ausingachashandise kudzivirira maapplication kuti asashande zvisina basa uye kudhiza bhatiri rako
+uninst_apps,Uninstall Apps
+stat,Tanga
+act_eng_save,Shandisa simba rekuchengetedza simba kuderedza kushandiswa kwebhatiri
+pow_save,Power saving mode
+tempe,Tembiricha
+heal,Utano
+tips,Chengetedza Bhatiri rako riri mumamiriro akanaka nemazano uye mazano.
+recomm,Recommendations
+prem,Premium
+more_func,Mamwe mabasa ako. Tora premium, wana zvimwe.
+more,Zvimwe
+ur_cond_bat,Mamiriro ebhatiri ari
+ur_bat_life,Hupenyu hwebhatiri rako
+ur_bat_temp,Battery Temperature yako ndiyo
+wow,Excellent
+normal,Normal
+poor,Zvakaipa
+days,Mazuva
+mins,Maminitsi
+hrs,Maawa
+chging,Kuchaja
+ful,Full
+dis_chrg,Discharging
+unkn,Unknown
+too_lit,Yakanyanya shoma Battery Data
+car_any,Edza zvakadaro
+endz_,End
+dig_any,Kuti uwane zvirinani mhedzisiro yekuongorora, iyo app inoda kuongorora bhatiri rako kumashure. Ndapota tanga kuongororwa mushure memaawa makumi maviri nemana
+end_dig,Kugumisa kuongororwa
+quit_dig,Chokwadi Rega Diagnosis
+batty_temp,Kupisa kwebhatiri
+akku_manager,Akku Manager
+u_agree,Ne "START" unobvumirana nemirairo yekudzivirira data
+elemn_opti,Zvinhu zvinogona kugadziriswa
+looks_good,Zvese zvinotaridzika zvakanaka
+optimize_,Optimize
+toolz_,Zvishandiso
+akku_check,Akku Check
+ctrl_load,Controlled loading
+mng_apps,Manage apps
+infosm,Information
+tenzion,kunetsana
+electy,magetsi
+lvl,Level
+akku_man_premium,Akku Manager Premium
+premimum_highlight,Shandisa Bhatiri Maneja zvachose pasina kushambadza uye iwe unokwanisa kuwana iyo yakakura magadzirirwo emushandisi interface.
+design,Design
+subjs,zvidzidzo
+genrally,Kazhinji
+temp_unit,Tembiricha unit
+oth_apps,Mamwe Mapurogiramu
+dat_protect,Dziviriro yedata
+thx_akku,Ndatenda nekutsigira Akku Manager nekutenga kweiyo premium vhezheni.
+user_got_pre,Iwe zvino unokwanisa kuwana yakawedzera kugadzirisa kweiyo mushandisi interface uye kushandiswa pasina kushambadza.
+exp_more,Unogona kutarisira mamwe maficha mune ramangwana rekuvandudza
+ap_optimiz,App optimization
+sys_bat_usage,Kushandiswa kwebhatiri system
+bat_usage_det,Mashoko ekushandiswa kwebhatiri
+end_optiz,Kugumisa optimization
+abort,Abort
+break_up,kuparadzana
+scn,kuongorora
+scn_bgh,Screen kupenya
+dact_wlan,Deactivate WLAN
+dact_save_batt,Deactivate kuchengetedza bhatiri
+dact,Deactivate
+dact_ble,Deactivate bluetooth
+red_brigh,Deredza kupenya
+bright_txt,Deredza kupenya kwechiratidziro kuchengetedza bhatiri
+to_reduce,Kuderedza
+dact_gps,Deactivate GPS
+appz_optimz,Zvishandiso zvakagadziridzwa
+start_bat_check_det,Tanga yakadzama bhatiri cheki kuti ugare uri padivi rakachengeteka
+act_eng_save,Shandisa simba rekuchengetedza simba kuderedza kushandiswa kwebhatiri
+remove_useless,Bvisa mapurogiramu asingachashandiswi
+premium,Premium
+clear_mem,Chenesa ndangariro
+clear_mem_des,Kuti smartphone yako inomhanya nekukurumidza uye mushe.
+clenaup,Tsvaira
+rat,rating
+rat_free,Rate Bhatiri Maneja mahara
+sendz,Send
+elmn_found,Zvinhu zvakawanikwa
+drumz,Ngoma
+status,Status
+end_akk_check,Pedzisa bhatiri cheki
+bat_detlz,Battery details
+temp_checked,Tembiricha inotariswa
+cond_checked,Mamiriro ebhatiri anotariswa
+checkz_start,Kutarisa bhatiri kunotanga
+plug_in,Yakabairwa mukati
+techz,Vadivelu Comedy Technology
+coldz,Kutonhora
+until,Kusvikira
+well,Zvakanaka
+ovr_heat,Overheating
+ovr_load,Overload
+renam,renamed
+not_def,not defined
+chrgz,Charge
+full,Full
+unloadz,Kuburutsa
+not_charge_unkn,asina mhosva kana kuzivikanwa
+usb,USB
+charger,charger
+wless,wireless
+not_at_al,hapana zvachose
+uninstall,Uninstall
+update,To update
+setting,Settings
+app,Apps
+not_found,App haina kuwanikwa
+search,Tsvaga mapurogiramu
+version_code,Version Code
+api_level,API Level
+app_version,App Version
+authorization,mvumo
+open,kuvhura
+play_store,Play Store
+control,control
+systemstandart,Systemstandard
+white,Chena
+dark,Rima
+ocean,Ocean
+black,Nhema
+dark_blue,Rima Blue
+excellent,Excellent
+bad,Bad
+battery_bad,Bhatiri rakakuvadzwa zvishoma
+very_bad,Zvakaipa kwazvo
+battery_damaged,Bhatiri raparara
+custom_mode,Custom Mode
+brightness,Kupenya
+automatic_brightness,Otomatiki Kupenya
+normal,Normal
+sound_modus,Inzwi Modus
+tone_work,Matoni ese Anoshanda
+mute,Mute
+call_note_mute,Kufona uye zviziviso zvinonyaradzwa
+not_bother,Usazvinetse
+tones_vibration_mute,Dzima toni uye mavibrations, kunze kwematoni ealarm
+sound,Zvinonzwika
+music,music
+notification,Notification
+alarm,Alarm
+ultra_saving,Ultra simba rekuchengetedza maitiro
+edit,Kugadzirisa
+disable_ultra_saving,Dzima Ultra Energy Saving Mode
+min_remaining,min yasara
+hours,maawa
+activted_ultra_saving,Ultra simba rekuchengetedza modhi yakavhurwa
+charged_in,charged in
+min,min
+limit_power,Kuderedza kushandiswa kwesimba
+reduce_screen,Deredza kupenya kwescreen
+restrict_bg_act_explain,Dzora mabasa ekumashure
+volatge_check,Voltage inotariswa
+software_optimized,Software yakagadziridzwa
+connect_charger,Batanidza charger
+charger_removed,Charger inogona kubviswa
+power_consump_title,Simba rekushandisa
+srcn_bg_title,Screen kupenya
+bg_al_activities,Zviitwa zvemashure
+sftware,Software
+get_primium,Kana iwe ukatenga iyo premium vhezheni, iwe unowana ese azvino mabasa pamwe neayo mabasa matsva mune ramangwana.
+cuztomize_face,Customization yemushandisi interface
+comp_scheme,Gadzira yako Battery Manager color scheme kubva kwakasiyana madingindira.
+bat_check_detail,Detailed bhatiri cheki
+check_cond_test,Shandisa Bhatiri Maneja kutarisa mamiriro ebhatiri rako kuti ugare uri padivi rakachengeteka.
+no_ads_yo,Hapana kushambadza
+use_explain_noads,Shandisa Bhatiri Maneja pasina chero kushambadzira
+act_energy_save,Shandisa iyo yekupedzisira simba rekuchengetedza modhi kuti uwedzere hupenyu hwebhatiri munguva yenjodzi.
+buy_title,Tenga Premium
+loc_title,Nzvimbo
+cap_title,capacity
+cap_remain,Kusarira kugona
+sleepy,Rara
+sek,Sekondi
+sing_min,Mineti
+miniotes,Maminitsi
+finish,Yapera
+mobi_data,mobile data
+plz_rate,Ndokumbira utarise Battery Manager muPlay Store
+ur_data_cus,Tinogona here kuenderera mberi nekushandisa data rako kugadzirisa zviziviso zvako?
+in_slep_mode,In sleep mode
+in_use,Mukushandisa
+with_curr_pow,Nekushandiswa kwesimba ikozvino
+rem_bat_life,Hupenyu hwebhatiri hwasara
+qck_acc,Kukurumidza kuwana
+notif_txt,notification
+notif_at,Notify at
+chg_curr,Charge current
+charge_perm,Kuchaja kuita
+maxi_charge_per,Maximum kuchaja kuita
+enb_notif,Vhura chiziviso
+perm_send_notif,Battery Maneja inoda mvumo yekutumira chiziviso, inofanirwa kuvhurwa mumaseting emudziyo.
+to_set,Kuzvirongwa
+title_autost,Activate Autostart
+auto_explain,Battery Manager inoda mvumo kuti irambe yakabatidzwa kumashure kuitira kubvunza mamiriro ebhatiri uye kutumira chiziviso.
+sync_auto,Batanidza otomatiki
+dis_auto_sync,Kudzima otomatiki kuwiriranisa kunoderedza zvakanyanya wakelocks. Zvisinei, mamwe mabasa akadai sekutambira e-mail anorasika.
+chg_lim,Charge Limit
+avoid_ful_explain,Kana iwe ukachaja bhatiri yako kusvika pakakwirira kana kuibvisa kusvikira yadzimwa, mamiriro uye hupenyu hwebasa hwebheteri huchaderedzwa. Mune zvinotevera iwe unogona kuseta hushoma uye huwandu hwechaji kana kuburitsa mamiriro ebhatiri uye iwe unozoziviswa nguva yega yega kukosha kwechikumbaridzo kwasvika. Dzivisa imwe yakazara yakazara uye bvisa bhatiri rako uye uwedzere hupenyu hwebhatiri.
+rec_notif,Hauna kugamuchira chiziviso?
+title_allow_bg_act,Bvumira chiitiko chekumashure
+allow_bg_act,Kuti iwe ugone kushandisa Bhatiri Maneja pasina zvirambidzo pasina kuvharwa nekusaziva neiyo inoshanda sisitimu, ungangofanira kudzima akakosha mabasa ekutarisira bhatiri uye kushandiswa kwebhatiri muzvirongwa. Nekuti vagadziri vakasiyana-siyana vanosiyana mukusarudzwa kwezvisarudzo izvi zvichienderana nehurongwa hwekushandisa hunoshandiswa. Munzvimbo yeRuzivo rweApp, pasi peKurara kana Bhatiri, sarudza Hapana Zvirambidzo kana Bvumira Chiitiko Chekumashure.
+dev_usage,Kushandiswa kwemudziyo
+dep_sleep,Kurara kwakadzama inzvimbo iyo mudziyo wako uri kushandisa hushoma huwandu hwebhatiri. Nguva yehope huru ine simba rakanaka pakuchengetedza simba. Kurara kwakadzika kunogona kukanganiswa nemabasa ekumashure, izvo zvinoita kuti bhatiri ribude nekukurumidza. Muchiitiko ichi, tangazve mudziyo wako.
+title_bat_temp,Kupisa kwebhatiri
+bat_tempp,Kupisa kwebhatiri ndechimwe chezvinhu zvakakosha. Kana bhatiri ichichengetwa gel pakupisa kwakanyanya, izvi zvinokanganisa hupenyu hwesevhisi uye kushanda kwebhatiri. Kana kutonhora kuchikwira, chimiro chemukati chebheteri chinogona kukuvadzwa.
+rdc_brightness,Deredza kupenya kwescreen
+display_explain,Chiratidziro chimwe chezvikamu zvinopedza simba rakawanda. Kuderedza kupenya kwakanyanya kunobatsira kuderedza kushandiswa kwese uye kuwana mari inooneka. Usati waderedza kupenya, dzima kupenya kwe otomatiki kuitira kuti kupenya kurege kuchinjwa zvisina basa.
+tst_charge,Test charger
+best_way_test,Nzira yakanakisa yekuyedza charger netambo ndeyekutarisa kumhanya kwekuchaja iyo skrini yakavharwa. Iko kumhanya kwekuchaja kana skrini yakabatidzwa haisi bhenji yakanaka nekuti foni yako iri kushandisa simba, izvo zvinokonzeresa kuchinja. Batanidza charger, dzima skrini kwemaminetsi mashoma, wobva watarisa iyo yakanyanya kuchaja ikozvino.
+wait_title,Kumirira
+rfsh_rate,Refresh rate
+low_sizty,Kudzikisa mwero wekuzorodza kusvika ku60 Hz kunovandudza hupenyu hwebhatiri.
+drk_mode,Rima Mode
+acti_dark_mode,Activate Rima Mode, muRima Mode simba shoma rinopedzwa
+actz,Activate
+poz,Simba
+minz,Minimum
+avgo,Avhareji
+mixi1,Maximum
+msg_dis,Iyo meseji inonyangarika mushure meawa makumi maviri nemana kana paine data yakakwana kuratidza dhizaini zvizere.
+no_enough,Hapana data yakakwana yekuratidzwa
+log_graph,Mumaawa mashoma iwe uchaona girafu pano iro rinokubvumidza kuti utarise tembiricha yebhatiri, voltage, amperage uye nhanho mumaawa makumi maviri nemana apfuura.
+week,vhiki
+buy_it,Buy
+one_pur,Imwe-nguva muripo we
+refun_pur,kutenga kunogona kudzorerwa mukati maawa maviri.
+each_month,Iko kunyoreswa kunovandudzwa mwedzi wega wega uye kunoramba kuchidhura pamwedzi. Kunyoresa kunogona kukanzurwa chero nguva.
+mng_subs,maneja kunyoreswa
+subsci,nyoresa
+will_cost_week,Kunyoresa kunovandudzwa svondo rega rega uye kunoramba kuchidhura pasvondo. Kunyoresa kunogona kukanzurwa chero nguva.
+lfllong,kweupenyu hwose
+mthly,pamwedzi
+wkly,Weekly
+hoto,Sravana Sameeralu Serial 4th Hot
+prm_ben_title,Premium mabhenefiti
+sync_title,Synchronize
+dis_sync_inc,Kudzima kuwiriranisa kuchawedzera hupenyu hwebhatiri nekusawiriranisa masevhisi kumashure
+time_out,Nguva yapera
+dec_extend,Kuderedza nguva chiratidziro chisati chadzima kunowedzera hupenyu hwebhatiri
+u_end_opti,Une chokwadi chekuti unoda kugumisa maitiro ekugadzirisa?
+no_why_perm,Hapana mvumo
+bright_exp,Bhatiri Maneja anoda Chinja masisitimu mvumo yekudzikisa kupenya kwescreen kana kudzima Bluetooth.
+tg_title,Joinha Telegraph chiteshi!
+tg_text,Gara uripo nezvinovandudzwa zveapp, kurumidza kuvaka, uye ubatsire kuyedza maficha matsva. Ratidza pfungwa dzako, bvunza mibvunzo uye uwane mhinduro nekukurumidza
+join_tg,join
+curr_consumption,kushandiswa kwemazuva ano
+scrn_onn,skrini pa
+srcn_off,skrini yakadzimwa
+mob_charg,Kuchaja
+discha,Discharging
+activea,Active
+slpmode,Kurara mode
+chagingspeed,Ikozvino Kuchaja kumhanya
+dta_proxt,Dziviriro yedata
+governs,Iyi yekuvanzika mutemo inotonga mashandisiro ako eBattery Manager software application yenharembozha yakagadzirwa naBaxolino.
+info_u_provide,Ruzivo rwunopihwa nemushandisi
+no_pass_per,Isu hatisi kupfuudza data rako pachako kune wechitatu mapato. Kana iwe ukatitumira email, isu tine yako email kero, asi isu tinongoshandisa iyo kukubatsira iwe nemaapps edu.
+info_auto_coll,Mashoko anounganidzwa otomatiki
+exp_admob_use,Isu tinoshandisa Google Admob kushambadza ads. Kushandiswa kwemasevhisi aya kunoenderana nezvinodiwa neGoogle kuchengetedza data pa https://www.google.com/policies/privacy/.
+we_real_time,Ko Battery Maneja anounganidza chaiyo-nguva-chaiyo nzvimbo ruzivo kubva kune mudziyo?
+exp_loc_perm_man,Battery Manger inongotarisa kuti nzvimbo yacho yakabatiswa here kana kuti yakavharwa, asi haiunganidze chero ruzivo rwakakwana nezvenzvimbo yenharembozha yako. Mabasa akadaro enzvimbo-akavakirwa anoiswa nekusarudzika. Iwe unogona kudzima kana kudzoreredza aya mabasa muzvirongwa zvechishandiso chako. Usati waisa kana mushure mekuisa maapplication, unozobvunzwa - zvichienderana nechishandiso - kuti ungade kudzima kana kumisa mabasa aya. Isu tinokwanisa chete kuunganidza data nezve nzvimbo yako kana iwe ukamisa akadai masevhisi enzvimbo.
+chng,Kuchinja
+pri_update_exp,Iyi yekuvanzika mutemo inogona kuvandudzwa nguva nenguva nekuda kwechikonzero chero chipi. Isu tichakuzivisa nezve shanduko kumutemo wedu wekuvanzika nekuisa iyo nyowani yekuvanzika mutemo pane ino kero yewebhu uye kukuzivisa iwe nemeseji muapp. Zvinokurudzirwa kuti ugare uchibvunza iyi Yakavanzika Policy yekuchinja, sezvo kuramba uchishandiswa kunoonekwa sekubvumidzwa kwese shanduko. Iwe unogona kuongorora nhoroondo yeiyi mutemo pane ino webhusaiti.
+contct,Contact
+any_que,Kana iwe uine chero mibvunzo nezve kuchengetedzwa kwedata paunenge uchishandisa chishandiso kana uine mibvunzo nezve maitiro edu, ndapota tumira email kune baxolino.de@gmail.com
+mem_opti,Bhatiri Maneja anoda iyo "memory" yekuwana kuitira kuti maapplication anogona kutariswa uye kugadziridzwa. Iwe unogona kudzima kana kumisa mabasa aya muzvirongwa zvechishandiso chako. Usati waisa kana mushure mekuisa iyo app, iwe unozobvunzwa - zvichienderana nechishandiso - kuti ungade kudzima kana kumisa mabasa aya.
+storg,Storage
+ble_set_acc,blue_set_perm, Bhatiri Maneja inoda kuwana "Bluetooth kuseta yekupinda" kuitira kuti itariswe kuti Bluetooth yakamiswa here kana kuti yakadzima. Uye kumisa kana kudzima Bluetooth.
+ble_title,Bluetooth
+needz_del,Bhatiri Maneja anoda kuwana "Chikumbiro kudzima mapakeji" kuti utange kubviswa kweapp. Iyo app inongobviswa chete kana iwe uchiibvumira zvakajeka.
+deletion_pkg,Kumbira kudzimwa mapakeji
+need_adnd,Bhatiri Maneja anoda "Usavhiringidze" kuwana kugonesa kana kudzima Usakanganisa maitiro.
+adnd,Svika Usakanganisa
+need_wlan_acc,Battery Manager inoda kuwana "Tora WLAN Connections" kuitira kuti Battery Manager atarise kuti WLAN yakabatidzwa here kana kuti yakadzima. Uye kumisa kana kudzima WLAN.
+wln_conn,Tora zvibatanidzo zveWLAN
+shop_bill_exp,Paunotenga kuburikidza neGoogle Play MuApp Billing, Google inotipa nyika yako yaunogara uye dzimwe nguva dunhu, guta, uye zip code, asi isingamboiti kero yakazara. Isu tinoshandisa ruzivo urwu kutevedzera mutero uye accounting mitemo.
+pri_date,Kubva 02/21/2021
+how_to_stop,Iwe unogona kumisa kuunganidzwa kwese kweruzivo nechishandiso nekungobvisa iyo application. Iwe unogona kushandisa akajairwa uninstall maitiro anowanikwa sechikamu chenharembozha yako kana kuburikidza nemusika kana network yemafoni ekushandisa.
+opt_out,Ndedzipi kodzero dzangu dzekubuda?
+ur_permission,mvumo yako
+accept_privacy,Nekushandisa iyo application, unobvuma kugadziridzwa kwedu kwedata rako sezviri mugwaro rekuvanzika uye sezvakagadziridzwa nesu.

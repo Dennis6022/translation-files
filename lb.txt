@@ -1,0 +1,347 @@
+title,Battery Manager Lite ass anescht
+extend_life,De beschte Wee fir d'Batteriedauer ze verlängeren an Iech gesond ze halen baséiert op Erfahrung a wëssenschaftlecher Fuerschung.
+measured,Op eng transparent Manéier weisen mir Iech nëmmen déi tatsächlech gemoossene Donnéeën a wéi se berechent ginn.
+healthy,Halt Är Batterie gesond
+double_battery,Verduebelt Är Batterieleszäit andeems Dir Är Batterie net voll laden. Wëssenschaftler hunn dat an hirer Fuerschung bewisen.
+charge_limit,Mat eiser Chargelimit Notifikatioun gëtt eng Notifikatioun geschéckt wann d'Batterie e Benotzerdefinéierte Schwell erreecht.
+smart,Et gëtt all Dag méi clever
+analyze,Wat méi laang Dir Battery Manager Lite benotzt, dest besser kënne mir d'Performance vun Ärer Batterie analyséieren.
+update_every_time,Déi verbleiwen Batterie Liewensmessung gëtt aktualiséiert all Kéier wann Dir Ären Apparat benotzt oder gelueden.
+runtime,Entdeckt déi aktuell Runtime vun Ärer Batterie
+discharge_cycle,All Kéier wann Ären Telefon duerch en Entladungszyklus geet, kann eng genee Schätzung vu senger Runtime gemooss ginn.
+accurate_life,Benotzt Battery Manager Lite fir genau Batterieliewen ze moossen.
+no_exit,Gitt de Battery Manager Lite net aus!
+bg_require,Battery Manager Lite erfuerdert en Hannergrondservice fir Batteriestatistiken ze sammelen an d'Batterieladung an d'Entladungszäit ze moossen. Ären Apparat stoppt wahrscheinlech de Service oder erlaabt et net ze lafen wann d'App zou ass. Fir dëst ze vermeiden, hu mir eng gutt Léisung fir Iech. Klickt einfach op de Link.
+man,Manuell
+cali,Eechung
+polarity,An dësem Schrëtt erkennt d'App d'Ladepolaritéit an d'Designkapazitéit vun Ärer Batterie.
+disch,Entladung
+ch_pol,Laden Polaritéit
+power_meter,Power Meter
+unit_mesure,Moosseenheet
+capacity,Batterie Kapazitéit
+wrong,Net richteg?
+calib,Kalibréieren
+ye,Jo
+no,Nee
+neg,Negativ
+pos,Positiv
+lunch,App starten
+manufac,Kapazitéit no Fabrikant beschwéiert
+design_des,D'Designkapazitéit ass déi aktuell Batteriekapazitéit, gemooss a mAh. Well et keen offiziellen Wee ass fir d'Kapazitéit ze bestëmmen, kann de Wäert zréckginn falsch sinn.
+correct_it,Wann déi ugewisen Kapazitéit net korrekt ass, korrigéiert se w.e.g.
+cancel,Ofbriechen
+ok,Okay
+runtime,Batterie Runtime
+wait,waarden
+per_hr,Batterie Konsum pro Stonn
+life_for,Batterie Liewen fir
+battery_cond,Batterie Zoustand
+bat_info,Batterie Informatiounen
+bat_cap,Batterie Kapazitéit
+bat_volt,Batterie Volt
+bat_cur,Batterie aktuell
+unit_mes,Moosseenheet
+done,Gemaach
+c_bat_temp,Aktuell Batterie Temperatur
+min_bat_tem,Minimum Batterie Temperatur
+mx_bat_tem,Maximal Batterie Temperatur
+avg_bat_tem,Duerchschnëtt Batterie Temperatur
+dig_last,Déi lescht Diagnos virun
+rem_time,Rescht Zäit
+volt,Stroumspannung
+curr,Aktuell
+status,Status
+run_time,Lafen Zäit
+currently,Momentan
+avg,Duerchschnëtt
+minmal,Minimal
+maximal,Maximum
+tool,Tools
+rem_apps,Uninstall Apps déi Dir net méi benotzt fir ze verhënneren datt Apps onnéideg lafen an Är Batterie drainéieren
+uninst_apps,Uninstall Apps
+stat,Start
+act_eng_save,Aktivéiert den Energiespuermodus fir d'Batterieverbrauch ze reduzéieren
+pow_save,Energiespuermodus
+tempe,Temperatur
+heal,Gesondheet
+tips,Halt Är Batterie a guddem Zoustand mat Tipps an Tricks.
+recomm,Recommandatiounen
+prem,Premium
+more_func,Méi Funktiounen fir Iech. Kritt Premium, kritt méi.
+more,Méi
+ur_cond_bat,Batterie Zoustand ass
+ur_bat_life,Är Batterie Liewen ass
+ur_bat_temp,Är Batterie Temperatur ass
+wow,exzellent
+normal,Normal
+poor,Schlecht
+days,Deeg
+mins,Minutt
+hrs,Stonnen
+chging,Opluedstatiounen
+ful,Voll
+dis_chrg,Entladung
+unkn,Onbekannt
+too_lit,Ze wéineg Batterie Daten
+car_any,Souwisou ausféieren
+endz_,Enn
+dig_any,Fir besser diagnostesch Resultater ze kréien, muss d'App Är Batterie am Hannergrond analyséieren. Fänkt w.e.g. d'Diagnos no 24 Stonnen un
+end_dig,Enn Diagnos
+quit_dig,Wierklech ophalen Diagnos
+batty_temp,Batterie Temperatur
+akku_manager,Akku Manager
+u_agree,Mat "START" averstanen Dir d'Dateschutzreglementer
+elemn_opti,Elementer kënnen optimiséiert ginn
+looks_good,Alles gesäit gutt aus
+optimize_,Optimiséieren
+toolz_,Tools
+akku_check,Akku Check
+ctrl_load,Kontrolléiert Luede
+mng_apps,Verwalten Apps
+infosm,Informatiounen
+tenzion,Spannung
+electy,Stroum
+lvl,Niveau
+akku_man_premium,Akku Manager Premium
+premimum_highlight,Benotzt de Battery Manager komplett ouni Reklammen an Dir hutt Zougang zu der extensiv Personnalisatioun vun der User-Interface.
+design,Design
+subjs,Sujeten
+genrally,Allgemeng
+temp_unit,Temperatur Eenheet
+oth_apps,Aner Apps
+dat_protect,Dateschutz
+thx_akku,Merci fir Ënnerstëtzung Akku Manager mam Kaf vun der Premium Versioun.
+user_got_pre,Dir hutt elo Zougang zu extensiv Personnalisatioun vun der User-Interface a Gebrauch ouni Reklammen.
+exp_more,Dir kënnt méi Features an zukünfteg Updates erwaarden
+ap_optimiz,App Optimisatioun
+sys_bat_usage,System Batterie Konsum
+bat_usage_det,Batterie Notzung Detailer
+end_optiz,Enn Optimisatioun
+abort,Ofbriechen
+break_up,sech trennen
+scn,ze scannen
+scn_bgh,Écran Hellegkeet
+dact_wlan,WLAN deaktivéieren
+dact_save_batt,Desaktivéiere fir Batterie ze spueren
+dact,Deaktivéieren
+dact_ble,Bluetooth deaktivéieren
+red_brigh,Hellegkeet reduzéieren
+bright_txt,Reduzéiert d'Hellegkeet vum Display fir Batterie ze spueren
+to_reduce,Ze reduzéieren
+dact_gps,GPS deaktivéieren
+appz_optimz,Apps optimiséiert
+start_bat_check_det,Start eng detailléiert Batteriekontroll fir ëmmer op der sécherer Säit ze sinn
+act_eng_save,Aktivéiert Energiespuermodus fir Batterieverbrauch ze reduzéieren
+remove_useless,Uninstall Apps déi net méi benotzt ginn
+premium,Premium
+clear_mem,Botzen Erënnerung
+clear_mem_des,Sou datt Äre Smartphone séier a glat leeft.
+clenaup,Botzen
+rat,Bewäertung
+rat_free,Bewäert Batterie Manager gratis
+sendz,Schécken
+elmn_found,Elementer fonnt
+drumz,Drums
+status,Status
+end_akk_check,Enn Batterie kontrolléieren
+bat_detlz,Batterie Detailer
+temp_checked,D'Temperatur gëtt iwwerpréift
+cond_checked,Den Zoustand vun der Batterie gëtt iwwerpréift
+checkz_start,Batterie Kontroll fänkt un
+plug_in,Agestach
+techz,Technologie
+coldz,Keelt
+until,Bis
+well,Gutt
+ovr_heat,Iwwerhëtzung
+ovr_load,Iwwerlaascht
+renam,ëmbenannt
+not_def,net definéiert
+chrgz,Charge
+full,Voll
+unloadz,Ausluede
+not_charge_unkn,net gelueden oder onbekannt
+usb,USB
+charger,Chargeur
+wless,drahtlos
+not_at_al,guer näischt
+uninstall,Uninstalléieren
+update,Fir ze aktualiséieren
+setting,Astellungen
+app,Apps
+not_found,App net fonnt
+search,Sich Apps
+version_code,Versioun Code
+api_level,API Niveau
+app_version,App Versioun
+authorization,Autorisatioun
+open,op maachen
+play_store,Spill Store
+control,kontrolléieren
+systemstandart,Systemstandard
+white,Wäiss
+dark,Däischter
+ocean,Ozean
+black,Schwaarz
+dark_blue,Donkelblo
+excellent,exzellent
+bad,Schlecht
+battery_bad,Batterie ass liicht beschiedegt
+very_bad,Ganz schlecht
+battery_damaged,D'Batterie ass beschiedegt
+custom_mode,Benotzerdefinéiert Modus
+brightness,Hellegkeet
+automatic_brightness,Automatesch Hellegkeet
+normal,Normal
+sound_modus,Sound Modus
+tone_work,All Téin Aarbecht
+mute,Mute
+call_note_mute,Uriff an Notifikatiounen sinn gedämpft
+not_bother,Vergiess et
+tones_vibration_mute,Schalt Téin a Schwéngungen aus, ausser Alarmtéin
+sound,Kläng
+music,Musek
+notification,Notifikatioun
+alarm,Alarm
+ultra_saving,Ultra Energiespuermodus
+edit,Fir ze änneren
+disable_ultra_saving,Desaktivéiere Ultra Energiespuermodus
+min_remaining,min rest
+hours,Stonnen
+activted_ultra_saving,Ultra Energiespuermodus ass aktivéiert
+charged_in,agelueden
+min,min
+limit_power,Limitéiert Stroumverbrauch
+reduce_screen,Reduzéieren Écran Hellegkeet
+restrict_bg_act_explain,Beschränken Hannergrond Aktivitéiten
+volatge_check,Spannung gëtt iwwerpréift
+software_optimized,Software ass optimiséiert
+connect_charger,Connect Chargeur
+charger_removed,Chargeur kann ewechgeholl ginn
+power_consump_title,Stroumverbrauch
+srcn_bg_title,Écran Hellegkeet
+bg_al_activities,Hannergrond Aktivitéiten
+sftware,Software
+get_primium,Wann Dir d'Premium Versioun kaaft, kritt Dir an Zukunft all aktuell Funktiounen souwéi all nei Funktiounen.
+cuztomize_face,Personnalisatioun vun der User Interface
+comp_scheme,Komponéiert Äre Battery Manager Faarfschema aus enger Vielfalt vun Themen.
+bat_check_detail,Detailléiert Batterie kontrolléieren
+check_cond_test,Benotzt de Battery Manager fir den Zoustand vun Ärer Batterie ze kontrolléieren fir ëmmer op der sécherer Säit ze sinn.
+no_ads_yo,Keng Reklammen
+use_explain_noads,Benotzt Batterie Manager ouni Reklammen
+act_energy_save,Aktivéiert den Ultra Energiespuermodus fir d'Batteriedauer an engem Noutfall ze erhéijen.
+buy_title,Kafen Premium
+loc_title,Location
+cap_title,Kapazitéit
+cap_remain,Rescht Kapazitéit
+sleepy,Schlof
+sek,Sekonnen
+sing_min,Minutt
+miniotes,Minutt
+finish,Fäerdeg
+mobi_data,mobil Daten
+plz_rate,Bewäert w.e.g. de Battery Manager am Play Store
+ur_data_cus,Kënne mir weider Är Donnéeën benotzen fir Annoncen fir Iech ze personaliséieren?
+in_slep_mode,Am Schlofmodus
+in_use,Am Gebrauch
+with_curr_pow,Mat aktuellen Stroumverbrauch
+rem_bat_life,Rescht Batterie Liewen
+qck_acc,Schnell Zougang
+notif_txt,Notifikatioun
+notif_at,Bescheed um
+chg_curr,Ladestroum
+charge_perm,Opluedstatiounen Leeschtung
+maxi_charge_per,Maximal Opluedstatiounen Leeschtung
+enb_notif,Notifikatioun aktivéieren
+perm_send_notif,Battery Manager erfuerdert Erlaabnis fir eng Notifikatioun ze schécken, et muss an den Astellunge vum Apparat aktivéiert ginn.
+to_set,Zu den Astellungen
+title_autost,Aktivéiert Autostart
+auto_explain,Battery Manager erfuerdert Erlaabnis fir am Hannergrond aktivéiert ze bleiwen fir de Batteriestatus ze froen an eng Notifikatioun ze schécken.
+sync_auto,Synchroniséiert automatesch
+dis_auto_sync,Automatesch Synchroniséierung auszeschalten reduzéiert Wakelocks wesentlech. Wéi och ëmmer, e puer Funktiounen wéi E-Mail kréien, ginn verluer.
+chg_lim,Charge Limit
+avoid_ful_explain,Wann Dir Är Batterie maximal opluet oder se entlooss bis se ausgeschalt gëtt, gëtt den Zoustand an d'Liewensdauer vun der Batterie reduzéiert. An der folgender kënnt Dir de Minimum a Maximum Lade- oder Entladungsstatus vun der Batterie astellen an Dir kritt all Kéier wann de Schwellwäert erreecht gëtt. Vermeit eng voll Ladung an entlooss Är Batterie a verlängert d'Liewen vun der Batterie.
+rec_notif,Keng Notifikatioun kritt?
+title_allow_bg_act,Erlaabt Hannergrondaktivitéit
+allow_bg_act,Fir datt Dir de Battery Manager ouni Aschränkungen benotze kënnt ouni datt en onbewosst vum Betribssystem zougemaach gëtt, musst Dir vläicht speziell Funktiounen fir Batteriemanagement a Batterieverbrauch an den Astellungen ausschalten. Well déi verschidde Hiersteller ënnerscheeden sech an der Bezeechnung vun dësen Optiounen ofhängeg vum benotzte Betribssystem. Am App Informatiounsberäich, ënner Schlof oder Batterie, wielt Keng Restriktiounen oder Erlaabt Hannergrondaktivitéit.
+dev_usage,Apparat Benotzung
+dep_sleep,Deep Sleep ass e Staat an deem Ären Apparat déi mannst Batterie benotzt. D'Dauer vum déiwe Schlof huet e positiven Effekt op d'Energiespueren. Den déiwe Schlof kann duerch Hannergrondaufgaben ënnerbrach ginn, wat d'Batterie méi séier entléisst. An dësem Fall, Reouverture Ärem Apparat.
+title_bat_temp,Batterie Temperatur
+bat_tempp,D'Batterietemperatur ass ee vun de wichtegste Faktoren. Wann d'Batterie Gel bei héijen Temperaturen gehal gëtt, beaflosst dëst souwuel d'Liewensdauer an d'Leeschtung vun der Batterie. Wann d'Temperatur eropgeet, kann d'intern Struktur vun der Batterie beschiedegt ginn.
+rdc_brightness,Reduzéieren Écran Hellegkeet
+display_explain,Den Ecran ass ee vun de Komponenten déi de gréissten Deel vun der Energie verbrauchen. D'Reduktioun vun der maximaler Hellegkeet hëlleft de Gesamtverbrauch ze reduzéieren an e merkbare Spuer z'erreechen. Ier Dir d'Hellegkeet reduzéiert, deaktivéiert d'automatesch Hellegkeet fir datt d'Hellegkeet net onnéideg geännert gëtt.
+tst_charge,Test Chargeur
+best_way_test,De beschte Wee fir de Ladegeräter an de Kabel ze testen ass andeems Dir d'Ladegeschwindegkeet mam Bildschierm ausschalt. D'Ladegeschwindegkeet wann den Écran op ass ass net e gudde Benchmark well Ären Telefon Kraaft verbraucht, wat Schwankungen verursaacht. Plug am Ladegeräter, schalt den Ecran fir e puer Minutten aus, a kontrolléiert dann de maximale Ladestroum.
+wait_title,Waarden
+rfsh_rate,Erfrëschungsrate
+low_sizty,Ofsenkung vun der Erfrëschungsrate op 60 Hz verbessert d'Batteriedauer.
+drk_mode,Däischter Modus
+acti_dark_mode,Aktivéiert Dark Mode, am Dark Mode manner Kraaft verbraucht
+actz,Aktivéieren
+poz,Muecht
+minz,Minimum
+avgo,Duerchschnëtt
+mixi1,Maximum
+msg_dis,De Message verschwënnt no 24 Stonnen wann et genuch Donnéeën ass fir den Diagramm voll ze weisen.
+no_enough,Net genuch Daten fir ze weisen
+log_graph,An e puer Stonnen gesitt Dir hei eng Grafik déi Iech erlaabt d'Batterietemperatur, Spannung, Amperage an Niveau an de leschten 24 Stonnen ze kontrolléieren.
+week,Woch
+buy_it,Kafen
+one_pur,Eemol dossier vun
+refun_pur,de Kaf kann bannent 2 Stonnen rembourséiert ginn.
+each_month,Den Abonnement erneiert all Mount automatesch a kascht weider pro Mount. Den Abonnement kann zu all Moment annuléiert ginn.
+mng_subs,verwalten Abonnement
+subsci,abonnéieren
+will_cost_week,Abonnement automatesch erneiert all Woch a kascht weider pro Woch. Den Abonnement kann zu all Moment annuléiert ginn.
+lfllong,liewenslaang
+mthly,monatlecht
+wkly,Wochemaart
+hoto,Hot
+prm_ben_title,Premium Virdeeler
+sync_title,Synchroniséiert
+dis_sync_inc,D'Synchroniséierung auszeschalten wäert d'Batteriedauer erhéijen andeems d'Servicer am Hannergrond net synchroniséiert ginn
+time_out,Äuszäit
+dec_extend,Ofsenkung vun der Zäit ier den Ecran ausschalt, verlängert d'Batteriedauer
+u_end_opti,Sidd Dir sécher datt Dir den Optimisatiounsprozess ofschléissen wëllt?
+no_why_perm,Keng Erlaabnis
+bright_exp,Battery Manager erfuerdert d'Erlaabnes fir d'Systemastellung z'änneren fir d'Hellegkeet vum Écran ze reduzéieren oder de Bluetooth auszeschalten.
+tg_title,Maacht mat beim Telegram Kanal!
+tg_text,Bleift aktuell mat Appupdates, kritt fréi Builds, an hëlleft nei Features ze testen. Proposéiert Är Iddien, stellt Froen a kritt Äntwerten méi séier
+join_tg,matmaachen
+curr_consumption,aktuellen Konsum
+scrn_onn,Écran op
+srcn_off,Écran aus
+mob_charg,Opluedstatiounen
+discha,Entladung
+activea,Aktiv
+slpmode,Schlofmodus
+chagingspeed,Aktuell Opluedgeschwindegkeet
+dta_proxt,Dateschutz
+governs,Dës Dateschutzpolitik regéiert Är Notzung vun der Battery Manager Software Applikatioun fir mobilen Apparater erstallt vu Baxolino.
+info_u_provide,Informatioun vum Benotzer gëtt
+no_pass_per,Mir ginn net perséinlech Daten un Drëttubidder weider. Wann Dir eis E-Mail schécken, hu mir Är E-Mailadress, awer mir benotze se nëmmen fir Iech mat eisen Apps ze hëllefen.
+info_auto_coll,Informatioun gesammelt automatesch
+exp_admob_use,Mir benotzen Google Admob fir Annoncen ze déngen. D'Benotzung vun dëse Servicer ass ënnerleien dem Google Dateschutzbestëmmungen op https://www.google.com/policies/privacy/.
+we_real_time,Sammelt de Battery Manager korrekt Echtzäit Standuertinformatioun vum Apparat?
+exp_loc_perm_man,Battery Manger kontrolléiert nëmmen ob d'Location aktivéiert oder deaktivéiert ass, awer sammelt keng präzis Informatioun iwwer d'Location vun Ärem mobilen Apparat. Esou Location-baséiert Funktiounen sinn als Standard gesat. Dir kënnt dës Funktiounen an den Astellunge vun Ärem jeweilegen Apparat deaktivéieren oder reaktivéieren. Virun oder no der Installatioun vun den Apps gëtt Dir gefrot - jee no Apparat - ob Dir léiwer dës Funktiounen desaktivéiere wëllt oder aktivéieren. Mir kënnen nëmmen Daten iwwer Är Positioun sammelen wann Dir esou Standuertservicer aktivéiert.
+chng,Ännerungen
+pri_update_exp,Dës Dateschutzpolitik kann aus iergendengem Grond vun Zäit zu Zäit aktualiséiert ginn. Mir informéieren Iech iwwer Ännerungen an eiser Dateschutzpolitik andeems Dir déi nei Dateschutzpolitik op dëser Websäit posten an Iech iwwer e Message an der App informéiert. Et ass recommandéiert datt Dir regelméisseg dës Dateschutzpolitik fir Ännerungen konsultéiert, well d'Fortsetzung vun der Benotzung als Zoustëmmung vun all Ännerungen ugesi gëtt. Dir kënnt d'Geschicht vun dëser Politik op dëser Websäit iwwerpréiwen.
+contct,Kontakt
+any_que,Wann Dir Froen iwwer Dateschutz hutt beim Gebrauch vun der Applikatioun oder hutt Froen iwwer eis Praktiken, schéckt w.e.g. eng E-Mail op baxolino.de@gmail.com
+mem_opti,Battery Manager brauch den "Erënnerung" Zougang fir datt Apps gescannt an optimiséiert kënne ginn. Dir kënnt dës Funktiounen an den Astellunge vun Ärem jeweilegen Apparat deaktivéieren oder aktivéieren. Virun oder no der Installatioun vun der App gëtt Dir gefrot - jee no Apparat - ob Dir léiwer dës Funktiounen desaktivéiere wëllt oder aktivéieren.
+storg,Stockage
+ble_set_acc,blue_set_perm, Battery Manager erfuerdert den Zougang "Bluetooth Astellungszougang" fir datt et ka gepréift ginn ob Bluetooth aktivéiert oder deaktivéiert ass. A fir Bluetooth ze aktivéieren oder deaktivéieren.
+ble_title,Bluetooth
+needz_del,Battery Manager erfuerdert den Zougang "Ufro Läschen vu Packagen" fir eng Deinstallatioun vun enger App unzefänken. D'App gëtt nëmmen deinstalléiert wann Dir et explizit erlaabt.
+deletion_pkg,Ufro Läschen vu Packagen
+need_adnd,De Battery Manager erfuerdert den Zougang "Do Not Disturb" fir den Do Not Disturb Modus z'aktivéieren oder auszeschalten.
+adnd,Zougang Do Not Disturb
+need_wlan_acc,Battery Manager erfuerdert Zougang zu "Get WLAN Connections" fir datt de Battery Manager kann iwwerpréiwen ob WLAN aktivéiert oder deaktivéiert ass. A fir WLAN ze aktivéieren oder deaktivéieren.
+wln_conn,Kritt WLAN Verbindungen
+shop_bill_exp,Wann Dir iwwer Google Play In App Billing akaft, gëtt Google eis Äert Land wou Dir wunnt an heiansdo de Staat, Stad an Postleitzuel, awer ni déi voll Adress. Mir benotzen dës Informatioun fir Steier- a Comptabilitéitsreglementer ze respektéieren.
+pri_date,Derbäi säit dem 21.02.2021
+how_to_stop,Dir kënnt déi ganz Sammlung vun Informatioun duerch d'Applikatioun stoppen einfach andeems Dir d'Applikatioun deinstalléiert. Dir kënnt d'Standard Uninstall Prozesser benotzen, déi verfügbar sinn als Deel vun Ärem mobilen Apparat oder iwwer de Maartplaz oder Netzwierk fir mobil Uwendungen.
+opt_out,Wat sinn meng Opt-out Rechter?
+ur_permission,Är Erlaabnis
+accept_privacy,Andeems Dir d'Applikatioun benotzt, averstanen Dir eis Veraarbechtung vun Ären Donnéeën wéi an dëser Dateschutzpolitik festgeluecht a wéi vun eis geännert.

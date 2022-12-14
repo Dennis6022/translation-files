@@ -1,0 +1,347 @@
+title,Pugna Procurator Pro differt
+extend_life,Optima via ad vitam altilium extendendi et sanam te servabit in experientia et investigatione scientifica.
+measured,Perspicue modo tantum indicamus tibi datam actu mensurata et quomodo computata sit.
+healthy,Serva tua altilium sanus
+double_battery,Duplicare vitam tuam altilium non plene increpans tua altilium. Hoc physici in investigatione sua probaverunt.
+charge_limit,Utendo praecepto nostro limite notificatio, notificatio mittetur cum pugna ad limen definitum usoris.
+smart,Accipit smarter cotidie
+analyze,Quo diutius Procurator Lite Pugna uteris, eo melius nos solvendo pugnae tuae effectum dabimus.
+update_every_time,Reliquae autonomiae vitae mensurae renovantur omni tempore quo uteris vel praeceperis tuom.
+runtime,Reveles ipsam runtime tui altilium
+discharge_cycle,Singulis diebus telephonum cyclum emissum percurrit, accurata eius temporis aestimatio metiri potest.
+accurate_life,Utere Pugna Procurator Lite ut metiretur accurate altilium vitam.
+no_exit,Noli exire Pugna Procurator Lite!
+bg_require,Pugna Procurator Lite requirit subiectum serviendi ad colligendas altilium statistics et mensurae altilium crimen et tempus missionis. Verisimile est tuom sistendi servitium vel non permittens currere cum app clausum est. Ad hoc evitandum, solutionem tibi bonam habemus. Deprime in pagina iusta.
+man,Manual
+cali,Calibration
+polarity,In hoc gradu, app detegit verticitatem et consilium capacitatis tuae altilium.
+disch,Dimittite
+ch_pol,dato verticitatem
+power_meter,Potentia metri
+unit_mesure,Unitas mensurae
+capacity,Pugna Capacitas
+wrong,Non recte?
+calib,Calibrate
+ye,Ita
+no,No
+neg,Negative
+pos,Positivum
+lunch,Lorem App
+manufac,Facultatem secundum fabrica
+design_des,Consilium capacitatis est capacitas ipsa machinalis, mensurata in mAh. Cum officialis modus non est facultatem definiendi, iniuria valoris redditus erit.
+correct_it,Si capacitas ostensa recte non est, placet illud corrigere.
+cancel,Cancel
+ok,Bene
+runtime,Pugna Runtime
+wait,exspectans
+per_hr,Pugna consummatio per hora
+life_for,Vita altilium
+battery_cond,Pugna conditio
+bat_info,Notitia altilium
+bat_cap,Pugna facultatem
+bat_volt,Pugna voltage
+bat_cur,Pugna current
+unit_mes,Unitas mensurae
+done,Done
+c_bat_temp,Current Pugna Temperature
+min_bat_tem,Minimum altilium temperatus
+mx_bat_tem,Maximum altilium temperatus
+avg_bat_tem,Mediocris altilium temperatus
+dig_last,Novissima diagnosis ante
+rem_time,Reliquum tempus
+volt,Voltage
+curr,Current
+status,Status
+run_time,Currens tempus
+currently,In statu
+avg,Mediocris
+minmal,Minimal
+maximal,Maximum
+tool,Tools
+rem_apps,Uninstall apps te non iam utere ut ne apps ex currit indebite et exhausta tua altilium
+uninst_apps,Uninstall Apps
+stat,Satus
+act_eng_save,Activare industria salutaris modus ad redigendum pugna consummatio
+pow_save,Virtus modus salutaris
+tempe,Temperature
+heal,Salus
+tips,Pugna tua in bono statu cum apicibus et tricis serva.
+recomm,Commendationes
+prem,Premium
+more_func,Plura tibi munera. Premia plus, plus.
+more,More
+ur_cond_bat,In altilium conditio est
+ur_bat_life,Tua altilium vita est
+ur_bat_temp,Tuum altilium temperatus est
+wow,Praeclarus
+normal,Normal
+poor,male
+days,diebus
+mins,Minuta
+hrs,Horae
+chging,praecipiens
+ful,Plenus
+dis_chrg,functio
+unkn,Ignotum
+too_lit,Nimis parum data altilium
+car_any,Extra usquam
+endz_,End
+dig_any,Ut melius diagnostica consequitur, app opus est ut altilium tuam in curriculo resolvere. Quaeso incipit diagnosis post XXIV horas
+end_dig,Finis diagnosis
+quit_dig,Diagnosis vere quit
+batty_temp,altilium temperatus
+akku_manager,Akku Manager
+u_agree,Cum "START" notitia tutelae ad ordinationes conveniunt
+elemn_opti,Elementa possunt optimized
+looks_good,Omnia spectat bonum
+optimize_,Optimize
+toolz_,Tools
+akku_check,Akku Check
+ctrl_load,Imperium loading
+mng_apps,Curo apps
+infosm,Informationes
+tenzion,tensio
+electy,electricity
+lvl,Level
+akku_man_premium,Akku Manager Premium
+premimum_highlight,Pugna Procurator omnino utere sine vendo et accessum habes ad amplam customizationem utentis interfaciei.
+design,Design
+subjs,subditi
+genrally,Fere
+temp_unit,Temperatus unitas
+oth_apps,Alia Apps
+dat_protect,Data praesidium
+thx_akku,Gratias tibi ago pro Akku Procurator cum emptione praemii versionis favens.
+user_got_pre,Habes nunc accessum ad amplam customizationem utentis interfaciei et usus sine vendo.
+exp_more,Potes exspectare plura features in futuris updates
+ap_optimiz,App ipsum
+sys_bat_usage,Ratio altilium consummatio
+bat_usage_det,Pugna usus details
+end_optiz,Finis ipsum
+abort,Abort
+break_up,conteri
+scn,ut scan
+scn_bgh,Screen claritas
+dact_wlan,deactivate WLAN
+dact_save_batt,Deactivate servare pugna
+dact,deactivate "
+dact_ble,Deactivate bluetooth
+red_brigh,splendorem minuere
+bright_txt,Reducere splendorem ostentationis nisi pugna
+to_reduce,Ad redigendum
+dact_gps,Deactivate GPS
+appz_optimz,Apps optimized
+start_bat_check_det,Pugna singula committitur reprehendo semper in tuto
+act_eng_save,Activate industria salutaris modus ad redigendum pugna consummatio
+remove_useless,Uninstall apps quae non sunt usus
+premium,Premium
+clear_mem,Emundare memoriam
+clear_mem_des,Mauris quis felis ut quam mollis cursus.
+clenaup,Tersus sursum
+rat,rating
+rat_free,Rate Pugna Procurator gratis
+sendz,Mitte
+elmn_found,Elementa invenerunt
+drumz,Drums
+status,Status
+end_akk_check,Finis altilium reprehendo
+bat_detlz,Pugna details
+temp_checked,Temperatus sedatus est
+cond_checked,Conditio pilae inhibetur
+checkz_start,Pugna reprehendo animi
+plug_in,euismod erat in
+techz,Technology
+coldz,Frigidi
+until,Donec
+well,Bene
+ovr_heat,Overheating
+ovr_load,ONERO
+renam,renamed
+not_def,non definitur
+chrgz,Crimen
+full,Plenus
+unloadz,Unloading
+not_charge_unkn,non praecepi aut ignotum
+usb,USB
+charger,patina
+wless,wireless
+not_at_al,nihil omnino
+uninstall,Uninstall
+update,Ad update
+setting,Occasus
+app,Apps
+not_found,App non inveni
+search,Quaerere apps
+version_code,Versionem Codicis
+api_level,API Level
+app_version,App Version
+authorization,auctoritas
+open,aperire
+play_store,Fabula Store
+control,imperium
+systemstandart,Systemstandard
+white,album
+dark,Dark
+ocean,Oceanus
+black,nigreos
+dark_blue,Caerula
+excellent,Praeclarus
+bad,Malus
+battery_bad,Pugna leviter laedi
+very_bad,Valde malus
+battery_damaged,In altilium corrumpitur
+custom_mode,Consuetudo Modus
+brightness,splendor
+automatic_brightness,Lorem splendor
+normal,Normal
+sound_modus,Integer Modus
+tone_work,Omnes Tones Opus
+mute,Mute
+call_note_mute,Vocat et notificationes sunt transmutari
+not_bother,Noli vexare
+tones_vibration_mute,Averte tonos et vibrationes, exceptis tonis terroribus
+sound,Sonat
+music,music
+notification,Notification
+alarm,Alarm
+ultra_saving,Ultra industria salutaris modus
+edit,Ad edit
+disable_ultra_saving,Inactivare ultra Energy Excepto, Modus
+min_remaining,min reliquum
+hours,horae
+activted_ultra_saving,Ultra industria salutaris modus excitatur
+charged_in,praecepit in
+min,min
+limit_power,Finis potentia consummatio
+reduce_screen,Redigendum screen claritas
+restrict_bg_act_explain,Restringere background actiones
+volatge_check,Voltage inhibetur
+software_optimized,Software est optimized
+connect_charger,Iungo patina
+charger_removed,Patina potest removeri
+power_consump_title,Potentia consummatio
+srcn_bg_title,Screen claritas
+bg_al_activities,Background actiones
+sftware,Software
+get_primium,Si versionem premium emes, omnia munera hodierna ac omnia nova munera in futuro habebis.
+cuztomize_face,Aliquam utentis interface
+comp_scheme,Componere Procurator Pugnam tuam ex diversis argumentis colorum schema.
+bat_check_detail,Detailed reprehendo altilium
+check_cond_test,Pugna Procurator utere ad reprimendam conditionem pugnae tuae ut semper in tuto sit.
+no_ads_yo,Nulla vendo
+use_explain_noads,Usus Pugna Procurator sine vendo
+act_energy_save,Activare modum ultra industriam salutaris augendi altilium vita in an emergency.
+buy_title,Buy Premium
+loc_title,Locus
+cap_title,facultatem
+cap_remain,Reliquis facultatem
+sleepy,Somnus
+sek,Secundis
+sing_min,Minutum
+miniotes,Minuta
+finish,perfectus
+mobi_data,mobile notitia
+plz_rate,Quaeso rate altilium Procurator in Play Store
+ur_data_cus,Possumusne permanere uti notitia tua ad tabulae mos pro vobis?
+in_slep_mode,In somno modus
+in_use,In usum
+with_curr_pow,In current potentia consummatio
+rem_bat_life,Reliquis autonomía
+qck_acc,Velox access
+notif_txt,notitia
+notif_at,Certiorem at
+chg_curr,dato current
+charge_perm,Mandans perficientur
+maxi_charge_per,Maxime præcipiens perficientur
+enb_notif,Admitte notificationem
+perm_send_notif,Pugna Procurator licentiam postulat ut notificationem mittat, in occasus machinae excitari debet.
+to_set,Ad occasus
+title_autost,Activate Autostart
+auto_explain,Pugna Procurator licentiam requirit ut in curriculo reducitur remanendi ut statum pugnae interroges et notificationem mittat.
+sync_auto,Synchronize automatice
+dis_auto_sync,Inactivare automatic synchronisation signanter reduces Wakelocks. Sed quaedam munera sicut electronicam acceptionem interciderunt.
+chg_lim,Crimen Limit
+avoid_ful_explain,Si pilam tuam ad maximam denuntias vel eam solvendo donec est switched, condicio et servitium vitae pilae reducetur. In sequentibus potes ponere minimum et maximum crimen seu functionem status pilae et notificabitur omni tempore ad valorem limen ventum est. Fuge unam plene inigam et solve altilium et vitam extendere altilium.
+rec_notif,Notitia non accepit?
+title_allow_bg_act,Patitur background actio
+allow_bg_act,Ut Pugna Procurator sine restrictionibus uti possis sine praeclusa ratione operativae, speciales functiones pro pugna administratione et pugna usu in uncinis avertas potes. Quia variae artifices in harum optionum designatione differunt secundum systematis operantis usum. In area App Informationes, sub Somno vel Pugna, nullas restrictiones vel Actio background permitte.
+dev_usage,Fabrica usus
+dep_sleep,Somnus profundus status est in quo tuom machinam minimum altilium moles utens. Duratio soporis effectum positivum in industria salutaris habet. Somnus profundus interrumpi potest curriculis curriculis, quae pugnae causa citius solvendae sunt. In hoc casu sileo tuom.
+title_bat_temp,altilium temperatus
+bat_tempp,Pugna temperatura est una e maximis momentis. Si pila in calidis temperaturis servatur, hoc tum ad vitam servitutis pertinet et ad executionem pilae. Si temperatura oritur, structura altilium interna laedi potest.
+rdc_brightness,Redigendum screen claritas
+display_explain,Ostentatio partium est unum de industria maxime consumentis. Maximum splendorem reducere adiuvat ad consummationem altiorem minuendam et compendia notabilia perficienda. Claritas ante reductionem, deactivate automatic claritas ut claritas non immutetur necesse est.
+tst_charge,Test patina
+best_way_test,Optima via est patinam et funem probare, annotando velocitatem in screen off. Praecipiens velocitatem cum in screen est, accumsan signum non est bonum quod telephonum potestas consumit, quae ambigua causat. Obturaculum in patina, paulisper ducto averte, et tunc maximum crimen currente reprehendo.
+wait_title,Exspecto
+rfsh_rate,Renovare rate
+low_sizty,Summittentes ratem reficiendi ad 60 Hz in vita altilium melioris.
+drk_mode,Tenebris Modus
+acti_dark_mode,Activate Dark Modus, in Tenebris Modus minoris potentiae consumitur
+actz,Activate
+poz,Potestas
+minz,Minimum
+avgo,Mediocris
+mixi1,Maximum
+msg_dis,Nuntius post quattuor horas evanescit si notitia satis est ut in pleno schemate ostendat.
+no_enough,Non satis notitia ad ostentationem
+log_graph,Paucis horis hic graphiam videbis quae temperaturam, intentionem, amperage et libram in praeteritis 24 horis reprimere permittet.
+week,hebdomadis
+buy_it,Buy
+one_pur,Unum tempus pretium
+refun_pur,emptio retribui potest intra 2 horas.
+each_month,Subscriptio auto- renovat cuiusque mensis et per mensem constant. Subscriptio aliquando cassari potest.
+mng_subs,administrare subscriptione
+subsci,subscribe
+will_cost_week,Subscriptio auto- renovat singulis hebdomadibus et per septimanam constant. Subscriptio aliquando cassari potest.
+lfllong,perpetuam
+mthly,menstruam
+wkly,Weekly
+hoto,Hot
+prm_ben_title,Magnum beneficium
+sync_title,Synchronise
+dis_sync_inc,Syncing inactivare auget autonomía non syncing officia in background
+time_out,Tempus sicco
+dec_extend,Deficiente tempore ante ostensionem vices de porrigit autonomía
+u_end_opti,Visne vero optimizationem processus finire?
+no_why_perm,Nulla licentia
+bright_exp,Pugna Procurator requirit Mutare ratio occasus licentiam reducendi velum splendorem vel Bluetooth averte.
+tg_title,Telegram canalem coniunge!
+tg_text,Mane current cum app updates, mane aedificat accipe, ac novas formas experire adiuva. Suade notiones tuas, interroga quaestiones et responsa citius accipe
+join_tg,join
+curr_consumption,vena consummatio
+scrn_onn,in screen
+srcn_off,off protegant
+mob_charg,praecipiens
+discha,functio
+activea,Active
+slpmode,modus somnus
+chagingspeed,Vena dato velocitate
+dta_proxt,Data praesidium
+governs,Hoc secretum consilium tuum usum Pugna Procurator software applicationem regit pro mobilibus artibus a Baxolino creatis.
+info_u_provide,Informationis dedi per usoris
+no_pass_per,Non transimus in personas notitias ad partes tertias. Cum email nobis, habemus electronicam electronicam, sed ea tantum utimur ad adiuvandum te cum applis nostris.
+info_auto_coll,Notitia collecta automatice
+exp_admob_use,Google Admob utimur ad proscriptiones serviendum. Usus horum officiorum sub Google datorum tutelae praescripto https://www.google.com/policies/privaci/ obnoxius est.
+we_real_time,Num Pugna Procurator accurate realis-vicis locationis informationes ex fabrica colligit?
+exp_loc_perm_man,Pugna Praesepe solum inhibet num locus amovetur vel deducitur, sed certas informationes de situ mobilis fabricae non colligit. Tales functiones locationis fundatae defalta ponuntur. Potes deactivate vel reactivate has functiones in uncinis utriusque machinae. Ante vel post inaugurari applis, rogaberis - pendens in fabrica - utrum haec munera deactivate an potius movere. Tantum colligere notitias de loco tuo possumus, si eiusmodi operas locationes excitant.
+chng,Mutationes
+pri_update_exp,Secretum hoc consilium quavis de causa subinde renovari potest. De mutatione consilii secreti nostri te docebimus ponendo novum consilium secreti in hac inscriptione interreti ac per nuntium in app notificantes. Commendatur ut regulariter consulas hanc Privacy de mutationibus, ut continuus usus approbatio omnium mutationum habetur. Historiam huius consilii in hoc loco reperire potes.
+contct,Contactus
+any_que,Si quaestiones habes de tutela data cum applicatione adhibita vel quaestiones de exercitio nostro habes, mitte electronicam ad baxolino.de@gmail.com
+mem_opti,Pugna Procurator indiget accessu "memoriae" ut apps considerari et optimized esse possunt. Potes deactivate vel movere has functiones in uncinis utriusque machinae. Ante vel post inaugurari app, rogaberis - pendens in fabrica - utrum haec munera deactivate an potius movere.
+storg,Repono
+ble_set_acc,blue_set_perm, Pugna Procurator aditum "Bluetooth occasus accessum" requirit ut cohiberi possit utrum Bluetooth amoveatur an deactivatetur. Et movere vel deactivate Bluetooth.
+ble_title,Bluetooth
+needz_del,Pugna Manager requirit accessum "Request deletionem fasciculorum" ut satus an uninstallation app. App nonnisi inauguratus est, si id expresse pateris.
+deletion_pkg,Request deletionem packages
+need_adnd,Pugna Procurator requirit "Noli Disturb" aditum possit vel disable Noli turbare modum.
+adnd,Aditus Noli Perago
+need_wlan_acc,Pugna Procurator aditum requirit ad "WLAN Connexiones Vade" ut Procurator Pugna inspicere possit utrum WLAN excitatur vel deactivatetur. Et movere vel deactivate WLAN.
+wln_conn,Get hospites WLAN
+shop_bill_exp,Cum tabernam per Google Play In App Billing, Google patriam commorationis tuae nobis dat et interdum civitatem, urbem et codicem zip, sed numquam plenam electronicam. Haec informationes utimur ad propinquos censuum et rationum normas.
+pri_date,As of 02/21/2021
+how_to_stop,Totam informationem collectionem prohibere potes per applicationem simpliciter per applicationem uninstalling. Vexilliferis uninstall processibus praesto uti potes ut pars mobilis machinae tuae vel per mercatum vel retis ad applicationes mobiles.
+opt_out,Quae sunt iura mea opt-e?
+ur_permission,pace tua
+accept_privacy,Applicando utendo, assentimini nostro processui notitiarum vestrarum sicut in hoc secreto consilio expositae et a nobis emendatae.

@@ -1,0 +1,347 @@
+title,Battery Manager Lite desberdina da
+extend_life,Bateriaren iraupena luzatzeko eta osasuntsu mantentzeko modurik onena esperientzian eta ikerketa zientifikoan oinarritzen da.
+measured,Modu gardenean benetan neurtutako datuak eta nola kalkulatzen diren bakarrik erakusten dizkizugu.
+healthy,Mantendu bateria osasuntsu
+double_battery,Bikoiztu bateriaren iraupena bateria guztiz ez kargatuz. Zientzialariek hori frogatu dute beren ikerketetan.
+charge_limit,Gure karga-mugaren jakinarazpena erabiliz, jakinarazpen bat bidaliko da bateria erabiltzaileak zehaztutako atalase batera iristen denean.
+smart,Egunero adimentsuagoa da
+analyze,Zenbat eta denbora gehiago erabili Battery Manager Lite, orduan eta hobeto aztertuko dugu bateriaren errendimendua.
+update_every_time,Gainerako bateriaren iraupenaren neurketa eguneratzen da gailua erabiltzen edo kargatzen duzun bakoitzean.
+runtime,Ezagutu zure bateriaren benetako iraupena
+discharge_cycle,Telefonoak deskarga-ziklo bat igarotzen duen bakoitzean, bere funtzionamendu-denboraren estimazio zehatza neur daiteke.
+accurate_life,Erabili Battery Manager Lite bateriaren iraupen zehatza neurtzeko.
+no_exit,Ez irten Battery Manager Lite!
+bg_require,Battery Manager Lite-k atzeko planoko zerbitzu bat behar du bateriaren estatistikak biltzeko eta bateriaren karga eta deskarga-denbora neurtzeko. Litekeena da zure gailuak zerbitzua gelditzea edo aplikazioa itxita dagoenean exekutatzen uzten ez duela. Hori ekiditeko, irtenbide ona dugu zuretzat. Egin klik estekan.
+man,Eskuliburua
+cali,Kalibrazioa
+polarity,Urrats honetan, aplikazioak kargatzeko polaritatea eta bateriaren diseinu-ahalmena detektatzen ditu.
+disch,Alta
+ch_pol,Kargatzeko polaritatea
+power_meter,Potentzia-neurgailua
+unit_mesure,Neurketa-unitatea
+capacity,Bateria Edukiera
+wrong,Ez da ezta?
+calib,Kalibratu
+ye,Bai
+no,Ez
+neg,Negatiboa
+pos,Positiboa
+lunch,Abiarazi aplikazioa
+manufac,Fabrikatzailearen araberako edukiera
+design_des,Diseinuaren ahalmena bateriaren benetako edukiera da, mAh-tan neurtuta. Edukiera zehazteko modu ofizialik ez dagoenez, baliteke itzulitako balioa okerra izatea.
+correct_it,Bistaratzen den edukiera zuzena ez bada, zuzendu mesedez.
+cancel,Utzi
+ok,ados
+runtime,Bateriaren iraupena
+wait,zain
+per_hr,Bateriaren kontsumoa orduko
+life_for,Bateriaren iraupena
+battery_cond,Bateriaren egoera
+bat_info,Bateriaren informazioa
+bat_cap,Bateriaren edukiera
+bat_volt,Bateriaren tentsioa
+bat_cur,Bateriaren korrontea
+unit_mes,Neurketa-unitatea
+done,Eginda
+c_bat_temp,Uneko bateriaren tenperatura
+min_bat_tem,Bateriaren gutxieneko tenperatura
+mx_bat_tem,Bateriaren tenperatura maximoa
+avg_bat_tem,Bateriaren batez besteko tenperatura
+dig_last,Azken diagnostikoa aurretik
+rem_time,Gainerako Denbora
+volt,Tentsioa
+curr,Oraingoa
+status,Egoera
+run_time,Iraupena
+currently,Gaur egun
+avg,Batez bestekoa
+minmal,Gutxienekoa
+maximal,Gehienezkoa
+tool,Tresnak
+rem_apps,Desinstalatu jada erabiltzen ez dituzun aplikazioak alferrikako exekutatu eta bateria agortzea saihesteko
+uninst_apps,Desinstalatu aplikazioak
+stat,Hasi
+act_eng_save,Aktibatu energia aurrezteko modua bateriaren kontsumoa murrizteko
+pow_save,Energia aurrezteko modua
+tempe,Tenperatura
+heal,Osasuna
+tips,Mantendu bateria egoera onean aholku eta trikimailuekin.
+recomm,Gomendioak
+prem,Premium
+more_func,Funtzio gehiago zuretzat. Lortu premium, lortu gehiago.
+more,Gehiago
+ur_cond_bat,Bateriaren egoera da
+ur_bat_life,Zure bateriaren iraupena da
+ur_bat_temp,Zure bateriaren tenperatura da
+wow,Bikaina
+normal,Normala
+poor,Gaizki
+days,Egunak
+mins,Minutu
+hrs,Orduak
+chging,Kargatzen
+ful,Osoa
+dis_chrg,Deskargatzea
+unkn,Ezezaguna
+too_lit,Bateriaren datu gutxiegiak
+car_any,Egin hala ere
+endz_,Amaiera
+dig_any,Diagnostiko emaitza hobeak lortzeko, aplikazioak zure bateria atzeko planoan aztertu behar du. Mesedez, hasi diagnostikoa 24 ordu igaro ondoren
+end_dig,Amaitzeko diagnostikoa
+quit_dig,Benetan Utzi Diagnostikoa
+batty_temp,Bateriaren tenperatura
+akku_manager,Akku kudeatzailea
+u_agree,"HASI"-rekin datuen babeserako araudia onartzen duzu
+elemn_opti,Elementuak optimizatu daitezke
+looks_good,Dena itxura ona du
+optimize_,Optimizatu
+toolz_,Tresnak
+akku_check,Akku Check
+ctrl_load,Karga kontrolatua
+mng_apps,Kudeatu aplikazioak
+infosm,Informazioa
+tenzion,tentsioa
+electy,elektrizitatea
+lvl,Maila
+akku_man_premium,Akku Manager Premium
+premimum_highlight,Erabili Battery Manager guztiz iragarkirik gabe eta erabiltzaile-interfazearen pertsonalizazio zabalera sarbidea izango duzu.
+design,Diseinua
+subjs,gaiak
+genrally,Orokorrean
+temp_unit,Tenperatura-unitatea
+oth_apps,Beste aplikazio batzuk
+dat_protect,Datuen babesa
+thx_akku,Eskerrik asko Akku Manager-a premium bertsioa erostearekin laguntzeagatik.
+user_got_pre,Orain erabiltzaile-interfazearen eta erabileraren pertsonalizazio zabalerako sarbidea duzu publizitaterik gabe.
+exp_more,Etorkizuneko eguneraketetan eginbide gehiago espero ditzakezu
+ap_optimiz,Aplikazioen optimizazioa
+sys_bat_usage,Sistemaren bateriaren kontsumoa
+bat_usage_det,Bateriaren erabileraren xehetasunak
+end_optiz,Amaitu optimizazioa
+abort,Abortatu
+break_up,apurtu
+scn,eskaneatzeko
+scn_bgh,Pantailaren distira
+dact_wlan,Desaktibatu WLAN
+dact_save_batt,Desaktibatu bateria aurrezteko
+dact,Desaktibatu
+dact_ble,Desaktibatu bluetooth
+red_brigh,Murriztu distira
+bright_txt,Murriztu pantailaren distira bateria aurrezteko
+to_reduce,Murrizteko
+dact_gps,Desaktibatu GPSa
+appz_optimz,Aplikazioak optimizatuta
+start_bat_check_det,Hasi bateriaren egiaztapen zehatza beti segurtasunean egoteko
+act_eng_save,Aktibatu energia aurrezteko modua bateriaren kontsumoa murrizteko
+remove_useless,Desinstalatu jada erabiltzen ez diren aplikazioak
+premium,Premium
+clear_mem,Garbitu memoria
+clear_mem_des,Zure telefonoak azkar eta erraz funtziona dezan.
+clenaup,Garbitu
+rat,balorazioa
+rat_free,Baloratu Battery Manager doan
+sendz,Bidali
+elmn_found,Aurkitutako elementuak
+drumz,Danborrak
+status,Egoera
+end_akk_check,Amaitu bateriaren egiaztapena
+bat_detlz,Bateria xehetasunak
+temp_checked,Tenperatura egiaztatzen da
+cond_checked,Bateriaren egoera egiaztatzen da
+checkz_start,Bateria egiaztatzea hasten da
+plug_in,Entxufatuta
+techz,Teknologia
+coldz,Hotza
+until,Arte
+well,Bueno
+ovr_heat,Gehiegi berotzea
+ovr_load,Gainkarga
+renam,izena aldatu
+not_def,definitu gabe
+chrgz,Kargatu
+full,Osoa
+unloadz,Deskarga
+not_charge_unkn,ez kobratu edo ezezaguna
+usb,USB
+charger,kargagailua
+wless,haririk gabekoa
+not_at_al,ezer ere ez
+uninstall,Desinstalatu
+update,Eguneratzeko
+setting,Ezarpenak
+app,Aplikazioak
+not_found,Ez da aplikazioa aurkitu
+search,Bilatu aplikazioak
+version_code,Bertsio-kodea
+api_level,API maila
+app_version,Aplikazioaren bertsioa
+authorization,baimena
+open,ireki
+play_store,Play Store
+control,kontrola
+systemstandart,Sistemaren estandarra
+white,Zuria
+dark,Iluna
+ocean,Ozeanoa
+black,Beltza
+dark_blue,Urdin iluna
+excellent,Bikaina
+bad,Txarra
+battery_bad,Bateria apur bat hondatuta dago
+very_bad,Oso txarra
+battery_damaged,Bateria hondatuta dago
+custom_mode,Modu pertsonalizatua
+brightness,Distira
+automatic_brightness,Distira automatikoa
+normal,Normala
+sound_modus,Soinu modua
+tone_work,Tonu guztiak funtzionatzen du
+mute,Isildu
+call_note_mute,Deiak eta jakinarazpenak isilduta daude
+not_bother,Ez izorratu
+tones_vibration_mute,Desaktibatu tonuak eta bibrazioak, alarma tonuak izan ezik
+sound,Soinuak
+music,musika
+notification,Jakinarazpena
+alarm,Alarma
+ultra_saving,Ultra energia aurrezteko modua
+edit,Editatzeko
+disable_ultra_saving,Desgaitu Ultra Energia aurrezteko modua
+min_remaining,min geratzen da
+hours,orduak
+activted_ultra_saving,Ultra energia aurrezteko modua aktibatuta dago
+charged_in,sartu kobratu
+min,min
+limit_power,Mugatu energia-kontsumoa
+reduce_screen,Murriztu pantailaren distira
+restrict_bg_act_explain,Mugitu atzeko jarduerak
+volatge_check,Tentsioa egiaztatzen da
+software_optimized,Softwarea optimizatuta dago
+connect_charger,Konektatu kargagailua
+charger_removed,Kargagailua kendu daiteke
+power_consump_title,Energia-kontsumoa
+srcn_bg_title,Pantailaren distira
+bg_al_activities,Aurrekariak jarduerak
+sftware,Softwarea
+get_primium,Premium bertsioa erosten baduzu, uneko funtzio guztiak eta baita funtzio berri guztiak ere etorkizunean lortuko dituzu.
+cuztomize_face,Erabiltzaile interfazearen pertsonalizazioa
+comp_scheme,Idatzi zure Battery Manager kolore eskema hainbat gaitatik.
+bat_check_detail,Bateriaren egiaztapen zehatza
+check_cond_test,Erabili bateria-kudeatzailea zure bateriaren egoera egiaztatzeko, beti seguru egon dadin.
+no_ads_yo,Publizitaterik ez
+use_explain_noads,Erabili Battery Manager inolako publizitaterik gabe
+act_energy_save,Aktibatu energia aurrezteko modua larrialdi batean bateriaren iraupena handitzeko.
+buy_title,Erosi Premium
+loc_title,Kokapena
+cap_title,edukiera
+cap_remain,Gainerako edukiera
+sleepy,Lo egin
+sek,Segundoak
+sing_min,Minutua
+miniotes,Minutu
+finish,Bukatuta
+mobi_data,datu mugikorrak
+plz_rate,Baloratu Battery Manager Play Store-n
+ur_data_cus,Jarrai al dezakegu zure datuak erabiltzen zuretzako iragarkiak pertsonalizatzeko?
+in_slep_mode,Lo moduan
+in_use,Erabiltzen
+with_curr_pow,Korronte-kontsumoarekin
+rem_bat_life,Gainerako bateriaren iraupena
+qck_acc,Sarbide azkarra
+notif_txt,jakinarazpena
+notif_at,Jakinarazi helbide honetan
+chg_curr,Karga-korrontea
+charge_perm,Kargatzeko errendimendua
+maxi_charge_per,Kargatzeko errendimendu maximoa
+enb_notif,Gaitu jakinarazpena
+perm_send_notif,Battery Manager baimena behar du jakinarazpen bat bidaltzeko, gailuaren ezarpenetan aktibatu behar da.
+to_set,Ezarpenetara
+title_autost,Aktibatu Autostart
+auto_explain,Bateria-kudeatzaileak atzeko planoan aktibatuta egoteko baimena behar du bateriaren egoera kontsultatzeko eta jakinarazpen bat bidaltzeko.
+sync_auto,Sinkronizatu automatikoki
+dis_auto_sync,Sinkronizazio automatikoa desgaitzeak wakelockak nabarmen murrizten ditu. Hala ere, zenbait funtzio galduko dira, hala nola posta elektronikoa jasotzea.
+chg_lim,Karga-muga
+avoid_ful_explain,Bateria gehien kargatzen baduzu edo itzali arte deskargatzen baduzu, bateriaren egoera eta iraupena murriztuko dira. Jarraian, bateriaren gutxieneko eta gehieneko karga edo deskarga-egoera ezar dezakezu eta atalasearen balioa lortzen den bakoitzean jakinaraziko zaizu. Saihestu bateria guztiz kargatu eta deskargatu eta luzatu bateriaren bizitza.
+rec_notif,Ez duzu jaso jakinarazpena?
+title_allow_bg_act,Baimendu atzeko planoko jarduerak
+allow_bg_act,Bateriaren kudeatzailea mugarik gabe erabili ahal izateko sistema eragileak nahi gabe itxi gabe, baliteke ezarpenetan bateria kudeatzeko eta bateria erabiltzeko funtzio bereziak desaktibatu behar izatea. Erabiltzen den sistema eragilearen arabera aukera horien izendapenean hainbat fabrikatzaile desberdintzen direlako. Aplikazioaren informazioa eremuan, Lo egiteko edo Bateria atalean, hautatu Murrizketarik ez edo Baimendu atzeko planoko jarduerak.
+dev_usage,Gailuaren erabilera
+dep_sleep,Lo sakona zure gailuak bateria gutxien erabiltzen duen egoera da. Lo sakonaren iraupenak eragin positiboa du energia aurreztean. Lo sakona atzeko zereginen bidez eten daiteke, eta horrek bateria azkarrago deskargatzen du. Kasu honetan, berrabiarazi gailua.
+title_bat_temp,Bateriaren tenperatura
+bat_tempp,Bateriaren tenperatura faktore garrantzitsuenetako bat da. Bateria tenperatura altuetan gelan mantentzen bada, horrek eragina izango du bai zerbitzu-bizitzan, bai bateriaren errendimenduan. Tenperatura igotzen bada, bateriaren barne egitura kaltetu daiteke.
+rdc_brightness,Murriztu pantailaren distira
+display_explain,Pantaila energia gehien kontsumitzen duen osagaietako bat da. Distira maximoa murrizteak kontsumo orokorra murrizten laguntzen du eta aurrezpen nabaria lortzen du. Distira murriztu aurretik, desaktibatu distira automatikoa, distira alferrik aldatu ez dadin.
+tst_charge,Proba kargagailua
+best_way_test,Kargagailua eta kablea probatzeko modurik onena kargatzeko abiadura pantaila itzalita dagoela egiaztatzea da. Pantaila piztuta dagoenean kargatzeko abiadura ez da erreferentzia ona zure telefonoak energia kontsumitzen duelako, eta horrek gorabeherak eragiten ditu. Entxufatu kargagailua, itzali pantaila minutu batzuetan eta egiaztatu karga-korronte maximoa.
+wait_title,Zain
+rfsh_rate,Freskatze tasa
+low_sizty,Freskatze-tasa 60 Hz-ra jaistea bateriaren iraupena hobetzen du.
+drk_mode,Modu iluna
+acti_dark_mode,Aktibatu Modu Iluna, Modu Ilunean energia gutxiago kontsumitzen da
+actz,Aktibatu
+poz,Boterea
+minz,Gutxienekoa
+avgo,Batez bestekoa
+mixi1,Gehienezkoa
+msg_dis,Mezua 24 ordu igaro ondoren desagertzen da diagrama osorik bistaratzeko datu nahikoa badago.
+no_enough,Ez dago nahikoa datu bistaratzeko
+log_graph,Ordu gutxiren buruan grafiko bat ikusiko duzu hemen azken 24 orduetako bateriaren tenperatura, tentsioa, amperajea eta maila egiaztatzeko aukera emango dizuna.
+week,astea
+buy_it,Erosi
+one_pur,Behin-behineko kuota
+refun_pur,erosketa 2 orduko epean itzuli daiteke.
+each_month,Harpidetza hilero berritzen da automatikoki eta hilean kostua izaten jarraitzen du. Harpidetza edozein unetan bertan behera utzi daiteke.
+mng_subs,kudeatu harpidetza
+subsci,harpidetu
+will_cost_week,Harpidetza astero berritzen da automatikoki eta astean kostatzen jarraitzen du. Harpidetza edozein unetan bertan behera utzi daiteke.
+lfllong,bizitza osorako
+mthly,hilero
+wkly,Asterokoa
+hoto,Beroa
+prm_ben_title,Premium abantailak
+sync_title,Sinkronizatu
+dis_sync_inc,Sinkronizazioa desgaituz gero, bateriaren iraupena areagotuko da, atzeko planoko zerbitzuak ez sinkronizatzeko
+time_out,Denboraz kanpo
+dec_extend,Pantaila itzali aurreko denbora murrizteak bateriaren iraupena luzatzen du
+u_end_opti,Ziur optimizazio-prozesua amaitu nahi duzula?
+no_why_perm,Baimenik ez
+bright_exp,Bateria-kudeatzaileak Aldatu sistemaren ezarpenen baimena behar du pantailaren distira murrizteko edo Bluetootha desaktibatzeko.
+tg_title,Sartu Telegram kanalean!
+tg_text,Egon eguneratuta aplikazioen eguneraketekin, lortu konpilazio goiztiarrak eta lagundu eginbide berriak probatzen. Iradoki zure ideiak, egin galderak eta lortu erantzunak azkarrago
+join_tg,batu
+curr_consumption,egungo kontsumoa
+scrn_onn,pantaila piztuta
+srcn_off,pantaila itzalita
+mob_charg,Kargatzen
+discha,Deskargatzea
+activea,Aktiboa
+slpmode,Lo modua
+chagingspeed,Uneko kargatzeko abiadura
+dta_proxt,Datuen babesa
+governs,Pribatutasun-politika honek Baxolinok sortutako gailu mugikorretarako Battery Manager software aplikazioaren erabilera arautzen du.
+info_u_provide,Erabiltzaileak emandako informazioa
+no_pass_per,Ez diegu datu pertsonalik ematen hirugarrenei. Posta elektronikoa bidaltzen diguzunean, zure helbide elektronikoa dugu, baina gure aplikazioekin laguntzeko soilik erabiltzen dugu.
+info_auto_coll,Automatikoki bildutako informazioa
+exp_admob_use,Google Admob erabiltzen dugu iragarkiak hornitzeko. Zerbitzu hauen erabilera Google datuen babeserako xedapenen mende dago https://www.google.com/policies/privacy/ helbidean.
+we_real_time,Battery Manager-ek denbora errealean kokapen informazio zehatza biltzen al du gailutik?
+exp_loc_perm_man,Bateria kudeatzaileak kokapena aktibatuta edo desaktibatuta dagoen egiaztatzen du soilik, baina ez du zure gailu mugikorraren kokapenari buruzko informazio zehatzik biltzen. Kokapenean oinarritutako funtzioak lehenespenez ezartzen dira. Funtzio hauek zure gailuaren ezarpenetan desaktibatu edo berriro aktibatu ditzakezu. Aplikazioak instalatu aurretik edo ondoren, funtzio hauek desaktibatu edo aktibatu nahi dituzun galdetuko zaizu -gailuaren arabera. Kokapen-zerbitzu horiek aktibatzen badituzu soilik bil ditzakegu zure kokapenari buruzko datuak.
+chng,Aldaketak
+pri_update_exp,Pribatutasun-politika hau noizean behin eguneratu daiteke edozein arrazoirengatik. Gure pribatutasun-politikaren aldaketen berri emango dizugu pribatutasun-politika berria web helbide honetan argitaratuz eta aplikazioko mezu baten bidez jakinaraziz. Aldaketetarako Pribatutasun Politika hau aldizka kontsultatzea gomendatzen da, erabilera jarraitua aldaketa guztien onarpentzat hartzen baita. Webgune honetan politika honen historia berrikusi dezakezu.
+contct,Harremanetan jarri
+any_que,Aplikazioa erabiltzean datuen babesari buruzko galderarik baduzu edo gure praktikei buruzko galderarik baduzu, bidali mezu elektroniko bat baxolino.de@gmail.com helbidera
+mem_opti,Battery Manager-ek "memoria" sarbidea behar du, aplikazioak eskaneatu eta optimizatu ahal izateko. Funtzio hauek zure gailuaren ezarpenetan desaktibatu edo aktibatu ditzakezu. Aplikazioa instalatu aurretik edo ondoren, funtzio hauek desaktibatu edo aktibatu nahi dituzun galdetuko zaizu -gailuaren arabera.
+storg,Biltegiratzea
+ble_set_acc,blue_set_perm,Bateria-kudeatzaileak "Bluetooth ezarpenetarako sarbidea" sarbidea behar du, Bluetootha aktibatuta edo desaktibatuta dagoen egiaztatu ahal izateko. Eta Bluetootha aktibatzeko edo desaktibatzeko.
+ble_title,Bluetooth
+needz_del,Battery Manager-ek "Eskatu paketeak ezabatzeko" sarbidea behar du aplikazio baten desinstalazio bat hasteko. Aplikazioa berariaz baimentzen baduzu soilik desinstalatuko da.
+deletion_pkg,Eskatu paketeak ezabatzeko
+need_adnd,Bateria-kudeatzaileak "Ez molestatu" sarbidea behar du Ez molestatu modua gaitzeko edo desgaitzeko.
+adnd,Sarbidea Ez molestatu
+need_wlan_acc,Battery Manager-ek "Lortu WLAN konexioak" sarbidea behar du, Battery Manager-ek WLAN aktibatuta edo desaktibatuta dagoen egiazta dezan. Eta WLANa aktibatzeko edo desaktibatzeko.
+wln_conn,Lortu WLAN konexioak
+shop_bill_exp,Google Play In App Fakturazio bidez erosketak egiten dituzunean, Google-k zure bizilekua eta batzuetan estatua, hiria eta posta-kodea ematen dizkigu, baina inoiz ez helbide osoa. Informazio hau zerga eta kontabilitate araudia betetzeko erabiltzen dugu.
+pri_date,2021/02/21etik aurrera
+how_to_stop,Aplikazioaren informazio bilketa osoa geldi dezakezu aplikazioa desinstalatuz. Zure gailu mugikorraren zati gisa edo aplikazio mugikorretarako merkatuaren edo sarearen bidez erabil daitezkeen desinstalazio-prozesu estandarrak erabil ditzakezu.
+opt_out,Zeintzuk dira nire aukera-eskubideak?
+ur_permission,zure baimena
+accept_privacy,Aplikazioa erabiltzean, zure datuen tratamendua onartzen duzu pribatutasun-politika honetan ezarritako moduan eta guk aldatutako moduan.

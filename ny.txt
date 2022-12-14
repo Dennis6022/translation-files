@@ -1,0 +1,347 @@
+title,Battery Manager Lite ndi yosiyana
+extend_life,Njira yabwino yowonjezerera moyo wa batri ndikusunga thanzi lanu ndikutengera zomwe zachitika komanso kafukufuku wasayansi.
+measured,M'njira yowonekera timangokuwonetsani deta yeniyeni yoyesedwa ndi momwe imawerengedwera.
+healthy,Sungani batri yanu yathanzi
+double_battery,Muwirikiza kawiri moyo wa batri lanu posakulipiritsa batire lanu. Asayansi atsimikizira izi mu kafukufuku wawo.
+charge_limit,Pogwiritsa ntchito zidziwitso zathu zochepetsa mtengo, chidziwitso chidzatumizidwa batire ikafika pachimake chomwe chimafotokozedwa ndi ogwiritsa ntchito.
+smart,Zimakhala zanzeru tsiku lililonse
+analyze,Mukamagwiritsa ntchito Battery Manager Lite kwanthawi yayitali, tidzakhala bwino pakuwunika momwe batire lanu likugwirira ntchito.
+update_every_time,Muyezo wotsala wa moyo wa batri umasinthidwa nthawi iliyonse mukamagwiritsa ntchito kapena kulipiritsa chipangizo chanu.
+runtime,Dziwani nthawi yeniyeni ya batri yanu
+discharge_cycle,Nthawi iliyonse foni yanu ikadutsa, kuyerekezera kolondola kwa nthawi yake kumatha kuyesedwa.
+accurate_life,Gwiritsani ntchito Battery Manager Lite kuyeza moyo wa batri molondola.
+no_exit,Osatuluka Battery Manager Lite!
+bg_require,Battery Manager Lite imafuna ntchito yakumbuyo kuti itolere ziwerengero za batri ndikuyesa kuchuluka kwa batri ndi nthawi yotulutsa. Chipangizo chanu chikuyimitsa ntchitoyi kapena sichikuloleza kuti chizigwira ntchito ikatsekedwa. Kuti tipewe izi, tili ndi yankho labwino kwa inu. Ingodinani pa ulalo.
+man,Pamanja
+cali,Kuwongolera
+polarity,Mu sitepe iyi, app detects polarity nazaza ndi kapangidwe mphamvu batire wanu.
+disch,Kutulutsa
+ch_pol,Kulipira polarity
+power_meter,Mphamvu mita
+unit_mesure,Chigawo cha muyeso
+capacity,Mphamvu ya Battery
+wrong,Sichoncho?
+calib,Sinthani
+ye,Inde
+no,Ayi
+neg,Zoipa
+pos,Zabwino
+lunch,Yambitsani App
+manufac,Mphamvu malinga ndi wopanga
+design_des,Kuthekera kwa kapangidwe kake ndi mphamvu yeniyeni ya batri, yoyesedwa mu mAh. Popeza palibe njira yovomerezeka yodziwira kuchuluka kwake, mtengo womwe wabwezedwa ukhoza kukhala wolakwika.
+correct_it,Ngati kuchuluka komwe kwawonetsedwa sikuli kolondola, chonde konzani.
+cancel,Letsani
+ok,Chabwino
+runtime,Nthawi ya Battery
+wait,kuyembekezera
+per_hr,Kugwiritsa ntchito batri pa ola limodzi
+life_for,Moyo wa batri kwa
+battery_cond,Mkhalidwe wa batri
+bat_info,Zambiri za batri
+bat_cap,Mphamvu ya batri
+bat_volt,Mphamvu ya batri
+bat_cur,Mphamvu ya batri
+unit_mes,Chigawo cha muyeso
+done,Zatheka
+c_bat_temp,Kutentha kwa Battery Panopa
+min_bat_tem,Kutsika kwa Battery kutentha
+mx_bat_tem,Kutentha kwakukulu kwa batri
+avg_bat_tem,Avereji ya kutentha kwa batire
+dig_last,Kuzindikira komaliza kale
+rem_time,Nthawi Yotsalira
+volt,Voteji
+curr,Panopa
+status,Mkhalidwe
+run_time,Nthawi yothamanga
+currently,Panopa
+avg,Avereji
+minmal,Zochepa
+maximal,Kuchuluka
+tool,Zida
+rem_apps,Chotsani mapulogalamu omwe simugwiritsanso ntchito kuti aletse mapulogalamu kuti asagwire ntchito mosayenera ndi kukhetsa batri yanu
+uninst_apps,Chotsani Mapulogalamu
+stat,Yambani
+act_eng_save,Yambitsani njira yopulumutsira mphamvu kuti muchepetse kugwiritsa ntchito batri
+pow_save,Njira yopulumutsira mphamvu
+tempe,Kutentha
+heal,Thanzi
+tips,Sungani Battery yanu ili bwino ndi maupangiri ndi zidule.
+recomm,Malangizo
+prem,Zofunika
+more_func,Ntchito zambiri kwa inu. Pezani premium, pezani zambiri.
+more,Zambiri
+ur_cond_bat,Mkhalidwe wa batri ndi
+ur_bat_life,Moyo wa batri yanu ndi
+ur_bat_temp,Kutentha kwa Battery Yanu ndiko
+wow,Zabwino kwambiri
+normal,Wamba
+poor,Moyipa
+days,Masiku
+mins,Mphindi
+hrs,Maola
+chging,Kulipira
+ful,Zodzaza
+dis_chrg,Kutulutsa
+unkn,Zosadziwika
+too_lit,Zambiri Za Battery Zochepa
+car_any,Chitani mulimonse
+endz_,TSIRIZA
+dig_any,Kuti mupeze zotsatira zabwino zowunikira, pulogalamuyo ikuyenera kusanthula batire yanu chapansipansi. Chonde yambani kuzindikira pambuyo pa maola 24
+end_dig,Kuthetsa matenda
+quit_dig,Siyanidi Kuzindikira
+batty_temp,Kutentha kwa batri
+akku_manager,Akku Manager
+u_agree,Ndi "START" mumavomereza malamulo oteteza deta
+elemn_opti,Zinthu zitha kukonzedwa bwino
+looks_good,Chilichonse chikuwoneka bwino
+optimize_,Konzani
+toolz_,Zida
+akku_check,Akku Check
+ctrl_load,Kutsegula koyendetsedwa
+mng_apps,Sinthani mapulogalamu
+infosm,Zambiri
+tenzion,kukangana
+electy,magetsi
+lvl,Mlingo
+akku_man_premium,Akku Manager Premium
+premimum_highlight,Gwiritsani ntchito Battery Manager kwathunthu popanda kutsatsa ndipo mutha kusintha mawonekedwe a ogwiritsa ntchito.
+design,Kupanga
+subjs,maphunziro
+genrally,Nthawi zambiri
+temp_unit,Chigawo cha kutentha
+oth_apps,Mapulogalamu Ena
+dat_protect,Chitetezo cha data
+thx_akku,Zikomo pothandizira Akku Manager ndikugula mtundu wa premium.
+user_got_pre,Tsopano muli ndi mwayi wosintha mawonekedwe a ogwiritsa ntchito ndikugwiritsa ntchito popanda kutsatsa.
+exp_more,Mutha kuyembekezera zambiri pazosintha zamtsogolo
+ap_optimiz,Kukhathamiritsa kwa pulogalamu
+sys_bat_usage,Kugwiritsa ntchito batri yadongosolo
+bat_usage_det,Tsatanetsatane wa kagwiritsidwe ntchito ka batri
+end_optiz,Mapeto kukhathamiritsa
+abort,Chotsani
+break_up,lekana
+scn,kuti sikani
+scn_bgh,Kuwala kwazenera
+dact_wlan,Tsetsani WLAN
+dact_save_batt,Tsetsani kuti musunge batri
+dact,Tsetsani
+dact_ble,Thimitsa bluetooth
+red_brigh,Chepetsani kuwala
+bright_txt,Chepetsani kuwala kwa chiwonetsero kuti musunge batire
+to_reduce,Kuchepetsa
+dact_gps,Tsekanitsa GPS
+appz_optimz,Mapulogalamu okometsedwa
+start_bat_check_det,Yambitsani tsatanetsatane wa batri kuti mukhale otetezeka nthawi zonse
+act_eng_save,Yambitsani njira yopulumutsira mphamvu kuti muchepetse kugwiritsa ntchito batri
+remove_useless,Chotsani mapulogalamu omwe sagwiritsidwanso ntchito
+premium,Zofunika
+clear_mem,Yeretsani kukumbukira
+clear_mem_des,Kotero kuti foni yamakono yanu ikuyenda mofulumira komanso bwino.
+clenaup,Konza
+rat,mlingo
+rat_free,Rate Battery Manager kwaulere
+sendz,Tumizani
+elmn_found,Zinthu zapezeka
+drumz,Ng'oma
+status,Mkhalidwe
+end_akk_check,Mapeto cheke batire
+bat_detlz,Tsatanetsatane wa batri
+temp_checked,Kutentha kumayesedwa
+cond_checked,Mkhalidwe wa batri umayang'aniridwa
+checkz_start,Kuwunika kwa batri kumayamba
+plug_in,Cholumikizidwa
+techz,Zamakono
+coldz,Kuzizira
+until,Mpaka
+well,Chabwino
+ovr_heat,Kutentha kwambiri
+ovr_load,Zochulukira
+renam,kusinthidwa dzina
+not_def,osafotokozedwa
+chrgz,Limbani
+full,Zodzaza
+unloadz,Kutsitsa
+not_charge_unkn,osaimbidwa mlandu kapena osadziwika
+usb,USB
+charger,charger
+wless,opanda zingwe
+not_at_al,palibe konse
+uninstall,Chotsani
+update,Kusintha
+setting,Zokonda
+app,Mapulogalamu
+not_found,Pulogalamu sinapezeke
+search,Sakani mapulogalamu
+version_code,Kodi Version
+api_level,API Level
+app_version,Mtundu wa App
+authorization,chilolezo
+open,kutsegula
+play_store,Play Store
+control,kulamulira
+systemstandart,Systemstandard
+white,Choyera
+dark,Chakuda
+ocean,Nyanja
+black,Wakuda
+dark_blue,Blue Blue
+excellent,Zabwino kwambiri
+bad,Zoipa
+battery_bad,Battery yawonongeka pang'ono
+very_bad,Zoyipa kwambiri
+battery_damaged,Batire yawonongeka
+custom_mode,Custom Mode
+brightness,Kuwala
+automatic_brightness,Kuwala Kwambiri
+normal,Wamba
+sound_modus,Sound Modus
+tone_work,Toni Zonse Zimagwira Ntchito
+mute,Musalankhula
+call_note_mute,Kuyimba ndi zidziwitso zatsekedwa
+not_bother,Osavutika
+tones_vibration_mute,Zimitsani ma toni ndi ma vibrate, kupatula ma alarm
+sound,Zomveka
+music,nyimbo
+notification,Chidziwitso
+alarm,Alamu
+ultra_saving,Ultra mphamvu yopulumutsa mode
+edit,Kusintha
+disable_ultra_saving,Letsani Njira Yopulumutsa Mphamvu ya Ultra
+min_remaining,min yotsala
+hours,maola
+activted_ultra_saving,Njira yopulumutsira mphamvu kwambiri imayatsidwa
+charged_in,adalowetsedwa
+min,min
+limit_power,Chepetsani kugwiritsa ntchito mphamvu
+reduce_screen,Chepetsani kuwala kwa skrini
+restrict_bg_act_explain,Chepetsani zochita zakumbuyo
+volatge_check,Voltage yafufuzidwa
+software_optimized,Mapulogalamu amakonzedwa bwino
+connect_charger,Lumikizani charger
+charger_removed,Charger ikhoza kuchotsedwa
+power_consump_title,Kugwiritsa ntchito mphamvu
+srcn_bg_title,Kuwala kwazenera
+bg_al_activities,Zochita zakumbuyo
+sftware,Mapulogalamu
+get_primium,Mukagula mtundu wa premium, mupeza ntchito zonse zomwe zikuchitika komanso ntchito zonse zatsopano mtsogolo.
+cuztomize_face,Kusintha mwamakonda mawonekedwe ogwiritsa ntchito
+comp_scheme,Pangani chiwembu chanu chamtundu wa Battery Manager kuchokera pamitu yosiyanasiyana.
+bat_check_detail,Tsatanetsatane wa batire
+check_cond_test,Gwiritsani ntchito Battery Manager kuti muwone momwe batri yanu ilili kuti mukhale otetezeka nthawi zonse.
+no_ads_yo,Palibe kutsatsa
+use_explain_noads,Gwiritsani ntchito Battery Manager popanda kutsatsa
+act_energy_save,Yambitsani mawonekedwe opulumutsa mphamvu kuti muwonjezere moyo wa batri pakachitika ngozi.
+buy_title,Gulani Premium
+loc_title,Malo
+cap_title,mphamvu
+cap_remain,Kuthekera kotsalira
+sleepy,Gona
+sek,Masekondi
+sing_min,Mphindi
+miniotes,Mphindi
+finish,Zatha
+mobi_data,data yam'manja
+plz_rate,Chonde voterani Battery Manager mu Play Store
+ur_data_cus,Kodi tingapitilizebe kugwiritsa ntchito data yanu kukukonzerani zotsatsa?
+in_slep_mode,Mu tulo mode
+in_use,Mukugwiritsa ntchito
+with_curr_pow,Ndi kugwiritsa ntchito mphamvu zamakono
+rem_bat_life,Moyo wa batri wotsalira
+qck_acc,Kufikira mwachangu
+notif_txt,chidziwitso
+notif_at,Dziwitsani pa
+chg_curr,Kuthamangitsa panopa
+charge_perm,Kulipiritsa ntchito
+maxi_charge_per,Kuthamanga kokwanira
+enb_notif,Yambitsani chidziwitso
+perm_send_notif,Woyang'anira Battery amafuna chilolezo kuti atumize zidziwitso, ziyenera kutsegulidwa pazokonda pazida.
+to_set,Ku zoikamo
+title_autost,Yambitsani Autostart
+auto_explain,Battery Manager imafuna chilolezo kuti ikhalebe chotsegula chakumbuyo kuti mufunse za momwe batire ilili komanso kutumiza zidziwitso.
+sync_auto,Lunzanitsani zokha
+dis_auto_sync,Kuyimitsa kulunzanitsa kwadzidzidzi kumachepetsa kwambiri ma wakelocks. Komabe, ntchito zina monga kulandira maimelo zidzatayika.
+chg_lim,Malire Olipiritsa
+avoid_ful_explain,Ngati mumalipiritsa batri yanu mpaka kufika pamtunda kapena kuitulutsa mpaka itazimitsidwa, chikhalidwe ndi moyo wautumiki wa batri zidzachepetsedwa. M'munsimu mungathe kukhazikitsa batire yocheperako komanso yopitilira muyeso kapena kutulutsa kwa batire ndipo mudzadziwitsidwa nthawi iliyonse yomwe mtengowo ufikira. Pewani kulipiritsa kwathunthu ndikutulutsa batire lanu ndikukulitsa moyo wa batri.
+rec_notif,Simunalandire zidziwitso?
+title_allow_bg_act,Lolani zochita zakumbuyo
+allow_bg_act,Kuti muthe kugwiritsa ntchito Battery Manager popanda zoletsa popanda kutsekedwa mosadziwa ndi opareshoni, mungafunike kuzimitsa ntchito zapadera za kasamalidwe ka batri ndikugwiritsa ntchito batri pazokonda. Chifukwa opanga osiyanasiyana amasiyana posankha zosankhazi kutengera makina ogwiritsira ntchito omwe amagwiritsidwa ntchito. Mugawo la Chidziwitso cha App, pansi pa Kugona kapena Battery, sankhani Palibe Zoletsa kapena Lolani Zochita Zakumbuyo.
+dev_usage,Kugwiritsa ntchito chipangizo
+dep_sleep,Kugona kwakukulu ndi nthawi yomwe chipangizo chanu chikugwiritsa ntchito batire yocheperako. Kutalika kwa tulo tofa nato kumakhala ndi zotsatira zabwino pakupulumutsa mphamvu. Kugona kwakukulu kumatha kusokonezedwa ndi ntchito zakumbuyo, zomwe zimapangitsa kuti batire ituluke mwachangu. Pankhaniyi, kuyambitsanso chipangizo chanu.
+title_bat_temp,Kutentha kwa batri
+bat_tempp,Kutentha kwa batri ndi chimodzi mwazinthu zofunika kwambiri. Ngati batire imasungidwa gel pa kutentha kwambiri, izi zimakhudza moyo wautumiki komanso magwiridwe antchito a batri. Ngati kutentha kumakwera, mkati mwa batri ikhoza kuonongeka.
+rdc_brightness,Chepetsani kuwala kwa skrini
+display_explain,Chiwonetsero ndi chimodzi mwa zigawo zomwe zimadya mphamvu zambiri. Kuchepetsa kuwala kokwanira kumathandiza kuchepetsa kugwiritsidwa ntchito konse ndikusunga ndalama zowoneka bwino. Musanachepetse kuwalako, zimitsani kuwala kodziwikiratu kuti kuwalako kusasinthidwe mosayenera.
+tst_charge,Yesani charger
+best_way_test,Njira yabwino yoyesera chojambulira ndi chingwe ndikuwunika kuthamanga kwacharge ndi chinsalu chozimitsa. Liwiro lacharge pomwe chinsalu chayatsidwa sichoyimira chabwino chifukwa foni yanu imadya mphamvu, zomwe zimapangitsa kusinthasintha. Pulagini chojambulira, zimitsani chinsalu kwa mphindi zingapo, ndiyeno fufuzani kuchuluka kwa ndalama zomwe zilipo.
+wait_title,Kudikirira
+rfsh_rate,Mtengo wotsitsimutsa
+low_sizty,Kutsitsa mulingo wotsitsimutsa mpaka 60 Hz kumathandizira moyo wa batri.
+drk_mode,Mdima Wamdima
+acti_dark_mode,Yambitsani Mdima Wamdima, mu Mdima Wamdima mphamvu zocheperako
+actz,Yambitsani
+poz,Mphamvu
+minz,Zochepa
+avgo,Avereji
+mixi1,Kuchuluka
+msg_dis,Uthengawu umasowa pambuyo pa maola 24 ngati pali deta yokwanira yowonetsera chithunzicho mokwanira.
+no_enough,Palibe deta yokwanira kuti iwonetsedwe
+log_graph,Mumaola ochepa muwona graph pano yomwe ikulolani kuti muwone kutentha kwa batri, voteji, amperage ndi mulingo m'maola 24 apitawa.
+week,sabata
+buy_it,Gulani
+one_pur,Malipiro a nthawi imodzi ya
+refun_pur,kugula kumatha kubwezeredwa mkati mwa maola awiri.
+each_month,Kulembetsa kumapangidwanso mwezi uliwonse ndipo kumapitilira mtengo pamwezi. Kulembetsa kutha kuthetsedwa nthawi iliyonse.
+mng_subs,yendetsani zolembetsa
+subsci,lembetsani
+will_cost_week,Kulembetsa kumangochitika zokha sabata iliyonse ndikupitilira mtengo pa sabata. Kulembetsa kutha kuthetsedwa nthawi iliyonse.
+lfllong,moyo wonse
+mthly,pamwezi
+wkly,Mlungu uliwonse
+hoto,Zotentha
+prm_ben_title,Zopindulitsa za Premium
+sync_title,Lunzanitsa
+dis_sync_inc,Kuletsa kulunzanitsa kudzawonjezera moyo wa batri posagwirizanitsa ntchito chakumbuyo
+time_out,Lekeza panjira
+dec_extend,Kuchepetsa nthawi chiwonetsero chisanazimitsidwe kumatalikitsa moyo wa batri
+u_end_opti,Kodi mukutsimikiza kuti mukufuna kuletsa kukhathamiritsa?
+no_why_perm,Palibe chilolezo
+bright_exp,Battery Manager imafuna chilolezo chosintha makina kuti muchepetse kuwala kwa skrini kapena kuzimitsa Bluetooth.
+tg_title,Lowani nawo njira ya Telegraph!
+tg_text,Khalani ndi zosintha zamapulogalamu, konzekerani zomangika msanga, ndikuthandizira kuyesa zatsopano. Onetsani malingaliro anu, funsani mafunso ndikupeza mayankho mwachangu
+join_tg,kujowina
+curr_consumption,kagwiritsidwe kamakono
+scrn_onn,chophimba pa
+srcn_off,chophimba chozimitsidwa
+mob_charg,Kulipira
+discha,Kutulutsa
+activea,Yogwira
+slpmode,Njira yogona
+chagingspeed,Kuthamanga kwakali pano
+dta_proxt,Chitetezo cha data
+governs,Mfundo zachinsinsi izi zimakulamulirani momwe mungagwiritsire ntchito pulogalamu ya Battery Manager pazida zam'manja zopangidwa ndi Baxolino.
+info_u_provide,Zambiri zoperekedwa ndi wogwiritsa ntchito
+no_pass_per,Sitipereka zambiri zaumwini kwa anthu ena. Mukatitumizira imelo, timakhala ndi imelo yanu, koma timangogwiritsa ntchito kukuthandizani ndi mapulogalamu athu.
+info_auto_coll,Zambiri zasonkhanitsidwa zokha
+exp_admob_use,Timagwiritsa ntchito Google Admob kupereka zotsatsa. Kugwiritsa ntchito masevisiwa kumadalira malamulo a Google oteteza deta pa https://www.google.com/policies/privacy/.
+we_real_time,Kodi Battery Manager amasonkhanitsa zidziwitso zolondola zenizeni zenizeni kuchokera pachidacho?
+exp_loc_perm_man,Battery Manger imangoyang'ana ngati malowo adayatsidwa kapena ayimitsidwa, koma samasonkhanitsa zidziwitso zenizeni za komwe kuli foni yanu yam'manja. Ntchito zozikidwa pamalo oterezi zimayikidwa mwachisawawa. Mutha kuyimitsa kapena kuyambitsanso izi pazokonda pazida zanu. Musanayambe kapena mutatha kukhazikitsa mapulogalamuwa, mudzafunsidwa - kutengera chipangizocho - ngati mungakonde kuyimitsa kapena kuyambitsa izi. Titha kungosonkhanitsa za komwe muli ngati mutsegula ntchito zamalo otere.
+chng,Zosintha
+pri_update_exp,Izi zachinsinsi zitha kusinthidwa nthawi ndi nthawi pazifukwa zilizonse. Tikudziwitsani zakusintha kwa mfundo zathu zachinsinsi potumiza zachinsinsi pa adilesi iyi ndikukudziwitsani kudzera pa uthenga womwe uli mu pulogalamuyi. Ndibwino kuti muyang'ane Mfundo Zazinsinsi izi pafupipafupi kuti musinthe, chifukwa kugwiritsa ntchito nthawi zonse kumawonedwa ngati kuvomereza zosintha zonse. Mutha kuwonanso mbiri ya ndondomekoyi patsamba lino.
+contct,Contact
+any_que,Ngati muli ndi mafunso okhudzana ndi chitetezo cha data mukamagwiritsa ntchito pulogalamuyi kapena muli ndi mafunso okhudza zomwe timachita, chonde tumizani imelo ku baxolino.de@gmail.com
+mem_opti,Battery Manager amafunikira mwayi wofikira "memory" kuti mapulogalamu awonedwe ndikuwongoleredwa. Mutha kuyimitsa kapena kuyambitsa izi pazokonda pazida zanu. Musanayambe kapena mutatha kukhazikitsa pulogalamuyi, mudzafunsidwa - kutengera chipangizocho - ngati mungakonde kuyimitsa kapena kuyambitsa izi.
+storg,Kusungirako
+ble_set_acc,blue_set_perm, Woyang'anira Battery amafuna mwayi wofikira "Bluetooth setting access" kuti awone ngati Bluetooth yayatsidwa kapena yatsekedwa. Ndi kuyambitsa kapena kuletsa Bluetooth.
+ble_title,bulutufi
+needz_del,Battery Manager imafuna mwayi woti "Pemphani kufufutidwa kwa paketi" kuti muyambe kuchotsa pulogalamu. Pulogalamuyi idzachotsedwa pokhapokha mutalola momveka bwino.
+deletion_pkg,Pemphani kufufutidwa kwa phukusi
+need_adnd,Battery Manager imafuna mwayi wa "Osasokoneza" kuti mutsegule kapena kuletsa mawonekedwe Osasokoneza.
+adnd,Pezani Osasokoneza
+need_wlan_acc,Battery Manager imafuna mwayi wopeza "Pezani WLAN Connections" kuti Battery Manager athe kuwona ngati WLAN yayatsidwa kapena yazimitsidwa. Ndi kuyambitsa kapena kuletsa WLAN.
+wln_conn,Pezani ma WLAN maulumikizidwe
+shop_bill_exp,Mukagula kudzera pa Google Play In App Billing, Google imatipatsa dziko lanu komanso nthawi zina chigawo, mzinda, ndi zip code, koma osati adilesi yonse. Timagwiritsa ntchito izi potsatira malamulo amisonkho ndi owerengera ndalama.
+pri_date,Pofika pa 02/21/2021
+how_to_stop,Mutha kuyimitsa kusonkhanitsa kwazinthu zonse pogwiritsa ntchito pulogalamuyo pongochotsa pulogalamuyo. Mutha kugwiritsa ntchito njira zochotsera zomwe zikupezeka ngati gawo la foni yanu yam'manja kapena pamsika kapena netiweki yamapulogalamu am'manja.
+opt_out,Kodi ufulu wanga wotuluka ndi wotani?
+ur_permission,chilolezo chanu
+accept_privacy,Pogwiritsa ntchito pulogalamuyi, mumavomereza kuti data yanu ikonzedwe monga momwe zafotokozedwera m'ndondomeko yachinsinsi iyi komanso momwe ife tasinthira.

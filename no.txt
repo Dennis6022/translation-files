@@ -1,0 +1,347 @@
+title,Battery Manager Lite er annerledes
+extend_life,Den beste måten å forlenge batterilevetiden og holde deg frisk er basert på erfaring og vitenskapelig forskning.
+measured,På en transparent måte viser vi deg kun de faktisk målte dataene og hvordan de beregnes.
+healthy,Hold batteriet sunt
+double_battery,Doble batterilevetiden ved å ikke lade batteriet helt. Forskere har bevist dette i sin forskning.
+charge_limit,Ved å bruke varslingen om ladegrense vil det bli sendt et varsel når batteriet når en brukerdefinert terskel.
+smart,Det blir smartere for hver dag
+analyze,Jo lenger du bruker Battery Manager Lite, jo bedre blir vi til å analysere batteriets ytelse.
+update_every_time,Målingen av gjenværende batterilevetid oppdateres hver gang du bruker eller lader enheten.
+runtime,Oppdag den faktiske driftstiden til batteriet ditt
+discharge_cycle,Hver gang telefonen går gjennom en utladningssyklus, kan et nøyaktig estimat av kjøretiden måles.
+accurate_life,Bruk Battery Manager Lite for å måle nøyaktig batterilevetid.
+no_exit,Ikke avslutt Battery Manager Lite!
+bg_require,Battery Manager Lite krever en bakgrunnstjeneste for å samle inn batteristatistikk og måle batterilading og utladingstid. Enheten din stopper sannsynligvis tjenesten eller lar den ikke kjøre når appen er stengt. For å unngå dette har vi en god løsning for deg. Bare klikk på linken.
+man,Håndbok
+cali,Kalibrering
+polarity,I dette trinnet oppdager appen ladepolariteten og designkapasiteten til batteriet ditt.
+disch,Utflod
+ch_pol,Ladepolaritet
+power_meter,Strømmåler
+unit_mesure,Måleenhet
+capacity,Batterikapasitet
+wrong,Ikke riktig?
+calib,Kalibrer
+ye,Ja
+no,Nei
+neg,Negativ
+pos,Positivt
+lunch,Start appen
+manufac,Kapasitet i henhold til produsenten
+design_des,Designkapasiteten er den faktiske batterikapasiteten, målt i mAh. Siden det ikke er noen offisiell måte å bestemme kapasiteten på, kan verdien som returneres være feil.
+correct_it,Hvis den viste kapasiteten ikke er riktig, vennligst korriger den.
+cancel,Avbryt
+ok,Greit
+runtime,Batteridriftstid
+wait,venter
+per_hr,Batteriforbruk per time
+life_for,Batterilevetid for
+battery_cond,Batteritilstand
+bat_info,Batteriinformasjon
+bat_cap,Batterikapasitet
+bat_volt,Batterispenning
+bat_cur,Batteristrøm
+unit_mes,Måleenhet
+done,Ferdig
+c_bat_temp,Gjeldende batteritemperatur
+min_bat_tem,Minimum batteritemperatur
+mx_bat_tem,Maksimal batteritemperatur
+avg_bat_tem,Gjennomsnittlig batteritemperatur
+dig_last,Siste diagnose før
+rem_time,Gjenværende tid
+volt,Spenning
+curr,Strøm
+status,Status
+run_time,Driftstid
+currently,For tiden
+avg,Gjennomsnitt
+minmal,Minimal
+maximal,Maksimum
+tool,Verktøy
+rem_apps,Avinstaller apper du ikke lenger bruker for å forhindre at apper kjører unødvendig og tapper batteriet
+uninst_apps,Avinstaller apper
+stat,Start
+act_eng_save,Aktiver energisparemodus for å redusere batteriforbruket
+pow_save,Strømsparingsmodus
+tempe,Temperatur
+heal,Helse
+tips,Hold batteriet i god stand med tips og triks.
+recomm,Anbefalinger
+prem,Premium
+more_func,Flere funksjoner for deg. Få premium, få mer.
+more,Mer
+ur_cond_bat,Batteritilstanden er
+ur_bat_life,Batterilevetiden din er
+ur_bat_temp,Din batteritemperatur er
+wow,Utmerket
+normal,Vanlig
+poor,Dårlig
+days,Dager
+mins,Minutter
+hrs,Timer
+chging,Lader
+ful,Full
+dis_chrg,Utladning
+unkn,Ukjent
+too_lit,For lite batteridata
+car_any,Gjennomfør uansett
+endz_,Slutt
+dig_any,For å få bedre diagnostiske resultater, må appen analysere batteriet i bakgrunnen. Start diagnosen etter 24 timer
+end_dig,Slutt diagnose
+quit_dig,Virkelig slutte med diagnosen
+batty_temp,Batteritemperatur
+akku_manager,Akku Manager
+u_agree,Med «START» godtar du personvernreglene
+elemn_opti,Elementer kan optimaliseres
+looks_good,Alt ser bra ut
+optimize_,Optimaliser
+toolz_,Verktøy
+akku_check,Akku Sjekk
+ctrl_load,Kontrollert lasting
+mng_apps,Administrer apper
+infosm,Informasjon
+tenzion,Spenninger
+electy,elektrisitet
+lvl,Nivå
+akku_man_premium,Akku Manager Premium
+premimum_highlight,Bruk Battery Manager helt uten reklame og du har tilgang til omfattende tilpasning av brukergrensesnittet.
+design,Design
+subjs,fag
+genrally,Som regel
+temp_unit,Temperaturenhet
+oth_apps,Andre apper
+dat_protect,Data beskyttelse
+thx_akku,Takk for at du støtter Akku Manager med kjøpet av premiumversjonen.
+user_got_pre,Du har nå tilgang til omfattende tilpasning av brukergrensesnittet og bruken uten reklame.
+exp_more,Du kan forvente flere funksjoner i fremtidige oppdateringer
+ap_optimiz,Appoptimalisering
+sys_bat_usage,Systemets batteriforbruk
+bat_usage_det,Detaljer om batteribruk
+end_optiz,Avslutt optimalisering
+abort,Avbryte
+break_up,slå opp
+scn,å skanne
+scn_bgh,Skjermens lysstyrke
+dact_wlan,Deaktiver WLAN
+dact_save_batt,Deaktiver for å spare batteri
+dact,Deaktiver
+dact_ble,Deaktiver bluetooth
+red_brigh,Reduser lysstyrken
+bright_txt,Reduser lysstyrken på skjermen for å spare batteri
+to_reduce,Å redusere
+dact_gps,Deaktiver GPS
+appz_optimz,Apper optimalisert
+start_bat_check_det,Start en detaljert batterisjekk for alltid å være på den sikre siden
+act_eng_save,Aktiver energisparemodus for å redusere batteriforbruket
+remove_useless,Avinstaller apper som ikke lenger brukes
+premium,Premium
+clear_mem,Rydd opp i minnet
+clear_mem_des,Slik at smarttelefonen din kjører raskt og jevnt.
+clenaup,Rydde opp
+rat,vurdering
+rat_free,Vurder Battery Manager gratis
+sendz,Sende
+elmn_found,Elementer funnet
+drumz,Trommer
+status,Status
+end_akk_check,Avslutt batterisjekk
+bat_detlz,Batteridetaljer
+temp_checked,Temperaturen kontrolleres
+cond_checked,Batteriets tilstand kontrolleres
+checkz_start,Batterisjekk starter
+plug_in,Plugget inn
+techz,Teknologi
+coldz,Kald
+until,Før
+well,Vi vil
+ovr_heat,Overoppheting
+ovr_load,Overbelastning
+renam,omdøpt
+not_def,ikke definert
+chrgz,Lade
+full,Full
+unloadz,Lossing
+not_charge_unkn,ikke belastet eller ukjent
+usb,USB
+charger,lader
+wless,trådløst
+not_at_al,ingenting i det hele tatt
+uninstall,Avinstaller
+update,Å oppdatere
+setting,Innstillinger
+app,Apper
+not_found,Appen ble ikke funnet
+search,Søk etter apper
+version_code,Versjonskode
+api_level,API-nivå
+app_version,App-versjon
+authorization,autorisasjon
+open,å åpne
+play_store,Play Butikk
+control,styre
+systemstandart,Systemstandard
+white,Hvit
+dark,Mørk
+ocean,hav
+black,Svart
+dark_blue,Mørke blå
+excellent,Utmerket
+bad,Dårlig
+battery_bad,Batteriet er litt skadet
+very_bad,Veldig dårlig
+battery_damaged,Batteriet er skadet
+custom_mode,Egendefinert modus
+brightness,Lysstyrke
+automatic_brightness,Automatisk lysstyrke
+normal,Vanlig
+sound_modus,Lydmodus
+tone_work,Alle toner fungerer
+mute,Stum
+call_note_mute,Samtaler og varsler er dempet
+not_bother,Ikke bry deg
+tones_vibration_mute,Slå av toner og vibrasjoner, bortsett fra alarmtoner
+sound,Lyder
+music,musikk
+notification,Melding
+alarm,Alarm
+ultra_saving,Ultra energisparemodus
+edit,Å redigere
+disable_ultra_saving,Deaktiver Ultra Energy Saving Mode
+min_remaining,min gjenstår
+hours,timer
+activted_ultra_saving,Ultraenergisparemodus er aktivert
+charged_in,ladet inn
+min,min
+limit_power,Begrens strømforbruket
+reduce_screen,Reduser skjermens lysstyrke
+restrict_bg_act_explain,Begrens bakgrunnsaktiviteter
+volatge_check,Spenningen kontrolleres
+software_optimized,Programvaren er optimalisert
+connect_charger,Koble til lader
+charger_removed,Laderen kan tas ut
+power_consump_title,Strømforbruk
+srcn_bg_title,Skjermens lysstyrke
+bg_al_activities,Bakgrunnsaktiviteter
+sftware,Programvare
+get_primium,Kjøper du premiumversjonen får du alle gjeldende funksjoner samt alle nye funksjoner i fremtiden.
+cuztomize_face,Tilpasning av brukergrensesnittet
+comp_scheme,Komponer ditt Battery Manager-fargeskjema fra en rekke temaer.
+bat_check_detail,Detaljert batterisjekk
+check_cond_test,Bruk Battery Manager til å sjekke tilstanden til batteriet ditt for alltid å være på den sikre siden.
+no_ads_yo,Ingen reklame
+use_explain_noads,Bruk Battery Manager uten reklame
+act_energy_save,Aktiver ultraenergisparemodus for å øke batterilevetiden i en nødsituasjon.
+buy_title,Kjøp Premium
+loc_title,plassering
+cap_title,kapasitet
+cap_remain,Gjenværende kapasitet
+sleepy,Sove
+sek,Sekunder
+sing_min,Minutt
+miniotes,Minutter
+finish,Ferdig
+mobi_data,mobildata
+plz_rate,Vennligst ranger Battery Manager i Play-butikken
+ur_data_cus,Kan vi fortsette å bruke dataene dine til å tilpasse annonser for deg?
+in_slep_mode,I hvilemodus
+in_use,I bruk
+with_curr_pow,Med dagens strømforbruk
+rem_bat_life,Gjenværende batterilevetid
+qck_acc,Rask tilgang
+notif_txt,melding
+notif_at,Gi beskjed kl
+chg_curr,Ladestrøm
+charge_perm,Ladeytelse
+maxi_charge_per,Maksimal ladeytelse
+enb_notif,Tillate notifikasjoner
+perm_send_notif,Battery Manager krever tillatelse for å sende et varsel, den må være aktivert i enhetens innstillinger.
+to_set,Til innstillingene
+title_autost,Aktiver Autostart
+auto_explain,Battery Manager krever tillatelse for å forbli aktivert i bakgrunnen for å spørre batteristatusen og sende et varsel.
+sync_auto,Synkroniser automatisk
+dis_auto_sync,Deaktivering av automatisk synkronisering reduserer wakelocks betydelig. Noen funksjoner som å motta e-post vil imidlertid gå tapt.
+chg_lim,Charge Lime
+avoid_ful_explain,Hvis du lader batteriet maksimalt eller lader det ut til det slås av, vil tilstanden og levetiden til batteriet reduseres. I det følgende kan du stille inn minimum og maksimum lade- eller utladingsstatus for batteriet, og du vil bli varslet hver gang terskelverdien nås. Unngå en fulllading og utlading av batteriet og forleng batteriets levetid.
+rec_notif,Ikke mottatt varsel?
+title_allow_bg_act,Tillat bakgrunnsaktivitet
+allow_bg_act,For at du skal kunne bruke Battery Manager uten begrensninger uten at den utilsiktet lukkes av operativsystemet, må du kanskje slå av spesialfunksjoner for batterihåndtering og batteribruk i innstillingene. Fordi de ulike produsentene er forskjellige i betegnelsen på disse alternativene avhengig av hvilket operativsystem som brukes. I området Appinformasjon, under Dvale eller batteri, velger du Ingen begrensninger eller Tillat bakgrunnsaktivitet.
+dev_usage,Enhetsbruk
+dep_sleep,Dyp søvn er en tilstand der enheten bruker minst mulig batteri. Varigheten av dyp søvn har en positiv effekt på energisparing. Den dype søvnen kan bli avbrutt av bakgrunnsoppgaver, som gjør at batteriet lades ut raskere. I dette tilfellet starter du enheten på nytt.
+title_bat_temp,Batteritemperatur
+bat_tempp,Batteritemperaturen er en av de viktigste faktorene. Hvis batteriet holdes gel ved høye temperaturer, påvirker dette både levetiden og ytelsen til batteriet. Hvis temperaturen stiger, kan den interne strukturen til batteriet bli skadet.
+rdc_brightness,Reduser skjermens lysstyrke
+display_explain,Displayet er en av komponentene som bruker mest energi. Å redusere maksimal lysstyrke bidrar til å redusere det totale forbruket og oppnå merkbare besparelser. Før du reduserer lysstyrken, deaktiver den automatiske lysstyrken slik at lysstyrken ikke endres unødvendig.
+tst_charge,Test lader
+best_way_test,Den beste måten å teste laderen og kabelen på er ved å sjekke ladehastigheten med skjermen av. Ladehastigheten når skjermen er på er ikke en god målestokk fordi telefonen din bruker strøm, noe som forårsaker svingninger. Koble til laderen, slå av skjermen i noen minutter, og kontroller deretter maksimal ladestrøm.
+wait_title,Venter
+rfsh_rate,Oppdateringsfrekvens
+low_sizty,Å senke oppdateringsfrekvensen til 60 Hz forbedrer batterilevetiden.
+drk_mode,Mørk modus
+acti_dark_mode,Aktiver mørk modus, i mørk modus forbrukes mindre strøm
+actz,Aktiver
+poz,Makt
+minz,Minimum
+avgo,Gjennomsnitt
+mixi1,Maksimum
+msg_dis,Meldingen forsvinner etter 24 timer hvis det er nok data til å vise hele diagrammet.
+no_enough,Ikke nok data til å vise
+log_graph,Om noen timer vil du se en graf her som lar deg sjekke batteritemperatur, spenning, strømstyrke og nivå de siste 24 timene.
+week,uke
+buy_it,Kjøpe
+one_pur,Engangsavgift på
+refun_pur,kjøpet kan refunderes innen 2 timer.
+each_month,Abonnementet fornyes automatisk hver måned og fortsetter å koste per måned. Abonnementet kan kanselleres når som helst.
+mng_subs,administrere abonnement
+subsci,abonnere
+will_cost_week,Abonnementet fornyes automatisk hver uke og fortsetter å koste per uke. Abonnementet kan kanselleres når som helst.
+lfllong,livslang
+mthly,månedlig
+wkly,Ukentlig
+hoto,Varmt
+prm_ben_title,Premium-fordeler
+sync_title,Synkroniser
+dis_sync_inc,Deaktivering av synkronisering vil øke batterilevetiden ved ikke å synkronisere tjenester i bakgrunnen
+time_out,Pause
+dec_extend,Hvis du reduserer tiden før skjermen slås av, forlenges batterilevetiden
+u_end_opti,Er du sikker på at du vil avslutte optimaliseringsprosessen?
+no_why_perm,Ingen tillatelse
+bright_exp,Battery Manager krever tillatelse til å endre systeminnstillinger for å redusere skjermens lysstyrke eller slå av Bluetooth.
+tg_title,Bli med på Telegram-kanalen!
+tg_text,Hold deg oppdatert med appoppdateringer, få tidlige versjoner og hjelp til å teste nye funksjoner. Foreslå dine ideer, still spørsmål og få svar raskere
+join_tg,bli med
+curr_consumption,nåværende forbruk
+scrn_onn,skjermen på
+srcn_off,skjermen av
+mob_charg,Lader
+discha,Utladning
+activea,Aktiv
+slpmode,Sove modus
+chagingspeed,Gjeldende ladehastighet
+dta_proxt,Data beskyttelse
+governs,Denne personvernerklæringen regulerer din bruk av Battery Manager-programvaren for mobile enheter laget av Baxolino.
+info_u_provide,Informasjon gitt av brukeren
+no_pass_per,Vi videreformidler ikke personopplysninger til tredjeparter. Når du sender e-post til oss, har vi e-postadressen din, men vi bruker den kun til å hjelpe deg med appene våre.
+info_auto_coll,Informasjon samlet inn automatisk
+exp_admob_use,Vi bruker Google Admob for å vise annonser. Bruken av disse tjenestene er underlagt Googles databeskyttelsesbestemmelser på https://www.google.com/policies/privacy/.
+we_real_time,Samler Battery Manager inn nøyaktig sanntidsposisjonsinformasjon fra enheten?
+exp_loc_perm_man,Battery Manager sjekker kun om plasseringen er aktivert eller deaktivert, men samler ikke inn nøyaktig informasjon om plasseringen til din mobile enhet. Slike stedsbaserte funksjoner er satt som standard. Du kan deaktivere eller reaktivere disse funksjonene i innstillingene til din respektive enhet. Før eller etter installasjon av appene vil du bli spurt – avhengig av enhet – om du foretrekker å deaktivere eller aktivere disse funksjonene. Vi kan bare samle inn data om posisjonen din hvis du aktiverer slike posisjonstjenester.
+chng,Endringer
+pri_update_exp,Denne personvernerklæringen kan bli oppdatert fra tid til annen uansett årsak. Vi vil informere deg om endringer i personvernreglene våre ved å legge ut de nye personvernreglene på denne nettadressen og varsle deg via en melding i appen. Det anbefales at du regelmessig konsulterer denne personvernerklæringen for endringer, da fortsatt bruk anses som godkjenning av alle endringer. Du kan se historien til denne policyen på denne nettsiden.
+contct,Ta kontakt med
+any_que,Hvis du har spørsmål om databeskyttelse mens du bruker applikasjonen eller har spørsmål om vår praksis, vennligst send en e-post til baxolino.de@gmail.com
+mem_opti,Battery Manager trenger «minne»-tilgangen slik at apper kan skannes og optimaliseres. Du kan deaktivere eller aktivere disse funksjonene i innstillingene til din respektive enhet. Før eller etter installasjon av appen vil du bli spurt – avhengig av enhet – om du foretrekker å deaktivere eller aktivere disse funksjonene.
+storg,Oppbevaring
+ble_set_acc,blue_set_perm,Battery Manager krever tilgangen "Bluetooth-innstillingstilgang" slik at det kan kontrolleres om Bluetooth er aktivert eller deaktivert. Og for å aktivere eller deaktivere Bluetooth.
+ble_title,blåtann
+needz_del,Battery Manager krever tilgangen "Be om sletting av pakker" for å starte en avinstallering av en app. Appen vil bare bli avinstallert hvis du uttrykkelig tillater det.
+deletion_pkg,Be om sletting av pakker
+need_adnd,Battery Manager krever "Ikke forstyrr"-tilgang for å aktivere eller deaktivere Ikke forstyrr-modus.
+adnd,Tilgang Ikke forstyrr
+need_wlan_acc,Battery Manager krever tilgang til "Get WLAN Connections" slik at Battery Manager kan sjekke om WLAN er aktivert eller deaktivert. Og for å aktivere eller deaktivere WLAN.
+wln_conn,Få WLAN-tilkoblinger
+shop_bill_exp,Når du handler via Google Play In App Billing, gir Google oss ditt bostedsland og noen ganger staten, byen og postnummeret, men aldri hele adressen. Vi bruker denne informasjonen for å overholde skatte- og regnskapsbestemmelser.
+pri_date,Fra 21.02.2021
+how_to_stop,Du kan stoppe hele innsamlingen av informasjon fra applikasjonen ved å avinstallere applikasjonen. Du kan bruke standard avinstalleringsprosesser som er tilgjengelige som en del av din mobile enhet eller via markedsplassen eller nettverket for mobilapplikasjoner.
+opt_out,Hva er mine avmeldingsrettigheter?
+ur_permission,din tillatelse
+accept_privacy,Ved å bruke applikasjonen samtykker du til vår behandling av dataene dine som angitt i denne personvernerklæringen og som endret av oss.

@@ -1,0 +1,347 @@
+title,Trình quản lý pin Lite thì khác
+extend_life,Cách tốt nhất để kéo dài thời lượng pin và giữ cho bạn khỏe mạnh là dựa trên kinh nghiệm và nghiên cứu khoa học.
+measured,Theo một cách minh bạch, chúng tôi chỉ hiển thị cho bạn dữ liệu được đo thực tế và cách tính toán dữ liệu đó.
+healthy,Giữ pin của bạn khỏe mạnh
+double_battery,Nhân đôi tuổi thọ pin của bạn bằng cách không sạc đầy pin. Các nhà khoa học đã chứng minh điều này trong nghiên cứu của họ.
+charge_limit,Sử dụng thông báo giới hạn sạc của chúng tôi, thông báo sẽ được gửi khi pin đạt đến ngưỡng do người dùng xác định.
+smart,Nó trở nên thông minh hơn mỗi ngày
+analyze,Bạn sử dụng Battery Manager Lite càng lâu, chúng tôi sẽ càng phân tích hiệu suất pin của bạn tốt hơn.
+update_every_time,Số đo thời lượng pin còn lại được cập nhật mỗi khi bạn sử dụng hoặc sạc thiết bị của mình.
+runtime,Khám phá thời gian chạy thực tế của pin
+discharge_cycle,Mỗi khi điện thoại của bạn trải qua một chu kỳ xả, có thể đo được ước tính chính xác về thời gian chạy của điện thoại.
+accurate_life,Sử dụng Battery Manager Lite để đo tuổi thọ pin chính xác.
+no_exit,Đừng thoát Battery Manager Lite!
+bg_require,Battery Manager Lite yêu cầu một dịch vụ nền để thu thập số liệu thống kê về pin và đo thời gian sạc và xả pin. Thiết bị của bạn có khả năng dừng dịch vụ hoặc không cho phép dịch vụ chạy khi đóng ứng dụng. Để tránh điều này, chúng tôi có một giải pháp tốt cho bạn. Chỉ cần nhấp vào liên kết.
+man,Thủ công
+cali,Sự định cỡ
+polarity,Trong bước này, ứng dụng sẽ phát hiện cực sạc và dung lượng thiết kế của pin.
+disch,Phóng điện
+ch_pol,Sạc cực
+power_meter,Đồng hồ điện
+unit_mesure,Đơn vị đo lường
+capacity,Dung lượng pin
+wrong,Không phải?
+calib,hiệu chỉnh
+ye,Đúng
+no,Không
+neg,Phủ định
+pos,Tích cực
+lunch,Chạy chương trình
+manufac,Công suất theo nhà sản xuất
+design_des,Dung lượng thiết kế là dung lượng thực tế của pin, được đo bằng mAh. Vì không có cách chính thức nào để xác định dung lượng nên giá trị trả về có thể sai.
+correct_it,Nếu dung lượng hiển thị không chính xác, vui lòng sửa lại.
+cancel,Hủy bỏ
+ok,Được chứ
+runtime,Thời gian chạy pin
+wait,đang chờ đợi
+per_hr,Tiêu thụ pin mỗi giờ
+life_for,Tuổi thọ pin cho
+battery_cond,tình trạng pin
+bat_info,Thông tin về pin
+bat_cap,Dung lượng pin
+bat_volt,điện áp pin
+bat_cur,pin hiện tại
+unit_mes,Đơn vị đo lường
+done,Xong
+c_bat_temp,Nhiệt độ pin hiện tại
+min_bat_tem,Nhiệt độ pin tối thiểu
+mx_bat_tem,Nhiệt độ pin tối đa
+avg_bat_tem,Nhiệt độ pin trung bình
+dig_last,chẩn đoán cuối cùng trước
+rem_time,Thời gian còn lại
+volt,Vôn
+curr,Hiện hành
+status,Trạng thái
+run_time,thời gian chạy
+currently,Hiện nay
+avg,Trung bình
+minmal,Tối thiểu
+maximal,tối đa
+tool,Công cụ
+rem_apps,Gỡ cài đặt các ứng dụng bạn không còn sử dụng để ngăn các ứng dụng chạy không cần thiết và làm hao pin của bạn
+uninst_apps,Gỡ cài đặt ứng dụng
+stat,Bắt đầu
+act_eng_save,Kích hoạt chế độ tiết kiệm năng lượng để giảm mức tiêu thụ pin
+pow_save,Chế độ tiết kiệm năng lượng
+tempe,Nhiệt độ
+heal,Sức khỏe
+tips,Giữ Pin của bạn trong tình trạng tốt với các mẹo và thủ thuật.
+recomm,khuyến nghị
+prem,Phần thưởng
+more_func,Nhiều chức năng hơn cho bạn. Nhận phí bảo hiểm, nhận được nhiều hơn nữa.
+more,Hơn
+ur_cond_bat,Tình trạng pin là
+ur_bat_life,Tuổi thọ pin của bạn là
+ur_bat_temp,Nhiệt độ pin của bạn là
+wow,Xuất sắc
+normal,Bình thường
+poor,kém
+days,ngày
+mins,Phút
+hrs,Giờ
+chging,sạc
+ful,Đầy
+dis_chrg,Xả
+unkn,không xác định
+too_lit,Quá ít dữ liệu pin
+car_any,thực hiện nào
+endz_,Chấm dứt
+dig_any,Để có kết quả chẩn đoán tốt hơn, ứng dụng cần phân tích pin của bạn ở chế độ nền. Vui lòng bắt đầu chẩn đoán sau 24 giờ
+end_dig,kết thúc chẩn đoán
+quit_dig,Thực sự thoát khỏi chẩn đoán
+batty_temp,nhiệt độ pin
+akku_manager,Quản lý Akku
+u_agree,Với "START", bạn đồng ý với các quy định bảo vệ dữ liệu
+elemn_opti,Các yếu tố có thể được tối ưu hóa
+looks_good,Mọi thứ trông có vẻ tốt
+optimize_,Tối ưu hóa
+toolz_,Công cụ
+akku_check,Kiểm tra Akku
+ctrl_load,kiểm soát tải
+mng_apps,Quản lý ứng dụng
+infosm,Thông tin
+tenzion,căng thẳng
+electy,điện lực
+lvl,Mức độ
+akku_man_premium,Trình quản lý Akku cao cấp
+premimum_highlight,Sử dụng Trình quản lý pin hoàn toàn không có quảng cáo và bạn có quyền truy cập vào tùy chỉnh mở rộng của giao diện người dùng.
+design,Thiết kế
+subjs,đối tượng
+genrally,Nói chung là
+temp_unit,đơn vị nhiệt độ
+oth_apps,Những ứng dụng khác
+dat_protect,Bảo vệ dữ liệu
+thx_akku,Cảm ơn bạn đã hỗ trợ Akku Manager với việc mua phiên bản cao cấp.
+user_got_pre,Giờ đây, bạn có quyền truy cập vào tùy chỉnh rộng rãi giao diện người dùng và cách sử dụng mà không cần quảng cáo.
+exp_more,Bạn có thể mong đợi nhiều tính năng hơn trong các bản cập nhật trong tương lai
+ap_optimiz,tối ưu hóa ứng dụng
+sys_bat_usage,Hệ thống tiêu thụ pin
+bat_usage_det,Chi tiết sử dụng pin
+end_optiz,kết thúc tối ưu hóa
+abort,Huỷ bỏ
+break_up,chia tay
+scn,để quét
+scn_bgh,Độ sáng màn hình
+dact_wlan,Tắt mạng WLAN
+dact_save_batt,Tắt để tiết kiệm pin
+dact,hủy kích hoạt
+dact_ble,tắt bluetooth
+red_brigh,Giảm độ sáng
+bright_txt,Giảm độ sáng màn hình để tiết kiệm pin
+to_reduce,Giảm
+dact_gps,Tắt GPS
+appz_optimz,Ứng dụng được tối ưu hóa
+start_bat_check_det,Bắt đầu kiểm tra pin chi tiết để luôn ở bên an toàn
+act_eng_save,Kích hoạt chế độ tiết kiệm năng lượng để giảm mức tiêu thụ pin
+remove_useless,Gỡ cài đặt các ứng dụng không còn được sử dụng
+premium,Phần thưởng
+clear_mem,Dọn dẹp bộ nhớ
+clear_mem_des,Để điện thoại thông minh của bạn chạy nhanh và mượt mà.
+clenaup,Dọn dẹp
+rat,Xếp hạng
+rat_free,Xếp hạng Trình quản lý pin miễn phí
+sendz,Gửi
+elmn_found,Các yếu tố được tìm thấy
+drumz,trống
+status,Trạng thái
+end_akk_check,Kết thúc kiểm tra pin
+bat_detlz,chi tiết pin
+temp_checked,Nhiệt độ được kiểm tra
+cond_checked,Tình trạng của pin được kiểm tra
+checkz_start,Kiểm tra pin bắt đầu
+plug_in,Cắm vào
+techz,Công nghệ
+coldz,Lạnh
+until,Cho đến khi
+well,Tốt
+ovr_heat,quá nóng
+ovr_load,quá tải
+renam,đổi tên
+not_def,không xác định
+chrgz,Sạc pin
+full,Đầy
+unloadz,Dỡ hàng
+not_charge_unkn,không bị tính phí hoặc không rõ
+usb,USB
+charger,bộ sạc
+wless,không dây
+not_at_al,không có gì đâu
+uninstall,Gỡ cài đặt
+update,Cập nhật
+setting,Cài đặt
+app,ứng dụng
+not_found,Không tìm thấy ứng dụng
+search,Tìm kiếm ứng dụng
+version_code,Mã phiên bản
+api_level,Cấp API
+app_version,Phiên bản ứng dụng
+authorization,ủy quyền
+open,mở
+play_store,Cửa hang tro chơi
+control,điều khiển
+systemstandart,tiêu chuẩn hệ thống
+white,Trắng
+dark,Tối
+ocean,Đại dương
+black,Màu đen
+dark_blue,Xanh đậm
+excellent,Xuất sắc
+bad,Xấu
+battery_bad,Pin bị hư nhẹ
+very_bad,Rất tệ
+battery_damaged,Pin bị hỏng
+custom_mode,Chế độ tùy chỉnh
+brightness,độ sáng
+automatic_brightness,Độ sáng tự động
+normal,Bình thường
+sound_modus,Chế độ âm thanh
+tone_work,Tất cả các âm đều hoạt động
+mute,Tắt tiếng
+call_note_mute,Các cuộc gọi và thông báo bị tắt tiếng
+not_bother,Đừng bận tâm
+tones_vibration_mute,Tắt âm và rung, ngoại trừ âm báo thức
+sound,Âm thanh
+music,Âm nhạc
+notification,Thông báo
+alarm,Báo thức
+ultra_saving,Chế độ siêu tiết kiệm năng lượng
+edit,Chỉnh sửa
+disable_ultra_saving,Tắt Chế độ siêu tiết kiệm năng lượng
+min_remaining,phút còn lại
+hours,giờ
+activted_ultra_saving,Chế độ siêu tiết kiệm năng lượng được kích hoạt
+charged_in,tính vào
+min,tối thiểu
+limit_power,Hạn chế tiêu thụ điện năng
+reduce_screen,Giảm độ sáng màn hình
+restrict_bg_act_explain,Hạn chế các hoạt động nền
+volatge_check,Điện áp được kiểm tra
+software_optimized,Phần mềm được tối ưu hóa
+connect_charger,Kết nối bộ sạc
+charger_removed,Bộ sạc có thể được gỡ bỏ
+power_consump_title,Sự tiêu thụ năng lượng
+srcn_bg_title,Độ sáng màn hình
+bg_al_activities,hoạt động nền
+sftware,Phần mềm
+get_primium,Nếu bạn mua phiên bản cao cấp, bạn sẽ nhận được tất cả các chức năng hiện tại cũng như tất cả các chức năng mới trong tương lai.
+cuztomize_face,Tùy biến giao diện người dùng
+comp_scheme,Soạn bảng màu Trình quản lý pin của bạn từ nhiều chủ đề khác nhau.
+bat_check_detail,Kiểm tra pin chi tiết
+check_cond_test,Sử dụng Trình quản lý pin để kiểm tra tình trạng pin của bạn để luôn ở bên an toàn.
+no_ads_yo,Không quảng cáo
+use_explain_noads,Sử dụng Trình quản lý pin mà không có bất kỳ quảng cáo nào
+act_energy_save,Kích hoạt chế độ siêu tiết kiệm năng lượng để tăng thời lượng pin trong trường hợp khẩn cấp.
+buy_title,Mua cao cấp
+loc_title,Địa điểm
+cap_title,dung tích
+cap_remain,công suất còn lại
+sleepy,Ngủ
+sek,giây
+sing_min,Phút
+miniotes,Phút
+finish,Hoàn thành
+mobi_data,dữ liệu di động
+plz_rate,Vui lòng đánh giá Trình quản lý pin trong Cửa hàng Play
+ur_data_cus,Chúng tôi có thể tiếp tục sử dụng dữ liệu của bạn để tùy chỉnh quảng cáo cho bạn không?
+in_slep_mode,Ở chế độ ngủ
+in_use,Đang sử dụng
+with_curr_pow,Với mức tiêu thụ điện năng hiện tại
+rem_bat_life,Tuổi thọ pin còn lại
+qck_acc,Truy cập nhanh
+notif_txt,thông báo
+notif_at,Thông báo tại
+chg_curr,Hiện tại đang sạc
+charge_perm,Hiệu suất sạc
+maxi_charge_per,Hiệu suất sạc tối đa
+enb_notif,Bật thông báo
+perm_send_notif,Trình quản lý pin yêu cầu quyền gửi thông báo, nó phải được kích hoạt trong cài đặt của thiết bị.
+to_set,Đến phần cài đặt
+title_autost,Kích hoạt Tự khởi động
+auto_explain,Trình quản lý pin yêu cầu quyền vẫn được kích hoạt ở chế độ nền để truy vấn trạng thái pin và gửi thông báo.
+sync_auto,đồng bộ hóa tự động
+dis_auto_sync,Vô hiệu hóa đồng bộ hóa tự động làm giảm đáng kể các lần đánh thức. Tuy nhiên, một số chức năng như nhận e-mail sẽ bị mất.
+chg_lim,Giới hạn phí
+avoid_ful_explain,Nếu bạn sạc pin đến mức tối đa hoặc xả pin cho đến khi tắt, tình trạng và tuổi thọ của pin sẽ bị giảm. Trong phần sau, bạn có thể đặt trạng thái sạc hoặc xả tối thiểu và tối đa của pin và bạn sẽ được thông báo mỗi khi đạt đến giá trị ngưỡng. Tránh một lần sạc đầy rồi xả pin và kéo dài tuổi thọ của pin.
+rec_notif,Không nhận được thông báo?
+title_allow_bg_act,Cho phép hoạt động nền
+allow_bg_act,Để bạn có thể sử dụng Trình quản lý pin mà không bị hạn chế mà không bị hệ điều hành đóng ngoài ý muốn, bạn có thể phải tắt các chức năng đặc biệt để quản lý pin và sử dụng pin trong cài đặt. Bởi vì các nhà sản xuất khác nhau trong việc chỉ định các tùy chọn này tùy thuộc vào hệ điều hành được sử dụng. Trong khu vực Thông tin ứng dụng, bên dưới Ngủ hoặc Pin, chọn Không hạn chế hoặc Cho phép hoạt động nền.
+dev_usage,Sử dụng thiết bị
+dep_sleep,Ngủ sâu là trạng thái mà thiết bị của bạn đang sử dụng lượng pin ít nhất. Thời lượng của giấc ngủ sâu có tác dụng tích cực trong việc tiết kiệm năng lượng. Giấc ngủ sâu có thể bị gián đoạn bởi các tác vụ chạy nền, khiến pin hết nhanh hơn. Trong trường hợp này, hãy khởi động lại thiết bị của bạn.
+title_bat_temp,nhiệt độ pin
+bat_tempp,Nhiệt độ pin là một trong những yếu tố quan trọng nhất. Nếu pin được giữ gel ở nhiệt độ cao, điều này ảnh hưởng đến cả tuổi thọ và hiệu suất của pin. Nếu nhiệt độ tăng lên, cấu trúc bên trong của pin có thể bị hỏng.
+rdc_brightness,Giảm độ sáng màn hình
+display_explain,Màn hình là một trong những thành phần tiêu thụ nhiều năng lượng nhất. Giảm độ sáng tối đa giúp giảm mức tiêu thụ tổng thể và đạt được mức tiết kiệm đáng kể. Trước khi giảm độ sáng, hãy tắt độ sáng tự động để độ sáng không bị thay đổi một cách không cần thiết.
+tst_charge,sạc thử
+best_way_test,Cách tốt nhất để kiểm tra bộ sạc và cáp là kiểm tra tốc độ sạc khi tắt màn hình. Tốc độ sạc khi màn hình bật không phải là một điểm chuẩn tốt vì điện thoại của bạn đang tiêu thụ năng lượng, gây ra sự dao động. Cắm bộ sạc, tắt màn hình trong vài phút rồi kiểm tra dòng sạc tối đa.
+wait_title,Đang chờ đợi
+rfsh_rate,Tốc độ làm tươi
+low_sizty,Giảm tốc độ làm mới xuống 60 Hz sẽ cải thiện thời lượng pin.
+drk_mode,Chế độ tối
+acti_dark_mode,Kích hoạt Chế độ tối, trong Chế độ tối ít tiêu thụ năng lượng hơn
+actz,Hoạt động
+poz,Quyền lực
+minz,tối thiểu
+avgo,Trung bình
+mixi1,tối đa
+msg_dis,Thông báo sẽ biến mất sau 24 giờ nếu có đủ dữ liệu để hiển thị đầy đủ sơ đồ.
+no_enough,Không đủ dữ liệu để hiển thị
+log_graph,Trong vài giờ nữa, bạn sẽ thấy một biểu đồ ở đây cho phép bạn kiểm tra nhiệt độ, điện áp, cường độ dòng điện và mức pin trong 24 giờ qua.
+week,tuần
+buy_it,Mua
+one_pur,Phí một lần của
+refun_pur,việc mua hàng có thể được hoàn lại trong vòng 2 giờ.
+each_month,Đăng ký tự động gia hạn mỗi tháng và tiếp tục tính phí mỗi tháng. Việc đăng ký có thể bị hủy bỏ bất cứ lúc nào.
+mng_subs,Quản lý thuê bao
+subsci,đặt mua
+will_cost_week,Đăng ký tự động gia hạn mỗi tuần và tiếp tục tính phí mỗi tuần. Việc đăng ký có thể bị hủy bỏ bất cứ lúc nào.
+lfllong,trọn đời
+mthly,hàng tháng
+wkly,hàng tuần
+hoto,Nóng
+prm_ben_title,Quyền lợi cao cấp
+sync_title,Làm cho đồng bộ
+dis_sync_inc,Tắt đồng bộ hóa sẽ tăng tuổi thọ pin bằng cách không đồng bộ hóa các dịch vụ trong nền
+time_out,Hết giờ
+dec_extend,Giảm thời gian trước khi màn hình tắt sẽ kéo dài tuổi thọ pin
+u_end_opti,Bạn có chắc chắn muốn kết thúc quá trình tối ưu hóa không?
+no_why_perm,Không cho phép
+bright_exp,Trình quản lý pin yêu cầu quyền Thay đổi cài đặt hệ thống để giảm độ sáng màn hình hoặc tắt Bluetooth.
+tg_title,Tham gia kênh Telegram!
+tg_text,Luôn cập nhật các bản cập nhật ứng dụng, nhận các bản dựng sớm và giúp thử nghiệm các tính năng mới. Đề xuất ý tưởng của bạn, đặt câu hỏi và nhận câu trả lời nhanh hơn
+join_tg,tham gia
+curr_consumption,mức tiêu thụ hiện tại
+scrn_onn,bật màn hình
+srcn_off,tắt màn hình
+mob_charg,sạc
+discha,Xả
+activea,Tích cực
+slpmode,chế độ ngủ
+chagingspeed,Tốc độ sạc hiện tại
+dta_proxt,Bảo vệ dữ liệu
+governs,Chính sách quyền riêng tư này chi phối việc bạn sử dụng ứng dụng phần mềm Trình quản lý pin dành cho thiết bị di động do Baxolino tạo ra.
+info_u_provide,Thông tin do người dùng cung cấp
+no_pass_per,Chúng tôi không chuyển dữ liệu cá nhân cho bên thứ ba. Khi bạn gửi email cho chúng tôi, chúng tôi có địa chỉ email của bạn nhưng chúng tôi chỉ sử dụng địa chỉ đó để trợ giúp bạn với các ứng dụng của chúng tôi.
+info_auto_coll,Thông tin được thu thập tự động
+exp_admob_use,Chúng tôi sử dụng Google Admob để phân phát quảng cáo. Việc sử dụng các dịch vụ này tuân theo các điều khoản bảo vệ dữ liệu của Google tại https://www.google.com/policies/privacy/.
+we_real_time,Trình quản lý pin có thu thập thông tin vị trí chính xác theo thời gian thực từ thiết bị không?
+exp_loc_perm_man,Battery Manger chỉ kiểm tra xem vị trí được kích hoạt hay hủy kích hoạt, nhưng không thu thập bất kỳ thông tin chính xác nào về vị trí thiết bị di động của bạn. Các chức năng dựa trên vị trí như vậy được đặt theo mặc định. Bạn có thể tắt hoặc kích hoạt lại các chức năng này trong phần cài đặt của thiết bị tương ứng. Trước hoặc sau khi cài đặt ứng dụng, bạn sẽ được hỏi - tùy thuộc vào thiết bị - xem bạn muốn hủy kích hoạt hay kích hoạt các chức năng này. Chúng tôi chỉ có thể thu thập dữ liệu về vị trí của bạn nếu bạn kích hoạt các dịch vụ định vị đó.
+chng,thay đổi
+pri_update_exp,Chính sách bảo mật này có thể được cập nhật theo thời gian vì bất kỳ lý do gì. Chúng tôi sẽ thông báo cho bạn về những thay đổi đối với chính sách bảo mật của chúng tôi bằng cách đăng chính sách bảo mật mới trên địa chỉ web này và thông báo cho bạn qua tin nhắn trong ứng dụng. Bạn nên thường xuyên tham khảo Chính sách quyền riêng tư này để biết các thay đổi, vì việc tiếp tục sử dụng được coi là chấp thuận tất cả các thay đổi. Bạn có thể xem lại lịch sử của chính sách này trên trang web này.
+contct,Tiếp xúc
+any_que,Nếu bạn có bất kỳ câu hỏi nào về bảo vệ dữ liệu trong khi sử dụng ứng dụng hoặc có câu hỏi về thực tiễn của chúng tôi, vui lòng gửi email tới baxolino.de@gmail.com
+mem_opti,Trình quản lý pin cần quyền truy cập "bộ nhớ" để có thể quét và tối ưu hóa các ứng dụng. Bạn có thể tắt hoặc kích hoạt các chức năng này trong phần cài đặt của thiết bị tương ứng. Trước hoặc sau khi cài đặt ứng dụng, bạn sẽ được hỏi - tùy thuộc vào thiết bị - xem bạn muốn hủy kích hoạt hay kích hoạt các chức năng này.
+storg,Kho
+ble_set_acc,blue_set_perm,Trình quản lý pin yêu cầu quyền truy cập "Quyền truy cập cài đặt Bluetooth" để có thể kiểm tra xem Bluetooth đã được kích hoạt hay hủy kích hoạt. Và để kích hoạt hoặc hủy kích hoạt Bluetooth.
+ble_title,Bluetooth
+needz_del,Trình quản lý pin yêu cầu quyền truy cập "Yêu cầu xóa gói" để bắt đầu gỡ cài đặt ứng dụng. Ứng dụng sẽ chỉ được gỡ cài đặt nếu bạn cho phép rõ ràng.
+deletion_pkg,Yêu cầu xóa các gói
+need_adnd,Trình quản lý pin yêu cầu quyền truy cập "Không làm phiền" để bật hoặc tắt chế độ Không làm phiền.
+adnd,Truy cập Không làm phiền
+need_wlan_acc,Trình quản lý pin yêu cầu quyền truy cập vào "Nhận kết nối mạng WLAN" để Trình quản lý pin có thể kiểm tra xem mạng WLAN được kích hoạt hay hủy kích hoạt. Và để kích hoạt hoặc hủy kích hoạt mạng WLAN.
+wln_conn,Nhận kết nối mạng WLAN
+shop_bill_exp,Khi bạn mua sắm thông qua Google Play In App Billing, Google sẽ cung cấp cho chúng tôi quốc gia cư trú của bạn và đôi khi là tiểu bang, thành phố và mã zip nhưng không bao giờ cung cấp địa chỉ đầy đủ. Chúng tôi sử dụng thông tin này để tuân thủ các quy định về thuế và kế toán.
+pri_date,Kể từ ngày 21/02/2021
+how_to_stop,Bạn có thể dừng toàn bộ việc thu thập thông tin của ứng dụng chỉ bằng cách gỡ cài đặt ứng dụng. Bạn có thể sử dụng quy trình gỡ cài đặt tiêu chuẩn có sẵn như một phần của thiết bị di động hoặc thông qua thị trường hoặc mạng dành cho ứng dụng di động.
+opt_out,Quyền từ chối của tôi là gì?
+ur_permission,sự cho phép của bạn
+accept_privacy,Bằng cách sử dụng ứng dụng, bạn đồng ý với việc chúng tôi xử lý dữ liệu của bạn như được nêu trong chính sách bảo mật này và như được chúng tôi sửa đổi.

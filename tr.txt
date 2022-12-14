@@ -1,0 +1,347 @@
+title,Battery Manager Lite farklıdır
+extend_life,Pil ömrünü uzatmanın ve sizi sağlıklı tutmanın en iyi yolu, deneyime ve bilimsel araştırmalara dayanmaktadır.
+measured,Şeffaf bir şekilde size yalnızca gerçekte ölçülen verileri ve bunların nasıl hesaplandığını gösteriyoruz.
+healthy,Pilinizi sağlıklı tutun
+double_battery,Pilinizi tam olarak şarj etmeyerek pil ömrünüzü ikiye katlayın. Bilim adamları bunu araştırmalarında kanıtladılar.
+charge_limit,Şarj sınırı bildirimimizi kullanarak, pil kullanıcı tanımlı bir eşiğe ulaştığında bir bildirim gönderilir.
+smart,Her gün daha akıllı hale geliyor
+analyze,Battery Manager Lite'ı ne kadar uzun süre kullanırsanız, pilinizin performansını o kadar iyi analiz ederiz.
+update_every_time,Kalan pil ömrü ölçümü, cihazınızı her kullandığınızda veya şarj ettiğinizde güncellenir.
+runtime,Pilinizin gerçek çalışma süresini keşfedin
+discharge_cycle,Telefonunuz bir deşarj döngüsünden her geçtiğinde, çalışma süresinin doğru bir tahmini ölçülebilir.
+accurate_life,Doğru pil ömrünü ölçmek için Battery Manager Lite'ı kullanın.
+no_exit,Battery Manager Lite'tan çıkmayın!
+bg_require,Battery Manager Lite, pil istatistiklerini toplamak ve pil şarj ve deşarj süresini ölçmek için bir arka plan hizmeti gerektirir. Cihazınız muhtemelen hizmeti durduruyor veya uygulama kapalıyken çalışmasına izin vermiyor. Bunu önlemek için size iyi bir çözümümüz var. Sadece bağlantıya tıklayın.
+man,Manuel
+cali,Kalibrasyon
+polarity,Bu adımda uygulama, pilinizin şarj polaritesini ve tasarım kapasitesini algılar.
+disch,Deşarj
+ch_pol,Şarj polaritesi
+power_meter,Güç ölçer
+unit_mesure,Ölçü birimi
+capacity,Pil Kapasitesi
+wrong,Doğru değil?
+calib,kalibre et
+ye,Evet
+no,Numara
+neg,Olumsuz
+pos,Pozitif
+lunch,Uygulamayı başlat
+manufac,Üreticiye göre kapasite
+design_des,Tasarım kapasitesi, mAh cinsinden ölçülen gerçek pil kapasitesidir. Kapasiteyi belirlemenin resmi bir yolu olmadığı için döndürülen değer yanlış olabilir.
+correct_it,Gösterilen kapasite doğru değilse lütfen düzeltin.
+cancel,İptal
+ok,Peki
+runtime,Pil Çalışma Süresi
+wait,beklemek
+per_hr,Saat başına pil tüketimi
+life_for,için pil ömrü
+battery_cond,Pil durumu
+bat_info,Pil bilgisi
+bat_cap,Pil kapasitesi
+bat_volt,Batarya voltajı
+bat_cur,Pil akımı
+unit_mes,Ölçü birimi
+done,Tamamlandı
+c_bat_temp,Mevcut Pil Sıcaklığı
+min_bat_tem,Minimum Pil sıcaklığı
+mx_bat_tem,Maksimum pil sıcaklığı
+avg_bat_tem,Ortalama pil sıcaklığı
+dig_last,Önceki son teşhis
+rem_time,Kalan süre
+volt,Gerilim
+curr,Akım
+status,Durum
+run_time,çalışma süresi
+currently,Şu anda
+avg,Ortalama
+minmal,En az
+maximal,Maksimum
+tool,Aletler
+rem_apps,Uygulamaların gereksiz yere çalışmasını ve pilinizi tüketmesini önlemek için artık kullanmadığınız uygulamaları kaldırın.
+uninst_apps,Uygulamaları Kaldır
+stat,Başlama
+act_eng_save,Pil tüketimini azaltmak için enerji tasarrufu modunu etkinleştirin
+pow_save,Güç tasarrufu modu
+tempe,Sıcaklık
+heal,Sağlık
+tips,İpuçları ve püf noktaları ile Pilinizi iyi durumda tutun.
+recomm,öneriler
+prem,Ödül
+more_func,Sizin için daha fazla işlev. Premium alın, daha fazlasını elde edin.
+more,Daha
+ur_cond_bat,Pil durumu
+ur_bat_life,Pil ömrünüz
+ur_bat_temp,Pil Sıcaklığınız
+wow,Harika
+normal,Normal
+poor,kötü
+days,günler
+mins,Dakika
+hrs,Saat
+chging,Doluyor
+ful,Tam dolu
+dis_chrg,boşaltma
+unkn,Bilinmeyen
+too_lit,Çok az Pil Verisi
+car_any,yine de uygula
+endz_,Son
+dig_any,Daha iyi teşhis sonuçları elde etmek için uygulamanın arka planda pilinizi analiz etmesi gerekir. Lütfen teşhise 24 saat sonra başlayın
+end_dig,Teşhisi sonlandır
+quit_dig,Teşhisten Gerçekten Çıkın
+batty_temp,Pil sıcaklığı
+akku_manager,Akku Yöneticisi
+u_agree,"BAŞLAT" ile veri koruma düzenlemelerini kabul etmiş olursunuz
+elemn_opti,Öğeler optimize edilebilir
+looks_good,Her şey iyi gözüküyor
+optimize_,optimize et
+toolz_,Aletler
+akku_check,Akku Kontrolü
+ctrl_load,kontrollü yükleme
+mng_apps,Uygulamaları yönet
+infosm,Bilgi
+tenzion,tansiyon
+electy,elektrik
+lvl,Seviye
+akku_man_premium,Akku Yönetici Premium
+premimum_highlight,Pil Yöneticisini tamamen reklamsız kullanın ve kullanıcı arayüzünün kapsamlı özelleştirmesine erişin.
+design,Tasarım
+subjs,konular
+genrally,Genel olarak
+temp_unit,Sıcaklık birimi
+oth_apps,Diğer uygulamalar
+dat_protect,Veri koruması
+thx_akku,Premium sürümü satın alarak Akku Manager'ı desteklediğiniz için teşekkür ederiz.
+user_got_pre,Artık, kullanıcı arayüzünün kapsamlı şekilde özelleştirilmesine ve reklamsız kullanıma erişiminiz var.
+exp_more,Gelecekteki güncellemelerde daha fazla özellik bekleyebilirsiniz
+ap_optimiz,Uygulama optimizasyonu
+sys_bat_usage,Sistem pil tüketimi
+bat_usage_det,Pil kullanım ayrıntıları
+end_optiz,Optimizasyonu sonlandır
+abort,İptal
+break_up,ayrılmak
+scn,taramak için
+scn_bgh,Ekran parlaklığı
+dact_wlan,WLAN'ı devre dışı bırak
+dact_save_batt,Pil tasarrufu için devre dışı bırakın
+dact,Devre dışı bırakmak
+dact_ble,Bluetooth'u devre dışı bırak
+red_brigh,Parlaklığı azalt
+bright_txt,Pilden tasarruf etmek için ekranın parlaklığını azaltın
+to_reduce,azaltmak için
+dact_gps,GPS'i devre dışı bırak
+appz_optimz,Optimize edilmiş uygulamalar
+start_bat_check_det,Her zaman güvende olmak için ayrıntılı bir pil kontrolü başlatın
+act_eng_save,Pil tüketimini azaltmak için enerji tasarrufu modunu etkinleştirin
+remove_useless,Artık kullanılmayan uygulamaları kaldırın
+premium,Ödül
+clear_mem,hafızayı temizle
+clear_mem_des,Akıllı telefonunuzun hızlı ve sorunsuz çalışması için.
+clenaup,Temizlemek
+rat,değerlendirme
+rat_free,Battery Manager'ı ücretsiz değerlendirin
+sendz,Göndermek
+elmn_found,Öğeler bulundu
+drumz,Davul
+status,Durum
+end_akk_check,Pil kontrolünü sonlandır
+bat_detlz,Pil ayrıntıları
+temp_checked,Sıcaklık kontrol edilir
+cond_checked,Pilin durumu kontrol edilir
+checkz_start,Pil kontrolü başlar
+plug_in,Fişe takılı
+techz,teknoloji
+coldz,Soğuk
+until,A kadar
+well,Peki
+ovr_heat,aşırı ısınma
+ovr_load,Aşırı yükleme
+renam,yeniden adlandırıldı
+not_def,tanımlanmamış
+chrgz,Şarj
+full,Tam dolu
+unloadz,boşaltma
+not_charge_unkn,ücretlendirilmemiş veya bilinmiyor
+usb,USB
+charger,şarj cihazı
+wless,kablosuz
+not_at_al,hiçbir şey
+uninstall,Kaldır
+update,Güncellemek için
+setting,Ayarlar
+app,Uygulamalar
+not_found,Uygulama bulunamadı
+search,Uygulama ara
+version_code,Versiyon Kodu
+api_level,API Düzeyi
+app_version,Uygulama sürümü
+authorization,yetki
+open,açmak
+play_store,Oyun mağazası
+control,kontrol
+systemstandart,Sistem standardı
+white,Beyaz
+dark,Karanlık
+ocean,Okyanus
+black,Siyah
+dark_blue,Koyu mavi
+excellent,Harika
+bad,Kötü
+battery_bad,Batarya biraz hasarlı
+very_bad,çok kötü
+battery_damaged,pil hasarlı
+custom_mode,Özel mod
+brightness,Parlaklık
+automatic_brightness,Otomatik Parlaklık
+normal,Normal
+sound_modus,Ses Modu
+tone_work,Tüm Tonlar Çalışır
+mute,Sesini kapatmak
+call_note_mute,Çağrıların ve bildirimlerin sesi kapatılır
+not_bother,Zahmet etmeyin
+tones_vibration_mute,Alarm sesleri dışındaki sesleri ve titreşimleri kapatın
+sound,sesler
+music,müzik
+notification,Bildirim
+alarm,Alarm
+ultra_saving,Ultra enerji tasarrufu modu
+edit,Düzenlemek için
+disable_ultra_saving,Ultra Enerji Tasarrufu Modunu Devre Dışı Bırak
+min_remaining,dakika kalan
+hours,saat
+activted_ultra_saving,Ultra enerji tasarrufu modu etkinleştirildi
+charged_in,ücretlendirildi
+min,dakika
+limit_power,Güç tüketimini sınırlayın
+reduce_screen,Ekran parlaklığını azaltın
+restrict_bg_act_explain,Arka plan etkinliklerini kısıtla
+volatge_check,Voltaj kontrol edilir
+software_optimized,Yazılım optimize edildi
+connect_charger,Şarj cihazını bağlayın
+charger_removed,Şarj cihazı çıkarılabilir
+power_consump_title,Güç tüketimi
+srcn_bg_title,Ekran parlaklığı
+bg_al_activities,arka plan etkinlikleri
+sftware,Yazılım
+get_primium,Premium sürümü satın alırsanız, gelecekteki tüm yeni işlevlerin yanı sıra mevcut tüm işlevleri de alırsınız.
+cuztomize_face,Kullanıcı arayüzünün özelleştirilmesi
+comp_scheme,Pil Yöneticisi renk düzeninizi çeşitli temalardan oluşturun.
+bat_check_detail,Ayrıntılı pil kontrolü
+check_cond_test,Her zaman güvende olmak için pilinizin durumunu kontrol etmek için Pil Yöneticisini kullanın.
+no_ads_yo,Reklam yok
+use_explain_noads,Pil Yöneticisini herhangi bir reklam olmadan kullanın
+act_energy_save,Acil bir durumda pil ömrünü artırmak için ultra enerji tasarrufu modunu etkinleştirin.
+buy_title,Premium Satın Al
+loc_title,Konum
+cap_title,kapasite
+cap_remain,Kalan kapasite
+sleepy,Uyumak
+sek,saniye
+sing_min,Dakika
+miniotes,Dakika
+finish,Bitti
+mobi_data,mobil veri
+plz_rate,Lütfen Play Store'daki Pil Yöneticisini derecelendirin
+ur_data_cus,Reklamları sizin için özelleştirmek için verilerinizi kullanmaya devam edebilir miyiz?
+in_slep_mode,uyku modunda
+in_use,Kullanımda
+with_curr_pow,Mevcut güç tüketimi ile
+rem_bat_life,Kalan pil ömrü
+qck_acc,Hızlı erişim
+notif_txt,bildirim
+notif_at,Şuraya bildir:
+chg_curr,Şarj akımı
+charge_perm,Şarj performansı
+maxi_charge_per,Maksimum şarj performansı
+enb_notif,Bildirimleri etkinleştir
+perm_send_notif,Pil Yöneticisi bildirim göndermek için izin gerektirir, cihazın ayarlarında etkinleştirilmesi gerekir.
+to_set,ayarlara
+title_autost,Otomatik Başlatmayı Etkinleştir
+auto_explain,Pil Yöneticisi, pil durumunu sorgulamak ve bir bildirim göndermek için arka planda etkin durumda kalmak için izin gerektirir.
+sync_auto,Otomatik olarak senkronize et
+dis_auto_sync,Otomatik eşitlemeyi devre dışı bırakmak, uyanma kilitlenmelerini önemli ölçüde azaltır. Ancak, e-posta alma gibi bazı işlevler kaybolacaktır.
+chg_lim,Şarj Limiti
+avoid_ful_explain,Bataryanızı maksimum seviyede şarj ederseniz veya kapanana kadar boşaltırsanız, bataryanın durumu ve kullanım ömrü kısalır. Aşağıda, pilin minimum ve maksimum şarj veya deşarj durumunu ayarlayabilirsiniz ve eşik değere her ulaşıldığında size bildirim gönderilir. Pilinizi tamamen şarj etmekten ve boşaltmaktan kaçının ve pilin ömrünü uzatın.
+rec_notif,Bildirim alınmadı mı?
+title_allow_bg_act,Arka plan etkinliğine izin ver
+allow_bg_act,Pil Yöneticisi'ni işletim sistemi tarafından yanlışlıkla kapatılmadan kısıtlama olmadan kullanabilmeniz için, ayarlarda pil yönetimi ve pil kullanımı için özel işlevleri kapatmanız gerekebilir. Çünkü çeşitli üreticiler, kullanılan işletim sistemine bağlı olarak bu seçeneklerin belirlenmesinde farklılık gösterir. Uygulama Bilgileri alanında, Uyku veya Pil altında, Kısıtlama Yok veya Arka Plan Etkinliğine İzin Ver'i seçin.
+dev_usage,Cihaz kullanımı
+dep_sleep,Derin uyku, cihazınızın en az miktarda pil kullandığı bir durumdur. Derin uyku süresinin enerji tasarrufu üzerinde olumlu etkisi vardır. Derin uyku, pilin daha hızlı boşalmasına neden olan arka plan görevleri tarafından kesilebilir. Bu durumda cihazınızı yeniden başlatın.
+title_bat_temp,Pil sıcaklığı
+bat_tempp,Pil sıcaklığı en önemli faktörlerden biridir. Akü yüksek sıcaklıklarda jel tutulursa bu durum akünün hem kullanım ömrünü hem de performansını etkiler. Sıcaklık yükselirse, pilin iç yapısı zarar görebilir.
+rdc_brightness,Ekran parlaklığını azaltın
+display_explain,Ekran, enerjinin çoğunu tüketen bileşenlerden biridir. Maksimum parlaklığın düşürülmesi, toplam tüketimin azaltılmasına ve gözle görülür tasarruf sağlanmasına yardımcı olur. Parlaklığı azaltmadan önce, parlaklığın gereksiz yere değişmemesi için otomatik parlaklığı devre dışı bırakın.
+tst_charge,Şarj cihazı testi
+best_way_test,Şarj cihazını ve kabloyu test etmenin en iyi yolu, ekran kapalıyken şarj hızını kontrol etmektir. Ekran açıkken şarj hızı iyi bir ölçüt değil çünkü telefonunuz güç tüketiyor ve bu da dalgalanmalara neden oluyor. Şarj cihazını prize takın, ekranı birkaç dakika kapatın ve ardından maksimum şarj akımını kontrol edin.
+wait_title,Beklemek
+rfsh_rate,Yenileme hızı
+low_sizty,Yenileme hızının 60 Hz'e düşürülmesi pil ömrünü uzatır.
+drk_mode,Karanlık Mod
+acti_dark_mode,Karanlık Modu etkinleştirin, Karanlık Modda daha az güç tüketilir
+actz,Etkinleştir
+poz,Güç
+minz,Asgari
+avgo,Ortalama
+mixi1,Maksimum
+msg_dis,Diyagramı tam olarak görüntülemek için yeterli veri varsa, mesaj 24 saat sonra kaybolur.
+no_enough,Görüntülenecek yeterli veri yok
+log_graph,Birkaç saat içinde burada son 24 saatteki akü sıcaklığını, voltajı, amperajı ve seviyesini kontrol etmenizi sağlayacak bir grafik göreceksiniz.
+week,hafta
+buy_it,Satın almak
+one_pur,tek seferlik ücret
+refun_pur,satın alma 2 saat içinde iade edilebilir.
+each_month,Abonelik her ay otomatik olarak yenilenir ve aylık olarak ücretlendirilmeye devam eder. Abonelik herhangi bir zamanda iptal edilebilir.
+mng_subs,aboneliği yönet
+subsci,abone olmak
+will_cost_week,Abonelik her hafta otomatik olarak yenilenir ve haftalık olarak ücretlendirilmeye devam eder. Abonelik herhangi bir zamanda iptal edilebilir.
+lfllong,ömür boyu
+mthly,aylık
+wkly,Haftalık
+hoto,Sıcak
+prm_ben_title,Premium avantajlar
+sync_title,senkronize et
+dis_sync_inc,Senkronizasyonu devre dışı bırakmak, hizmetleri arka planda senkronize etmeyerek pil ömrünü uzatır
+time_out,Zaman aşımı
+dec_extend,Ekran kapanmadan önceki sürenin azaltılması pil ömrünü uzatır
+u_end_opti,Optimizasyon sürecini sonlandırmak istediğinizden emin misiniz?
+no_why_perm,İzin yok
+bright_exp,Pil Yöneticisi, ekran parlaklığını azaltmak veya Bluetooth'u kapatmak için Sistem ayarlarını değiştirme izni gerektirir.
+tg_title,Telegram kanalına katılın!
+tg_text,Uygulama güncellemeleriyle güncel kalın, erken sürümleri edinin ve yeni özelliklerin test edilmesine yardımcı olun. Fikirlerinizi önerin, sorular sorun ve daha hızlı yanıt alın
+join_tg,katılmak
+curr_consumption,anlık tüketim
+scrn_onn,ekran açık
+srcn_off,Ekran kapalı
+mob_charg,Doluyor
+discha,boşaltma
+activea,Aktif
+slpmode,Uyku modu
+chagingspeed,Mevcut Şarj hızı
+dta_proxt,Veri koruması
+governs,Bu gizlilik politikası, Baxolino tarafından oluşturulan mobil cihazlar için Battery Manager yazılım uygulamasını kullanımınızı yönetir.
+info_u_provide,Kullanıcı tarafından sağlanan bilgiler
+no_pass_per,Kişisel verileri üçüncü taraflara aktarmayız. Bize e-posta gönderdiğinizde, e-posta adresinizi biliyoruz, ancak onu yalnızca uygulamalarımızda size yardımcı olmak için kullanıyoruz.
+info_auto_coll,Otomatik olarak toplanan bilgiler
+exp_admob_use,Reklam sunmak için Google Admob kullanıyoruz. Bu hizmetlerin kullanımı, https://www.google.com/policies/privacy/ adresindeki Google veri koruma hükümlerine tabidir.
+we_real_time,Battery Manager, cihazdan doğru gerçek zamanlı konum bilgilerini topluyor mu?
+exp_loc_perm_man,Pil Yöneticisi yalnızca konumun etkinleştirilip etkinleştirilmediğini kontrol eder, ancak mobil cihazınızın konumu hakkında kesin bilgi toplamaz. Bu tür konum tabanlı işlevler varsayılan olarak ayarlanmıştır. Bu işlevleri, ilgili cihazınızın ayarlarında devre dışı bırakabilir veya yeniden etkinleştirebilirsiniz. Uygulamaları yüklemeden önce veya yükledikten sonra - cihaza bağlı olarak - bu işlevleri devre dışı bırakmak veya etkinleştirmek isteyip istemediğiniz sorulacaktır. Yalnızca bu tür konum hizmetlerini etkinleştirirseniz konumunuzla ilgili verileri toplayabiliriz.
+chng,Değişiklikler
+pri_update_exp,Bu gizlilik politikası herhangi bir nedenle zaman zaman güncellenebilir. Yeni gizlilik politikasını bu web adresinde yayınlayarak ve uygulamadaki bir mesajla sizi bilgilendirerek gizlilik politikamızdaki değişiklikleri size bildireceğiz. Kullanıma devam edilmesi tüm değişikliklerin onaylandığı anlamına geldiğinden, değişiklikler için bu Gizlilik Politikasına düzenli olarak başvurmanız önerilir. Bu politikanın geçmişini bu web sitesinde inceleyebilirsiniz.
+contct,İletişim
+any_que,Uygulamayı kullanırken veri korumayla ilgili herhangi bir sorunuz varsa veya uygulamalarımız hakkında sorularınız varsa, lütfen baxolino.de@gmail.com adresine bir e-posta gönderin.
+mem_opti,Pil Yöneticisi, uygulamaların taranabilmesi ve optimize edilebilmesi için "bellek" erişimine ihtiyaç duyar. Bu işlevleri ilgili cihazınızın ayarlarından devre dışı bırakabilir veya etkinleştirebilirsiniz. Uygulamayı yüklemeden önce veya sonra, cihaza bağlı olarak, bu işlevleri devre dışı bırakmak veya etkinleştirmek isteyip istemediğiniz sorulacaktır.
+storg,Depolamak
+ble_set_acc,blue_set_perm,Pil Yöneticisi, Bluetooth'un etkinleştirilip etkinleştirilmediğinin kontrol edilebilmesi için "Bluetooth ayar erişimi" erişimini gerektirir. Ve Bluetooth'u etkinleştirmek veya devre dışı bırakmak için.
+ble_title,Bluetooth
+needz_del,Pil Yöneticisi, bir uygulamanın kaldırılmasını başlatmak için "Paketlerin silinmesini talep et" erişimini gerektirir. Uygulama yalnızca siz açıkça izin verirseniz kaldırılacaktır.
+deletion_pkg,Paketlerin silinmesini talep edin
+need_adnd,Pil Yöneticisi, Rahatsız Etmeyin modunu etkinleştirmek veya devre dışı bırakmak için "Rahatsız Etmeyin" erişimi gerektirir.
+adnd,Erişim Rahatsız Etmeyin
+need_wlan_acc,Battery Manager, WLAN'ın etkinleştirilip etkinleştirilmediğini kontrol edebilmesi için "WLAN Bağlantılarını Al"a erişim gerektirir. Ve WLAN'ı etkinleştirmek veya devre dışı bırakmak için.
+wln_conn,WLAN bağlantılarını edinin
+shop_bill_exp,Google Play Uygulama İçi Faturalandırma aracılığıyla alışveriş yaptığınızda, Google bize ikamet ettiğiniz ülkeyi ve bazen eyalet, şehir ve posta kodunu verir, ancak tam adresi asla vermez. Bu bilgileri vergi ve muhasebe düzenlemelerine uymak için kullanırız.
+pri_date,02/21/2021 itibariyle
+how_to_stop,Uygulamayı kaldırarak tüm bilgilerin uygulama tarafından toplanmasını durdurabilirsiniz. Mobil cihazınızın bir parçası olarak veya mobil uygulamalar için pazar yeri veya ağ üzerinden sunulan standart kaldırma işlemlerini kullanabilirsiniz.
+opt_out,Devre dışı bırakma haklarım nelerdir?
+ur_permission,izniniz
+accept_privacy,Uygulamayı kullanarak, verilerinizi bu gizlilik politikasında belirtilen ve tarafımızca değiştirilen şekilde işlememize izin vermiş olursunuz.

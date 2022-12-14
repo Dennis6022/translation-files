@@ -1,0 +1,347 @@
+title,He ʻokoʻa ka Battery Manager Lite
+extend_life,ʻO ke ala maikaʻi loa e hoʻolōʻihi i ke ola pākaukau a mālama iā ʻoe i ke olakino ma muli o ka ʻike a me ka noiʻi ʻepekema.
+measured,Ma ke ala akaka, hōʻike wale mākou iā ʻoe i ka ʻikepili i ana maoli ʻia a pehea e helu ʻia ai.
+healthy,E mālama pono i kāu pākaukau
+double_battery,E pāpālua i kou ola pākaukau ma ka hoʻopiha ʻole ʻana i kāu pākaukau. Ua hōʻoia ka poʻe ʻepekema i kēia ma kā lākou noiʻi.
+charge_limit,Me ka hoʻohana ʻana i kā mākou leka hoʻomaopopo palena uku, e hoʻouna ʻia kahi leka i ka wā e hiki ai ka pākaukau i kahi paepae i wehewehe ʻia e ka mea hoʻohana.
+smart,ʻOi aku ka naʻauao i kēlā me kēia lā
+analyze,ʻOi aku ka lōʻihi o kou hoʻohana ʻana i ka Battery Manager Lite, ʻoi aku ka maikaʻi o ka nānā ʻana i ka hana o kāu pākaukau.
+update_every_time,Hoʻonui hou ʻia ke ana ola pākaukau i kēlā me kēia manawa āu e hoʻohana ai a hoʻopaʻa paha i kāu kelepona.
+runtime,E ʻike i ka manawa holo maoli o kāu pākaukau
+discharge_cycle,I kēlā me kēia manawa e hele ai kāu kelepona i kahi pōʻai hoʻokuʻu, hiki ke ana ʻia kahi kuhi pololei o kona manawa holo.
+accurate_life,E hoʻohana i ka Battery Manager Lite e ana i ke ola pākaukau pololei.
+no_exit,Mai haʻalele i ka Battery Manager Lite!
+bg_require,Pono ʻo Battery Manager Lite i kahi lawelawe hope e hōʻiliʻili i nā helu pākaukau a ana i ka uku pākaukau a me ka manawa hoʻokuʻu. Ke hooki nei paha kāu kelepona i ka lawelawe a ʻaʻole e ʻae iā ia e holo i ka wā i pani ʻia ai ka app. No ka pale ʻana i kēia, loaʻa iā mākou kahi hopena maikaʻi no ʻoe. E kaomi wale i ka loulou.
+man,Manual
+cali,Kalibi
+polarity,Ma kēia ʻanuʻu, ʻike ka app i ka polarity charging a me ka mana hoʻolālā o kāu pākaukau.
+disch,Hoʻokuʻu
+ch_pol,Polarity hoʻouka
+power_meter,mika mana
+unit_mesure,Unite ana
+capacity,Kaha Bati
+wrong,ʻAʻole pololei?
+calib,Kalibrate
+ye,ʻAe
+no,ʻAʻole
+neg,ʻinoʻino
+pos,maikaʻi
+lunch,Hoʻokuʻu App
+manufac,Ka mana e like me ka mea hana
+design_des,ʻO ka mana hoʻolālā ka mana o ka pākaukau maoli, ana ʻia ma mAh. No ka mea ʻaʻohe ala kūhelu e hoʻoholo ai i ka hiki, hewa paha ka waiwai i hoʻihoʻi ʻia.
+correct_it,Inā ʻaʻole pololei ka mana i hōʻike ʻia, e ʻoluʻolu e hoʻoponopono.
+cancel,Hoʻopau
+ok,ʻAe
+runtime,Ka manawa holo o ka Battery
+wait,kali ana
+per_hr,Ka hoʻohana ʻana i ka pākaukau i kēlā me kēia hola
+life_for,Ke ola pākaukau no
+battery_cond,Kūlana pākaukau
+bat_info,ʻIkepili pākaukau
+bat_cap,Hiki i ka pākaukau
+bat_volt,Voli uila
+bat_cur,ʻO ka mana o ka pākaukau
+unit_mes,Unite ana
+done,Pau
+c_bat_temp,Ka Mahana Bati o keia manawa
+min_bat_tem,ʻO ka wela o ka pākaukau liʻiliʻi
+mx_bat_tem,ʻO ka wela pākaukau kiʻekiʻe
+avg_bat_tem,ʻO ka mahana pākaukau maʻamau
+dig_last,ʻO ka ʻike hope ma mua
+rem_time,Manawa Koe
+volt,Voltage
+curr,ʻO kēia manawa
+status,Kūlana
+run_time,Ka manawa holo
+currently,I kēia manawa
+avg,Awelika
+minmal,liʻiliʻi
+maximal,Ka nui
+tool,Mea hana
+rem_apps,Wehe i nā polokalamu āu e hoʻohana hou ʻole ai e pale i nā polokalamu mai ka holo pono ʻole ʻana a me ka hoʻokahe ʻana i kāu pākaukau
+uninst_apps,Wehe i nā polokalamu
+stat,Hoʻomaka
+act_eng_save,E ho'ā i ke ʻano mālama ikehu e hoʻemi i ka hoʻohana ʻana i ka pākaukau
+pow_save,ʻAno mālama mana
+tempe,Mahana
+heal,Ola kino
+tips,E mālama i kāu Batri i ke kūlana maikaʻi me nā ʻōlelo aʻoaʻo a me nā hoʻopunipuni.
+recomm,Nā Manaʻo
+prem,Premium
+more_func,Nā hana hou aku no ʻoe. Loaʻa ka uku, loaʻa hou aku.
+more,ʻOi aku
+ur_cond_bat,ʻO ke kūlana pākaukau
+ur_bat_life,ʻO kou ola pākaukau
+ur_bat_temp,ʻO kou Mahana Bati
+wow,maikaʻi loa
+normal,Maʻamau
+poor,Poino
+days,Nā lā
+mins,Nā minuke
+hrs,Nā hola
+chging,Ka hoʻouka ʻana
+ful,Piha
+dis_chrg,Ka hoʻokuʻu ʻana
+unkn,ʻAʻole ʻike ʻia
+too_lit,Liʻiliʻi loa ka ʻikepili Bateri
+car_any,E hoʻokō naʻe
+endz_,Hoʻopau
+dig_any,I mea e loaʻa ai nā hopena diagnostic ʻoi aku ka maikaʻi, pono ka app e nānā i kāu pākaukau ma ke kua. E ʻoluʻolu e hoʻomaka i ka ʻike ma hope o 24 mau hola
+end_dig,Hoʻopau i ka ʻike
+quit_dig,Haʻalele maoli i ka ʻike
+batty_temp,Ka wela o ka pākaukau
+akku_manager,Lunahooponopono Akku
+u_agree,Me ka "START" ʻae ʻoe i nā hoʻoponopono hoʻomalu ʻikepili
+elemn_opti,Hiki ke hoʻonui ʻia nā mea
+looks_good,Maikaʻi nā mea a pau
+optimize_,Hoʻonui
+toolz_,Mea hana
+akku_check,Hoike Akku
+ctrl_load,Hoʻouka ʻia
+mng_apps,Mālama i nā polokalamu
+infosm,ʻIkepili
+tenzion,haʻalulu
+electy,uila
+lvl,pae
+akku_man_premium,Akku Luna Hoʻokele Premium
+premimum_highlight,E hoʻohana piha i ka Battery Manager me ka ʻole o ka hoʻolaha ʻana a hiki iā ʻoe ke komo i ka hana maʻamau o ka mea hoʻohana.
+design,Hoʻolālā
+subjs,kumuhana
+genrally,ʻO ka maʻamau
+temp_unit,Huina wela
+oth_apps,Nā polokalamu ʻē aʻe
+dat_protect,Palekana ʻikepili
+thx_akku,Mahalo iā ʻoe no ke kākoʻo ʻana iā Akku Manager me ke kūʻai ʻana i ka mana premium.
+user_got_pre,I kēia manawa ua loaʻa iā ʻoe ka hana maʻamau o ka mea hoʻohana a me ka hoʻohana ʻana me ka hoʻolaha ʻole.
+exp_more,Hiki iā ʻoe ke manaʻo i nā hiʻohiʻona hou aʻe i nā mea hou e hiki mai ana
+ap_optimiz,ʻO ka loiloi polokalamu
+sys_bat_usage,ʻO ka hoʻohana ʻana i ka pā uila
+bat_usage_det,Nā kikoʻī hoʻohana pākaukau
+end_optiz,Hoʻopau i ka loiloi
+abort,Hoʻopau
+break_up,pau ka pilina
+scn,e nānā
+scn_bgh,Olinolino pale
+dact_wlan,Hoʻopau i ka WLAN
+dact_save_batt,Hoʻopau e mālama i ka pākaukau
+dact,Hoʻopau
+dact_ble,Hoʻopau i ka bluetooth
+red_brigh,E hoemi i ka olinolino
+bright_txt,E ho'ēmi i ka olinolino o ka hōʻike no ka mālama ʻana i ka pākaukau
+to_reduce,E hoemi
+dact_gps,Hoʻopau i ka GPS
+appz_optimz,Hoʻoponopono ʻia nā polokalamu
+start_bat_check_det,E hoʻomaka i kahi kikoʻī kikoʻī o ka pākaukau e noho mau ma ka ʻaoʻao palekana
+act_eng_save,E ho'ā i ke ʻano mālama ikehu e hōʻemi i ka hoʻohana ʻana i ka pākaukau
+remove_useless,Wehe i nā polokalamu i hoʻohana ʻole ʻia
+premium,Premium
+clear_mem,E hoʻomaʻemaʻe i ka hoʻomanaʻo
+clear_mem_des,No laila e holo wikiwiki a mālie kāu kelepona.
+clenaup,Hoʻomaʻemaʻe
+rat,helu helu
+rat_free,E hoʻokaʻawale i ka Luna Pūnaehana no ka manuahi
+sendz,Hoʻouna
+elmn_found,Loaʻa nā mea
+drumz,Pahu
+status,Kūlana
+end_akk_check,Hoʻopau i ka nānā ʻana i ka pākaukau
+bat_detlz,Nā kikoʻī pākahi
+temp_checked,Nānā ʻia ka mahana
+cond_checked,Nānā ʻia ke kūlana o ka pākaukau
+checkz_start,Hoʻomaka ka nānā ʻana i ka pākaukau
+plug_in,Hoʻopili ʻia
+techz,ʻenehana
+coldz,Anuanu
+until,A hiki i ka
+well,Pono
+ovr_heat,Ka wela nui
+ovr_load,ʻOi aku ka ukana
+renam,inoa hou
+not_def,ʻaʻole i wehewehe ʻia
+chrgz,Hoʻopiʻi
+full,Piha
+unloadz,Wehe ʻana
+not_charge_unkn,ʻaʻole i uku ʻia a ʻike ʻole ʻia
+usb,USB
+charger,kāʻei
+wless,uwea ole
+not_at_al,aole loa
+uninstall,Wehe ʻia
+update,E hoʻohou
+setting,Nā hoʻonohonoho
+app,Apps
+not_found,ʻAʻole i loaʻa ka polokalamu
+search,Huli i nā polokalamu
+version_code,Code Code
+api_level,Papa API
+app_version,Manaʻo App
+authorization,ʻae ʻia
+open,e wehe
+play_store,Hale Kuai Paani
+control,hoʻomalu
+systemstandart,Systemstandard
+white,Keʻokeʻo
+dark,Poʻeleʻele
+ocean,moana, kai
+black,ʻeleʻele
+dark_blue,Polū ʻeleʻele
+excellent,maikaʻi loa
+bad,ʻino
+battery_bad,Ua pōʻino iki ka pākaukau
+very_bad,ʻino loa
+battery_damaged,Ua pōʻino ka pākaukau
+custom_mode,Kūlana Kūlana
+brightness,ʻōlinolino
+automatic_brightness,Olinolino Aunoa
+normal,Maʻamau
+sound_modus,Modus kani
+tone_work,Hana nā Tones a pau
+mute,Kamaʻilio
+call_note_mute,Hoʻopili ʻia nā kelepona a me nā hoʻolaha
+not_bother,Mai pilikia
+tones_vibration_mute,E hoʻopau i nā leo a me nā haʻalulu, koe naʻe nā kani hoʻāla
+sound,Nā kani
+music,mele
+notification,Hoolaha
+alarm,Alarm
+ultra_saving,ʻO ke ʻano hoʻopakele ikehu ultra
+edit,E hoʻoponopono
+disable_ultra_saving,Hoʻopau i ke ʻano hoʻōla ʻana i ka ikehu Ultra
+min_remaining,min koe
+hours,hola
+activted_ultra_saving,Hoʻohana ʻia ke ʻano hoʻōla uila
+charged_in,hoʻopiʻi ʻia i loko
+min,min
+limit_power,E kaupalena i ka hoʻohana ʻana i ka mana
+reduce_screen,E hoemi i ka olinolino o ka pale
+restrict_bg_act_explain,Kāohi i nā hana hope
+volatge_check,Nānā ʻia ka uila
+software_optimized,Hoʻoponopono ʻia ka polokalamu
+connect_charger,E hoʻohui i ka charger
+charger_removed,Hiki ke hoʻokuʻu ʻia ka charger
+power_consump_title,Hoʻohana mana
+srcn_bg_title,Olinolino pale
+bg_al_activities,Nā hana hope
+sftware,lako polokalamu
+get_primium,Inā kūʻai ʻoe i ka mana premium, e loaʻa iā ʻoe nā hana o kēia manawa a me nā hana hou āpau i ka wā e hiki mai ana.
+cuztomize_face,Hoʻopilikino o ka mea hoʻohana
+comp_scheme,E haku i kāu hoʻolālā waihoʻoluʻu Battery Manager mai nā kumuhana like ʻole.
+bat_check_detail,Nānā pākaukau kikoʻī
+check_cond_test,E hoʻohana i ka Battery Manager e nānā i ke kūlana o kāu pākaukau e noho mau ma ka ʻaoʻao palekana.
+no_ads_yo,ʻAʻohe hoʻolaha
+use_explain_noads,E hoʻohana i ka Battery Manager me ka ʻole o ka hoʻolaha
+act_energy_save,E ho'ā i ke ʻano hoʻōla ikaika ultra e hoʻonui i ke ola pākaukau i kahi pilikia.
+buy_title,Kūʻai Premium
+loc_title,Wahi
+cap_title,hiki
+cap_remain,Ke koena hiki
+sleepy,Moe
+sek,Kekona
+sing_min,Minuke
+miniotes,Nā minuke
+finish,Ua pau
+mobi_data,ʻikepili kelepona
+plz_rate,E ʻoluʻolu e hoʻonui i ka Manakia Bateri ma ka Play Store
+ur_data_cus,Hiki iā mākou ke hoʻomau i ka hoʻohana ʻana i kāu ʻikepili e hana i nā hoʻolaha no ʻoe?
+in_slep_mode,Ma ke ʻano moe
+in_use,Ke hoʻohana nei
+with_curr_pow,Me ka hoʻohana mana o kēia manawa
+rem_bat_life,Ke ola pākaukau i koe
+qck_acc,Komo wikiwiki
+notif_txt,hoolaha
+notif_at,Hoʻolaha ma
+chg_curr,Ke kau nei i kēia manawa
+charge_perm,Ka hoʻokō ʻana
+maxi_charge_per,ʻO ka hana hoʻopiʻi kiʻekiʻe
+enb_notif,Hiki ke hoʻolaha
+perm_send_notif,Pono ka Battery Manager i ka ʻae e hoʻouna i kahi leka hoʻomaopopo, pono e hoʻāla ʻia i nā ʻōnaehana o ka hāmeʻa.
+to_set,I nā hoʻonohonoho
+title_autost,E ho'ā i ka Autostart
+auto_explain,Pono ʻo Battery Manager i ka ʻae e hoʻomau ʻia ma ke kua i mea e nīnau ai i ke kūlana pākaukau a hoʻouna i kahi leka.
+sync_auto,Hoʻolima ʻakomi
+dis_auto_sync,ʻO ka hoʻopau ʻana i ka hoʻonohonoho ʻakomi e hōʻemi nui i nā wakelocks. Eia naʻe, e nalowale kekahi mau hana e like me ka loaʻa ʻana o ka leka uila.
+chg_lim,Kau palena
+avoid_ful_explain,Inā ʻoe e hoʻopiʻi i kāu pākaukau i ka palena kiʻekiʻe a i ʻole e hoʻokuʻu iā ia a hiki i ke pio ʻana, e hoʻemi ʻia ke kūlana a me ke ola lawelawe o ka pākaukau. Ma kēia mau mea hiki iā ʻoe ke hoʻonohonoho i ka palena liʻiliʻi a me ka palena kiʻekiʻe a i ʻole ke kūlana hoʻokuʻu ʻana o ka pākaukau a e hoʻomaopopo ʻia ʻoe i kēlā me kēia manawa a hiki i ka waiwai paepae. E hōʻalo i kahi hoʻopiha piha a hoʻokuʻu i kāu pākaukau a hoʻonui i ke ola o ka pā.
+rec_notif,ʻAʻole i loaʻa ka leka hoʻomaopopo?
+title_allow_bg_act,ʻAe i ka hana hope
+allow_bg_act,I mea e hiki ai iā ʻoe ke hoʻohana i ka Battery Manager me ka ʻole o ka pani ʻole ʻia ʻana e ka ʻōnaehana hana, pono paha ʻoe e hoʻopau i nā hana kūikawā no ka hoʻokele pākaukau a me ka hoʻohana ʻana i ka pākaukau i nā hoʻonohonoho. No ka mea, ʻokoʻa nā mea hana like ʻole i ka koho ʻana i kēia mau koho ma muli o ka ʻōnaehana hana i hoʻohana ʻia. Ma ka ʻaoʻao ʻikepili App, ma lalo o ka moe a i ʻole ka pākaukau, koho ʻaʻohe palena a i ʻole e ʻae i ka hana ʻana.
+dev_usage,Ka hoʻohana ʻana i nā hāmeʻa
+dep_sleep,ʻO ka hiamoe hohonu kahi mokuʻāina e hoʻohana ai kāu hāmeʻa i ka liʻiliʻi loa o ka pākaukau. He hopena maikaʻi ka lōʻihi o ka hiamoe hohonu i ka mālama ʻana i ka ikehu. Hiki ke hoʻopau ʻia ka hiamoe hohonu e nā hana hope, kahi e hoʻokuʻu wikiwiki ai ka pākaukau. I kēia hihia, e hoʻomaka hou i kāu kelepona.
+title_bat_temp,Ka wela o ka pākaukau
+bat_tempp,ʻO ka mahana pākaukau kekahi o nā mea nui loa. Inā mālama ʻia ka pākaukau i ka gel i nā wela kiʻekiʻe, pili kēia i ke ola lawelawe a me ka hana o ka pā. Inā piʻi ka mahana, hiki ke hoʻopōʻino ka hale o loko o ka pākaukau.
+rdc_brightness,E hoemi i ka olinolino o ka pale
+display_explain,ʻO ka hōʻike kekahi o nā mea e hoʻopau ai i ka nui o ka ikehu. ʻO ka hōʻemi ʻana i ka ʻālohilohi kiʻekiʻe e kōkua i ka hōʻemi ʻana i ka hoʻohana holoʻokoʻa a loaʻa i ka mālama ʻike. Ma mua o ka ho'ēmiʻana i ka'ōlinolino, hoʻopau i ka'ōlinolino aunoa iʻole e hoʻololi ponoʻia ka'ōlinolino.
+tst_charge,Hoʻāʻo i ka charger
+best_way_test,ʻO ke ala maikaʻi loa e hoʻāʻo ai i ka charger a me ke kelepona ma ka nānā ʻana i ka wikiwiki o ka hoʻouka ʻana me ka pale ʻana. ʻO ka wikiwiki o ka hoʻopaʻa ʻana i ka wā e kau ʻia ana ka pale ʻaʻole ia he hōʻailona maikaʻi no ka mea e hoʻopau ana kāu kelepona i ka mana, kahi e hoʻololi ai. E hoʻopili i ka charger, e hoʻopau i ka pale no kekahi mau minuke, a laila e nānā i ka nui o ka uku o kēia manawa.
+wait_title,Ke kali nei
+rfsh_rate,Ka helu hōʻano hou
+low_sizty,ʻO ka hoʻohaʻahaʻa ʻana i ka helu hoʻomaha i 60 Hz e hoʻomaikaʻi i ke ola pākaukau.
+drk_mode,ʻAno ʻeleʻele
+acti_dark_mode,E ho'ā i ke ʻano ʻeleʻele, ma ke ʻano ʻeleʻele i emi iho ka mana
+actz,Hoʻola
+poz,Ka mana
+minz,liʻiliʻi
+avgo,Awelika
+mixi1,Ka nui
+msg_dis,Nalo ka memo ma hope o 24 mau hola inā lawa ka ʻikepili e hōʻike piha i ke kiʻikuhi.
+no_enough,ʻAʻole lawa ka ʻikepili e hōʻike
+log_graph,I loko o kekahi mau hola e ʻike ʻoe i kahi pakuhi ma aneʻi e ʻae iā ʻoe e nānā i ka wela o ka pākaukau, ka uila, ka amperage a me ka pae i nā hola 24 i hala.
+week,pule
+buy_it,Kūʻai
+one_pur,Uku manawa hookahi o
+refun_pur,hiki ke hoʻihoʻi ʻia ke kūʻai ʻana i loko o 2 mau hola.
+each_month,Hoʻololi hou ka inoa inoa i kēlā me kēia mahina a hoʻomau i ke kumukūʻai i kēlā me kēia mahina. Hiki ke kāpae ʻia ke kau inoa i kēlā me kēia manawa.
+mng_subs,mālama i ke kau inoa
+subsci,kau inoa
+will_cost_week,Hoʻopau ʻokoʻa ke kau inoa i kēlā me kēia pule a hoʻomau ke kumukūʻai i kēlā me kēia pule. Hiki ke kāpae ʻia ke kau inoa i kēlā me kēia manawa.
+lfllong,ola loa
+mthly,mahina
+wkly,ʻO kēlā me kēia pule
+hoto,Wela
+prm_ben_title,Nā pōmaikaʻi premium
+sync_title,Hoʻopilikino
+dis_sync_inc,ʻO ka hoʻopau ʻana i ka sync e hoʻonui i ke ola pākaukau ma ka hoʻonohonoho ʻole ʻana i nā lawelawe ma hope
+time_out,Manawa hoʻomaha
+dec_extend,ʻO ka hoʻemi ʻana i ka manawa ma mua o ka pio ʻana o ka hōʻike e hoʻonui i ke ola pākaukau
+u_end_opti,Makemake ʻoe e hoʻopau i ke kaʻina hana loiloi?
+no_why_perm,ʻAʻohe ʻae
+bright_exp,Pono ʻo Battery Manager e hoʻololi i nā hoʻonohonoho hoʻonohonoho ʻōnaehana e hōʻemi i ka ʻōlinolino o ka pale a i ʻole e hoʻopau i ka Bluetooth.
+tg_title,E hui pū me ke kahawai Telegram!
+tg_text,E noho i kēia manawa me ka hoʻonui ʻana i ka app, e hoʻomaka i ke kūkulu ʻana, a kōkua i ka hoʻāʻo ʻana i nā hiʻohiʻona hou. E hāʻawi i kāu mau manaʻo, e nīnau i nā nīnau a loaʻa koke nā pane
+join_tg,hui pū
+curr_consumption,ʻai i kēia manawa
+scrn_onn,pale ma
+srcn_off,pale aku
+mob_charg,Ka hoʻouka ʻana
+discha,Ka hoʻokuʻu ʻana
+activea,ʻeleu
+slpmode,Moe moe
+chagingspeed,Ka māmā holo o kēia manawa
+dta_proxt,Palekana ʻikepili
+governs,Hoʻoponopono kēia kulekele pilikino i kāu hoʻohana ʻana i ka polokalamu polokalamu Battery Manager no nā polokalamu kelepona i hana ʻia e Baxolino.
+info_u_provide,ʻIke i hāʻawi ʻia e ka mea hoʻohana
+no_pass_per,ʻAʻole mākou e hāʻawi i ka ʻikepili pilikino i nā ʻaoʻao ʻekolu. Ke leka uila iā mākou, loaʻa iā mākou kāu leka uila, akā hoʻohana wale mākou iā ia e kōkua iā ʻoe me kā mākou mau polokalamu.
+info_auto_coll,'Ohi 'akomi 'ike
+exp_admob_use,Hoʻohana mākou iā Google Admob e hoʻolaha i nā hoʻolaha. ʻO ka hoʻohana ʻana i kēia mau lawelawe e pili ana i nā ʻōlelo palekana ʻikepili Google ma https://www.google.com/policies/privacy/.
+we_real_time,E hōʻiliʻili anei ʻo Battery Manager i ka ʻike kikoʻī i ka manawa maoli mai ka hāmeʻa?
+exp_loc_perm_man,Nānā wale ʻo Battery Manger inā hoʻāla ʻia a hoʻopau ʻia paha ka wahi, akā ʻaʻole ʻohi i ka ʻike kikoʻī e pili ana i kahi o kāu kelepona paʻalima. Hoʻonohonoho ʻia ia mau hana ma muli o ka wahi. Hiki iā ʻoe ke hoʻopau a hoʻihoʻi hou i kēia mau hana i nā hoʻonohonoho o kāu hāmeʻa. Ma mua a ma hope paha o ka hoʻokomo ʻana i nā polokalamu, e nīnau ʻia ʻoe - e pili ana i ka hāmeʻa - inā makemake ʻoe e hoʻopau a hoʻāla paha i kēia mau hana. Hiki iā mākou ke hōʻiliʻili i ka ʻikepili e pili ana i kou wahi inā hoʻā ʻoe i nā lawelawe wahi.
+chng,Nā hoʻololi
+pri_update_exp,Hiki ke hoʻonui ʻia kēia kulekele pilikino i kēlā me kēia manawa no kekahi kumu. E hōʻike mākou iā ʻoe i nā loli i kā mākou kulekele pilikino ma ka hoʻouna ʻana i ke kulekele pilikino hou ma kēia helu pūnaewele a me ka hoʻolaha ʻana iā ʻoe ma o kahi leka ma ka app. Manaʻo ʻia ʻoe e nīnau pinepine i kēia Kulekele pilikino no nā loli, no ka mea, ʻo ka hoʻohana mau ʻana i manaʻo ʻia he ʻae ʻia i nā loli āpau. Hiki iā ʻoe ke nānā i ka mōʻaukala o kēia kulekele ma kēia pūnaewele.
+contct,Hoʻopili
+any_que,Inā he nīnau kāu e pili ana i ka pale ʻikepili i ka wā e hoʻohana ai i ka noi a i ʻole he nīnau e pili ana i kā mākou hana, e ʻoluʻolu e hoʻouna i leka uila i baxolino.de@gmail.com
+mem_opti,Pono ka Battery Manager i ke komo ʻana i ka "memo" i hiki ke nānā ʻia a hoʻopaʻa ʻia nā polokalamu. Hiki iā ʻoe ke hoʻopau a hoʻāla paha i kēia mau hana i nā hoʻonohonoho o kāu hāmeʻa. Ma mua a ma hope paha o ka hoʻokomo ʻana i ka app, e nīnau ʻia ʻoe - e pili ana i ka hāmeʻa - inā makemake ʻoe e hoʻopau a hoʻāla paha i kēia mau hana.
+storg,Waihona
+ble_set_acc,blue_set_perm, Pono ka Manakia Batteri i ke komo "Bluetooth setting access" i hiki ke nānā 'ia inā ho'ā a ho'opau 'ia paha ka Bluetooth. A e ho'ā a hoʻopau paha i ka Bluetooth.
+ble_title,Bluetooth
+needz_del,Pono ka Battery Manager i ke komo ʻana "Noi i ka holoi ʻana i nā pūʻolo" e hoʻomaka i kahi wehe ʻana i kahi app. E wehe ʻia ka polokalamu inā ʻae ʻoe iā ia.
+deletion_pkg,Noi e holoi i nā pūʻolo
+need_adnd,Pono ka Luna Pūnaehana "Do Not Disturb" e hiki ai ke hoʻopau i ke ʻano Do Not Disturb.
+adnd,Loaʻa Mai Hoʻopilikia
+need_wlan_acc,Pono ʻo Battery Manager i ke komo ʻana i "Get WLAN Connections" i hiki i ka Battery Manager ke nānā inā hoʻā a hoʻopau ʻia paha ʻo WLAN. A e ho'ā a hoʻopau paha i ka WLAN.
+wln_conn,E kiʻi i nā pilina WLAN
+shop_bill_exp,Ke kūʻai aku ʻoe ma o Google Play In App Billing, hāʻawi ʻo Google iā mākou i kou ʻāina i noho ai a i kekahi manawa ka mokuʻāina, kūlanakauhale, a me ka helu zip, akā ʻaʻole i ka helu piha. Hoʻohana mākou i kēia ʻike no ka hoʻokō ʻana i nā lula ʻauhau a me ka helu helu.
+pri_date,Mai ka 02/21/2021
+how_to_stop,Hiki iā ʻoe ke hoʻōki i ka hōʻiliʻili holoʻokoʻa o ka ʻike e ka noi ma ka wehe wale ʻana i ka noi. Hiki iā ʻoe ke hoʻohana i nā kaʻina hana uninstall maʻamau i loaʻa ma ke ʻano he ʻāpana o kāu kelepona paʻalima a i ʻole ma o ka mākeke a i ʻole ka pūnaewele no nā noi kelepona.
+opt_out,He aha koʻu mau pono koho?
+ur_permission,kou ʻae
+accept_privacy,Ma ka hoʻohana ʻana i ka palapala noi, ʻae ʻoe i kā mākou hana ʻana i kāu ʻikepili e like me ka mea i hoʻonohonoho ʻia i loko o kēia kulekele pilikino a i hoʻololi ʻia e mākou.

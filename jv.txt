@@ -1,0 +1,347 @@
+title,Battery Manager Lite beda
+extend_life,Cara paling apik kanggo nambah umur baterei lan njaga kesehatan adhedhasar pengalaman lan riset ilmiah.
+measured,Kanthi cara sing transparan, kita mung nuduhake data sing diukur kanthi bener lan cara ngitung.
+healthy,Jaga baterei tetep sehat
+double_battery,Pindho umur baterei kanthi ora ngisi daya baterei kanthi lengkap. Ilmuwan wis mbuktekaken iki ing riset.
+charge_limit,Nggunakake kabar watesan pangisian daya, kabar bakal dikirim nalika baterei tekan ambang sing ditemtokake pangguna.
+smart,Saben dina tambah pinter
+analyze,Suwene sampeyan nggunakake Battery Manager Lite, luwih apik kita bisa nganalisa kinerja baterei.
+update_every_time,Pangukuran umur baterei sing isih dianyari saben sampeyan nggunakake utawa ngisi daya piranti.
+runtime,Temokake wektu aktif baterei sampeyan
+discharge_cycle,Saben telpon liwat siklus discharge, prakiraan akurat saka runtime bisa diukur.
+accurate_life,Gunakake Battery Manager Lite kanggo ngukur umur baterei sing akurat.
+no_exit,Aja metu saka Manager Baterai Lite!
+bg_require,Battery Manager Lite mbutuhake layanan latar mburi kanggo ngumpulake statistik baterei lan ngukur pangisian daya baterei lan wektu ngeculake. Piranti sampeyan bisa uga mandhegake layanan utawa ora ngidini kanggo mbukak nalika app ditutup. Kanggo ngindhari iki, kita duwe solusi sing apik kanggo sampeyan. Cukup klik ing link.
+man,Manual
+cali,Kalibrasi
+polarity,Ing langkah iki, app ndeteksi polaritas ngisi daya lan kapasitas desain baterei.
+disch,Discharge
+ch_pol,Pengisian polaritas
+power_meter,meter daya
+unit_mesure,Unit pangukuran
+capacity,Kapasitas baterei
+wrong,Ora bener?
+calib,Kalibrasi
+ye,ya wis
+no,Ora
+neg,Negatif
+pos,Positif
+lunch,Bukak App
+manufac,Kapasitas miturut pabrikan
+design_des,Kapasitas desain yaiku kapasitas baterei nyata, diukur ing mAh. Amarga ora ana cara resmi kanggo nemtokake kapasitas kasebut, nilai sing bali bisa uga salah.
+correct_it,Yen kapasitas ditampilake ora bener, mangga mbenerake.
+cancel,Batal
+ok,nggih
+runtime,Baterei Runtime
+wait,ngenteni
+per_hr,Konsumsi baterei saben jam
+life_for,urip baterei kanggo
+battery_cond,Kondisi baterei
+bat_info,Informasi baterei
+bat_cap,Kapasitas baterei
+bat_volt,voltase baterei
+bat_cur,Baterei saiki
+unit_mes,Unit pangukuran
+done,rampung
+c_bat_temp,Suhu Baterei Saiki
+min_bat_tem,Suhu baterei minimal
+mx_bat_tem,Suhu baterei maksimum
+avg_bat_tem,Suhu baterei rata-rata
+dig_last,Diagnosis pungkasan sadurunge
+rem_time,Wektu Sisa
+volt,Tegangan
+curr,saiki
+status,Status
+run_time,Wektu mlaku
+currently,Saiki
+avg,Rata-rata
+minmal,Minimal
+maximal,maksimal
+tool,piranti
+rem_apps,Busak instal aplikasi sing wis ora digunakake maneh kanggo nyegah aplikasi ora perlu lan boros baterei
+uninst_apps,Busak instal Aplikasi
+stat,Miwiti
+act_eng_save,Aktifake mode hemat energi kanggo nyuda konsumsi baterei
+pow_save,Mode ngirit daya
+tempe,Suhu
+heal,kesehatan
+tips,Tansah baterei ing kondisi apik kanthi tips lan trik.
+recomm,Rekomendasi
+prem,Premium
+more_func,Fungsi liyane kanggo sampeyan. Entuk premium, entuk luwih.
+more,More
+ur_cond_bat,Kondisi baterei yaiku
+ur_bat_life,Urip baterei sampeyan
+ur_bat_temp,Suhu baterei sampeyan
+wow,Banget
+normal,Normal
+poor,ala
+days,Dina
+mins,menit
+hrs,jam
+chging,Ngisi daya
+ful,kebak
+dis_chrg,Ngilangi
+unkn,Ora dingerteni
+too_lit,Data baterei sithik banget
+car_any,Lakoni wae
+endz_,Pungkasan
+dig_any,Kanggo entuk asil diagnostik sing luwih apik, aplikasi kasebut kudu nganalisa baterei ing latar mburi. Mangga miwiti diagnosis sawise 24 jam
+end_dig,Diagnosis pungkasan
+quit_dig,Pancen Mungkasi Diagnosis
+batty_temp,Suhu baterei
+akku_manager,Manajer Aku
+u_agree,Kanthi "MULAI" sampeyan setuju karo peraturan perlindungan data
+elemn_opti,Unsur bisa dioptimalake
+looks_good,Kabeh katon apik
+optimize_,Ngoptimalake
+toolz_,piranti
+akku_check,Aku Priksa
+ctrl_load,Loading sing dikontrol
+mng_apps,Ngatur app
+infosm,Informasi
+tenzion,tension
+electy,listrik
+lvl,tingkat
+akku_man_premium,Akku Manager Premium
+premimum_highlight,Gunakake Pangatur Baterei kanthi lengkap tanpa pariwara lan sampeyan duwe akses menyang kustomisasi ekstensif antarmuka pangguna.
+design,Desain
+subjs,subyek
+genrally,Umume
+temp_unit,Unit suhu
+oth_apps,Aplikasi liyane
+dat_protect,Proteksi data
+thx_akku,Matur nuwun kanggo ndhukung Akku Manager karo tuku versi premium.
+user_got_pre,Sampeyan saiki duwe akses menyang kustomisasi ekstensif antarmuka pangguna lan panggunaan tanpa pariwara.
+exp_more,Sampeyan bisa nyana fitur liyane ing nganyari mangsa
+ap_optimiz,Optimization app
+sys_bat_usage,Konsumsi baterei sistem
+bat_usage_det,Rincian panggunaan baterei
+end_optiz,Optimasi pungkasan
+abort,Abort
+break_up,putus
+scn,kanggo mindai
+scn_bgh,Padhange layar
+dact_wlan,Mateni WLAN
+dact_save_batt,Mateni kanggo ngirit baterei
+dact,mateni
+dact_ble,Nonaktifake bluetooth
+red_brigh,Ngurangi padhange
+bright_txt,Ngurangi padhange tampilan kanggo ngirit baterei
+to_reduce,Kanggo nyuda
+dact_gps,Mateni GPS
+appz_optimz,Aplikasi dioptimalake
+start_bat_check_det,Miwiti mriksa baterei rinci supaya tansah ing sisih aman
+act_eng_save,Aktifake mode hemat energi kanggo nyuda konsumsi baterei
+remove_useless,Busak instal aplikasi sing ora digunakake maneh
+premium,Premium
+clear_mem,Ngresiki memori
+clear_mem_des,Supaya smartphone sampeyan bisa mlaku kanthi cepet lan lancar.
+clenaup,Reresik
+rat,rating
+rat_free,Rate Battery Manager gratis
+sendz,Ngirim
+elmn_found,Unsur ditemokake
+drumz,Drum
+status,Status
+end_akk_check,Mungkasi mriksa baterei
+bat_detlz,Rincian baterei
+temp_checked,Suhu dipriksa
+cond_checked,Kondisi baterei wis dicenthang
+checkz_start,Priksa baterei diwiwiti
+plug_in,Kepasang ing
+techz,Teknologi
+coldz,kadhemen
+until,Nganti
+well,Inggih
+ovr_heat,Overheating
+ovr_load,Kakehan beban
+renam,ganti jeneng
+not_def,ora ditetepake
+chrgz,Ngisi daya
+full,kebak
+unloadz,Ngundhuh
+not_charge_unkn,ora dikenani biaya utawa ora dingerteni
+usb,USB
+charger,pangisi daya
+wless,nirkabel
+not_at_al,ora ana apa-apa
+uninstall,Nyopot
+update,Kanggo nganyari
+setting,Setelan
+app,Aplikasi
+not_found,App ora ditemokake
+search,Telusuri aplikasi
+version_code,Kode versi
+api_level,API Level
+app_version,Versi App
+authorization,wewenang
+open,kanggo mbukak
+play_store,Play Store
+control,kontrol
+systemstandart,Sistem standar
+white,Putih
+dark,Peteng
+ocean,Samudra
+black,ireng
+dark_blue,Biru peteng
+excellent,Banget
+bad,ala
+battery_bad,Baterei rada rusak
+very_bad,ala banget
+battery_damaged,Baterei rusak
+custom_mode,Mode khusus
+brightness,padhang
+automatic_brightness,Padhang otomatis
+normal,Normal
+sound_modus,Modus swara
+tone_work,Kabeh Tones Work
+mute,bisu
+call_note_mute,Telpon lan kabar bisu
+not_bother,Aja repot
+tones_vibration_mute,Pateni nada lan geter, kajaba nada weker
+sound,Swara
+music,musik
+notification,Notifikasi
+alarm,Weker
+ultra_saving,Mode hemat energi ultra
+edit,Kanggo nyunting
+disable_ultra_saving,Pateni Mode Ngirit Energi Ultra
+min_remaining,sisa min
+hours,jam
+activted_ultra_saving,Mode hemat energi ultra diaktifake
+charged_in,diisi ing
+min,min
+limit_power,Batasi konsumsi daya
+reduce_screen,Ngurangi padhange layar
+restrict_bg_act_explain,Watesi aktivitas latar mburi
+volatge_check,Tegangan wis dicenthang
+software_optimized,Piranti lunak dioptimalake
+connect_charger,Sambungake pangisi daya
+charger_removed,Pangisi daya bisa dicopot
+power_consump_title,konsumsi daya
+srcn_bg_title,Padhange layar
+bg_al_activities,Kegiatan latar mburi
+sftware,Piranti lunak
+get_primium,Yen sampeyan tuku versi premium, sampeyan bakal entuk kabeh fungsi saiki uga kabeh fungsi anyar ing mangsa ngarep.
+cuztomize_face,Kustomisasi antarmuka panganggo
+comp_scheme,Tulis skema warna Pangatur Baterei saka macem-macem tema.
+bat_check_detail,Priksa baterei rinci
+check_cond_test,Gunakake Manager Baterei kanggo mriksa kondisi baterei supaya tansah aman.
+no_ads_yo,Ora ana pariwara
+use_explain_noads,Gunakake Manager Baterei tanpa pariwara
+act_energy_save,Aktifake mode hemat energi ultra kanggo nambah umur baterei nalika darurat.
+buy_title,Tuku Premium
+loc_title,Panggonan
+cap_title,kapasitas
+cap_remain,Sisa kapasitas
+sleepy,Turu
+sek,Detik
+sing_min,menit
+miniotes,menit
+finish,Rampung
+mobi_data,data seluler
+plz_rate,Mangga menehi rating Manager baterei ing Play Store
+ur_data_cus,Apa kita bisa terus nggunakake data sampeyan kanggo ngatur pariwara kanggo sampeyan?
+in_slep_mode,Ing mode turu
+in_use,dienggo
+with_curr_pow,Kanthi konsumsi daya saiki
+rem_bat_life,Sisa urip baterei
+qck_acc,Akses cepet
+notif_txt,kabar
+notif_at,Kabar ing
+chg_curr,Ngisi daya saiki
+charge_perm,Kinerja pangisian daya
+maxi_charge_per,Kinerja pangisian daya maksimal
+enb_notif,Aktifake kabar
+perm_send_notif,Pangatur baterei mbutuhake ijin kanggo ngirim kabar, kudu diaktifake ing setelan piranti.
+to_set,Kanggo setelan
+title_autost,Aktifake Autostart
+auto_explain,Pangatur Baterei mbutuhake ijin supaya tetep diaktifake ing latar mburi supaya bisa takon status baterei lan ngirim kabar.
+sync_auto,Sinkronisasi kanthi otomatis
+dis_auto_sync,Mateni sinkronisasi otomatis kanthi signifikan nyuda wakelocks. Nanging, sawetara fungsi kayata nampa e-mail bakal ilang.
+chg_lim,Limit Pangisian daya
+avoid_ful_explain,Yen sampeyan ngisi daya baterei nganti maksimal utawa ngeculake nganti dipateni, kondisi lan urip baterei bakal suda. Ing ngisor iki sampeyan bisa nyetel status pangisian daya minimal lan maksimum utawa discharge baterei lan sampeyan bakal diwenehi kabar saben wektu nilai batesan wis tekan. Aja ngisi daya baterei kanthi lengkap lan ngeculake baterei lan ngluwihi umur baterei.
+rec_notif,Ora nampa kabar?
+title_allow_bg_act,Ngidini kegiatan latar mburi
+allow_bg_act,Supaya sampeyan bisa nggunakake Manager baterei tanpa watesan tanpa sengaja ditutup dening sistem operasi, sampeyan bisa uga kudu mateni fungsi khusus kanggo Manajemen baterei lan panggunaan baterei ing setelan. Amarga macem-macem manufaktur beda-beda ing sebutan opsi kasebut gumantung saka sistem operasi sing digunakake. Ing area Informasi Aplikasi, ing Turu utawa Baterei, pilih Ora Ana Watesan utawa Allow Aktivitas Latar Belakang.
+dev_usage,Panggunaan piranti
+dep_sleep,Turu jero yaiku kahanan nalika piranti sampeyan nggunakake baterei paling sithik. Suwene turu sing jero duweni efek positif kanggo ngirit energi. Turu jero bisa diganggu dening tugas latar mburi, sing nyebabake baterei luwih cepet dibuwang. Ing kasus iki, miwiti maneh piranti.
+title_bat_temp,Suhu baterei
+bat_tempp,Suhu baterei minangka salah sawijining faktor sing paling penting. Yen baterei tetep gel ing suhu dhuwur, iki mengaruhi umur layanan lan kinerja baterei. Yen suhu mundhak, struktur internal baterei bisa rusak.
+rdc_brightness,Ngurangi padhange layar
+display_explain,Tampilan minangka salah sawijining komponen sing nggunakake akeh energi. Ngurangi padhange maksimal mbantu nyuda konsumsi sakabèhé lan entuk tabungan sing nyata. Sadurunge ngurangi padhange, mateni padhange otomatis supaya padhange ora diganti tanpa perlu.
+tst_charge,Tes pangisi daya
+best_way_test,Cara paling apik kanggo nyoba pangisi daya lan kabel yaiku kanthi mriksa kacepetan pangisi daya kanthi layar mati. Kacepetan ngisi daya nalika layar urip dudu pathokan sing apik amarga telpon sampeyan ngonsumsi daya, sing nyebabake fluktuasi. Tancepake pangisi daya, mateni layar kanggo sawetara menit, banjur mriksa daya maksimum saiki.
+wait_title,Nunggu
+rfsh_rate,Refresh rate
+low_sizty,Ngurangi tingkat refresh nganti 60 Hz nambah umur baterei.
+drk_mode,Mode peteng
+acti_dark_mode,Aktifake Mode Peteng, ing Mode Peteng kurang konsumsi daya
+actz,Aktifake
+poz,daya
+minz,minimal
+avgo,Rata-rata
+mixi1,maksimal
+msg_dis,Pesen kasebut ilang sawise 24 jam yen ana data sing cukup kanggo nampilake diagram kanthi lengkap.
+no_enough,Ora cukup data kanggo ditampilake
+log_graph,Ing sawetara jam, sampeyan bakal weruh grafik ing kene sing ngidini sampeyan mriksa suhu baterei, voltase, ampere lan level sajrone 24 jam kepungkur.
+week,minggu
+buy_it,tuku
+one_pur,ragad siji-wektu saka
+refun_pur,tuku bisa dibalekake ing 2 jam.
+each_month,Langganan otomatis nganyari saben wulan lan terus biaya saben wulan. Langganan bisa dibatalake kapan wae.
+mng_subs,ngatur langganan
+subsci,langganan
+will_cost_week,Langganan otomatis nganyari saben minggu lan terus biaya saben minggu. Langganan bisa dibatalake kapan wae.
+lfllong,salawas-lawase
+mthly,saben wulan
+wkly,Mingguan
+hoto,Panas
+prm_ben_title,Keuntungan premium
+sync_title,Sinkronisasi
+dis_sync_inc,Mateni sinkronisasi bakal nambah umur baterei kanthi ora nyelarasake layanan ing latar mburi
+time_out,Wektu ne entek
+dec_extend,Ngurangi wektu sadurunge tampilan dipateni nambah umur baterei
+u_end_opti,Apa sampeyan yakin pengin mungkasi proses optimasi?
+no_why_perm,Ora ijin
+bright_exp,Pangatur Baterei mbutuhake ijin Ganti setelan sistem kanggo nyuda padhange layar utawa mateni Bluetooth.
+tg_title,Gabung saluran Telegram!
+tg_text,Tetep saiki karo nganyari app, nggawe awal, lan mbantu nyoba fitur anyar. Nyaranake ide sampeyan, takon lan entuk jawaban luwih cepet
+join_tg,melu
+curr_consumption,konsumsi saiki
+scrn_onn,layar urip
+srcn_off,layar mati
+mob_charg,Ngisi daya
+discha,Ngilangi
+activea,Aktif
+slpmode,Mode turu
+chagingspeed,Kacepetan Ngisi daya saiki
+dta_proxt,Proteksi data
+governs,Kabijakan privasi iki ngatur panggunaan aplikasi piranti lunak Battery Manager kanggo piranti seluler sing digawe dening Baxolino.
+info_u_provide,Informasi sing diwenehake dening pangguna
+no_pass_per,Kita ora ngirim data pribadhi menyang pihak katelu. Nalika sampeyan ngirim email, kita duwe alamat email, nanging mung digunakake kanggo mbantu aplikasi.
+info_auto_coll,Informasi diklumpukake kanthi otomatis
+exp_admob_use,Kita nggunakake Google Admob kanggo ngladeni iklan. Panggunaan layanan kasebut tundhuk karo pranata proteksi data Google ing https://www.google.com/policies/privacy/.
+we_real_time,Apa Manager Baterei ngumpulake informasi lokasi wektu nyata sing akurat saka piranti kasebut?
+exp_loc_perm_man,Battery Manger mung mriksa apa lokasi diaktifake utawa dipateni, nanging ora ngumpulake informasi sing tepat babagan lokasi piranti seluler sampeyan. Fungsi basis lokasi kasebut disetel kanthi gawan. Sampeyan bisa mateni utawa ngaktifake maneh fungsi kasebut ing setelan piranti sampeyan. Sadurunge utawa sawise nginstal app, sampeyan bakal ditakoni - gumantung saka piranti - apa sampeyan luwih seneng mateni utawa ngaktifake fungsi kasebut. Kita mung bisa ngumpulake data babagan lokasi sampeyan yen sampeyan ngaktifake layanan lokasi kasebut.
+chng,Malih
+pri_update_exp,Kabijakan privasi iki bisa dianyari saka wektu kanggo wektu kanggo alesan apa wae. Kita bakal ngandhani sampeyan babagan owah-owahan ing kabijakan privasi kanthi ngirim kabijakan privasi anyar ing alamat web iki lan menehi kabar liwat pesen ing app. Disaranake sampeyan ajeg takon Kebijakan Privasi iki kanggo owah-owahan, amarga nggunakake terus dianggep persetujuan kabeh owah-owahan. Sampeyan bisa mriksa riwayat kabijakan iki ing situs web iki.
+contct,Kontak
+any_que,Yen sampeyan duwe pitakon babagan proteksi data nalika nggunakake aplikasi utawa duwe pitakon babagan praktik kita, kirim email menyang baxolino.de@gmail.com
+mem_opti,Pangatur baterei mbutuhake akses "memori" supaya aplikasi bisa dipindai lan dioptimalake. Sampeyan bisa mateni utawa ngaktifake fungsi kasebut ing setelan piranti sampeyan. Sadurunge utawa sawise nginstal app, sampeyan bakal dijaluk - gumantung saka piranti - apa sampeyan luwih seneng mateni utawa ngaktifake fungsi kasebut.
+storg,Lumbung
+ble_set_acc,blue_set_perm,Battery Manager mbutuhake akses "Akses setelan Bluetooth" supaya bisa dipriksa apa Bluetooth diaktifake utawa dipateni. Lan kanggo ngaktifake utawa mateni Bluetooth.
+ble_title,Bluetooth
+needz_del,Pangatur Baterei mbutuhake akses "Panjaluk pambusakan paket" kanggo miwiti instal app. Aplikasi kasebut mung bakal dicopot yen sampeyan ngidini kanthi jelas.
+deletion_pkg,Njaluk pambusakan paket
+need_adnd,Pangatur Baterei mbutuhake akses "Aja Ganggu" kanggo ngaktifake utawa mateni mode Aja Ganggu.
+adnd,Akses Aja Ganggu
+need_wlan_acc,Pangatur Baterei mbutuhake akses menyang "Entuk Sambungan WLAN" supaya Pangatur Baterei bisa mriksa apa WLAN diaktifake utawa dipateni. Lan kanggo ngaktifake utawa mateni WLAN.
+wln_conn,Entuk sambungan WLAN
+shop_bill_exp,Nalika sampeyan blanja liwat Google Play In App Billing, Google menehi negara panggonan sampeyan lan kadhangkala negara, kutha, lan kode pos, nanging ora tau alamat lengkap. Kita nggunakake informasi iki kanggo tundhuk karo peraturan tax lan accounting.
+pri_date,Ing 02/21/2021
+how_to_stop,Sampeyan bisa mungkasi kabeh koleksi informasi kanthi aplikasi mung kanthi instal aplikasi kasebut. Sampeyan bisa nggunakake proses instal standar sing kasedhiya minangka bagean saka piranti seluler utawa liwat pasar utawa jaringan kanggo aplikasi seluler.
+opt_out,Apa hak milih metu?
+ur_permission,ijin sampeyan
+accept_privacy,Kanthi nggunakake aplikasi kasebut, sampeyan setuju kanggo ngolah data sampeyan kaya sing kasebut ing kabijakan privasi iki lan kaya sing wis diowahi.

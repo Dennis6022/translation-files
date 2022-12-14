@@ -1,0 +1,347 @@
+title,Kidhibiti cha Betri Lite ni tofauti
+extend_life,Njia bora ya kuongeza muda wa matumizi ya betri na kuwa na afya njema inategemea uzoefu na utafiti wa kisayansi.
+measured,Kwa njia ya uwazi tunakuonyesha tu data iliyopimwa na jinsi inavyohesabiwa.
+healthy,Weka betri yako ikiwa na afya
+double_battery,Maradufu maisha ya betri yako kwa kutochaji betri yako kikamilifu. Wanasayansi wamethibitisha hili katika utafiti wao.
+charge_limit,Kwa kutumia arifa yetu ya kikomo cha malipo, arifa itatumwa wakati betri itafikia kiwango kilichobainishwa na mtumiaji.
+smart,Inakuwa nadhifu kila siku
+analyze,Kadiri unavyotumia Kidhibiti cha Betri kwa muda mrefu, ndivyo tutakavyoboresha zaidi kuchanganua utendaji wa betri yako.
+update_every_time,Kipimo kilichosalia cha maisha ya betri kinasasishwa kila unapotumia au kuchaji kifaa chako.
+runtime,Gundua muda halisi wa matumizi ya betri yako
+discharge_cycle,Kila wakati simu yako inapopitia mzunguko wa kutokwa, makadirio sahihi ya muda wake wa kutumika yanaweza kupimwa.
+accurate_life,Tumia Kidhibiti cha Betri ili kupima maisha sahihi ya betri.
+no_exit,Usiondoke kwenye Kidhibiti cha Betri!
+bg_require,Kidhibiti Betri Lite kinahitaji huduma ya chinichini ili kukusanya takwimu za betri na kupima chaji ya betri na muda wa kuchaji. Kifaa chako kinaweza kusimamisha huduma au kutokiruhusu kufanya kazi wakati programu imefungwa. Ili kuepuka hili, tuna suluhisho nzuri kwako. Bonyeza tu kwenye kiungo.
+man,Mwongozo
+cali,Urekebishaji
+polarity,Katika hatua hii, programu hutambua polarity ya kuchaji na uwezo wa muundo wa betri yako.
+disch,Utekelezaji
+ch_pol,Kuchaji polarity
+power_meter,Mita ya nguvu
+unit_mesure,Kitengo cha kipimo
+capacity,Uwezo wa Betri
+wrong,Si sawa?
+calib,Rekebisha
+ye,Ndiyo
+no,Hapana
+neg,Hasi
+pos,Chanya
+lunch,Zindua Programu
+manufac,Uwezo kulingana na mtengenezaji
+design_des,Uwezo wa kubuni ni uwezo halisi wa betri, kipimo katika mAh. Kwa kuwa hakuna njia rasmi ya kubainisha uwezo, thamani iliyorejeshwa inaweza kuwa si sahihi.
+correct_it,Ikiwa uwezo ulioonyeshwa si sahihi, tafadhali urekebishe.
+cancel,Ghairi
+ok,Sawa
+runtime,Muda wa Kutumika kwa Betri
+wait,kusubiri
+per_hr,Matumizi ya betri kwa saa
+life_for,Maisha ya betri kwa
+battery_cond,Hali ya betri
+bat_info,Taarifa ya betri
+bat_cap,Uwezo wa betri
+bat_volt,Voltage ya betri
+bat_cur,Mkondo wa betri
+unit_mes,Kitengo cha kipimo
+done,Imekamilika
+c_bat_temp,Halijoto ya Betri ya Sasa
+min_bat_tem,Kiwango cha chini cha joto cha Betri
+mx_bat_tem,Kiwango cha juu cha joto cha betri
+avg_bat_tem,Wastani wa joto la betri
+dig_last,Utambuzi wa mwisho kabla
+rem_time,Muda Uliobaki
+volt,Voltage
+curr,Sasa
+status,Hali
+run_time,Muda wa kukimbia
+currently,Kwa sasa
+avg,Wastani
+minmal,Ndogo
+maximal,Upeo wa juu
+tool,Zana
+rem_apps,Sanidua programu ambazo hutumii tena ili kuzuia programu kufanya kazi isivyo lazima na kumaliza betri yako
+uninst_apps,Sanidua Programu
+stat,Anza
+act_eng_save,Washa modi ya kuokoa nishati ili kupunguza matumizi ya betri
+pow_save,Hali ya kuokoa nishati
+tempe,Halijoto
+heal,Afya
+tips,Weka Betri yako katika hali nzuri kwa vidokezo na mbinu.
+recomm,Mapendekezo
+prem,Premium
+more_func,Vipengele zaidi kwa ajili yako. Pata malipo, pata zaidi.
+more,Zaidi
+ur_cond_bat,Hali ya betri ni
+ur_bat_life,Maisha ya betri yako ni
+ur_bat_temp,Halijoto ya Betri yako ni
+wow,Bora kabisa
+normal,Kawaida
+poor,Hafifu
+days,Siku
+mins,Dakika
+hrs,Saa
+chging,Kuchaji
+ful,Imejaa
+dis_chrg,Kutoa
+unkn,Haijulikani
+too_lit,Data ya Betri ni ndogo sana
+car_any,Tekeleza hata hivyo
+endz_,Mwisho
+dig_any,Ili kupata matokeo bora ya uchunguzi, programu inahitaji kuchanganua betri yako chinichini. Tafadhali anza utambuzi baada ya masaa 24
+end_dig,Komesha utambuzi
+quit_dig,Kweli Acha Utambuzi
+batty_temp,Halijoto ya betri
+akku_manager,Meneja wa Akku
+u_agree,Kwa "START" unakubali kanuni za ulinzi wa data
+elemn_opti,Vipengele vinaweza kuboreshwa
+looks_good,Kila kitu kinaonekana vizuri
+optimize_,Boresha
+toolz_,Zana
+akku_check,Akku Angalia
+ctrl_load,Upakiaji unaodhibitiwa
+mng_apps,Dhibiti programu
+infosm,Habari
+tenzion,mvutano
+electy,umeme
+lvl,Kiwango
+akku_man_premium,Akku Manager Premium
+premimum_highlight,Tumia Kidhibiti cha Betri kabisa bila kutangaza na unaweza kufikia ubinafsishaji wa kina wa kiolesura cha mtumiaji.
+design,Kubuni
+subjs,masomo
+genrally,Kwa ujumla
+temp_unit,Kitengo cha joto
+oth_apps,Programu Nyingine
+dat_protect,Ulinzi wa data
+thx_akku,Asante kwa kusaidia Meneja wa Akku kwa ununuzi wa toleo la malipo.
+user_got_pre,Sasa unaweza kufikia ubinafsishaji wa kina wa kiolesura cha mtumiaji na matumizi bila utangazaji.
+exp_more,Unaweza kutarajia vipengele zaidi katika masasisho yajayo
+ap_optimiz,Uboreshaji wa programu
+sys_bat_usage,Matumizi ya betri ya mfumo
+bat_usage_det,Maelezo ya matumizi ya betri
+end_optiz,Komesha uboreshaji
+abort,Toa mimba
+break_up,kuvunja
+scn,kuchanganua
+scn_bgh,Mwangaza wa skrini
+dact_wlan,Zima WLAN
+dact_save_batt,Zima ili kuokoa betri
+dact,Zima
+dact_ble,Zima bluetooth
+red_brigh,Punguza mwangaza
+bright_txt,Punguza mwangaza wa skrini ili kuokoa betri
+to_reduce,Kupunguza
+dact_gps,Zima GPS
+appz_optimz,Programu zilizoboreshwa
+start_bat_check_det,Anzisha ukaguzi wa kina wa betri ili kuwa upande salama kila wakati
+act_eng_save,Washa hali ya kuokoa nishati ili kupunguza matumizi ya betri
+remove_useless,Sanidua programu ambazo hazitumiki tena
+premium,Premium
+clear_mem,Safisha kumbukumbu
+clear_mem_des,Ili smartphone yako iendeshe haraka na vizuri.
+clenaup,Safisha
+rat,ukadiriaji
+rat_free,Kadiria Kidhibiti cha Betri bila malipo
+sendz,Tuma
+elmn_found,Vipengele vimepatikana
+drumz,Ngoma
+status,Hali
+end_akk_check,Maliza ukaguzi wa betri
+bat_detlz,Maelezo ya betri
+temp_checked,Joto limeangaliwa
+cond_checked,Hali ya betri imeangaliwa
+checkz_start,Ukaguzi wa betri unaanza
+plug_in,Imechomekwa
+techz,Teknolojia
+coldz,Baridi
+until,Mpaka
+well,Vizuri
+ovr_heat,Kuzidisha joto
+ovr_load,Kupakia kupita kiasi
+renam,imebadilishwa jina
+not_def,haijafafanuliwa
+chrgz,Malipo
+full,Imejaa
+unloadz,Inapakuliwa
+not_charge_unkn,haijashtakiwa au haijulikani
+usb,USB
+charger,chaja
+wless,wireless
+not_at_al,hakuna chochote
+uninstall,Sanidua
+update,Ili kusasisha
+setting,Mipangilio
+app,Programu
+not_found,Programu haikupatikana
+search,Tafuta programu
+version_code,Msimbo wa Toleo
+api_level,Kiwango cha API
+app_version,Toleo la Programu
+authorization,idhini
+open,kufungua
+play_store,Play Store
+control,kudhibiti
+systemstandart,Mfumo wa kiwango
+white,Nyeupe
+dark,Giza
+ocean,Bahari
+black,Nyeusi
+dark_blue,Bluu Iliyokolea
+excellent,Bora kabisa
+bad,Mbaya
+battery_bad,Betri imeharibiwa kidogo
+very_bad,Mbaya sana
+battery_damaged,Betri imeharibiwa
+custom_mode,Hali Maalum
+brightness,Mwangaza
+automatic_brightness,Mwangaza Otomatiki
+normal,Kawaida
+sound_modus,Modus ya sauti
+tone_work,Toni Zote Inafanya Kazi
+mute,Nyamazisha
+call_note_mute,Simu na arifa zimenyamazishwa
+not_bother,Usijisumbue
+tones_vibration_mute,Zima toni na mitetemo, isipokuwa toni za kengele
+sound,Sauti
+music,muziki
+notification,Taarifa
+alarm,Kengele
+ultra_saving,Hali ya juu ya kuokoa nishati
+edit,Ili kuhariri
+disable_ultra_saving,Zima Njia ya Kuokoa Nishati ya Juu
+min_remaining,dakika iliyobaki
+hours,masaa
+activted_ultra_saving,Hali ya juu zaidi ya kuokoa nishati imewashwa
+charged_in,kuingizwa
+min,min
+limit_power,Punguza matumizi ya nguvu
+reduce_screen,Punguza mwangaza wa skrini
+restrict_bg_act_explain,Zuia shughuli za usuli
+volatge_check,Voltage imekaguliwa
+software_optimized,Programu imeboreshwa
+connect_charger,Unganisha chaja
+charger_removed,Chaja inaweza kuondolewa
+power_consump_title,Matumizi ya nguvu
+srcn_bg_title,Mwangaza wa skrini
+bg_al_activities,Shughuli za usuli
+sftware,Programu
+get_primium,Ukinunua toleo la malipo, utapata vitendaji vyote vya sasa na vitendaji vyote vipya katika siku zijazo.
+cuztomize_face,Kubinafsisha kiolesura cha mtumiaji
+comp_scheme,Tunga mpango wako wa rangi wa Kidhibiti cha Betri kutoka kwa mandhari mbalimbali.
+bat_check_detail,Ukaguzi wa kina wa betri
+check_cond_test,Tumia Kidhibiti cha Betri ili kuangalia hali ya betri yako ili kuwa katika upande salama kila wakati.
+no_ads_yo,Hakuna matangazo
+use_explain_noads,Tumia Kidhibiti cha Betri bila matangazo yoyote
+act_energy_save,Washa hali ya juu zaidi ya kuokoa nishati ili kuongeza muda wa matumizi ya betri katika dharura.
+buy_title,Nunua Premium
+loc_title,Mahali
+cap_title,uwezo
+cap_remain,Uwezo uliobaki
+sleepy,Kulala
+sek,Sekunde
+sing_min,Dakika
+miniotes,Dakika
+finish,Imekamilika
+mobi_data,data ya simu
+plz_rate,Tafadhali kadiria Kidhibiti cha Betri katika Duka la Google Play
+ur_data_cus,Je, tunaweza kuendelea kutumia data yako ili kubinafsisha matangazo kwa ajili yako?
+in_slep_mode,Katika hali ya kulala
+in_use,Inatumika
+with_curr_pow,Kwa matumizi ya sasa ya nguvu
+rem_bat_life,Maisha ya betri yaliyosalia
+qck_acc,Ufikiaji wa haraka
+notif_txt,taarifa
+notif_at,Arifu kwa
+chg_curr,Inachaji sasa
+charge_perm,Utendaji wa malipo
+maxi_charge_per,Utendaji wa juu zaidi wa malipo
+enb_notif,Washa arifa
+perm_send_notif,Kidhibiti cha Betri kinahitaji ruhusa kutuma arifa, lazima iwashwe katika mipangilio ya kifaa.
+to_set,Kwa mipangilio
+title_autost,Washa Anzisha Kiotomatiki
+auto_explain,Kidhibiti cha Betri kinahitaji ruhusa ya kusalia chinichini ili kuuliza hali ya betri na kutuma arifa.
+sync_auto,Sawazisha kiotomatiki
+dis_auto_sync,Kuzima ulandanishi wa kiotomatiki kwa kiasi kikubwa hupunguza wakelocks. Hata hivyo, baadhi ya vipengele kama vile kupokea barua pepe vitapotea.
+chg_lim,Kikomo cha malipo
+avoid_ful_explain,Ikiwa unachaji betri yako kwa kiwango cha juu zaidi au kuifungua hadi kuzimwa, hali na maisha ya huduma ya betri yatapunguzwa. Katika zifuatazo unaweza kuweka kiwango cha chini na cha juu cha malipo au hali ya kutokwa kwa betri na utaarifiwa kila wakati thamani ya kizingiti inapofikiwa. Epuka chaji moja kamili na chaga betri yako na uongeze muda wa matumizi ya betri.
+rec_notif,Hujapokea arifa?
+title_allow_bg_act,Ruhusu shughuli ya chinichini
+allow_bg_act,Ili uweze kutumia Kidhibiti cha Betri bila vikwazo bila kufungwa bila kukusudia na mfumo wa uendeshaji, huenda ukalazimika kuzima vipengele maalum vya usimamizi wa betri na matumizi ya betri kwenye mipangilio. Kwa sababu wazalishaji mbalimbali hutofautiana katika uteuzi wa chaguzi hizi kulingana na mfumo wa uendeshaji unaotumiwa. Katika eneo la Maelezo ya Programu, chini ya Kulala au Betri, chagua Hakuna Vikwazo au Ruhusu Shughuli ya Chinichini.
+dev_usage,Matumizi ya kifaa
+dep_sleep,Usingizi mzito ni hali ambayo kifaa chako kinatumia kiwango kidogo cha betri. Muda wa usingizi wa kina una athari nzuri juu ya kuokoa nishati. Usingizi mzito unaweza kukatizwa na kazi za chinichini, ambazo husababisha betri kutokeza haraka. Katika kesi hii, fungua upya kifaa chako.
+title_bat_temp,Halijoto ya betri
+bat_tempp,Joto la betri ni moja ya mambo muhimu zaidi. Ikiwa betri inawekwa gel kwenye joto la juu, hii inathiri maisha ya huduma na utendaji wa betri. Ikiwa joto linaongezeka, muundo wa ndani wa betri unaweza kuharibiwa.
+rdc_brightness,Punguza mwangaza wa skrini
+display_explain,Onyesho ni mojawapo ya vipengele vinavyotumia nishati nyingi. Kupunguza kiwango cha juu cha mwangaza husaidia kupunguza matumizi ya jumla na kufikia akiba inayoonekana. Kabla ya kupunguza mwangaza, zima mwangaza otomatiki ili mwangaza usibadilishwe bila lazima.
+tst_charge,Chaja ya majaribio
+best_way_test,Njia bora ya kupima chaja na kebo ni kuangalia kasi ya kuchaji huku skrini ikiwa imezimwa. Kasi ya kuchaji wakati skrini imewashwa si kipimo kizuri kwa sababu simu yako inatumia nishati, jambo ambalo husababisha kushuka kwa thamani. Chomeka chaja, zima skrini kwa dakika chache, kisha uangalie kiwango cha juu cha malipo ya sasa.
+wait_title,Kusubiri
+rfsh_rate,Kiwango cha kuonyesha upya
+low_sizty,Kupunguza kasi ya kuonyesha upya hadi Hz 60 huboresha maisha ya betri.
+drk_mode,Hali ya Giza
+acti_dark_mode,Washa Hali Nyeusi, katika Hali ya Giza, nishati inayotumiwa hupungua
+actz,Amilisha
+poz,Nguvu
+minz,Kiwango cha chini
+avgo,Wastani
+mixi1,Upeo wa juu
+msg_dis,Ujumbe hutoweka baada ya saa 24 ikiwa kuna data ya kutosha kuonyesha mchoro kwa ukamilifu.
+no_enough,Hakuna data ya kutosha kuonyesha
+log_graph,Baada ya saa chache utaona grafu hapa ambayo itakuruhusu kuangalia halijoto ya betri, voltage, amperage na kiwango katika saa 24 zilizopita.
+week,wiki
+buy_it,Nunua
+one_pur,Ada ya mara moja ya
+refun_pur,ununuzi unaweza kurejeshewa ndani ya masaa 2.
+each_month,Usajili husasishwa kiotomatiki kila mwezi na kuendelea kugharimu kwa mwezi. Usajili unaweza kughairiwa wakati wowote.
+mng_subs,dhibiti usajili
+subsci,jiandikishe
+will_cost_week,Usajili husasishwa kiotomatiki kila wiki na kuendelea kugharimu kwa wiki. Usajili unaweza kughairiwa wakati wowote.
+lfllong,maisha yote
+mthly,kila mwezi
+wkly,Kila wiki
+hoto,Moto
+prm_ben_title,Faida za kulipia
+sync_title,Sawazisha
+dis_sync_inc,Kuzima usawazishaji kutaongeza muda wa matumizi ya betri kwa kutosawazisha huduma chinichini
+time_out,Muda umeisha
+dec_extend,Kupunguza muda kabla ya skrini kuzimwa huongeza muda wa matumizi ya betri
+u_end_opti,Je, una uhakika unataka kukomesha mchakato wa uboreshaji?
+no_why_perm,Hakuna ruhusa
+bright_exp,Kidhibiti cha Betri kinahitaji ruhusa ya Badilisha mipangilio ya mfumo ili kupunguza mwangaza wa skrini au kuzima Bluetooth.
+tg_title,Jiunge na kituo cha Telegraph!
+tg_text,Pata masasisho ya programu, pata miundo ya mapema na usaidie kujaribu vipengele vipya. Pendekeza mawazo yako, uliza maswali na upate majibu haraka
+join_tg,kujiunga
+curr_consumption,matumizi ya sasa
+scrn_onn,skrini imewashwa
+srcn_off,skrini imezimwa
+mob_charg,Kuchaji
+discha,Kutoa
+activea,Inayotumika
+slpmode,Hali ya kulala
+chagingspeed,Kasi ya Kuchaji ya Sasa
+dta_proxt,Ulinzi wa data
+governs,Sera hii ya faragha inadhibiti matumizi yako ya programu ya Kidhibiti cha Betri kwa vifaa vya mkononi vilivyoundwa na Baxolino.
+info_u_provide,Taarifa iliyotolewa na mtumiaji
+no_pass_per,Hatupitishi data ya kibinafsi kwa wahusika wengine. Unapotutumia barua pepe, tunayo anwani yako ya barua pepe, lakini tunaitumia kukusaidia katika programu zetu pekee.
+info_auto_coll,Taarifa zilizokusanywa moja kwa moja
+exp_admob_use,Tunatumia Google Admob kutoa matangazo. Matumizi ya huduma hizi yanategemea masharti ya Google ya ulinzi wa data kwenye https://www.google.com/policies/privacy/.
+we_real_time,Je, Kidhibiti cha Betri kinakusanya maelezo sahihi ya eneo la wakati halisi kutoka kwa kifaa?
+exp_loc_perm_man,Kipanga Betri hukagua tu ikiwa eneo limewashwa au limezimwa, lakini halikusanyi taarifa yoyote sahihi kuhusu eneo la kifaa chako cha mkononi. Vitendaji kama hivyo vinavyotegemea eneo huwekwa kwa chaguo-msingi. Unaweza kulemaza au kuwasha tena vitendaji hivi katika mipangilio ya kifaa chako husika. Kabla au baada ya kusakinisha programu, utaulizwa - kulingana na kifaa - ikiwa ungependelea kuzima au kuamilisha vitendaji hivi. Tunaweza tu kukusanya data kuhusu eneo lako ikiwa utawasha huduma kama hizo za eneo.
+chng,Mabadiliko
+pri_update_exp,Sera hii ya faragha inaweza kusasishwa mara kwa mara kwa sababu yoyote. Tutakujulisha kuhusu mabadiliko ya sera yetu ya faragha kwa kuchapisha sera mpya ya faragha kwenye anwani hii ya wavuti na kukuarifu kupitia ujumbe katika programu. Inapendekezwa kuwa uwasiliane na Sera hii ya Faragha mara kwa mara kwa mabadiliko, kwani matumizi yanayoendelea yanachukuliwa kuwa idhini ya mabadiliko yote. Unaweza kukagua historia ya sera hii kwenye tovuti hii.
+contct,Wasiliana
+any_que,Ikiwa una maswali yoyote kuhusu ulinzi wa data unapotumia programu au una maswali kuhusu desturi zetu, tafadhali tuma barua pepe kwa baxolino.de@gmail.com
+mem_opti,Kidhibiti cha Betri kinahitaji ufikiaji wa "kumbukumbu" ili programu ziweze kuchanganuliwa na kuboreshwa. Unaweza kulemaza au kuamilisha vitendaji hivi katika mipangilio ya kifaa chako husika. Kabla au baada ya kusakinisha programu, utaulizwa - kulingana na kifaa - ikiwa ungependelea kuzima au kuamilisha vitendaji hivi.
+storg,Hifadhi
+ble_set_acc,blue_set_perm,Kidhibiti cha Betri kinahitaji ufikiaji wa "ufikiaji wa mipangilio ya Bluetooth" ili iweze kuangaliwa ikiwa Bluetooth imewashwa au imezimwa. Na kuwezesha au kuzima Bluetooth.
+ble_title,Bluetooth
+needz_del,Kidhibiti cha Betri kinahitaji ufikiaji wa "Omba kufutwa kwa vifurushi" ili kuanza uondoaji wa programu. Programu itaondolewa tu ikiwa utairuhusu kwa njia dhahiri.
+deletion_pkg,Omba kufutwa kwa vifurushi
+need_adnd,Kidhibiti cha Betri kinahitaji ufikiaji wa "Usisumbue" ili kuwasha au kuzima hali ya Usinisumbue.
+adnd,Fikia Usinisumbue
+need_wlan_acc,Kidhibiti cha Betri kinahitaji ufikiaji wa "Pata Miunganisho ya WLAN" ili Kidhibiti cha Betri kiweze kuangalia ikiwa WLAN imewashwa au imezimwa. Na kuamilisha au kulemaza WLAN.
+wln_conn,Pata miunganisho ya WLAN
+shop_bill_exp,Unaponunua kupitia Utozaji wa Programu ya Google Play, Google hutupatia nchi yako ya makazi na wakati mwingine jimbo, jiji na msimbo wa posta, lakini haitupi anwani kamili. Tunatumia maelezo haya kutii kanuni za kodi na uhasibu.
+pri_date,Kuanzia tarehe 21/02/2021
+how_to_stop,Unaweza kusimamisha mkusanyiko mzima wa habari kwa programu tu kwa kusanidua programu. Unaweza kutumia michakato ya kawaida ya uondoaji inayopatikana kama sehemu ya kifaa chako cha mkononi au kupitia sokoni au mtandao wa programu za simu.
+opt_out,Haki zangu za kutoka ni zipi?
+ur_permission,ruhusa yako
+accept_privacy,Kwa kutumia programu, unakubali uchakataji wetu wa data yako kama ilivyobainishwa katika sera hii ya faragha na kama ilivyorekebishwa nasi.

@@ -1,0 +1,347 @@
+title,Batareýa menejeri Lite başga
+extend_life,Batareýanyň ömrüni uzaltmagyň we sagdyn saklamagyň iň gowy usuly tejribe we ylmy gözleglere esaslanýar.
+measured,Aç-açan görnüşde size diňe ölçenen maglumatlary we onuň nähili hasaplanýandygyny görkezýäris.
+healthy,Batareýaňyzy sagdyn saklaň
+double_battery,Batareýaňyzy doly zarýad bermezden batareýanyň ömrüni iki esse köpeldiň. Alymlar muny gözleglerinde subut etdiler.
+charge_limit,Zarýad çäklendiriş habarnamamyzy ulanyp, batareýa ulanyjynyň kesgitlän çägine ýetende habar iberiler.
+smart,Her gün has akylly bolýar
+analyze,Batareýa menejeri Lite näçe uzak ulansaňyz, batareýanyňyzyň işleýşini seljereris.
+update_every_time,Galan batareýanyň ömrüni ölçemek, enjamyňyzy ulananyňyzda ýa-da zarýad bereniňizde her gezek täzelenýär.
+runtime,Batareýanyňyzyň iş wagtyny öwreniň
+discharge_cycle,Her gezek telefonyňyz zarýad aýlawyny geçende, iş wagtynyň takyk bahasyny ölçäp bolýar.
+accurate_life,Batareýanyň takyk ömrüni ölçemek üçin “Battery Manager Lite” ulanyň.
+no_exit,Batareýa menejeri Lite-den çykmaň!
+bg_require,Batareýa menejeri Lite, batareýanyň statistikasyny ýygnamak we batareýanyň zarýadyny we zarýad wagtyny ölçemek üçin fon hyzmatyny talap edýär. Enjamyňyz hyzmaty ýapýar ýa-da programma ýapylanda işlemegine rugsat bermeýär. Munuň öňüni almak üçin, siziň üçin gowy çözgüt bar. Diňe baglanyşyga basyň.
+man,Gollanma
+cali,Kalibrleme
+polarity,Bu ädimde programma zarýad beriş polýarlygyny we batareýaňyzyň dizaýn kuwwatyny kesgitleýär.
+disch,Akdyrmak
+ch_pol,Polýarlygy güýçlendirmek
+power_meter,Elektrik ölçeýji
+unit_mesure,Ölçeg birligi
+capacity,Batareýanyň kuwwaty
+wrong,Dogry dälmi?
+calib,Kalibrläň
+ye,Hawa
+no,.Ok
+neg,Ativearamaz
+pos,Oňyn
+lunch,Programmany işe giriziň
+manufac,Öndürijä görä mümkinçilik
+design_des,Dizaýn kuwwaty, mAh bilen ölçelýän hakyky batareýa kuwwatydyr. Potensialy kesgitlemegiň resmi usuly ýoklugy sebäpli, yzyna gaýtarylan baha nädogry bolup biler.
+correct_it,Görkezilen kuwwat dogry däl bolsa, düzediň.
+cancel,Elatyr
+ok,Bolýar
+runtime,Batareýanyň iş wagty
+wait,garaşýaryn
+per_hr,Sagatda batareýany sarp etmek
+life_for,Batareýanyň ömri
+battery_cond,Batareýanyň ýagdaýy
+bat_info,Batareýa barada maglumat
+bat_cap,Batareýanyň kuwwaty
+bat_volt,Batareýanyň naprýa .eniýesi
+bat_cur,Batareýa tok
+unit_mes,Ölçeg birligi
+done,Boldy
+c_bat_temp,Häzirki batareýanyň temperaturasy
+min_bat_tem,Batareýanyň iň pes temperaturasy
+mx_bat_tem,Batareýanyň iň ýokary temperaturasy
+avg_bat_tem,Batareýanyň ortaça temperaturasy
+dig_last,Öň diagnoz
+rem_time,Galan wagt
+volt,Naprýa .eniýe
+curr,Häzirki
+status,.Agdaý
+run_time,Işleýän wagt
+currently,Häzirki wagtda
+avg,Ortaça
+minmal,Minimal
+maximal,Maksimum
+tool,Gurallar
+rem_apps,Programmalaryň gereksiz işlemeginiň we batareýaňyzyň zaýalanmagynyň öňüni almak üçin ulanmaýan programmalaryňyzy aýyryň
+uninst_apps,Programmalary aýyryň
+stat,Başla
+act_eng_save,Batareýanyň sarp edilişini azaltmak üçin energiýa tygşytlamak tertibini işjeňleşdiriň
+pow_save,Kuwwat tygşytlamak tertibi
+tempe,Temperatura
+heal,Saglyk
+tips,Maslahatlar we maslahatlar bilen Batareýany gowy ýagdaýda saklaň.
+recomm,Teklipler
+prem,Premium
+more_func,Siziň üçin has köp funksiýa. Premium al, has köp al.
+more,Has köp
+ur_cond_bat,Batareýanyň ýagdaýy
+ur_bat_life,Batareýanyň ömri
+ur_bat_temp,Batareýanyň temperaturasy
+wow,Gowy
+normal,Adaty
+poor,Garyp
+days,Günler
+mins,Minutlar
+hrs,Sagatlar
+chging,Zarýad bermek
+ful,Doly
+dis_chrg,Akdyrma
+unkn,Näbelli
+too_lit,Batareýa maglumatlary gaty az
+car_any,Her niçigem bolsa ýerine ýetir
+endz_,Ahyry
+dig_any,Has anyklaýyş netijelerini almak üçin programma batareýany fonda seljermeli. Diagnozy 24 sagatdan soň başlamagyňyzy haýyş edýäris
+end_dig,Ahyrky diagnoz
+quit_dig,Hakykatdanam diagnozy taşlaň
+batty_temp,Batareýanyň temperaturasy
+akku_manager,Akku dolandyryjysy
+u_agree,"START" bilen maglumatlary goramak düzgünlerine razylaşýarsyňyz
+elemn_opti,Elementleri optimizirläp bolýar
+looks_good,Hemme zat gowy görünýär
+optimize_,Optimizirläň
+toolz_,Gurallar
+akku_check,Akku barlamak
+ctrl_load,Dolandyryş
+mng_apps,Programmalary dolandyryň
+infosm,Maglumat
+tenzion,dartgynlylyk
+electy,elektrik
+lvl,Dereje
+akku_man_premium,Akku Manager Premium
+premimum_highlight,Batareýa dolandyryjysyny mahabatsyz doly ulanyň we ulanyjy interfeýsiniň giňişleýin özleşdirilmegine girip bilersiňiz.
+design,Dizaýn
+subjs,dersler
+genrally,Umuman
+temp_unit,Temperatura birligi
+oth_apps,Beýleki programmalar
+dat_protect,Maglumatlary goramak
+thx_akku,Akku dolandyryjysyna premium wersiýasyny satyn almak üçin goldaw bereniňiz üçin sag boluň.
+user_got_pre,Indi ulanyjy interfeýsini giňişleýin özleşdirmäge we mahabatsyz ulanmaga girip bilersiňiz.
+exp_more,Geljekdäki täzelenmelerde has köp aýratynlyga garaşyp bilersiňiz
+ap_optimiz,Programmany optimizasiýa
+sys_bat_usage,Ulgam batareýasynyň sarp edilişi
+bat_usage_det,Batareýany ulanmagyň jikme-jiklikleri
+end_optiz,Ahyrky optimizasiýa
+abort,Abort
+break_up,aýrylyş
+scn,skanirlemek üçin
+scn_bgh,Ekranyň ýagtylygy
+dact_wlan,WLAN-y öçüriň
+dact_save_batt,Batareýany tygşytlamak üçin ýapyň
+dact,Öçürmek
+dact_ble,Bluetooth-y öçüriň
+red_brigh,Brightagtylygy peseltmek
+bright_txt,Batareýany tygşytlamak üçin ekranyň ýagtylygyny azaldyň
+to_reduce,Azaltmak
+dact_gps,GPS-i öçüriň
+appz_optimz,Programmalar optimallaşdyryldy
+start_bat_check_det,Elmydama howpsuz tarapda bolmak üçin jikme-jik batareýany barlaň
+act_eng_save,Batareýanyň sarp edilişini azaltmak üçin energiýa tygşytlamak tertibini işjeňleşdiriň
+remove_useless,Indi ulanylmaýan programmalary aýyryň
+premium,Premium
+clear_mem,Memoryady arassala
+clear_mem_des,Smartfonyňyz çalt we rahat işlemegi üçin.
+clenaup,Arassalamak
+rat,reýting
+rat_free,Batareýa dolandyryjysyna mugt baha beriň
+sendz,Iber
+elmn_found,Elementler tapyldy
+drumz,Deprekler
+status,.Agdaý
+end_akk_check,Batareýany barlamak
+bat_detlz,Batareýanyň jikme-jiklikleri
+temp_checked,Temperatura barlanýar
+cond_checked,Batareýanyň ýagdaýy barlanýar
+checkz_start,Batareýany barlamak başlaýar
+plug_in,Dakylgy
+techz,Tehnologiýa
+coldz,Sowuk
+until,Şu wagta çenli
+well,Bolýar
+ovr_heat,Gyzgynlyk
+ovr_load,Artykmaç ýük
+renam,adyny üýtgetdi
+not_def,kesgitlenmedi
+chrgz,Zarýad
+full,Doly
+unloadz,Loadüklemek
+not_charge_unkn,töleg alynmaýar ýa-da näbelli
+usb,USB
+charger,güýçlendiriji
+wless,simsiz
+not_at_al,hiç zat
+uninstall,Aýyr
+update,Täzelenmek
+setting,Sazlamalar
+app,Programmalar
+not_found,Programma tapylmady
+search,Programmalary gözläň
+version_code,Wersiýa kody
+api_level,API derejesi
+app_version,Programma wersiýasy
+authorization,ygtyýarnama
+open,açmak üçin
+play_store,Dükan
+control,gözegçilik
+systemstandart,Ulgam standarty
+white,Ak
+dark,Garaňky
+ocean,Okean
+black,Gara
+dark_blue,Goýy gök
+excellent,Gowy
+bad,Erbet
+battery_bad,Batareýa birneme zaýalanýar
+very_bad,Örän erbet
+battery_damaged,Batareýa zeper ýetdi
+custom_mode,Omörite tertip
+brightness,Ightagtylyk
+automatic_brightness,Awtomatiki ýagtylyk
+normal,Adaty
+sound_modus,Ses tertibi
+tone_work,Tonlaryň hemmesi işleýär
+mute,Sessiz
+call_note_mute,Çagyryşlar we duýduryşlar öçürildi
+not_bother,Azar berme
+tones_vibration_mute,Duýduryş seslerinden başga sesleri we yrgyldylary öçüriň
+sound,Sesler
+music,Aýdym-saz
+notification,Duýduryş
+alarm,Duýduryş
+ultra_saving,Ultra energiýa tygşytlamak tertibi
+edit,Redaktirlemek
+disable_ultra_saving,Ultra energiýa tygşytlamak tertibini öçüriň
+min_remaining,min
+hours,sagat
+activted_ultra_saving,Ultra energiýa tygşytlamak tertibi işjeňleşdirildi
+charged_in,jogapkär
+min,min
+limit_power,Kuwwat sarp etmegi çäklendiriň
+reduce_screen,Ekranyň ýagtylygyny peseltmek
+restrict_bg_act_explain,Fon çärelerini çäklendiriň
+volatge_check,Naprýa .eniýe barlanýar
+software_optimized,Programma üpjünçiligi optimallaşdyryldy
+connect_charger,Güýçlendirmek enjamyny birikdiriň
+charger_removed,Zarýad beriji aýrylyp bilner
+power_consump_title,Kuwwat sarp etmek
+srcn_bg_title,Ekranyň ýagtylygy
+bg_al_activities,Düşündirişler
+sftware,Programma üpjünçiligi
+get_primium,Premium wersiýasyny satyn alsaňyz, geljekde ähli täze funksiýalar ýaly ähli häzirki funksiýalary alarsyňyz.
+cuztomize_face,Ulanyjy interfeýsini özleşdirmek
+comp_scheme,Dürli mowzuklardan Batareýa Dolandyryjynyň reňk shemasyny düzüň.
+bat_check_detail,Batareýany jikme-jik barlamak
+check_cond_test,Batareýanyňyzyň hemişe howpsuz tarapda bolmagyny barlamak üçin Batareýa dolandyryjysyny ulanyň.
+no_ads_yo,Mahabat ýok
+use_explain_noads,Hiç hili mahabat bermezden Batareýa dolandyryjysyny ulanyň
+act_energy_save,Gyssagly ýagdaýda batareýanyň ömrüni köpeltmek üçin ultra energiýa tygşytlaýyş tertibini işjeňleşdiriň.
+buy_title,Premium satyn alyň
+loc_title,Locationerleşýän ýeri
+cap_title,kuwwaty
+cap_remain,Galan kuwwat
+sleepy,Uka
+sek,Sekunt
+sing_min,Minut
+miniotes,Minutlar
+finish,Tamamlandy
+mobi_data,ykjam maglumatlar
+plz_rate,“Play Store” -da batareýa dolandyryjysyna baha bermegiňizi haýyş edýäris
+ur_data_cus,Maglumatlaryňyzy siziň üçin mahabatlary düzmek üçin ulanmagy dowam etdirip bilerismi?
+in_slep_mode,Uky tertibinde
+in_use,Ulanyşda
+with_curr_pow,Häzirki energiýa sarp edilişi bilen
+rem_bat_life,Batareýanyň ömri
+qck_acc,Çalt giriş
+notif_txt,habarnamasy
+notif_at,Habar beriň
+chg_curr,Tok zarýady
+charge_perm,Zarýad beriş
+maxi_charge_per,Zarýad bermegiň iň ýokary öndürijiligi
+enb_notif,Duýduryşy işjeňleşdiriň
+perm_send_notif,Batareýa dolandyryjysy habarnamany ibermek üçin rugsat talap edýär, enjamyň sazlamalarynda işjeň bolmaly.
+to_set,Sazlamalara
+title_autost,Awtostarty işjeňleşdiriň
+auto_explain,Batareýanyň dolandyryjysy, batareýanyň ýagdaýyny soramak we habarnamany ibermek üçin fonda işjeň bolmak üçin rugsat talap edýär.
+sync_auto,Awtomatiki sinhronlaň
+dis_auto_sync,Awtomatiki sinhronizasiýany öçürmek wakeloklary ep-esli azaldar. Şeýle-de bolsa, e-poçta almak ýaly käbir funksiýalar ýitýär.
+chg_lim,Nyrh çäklendirmesi
+avoid_ful_explain,Batareýaňyzy iň ýokary zarýad berseňiz ýa-da öçürilýänçä zarýad berseňiz, batareýanyň ýagdaýy we hyzmat möhleti azalýar. Aşakda batareýanyň iň pes we iň ýokary zarýadyny ýa-da zarýad ýagdaýyny kesgitläp bilersiňiz we her gezek bosaganyň bahasy ýetilende size habar berler. Bir zarýaddan doly gaça duruň we batareýany boşadyň we batareýanyň ömrüni uzadyň.
+rec_notif,Habarnamany almadyňyzmy?
+title_allow_bg_act,Fon işjeňligine rugsat beriň
+allow_bg_act,Batareýa dolandyryjysyny operasiýa ulgamy tarapyndan bilgeşleýin ýapylmazdan çäklendirmesiz ulanyp bilmek üçin batareýany dolandyrmak we sazlamalarda batareýany ulanmak üçin ýörite funksiýalary öçürip bilersiňiz. Sebäbi dürli öndürijiler ulanylýan operasiýa ulgamyna baglylykda bu opsiýalaryň belliginde tapawutlanýar. Programma maglumat meýdanynda, Uky ýa-da Batareýa astynda, Çäklendirmeler ýok ýa-da Fon işine rugsat beriň.
+dev_usage,Enjamyň ulanylyşy
+dep_sleep,Çuňňur uky, enjamyňyzyň iň az mukdarda batareýany ulanýan ýagdaýydyr. Çuň ukynyň dowamlylygy energiýa tygşytlamaga oňyn täsir edýär. Çuň uky, batareýanyň has çalt işlemegine sebäp bolýan fon işleri bilen kesilip bilner. Bu ýagdaýda enjamyňyzy täzeden açyň.
+title_bat_temp,Batareýanyň temperaturasy
+bat_tempp,Batareýanyň temperaturasy iň möhüm faktorlardan biridir. Eger batareýa ýokary temperaturada jel saklansa, bu hyzmat möhletine we batareýanyň işleýşine täsir edýär. Temperatura ýokarlansa, batareýanyň içki gurluşy zaýalanmagy mümkin.
+rdc_brightness,Ekranyň ýagtylygyny peseltmek
+display_explain,Ekrany energiýanyň köp bölegini sarp edýän komponentleriň biridir. Iň ýokary ýagtylygy peseltmek umumy sarp etmegi azaltmaga we ep-esli tygşytlamaga kömek edýär. Brightagtylygy azaltmazdan ozal, ýagtylygyň gereksiz üýtgemezligi üçin awtomatiki ýagtylygy öçüriň.
+tst_charge,Synag güýçlendirijisi
+best_way_test,Zarýad berijini we kabeli barlamagyň iň gowy usuly, zarýad beriş tizligini ekrany öçürmek bilen barlamakdyr. Ekranda işledilende zarýad beriş tizligi gowy görkeziji däl, sebäbi telefonyňyz üýtgäp durýan güýç sarp edýär. Güýçlendirijini dakyň, ekrany birnäçe minut öçüriň we iň ýokary zarýad tokyny barlaň.
+wait_title,Garaşmak
+rfsh_rate,Täzelenme nyrhy
+low_sizty,Täzelenme tizligini 60 Hz peseltmek batareýanyň ömrüni gowulandyrýar.
+drk_mode,Garaňky re .im
+acti_dark_mode,Garaňky re modeimi işjeňleşdiriň, garaňky re Inimde az sarp edilýär
+actz,Işjeňleşdiriň
+poz,Kuwwat
+minz,Minimum
+avgo,Ortaça
+mixi1,Maksimum
+msg_dis,Diagrammany doly görkezmek üçin ýeterlik maglumat bar bolsa, habar 24 sagatdan soň ýitýär.
+no_enough,Görkezmek üçin ýeterlik maglumat ýok
+log_graph,Birnäçe sagadyň içinde bu ýerde soňky 24 sagadyň dowamynda batareýanyň temperaturasyny, naprýa .eniýesini, güýjüni we derejesini barlamaga mümkinçilik berýän grafigi görersiňiz.
+week,hepde
+buy_it,Satyn alyň
+one_pur,Bir gezeklik töleg
+refun_pur,satyn almak 2 sagadyň dowamynda yzyna gaýtarylyp bilner.
+each_month,Abuna ýazylmak her aý awtomatiki täzelenýär we aýda çykdajylaryny dowam etdirýär. Abuna ýazylmak islän wagtyňyz ýatyrylyp bilner.
+mng_subs,abunalygy dolandyrmak
+subsci,abuna ýazylyň
+will_cost_week,Abuna ýazylmak her hepde awtomatiki täzelenýär we hepdede çykdajylaryny dowam etdirýär. Abuna ýazylmak islän wagtyňyz ýatyrylyp bilner.
+lfllong,ömürlik
+mthly,aýda
+wkly,Hepdelik
+hoto,Yssy
+prm_ben_title,Premium peýdalary
+sync_title,Sinhronlaşdyryň
+dis_sync_inc,Sinhronlamany öçürmek, hyzmatlary fonda sinhronlamazdan batareýanyň ömrüni artdyrar
+time_out,Wagt gutardy
+dec_extend,Ekranyň öçmezinden öň wagtyň azalmagy batareýanyň ömrüni uzaldýar
+u_end_opti,Optimizasiýa prosesini soňlamak isleýändigiňize ynanýarsyňyzmy?
+no_why_perm,Rugsat ýok
+bright_exp,Batareýa dolandyryjysy, ekranyň ýagtylygyny azaltmak ýa-da Bluetooth-y öçürmek üçin ulgam sazlamalaryny üýtgetmäge rugsat talap edýär.
+tg_title,Telegram kanalyna goşulyň!
+tg_text,Programma täzelenmeleri bilen häzirki boluň, irki gurluşlary alyň we täze aýratynlyklary barlamaga kömek ediň. Pikirleriňizi teklip ediň, sorag beriň we has çalt jogap alyň
+join_tg,goşul
+curr_consumption,häzirki sarp ediş
+scrn_onn,ekranda
+srcn_off,ekrany öçüriň
+mob_charg,Zarýad bermek
+discha,Akdyrma
+activea,Işjeň
+slpmode,Uky tertibi
+chagingspeed,Häzirki zarýad tizligi
+dta_proxt,Maglumatlary goramak
+governs,Bu gizlinlik syýasaty, Baxolino tarapyndan döredilen ykjam enjamlar üçin Batareýa dolandyryjy programma üpjünçiligini ulanmagyňyzy dolandyrýar.
+info_u_provide,Ulanyjy tarapyndan berilýän maglumatlar
+no_pass_per,Şahsy maglumatlary üçünji taraplara geçirmeýäris. Bize e-poçta ibereniňizde, e-poçta salgyňyz bar, ýöne diňe programmalarymyzda size kömek etmek üçin ulanýarys.
+info_auto_coll,Maglumat awtomatiki ýygnaldy
+exp_admob_use,Mahabatlara hyzmat etmek üçin Google Admob-dan peýdalanýarys. Bu hyzmatlaryň ulanylmagy, https://www.google.com/policies/privacy/ salgysynda Google maglumatlary goramak düzgünlerine tabyn edilýär.
+we_real_time,Batareýa dolandyryjysy enjamdan hakyky wagtda ýerleşiş maglumatyny ýygnaýarmy?
+exp_loc_perm_man,Batareýa dolandyryjysy diňe ýeriň işjeňdigini ýa-da ýapykdygyny barlaýar, ýöne ykjam enjamyňyzyň ýerleşýän ýeri barada takyk maglumat ýygnamaýar. Locationerleşişe esaslanýan şeýle funksiýalar öňünden kesgitlenýär. Bu funksiýalary degişli enjamyňyzyň sazlamalarynda öçürip ýa-da täzeden açyp bilersiňiz. Programmalary gurmazdan ozal ýa-da soň, enjamyňyza baglylykda bu funksiýalary ýapmak ýa-da işjeňleşdirmek islärsiňiz. Şeýle ýerleşiş hyzmatlaryny işjeňleşdirseňiz, ýerleşýän ýeriňiz barada maglumatlary ýygnap bileris.
+chng,Üýtgeşmeler
+pri_update_exp,Bu gizlinlik syýasaty islendik sebäp bilen wagtal-wagtal täzelenip bilner. Gizlinlik syýasatymyzdaky üýtgeşmeler barada bu web salgysyna täze gizlinlik ýörelgesini ýerleşdirmek we programmadaky habar arkaly size habar bermek bilen habar bereris. Üýtgeşmeler üçin şu Gizlinlik Policyörelgelerine yzygiderli ýüz tutmagyňyz maslahat berilýär, sebäbi dowamly ulanmak ähli üýtgeşmeleri tassyklamak hasaplanýar. Bu syýasatyň taryhyny şu web sahypasynda gözden geçirip bilersiňiz.
+contct,Habarlaşyň
+any_que,Programmany ulananyňyzda maglumatlary goramak bilen baglanyşykly soraglaryňyz bar bolsa ýa-da amallarymyz hakda soraglaryňyz bar bolsa, baxolino.de@gmail.com e-poçta iberiň.
+mem_opti,Programmalary skanirlemek we optimizirlemek üçin batareýa dolandyryjysyna "ýat" girişi gerek. Bu funksiýalary degişli enjamyňyzyň sazlamalarynda öçürip ýa-da işjeňleşdirip bilersiňiz. Programmany gurmazdan ozal ýa-da soň, enjamyňyza baglylykda bu funksiýalary ýapmak ýa-da işjeňleşdirmek islärsiňiz.
+storg,Saklamak
+ble_set_acc,blue_set_perm, Batareýa dolandyryjysy, Bluetooth-yň işjeňdigini ýa-da ýapykdygyny barlamak üçin "Bluetooth sazlamasyna giriş" talap edýär. Bluetooth-y işjeňleşdirmek ýa-da öçürmek üçin.
+ble_title,Bluetooth
+needz_del,Batareýa dolandyryjysy, bir programmany aýyrmazlyk üçin "Paketleriň ýok edilmegini haýyş" girişini talap edýär. Programma diňe aç-açan rugsat berseňiz aýrylar.
+deletion_pkg,Bukjalaryň öçürilmegini haýyş ediň
+need_adnd,Batareýa dolandyryjysy, "Aladalanmaň" re modeimini işletmek ýa-da öçürmek üçin "Aladalanmaň" girişini talap edýär.
+adnd,Giriş bozmaň
+need_wlan_acc,Batareýa dolandyryjysy, WLAN-yň işjeňdigini ýa-da ýapykdygyny barlamak üçin "WLAN birikmelerini alyň" -a girmegi talap edýär. WLAN-y işjeňleşdirmek ýa-da ýapmak üçin.
+wln_conn,WLAN birikmelerini alyň
+shop_bill_exp,“Google Play In App Billing” -iň üsti bilen söwda edeniňizde, Google bize ýaşaýan ýurduňyzy we käwagt ştat, şäher we poçta indeksini berýär, ýöne hiç haçan doly salgysyny bermeýär. Bu maglumatlary salgyt we buhgalteriýa düzgünlerini berjaý etmek üçin ulanýarys.
+pri_date,21/21/2021
+how_to_stop,Programmany aýyrmak bilen programma arkaly maglumat ýygnamagyny bes edip bilersiňiz. Jübi enjamyňyzyň bir bölegi hökmünde elýeterli adaty aýyrmak amallaryny ýa-da ykjam programmalar üçin bazarda ýa-da torda ulanyp bilersiňiz.
+opt_out,Çykmak hukugym näme?
+ur_permission,siziň rugsadyňyz
+accept_privacy,Programmany ulanmak bilen, şu gizlinlik ýörelgesinde we bize düzedişler girizen maglumatlaryňyzy gaýtadan işlemäge razylyk berýärsiňiz.

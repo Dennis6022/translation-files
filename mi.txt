@@ -1,0 +1,347 @@
+title,He rereke te Kaiwhakahaere Pūhiko Lite
+extend_life,Ko te huarahi pai ki te whakaroa i te ora o te pākahiko me te pupuri i a koe kia ora mai i runga i te wheako me te rangahau pūtaiao.
+measured,Ma te marama ka whakaatu noa matou ki a koe nga raraunga ine ine me pehea te tatau.
+healthy,Kia ora to pākahiko
+double_battery,Whakaruatia to ora o te pākahiko ma te kore e tino kato i to pākahiko. Kua whakamatauhia e nga kaiputaiao tenei i roto i ta raatau rangahau.
+charge_limit,Ma te whakamahi i ta maatau panui utu, ka tukuna he panui ina tae te pākahiko ki te paepae kua tautuhia e te kaiwhakamahi.
+smart,Ka kaha ake te mohio ia ra
+analyze,Ko te roa ka whakamahi koe i te Kaiwhakahaere Pūhiko Lite, ka pai ake taatau ki te tātari i te mahinga o to pākahiko.
+update_every_time,Ko te toenga inenga ora o te pākahiko ka whakahoutia i nga wa katoa ka whakamahi koe, ka utu ranei i to taputapu.
+runtime,Tirohia te wa whakahaere o to pākahiko
+discharge_cycle,Ia wa ka haere to waea i roto i te huringa tuku, ka taea te ine i te whakatau tata mo tona wa whakahaere.
+accurate_life,Whakamahia te Kaiwhakahaere Pūhiko Lite hei ine tika i te ora o te pākahiko.
+no_exit,Kaua e puta te Kaiwhakahaere Pūhiko Lite!
+bg_require,Ko te Kaiwhakahaere Pūhiko Lite me whai ratonga papamuri hei kohi tatauranga pākahiko me te ine i te utu pākahiko me te wa tuku. Kei te whakamutua e to taputapu te ratonga, kare ranei e tuku kia rere ina katia te taupānga. Hei karo i tenei, he otinga pai ta matou mo koe. Patohia noa te hono.
+man,ā-ringa
+cali,Te whakatikatika
+polarity,I tenei taahiraa, ka kitea e te taupānga te polarity utu me te kaha hoahoa o to pākahiko.
+disch,Tukunga
+ch_pol,Te utu polarity
+power_meter,mita hiko
+unit_mesure,Waeine ine
+capacity,Raukaha Pūhiko
+wrong,Kaore e tika?
+calib,Whakariterite
+ye,Ae
+no,Kao
+neg,He kino
+pos,Pai
+lunch,Whakarewa App
+manufac,Te kaha e ai ki te kaihanga
+design_des,Ko te kaha o te hoahoa ko te kaha o te pākahiko, i ine ki te mAh. I te mea karekau he huarahi whaimana hei whakatau i te kaha, ka he te uara i whakahokia mai.
+correct_it,Mena kaore i te tika te kaha e whakaatuhia ana, whakatikahia.
+cancel,Whakakore
+ok,Ka pai
+runtime,Wā Whakahaere Pūhiko
+wait,tatari ana
+per_hr,Te paunga pākahiko ia haora
+life_for,ora pūhiko mo
+battery_cond,Te ahua o te pākahiko
+bat_info,Nga korero mo te pākahiko
+bat_cap,Te kaha o te pākahiko
+bat_volt,Ngaohiko pākahiko
+bat_cur,Pūhiko nāianei
+unit_mes,Waeine ine
+done,Kua oti
+c_bat_temp,Te Mahana Pūhiko o nāianei
+min_bat_tem,Te pāmahana Pūhiko iti
+mx_bat_tem,Te pāmahana pūhiko mōrahi
+avg_bat_tem,Te pāmahana pākahiko toharite
+dig_last,Te tātaritanga whakamutunga i mua
+rem_time,Wā e toe ana
+volt,Ngaohiko
+curr,o nāianei
+status,Tūnga
+run_time,Te wa rere
+currently,I tenei wa
+avg,Wawaenga
+minmal,iti
+maximal,Mōrahi
+tool,Utauta
+rem_apps,Wetewete i nga taupānga kua kore e whakamahia e koe hei aukati i nga taupānga kia rere koretake me te whakaheke i to pākahiko
+uninst_apps,Wetetāuta Taupānga
+stat,Tīmata
+act_eng_save,Whakahohehia te aratau penapena hiko hei whakaiti i te kohi pākahiko
+pow_save,Aratau whakaora hiko
+tempe,Te pāmahana
+heal,Hauora
+tips,Kia pai to Puhiko me nga tohutohu me nga tinihanga.
+recomm,Nga Tohutohu
+prem,Moni
+more_func,He maha atu nga mahi mo koe. Whiwhi moni, whiwhi atu.
+more,Ētahi atu
+ur_cond_bat,Ko te ahua o te pākahiko
+ur_bat_life,Ko to ora pākahiko
+ur_bat_temp,Ko to Paemahana Pūhiko
+wow,Tino pai
+normal,Pūnoa
+poor,He kino
+days,Nga ra
+mins,Nga meneti
+hrs,Nga haora
+chging,Te utu
+ful,Ki tonu
+dis_chrg,Te tuku
+unkn,Kaore i te mohiotia
+too_lit,He iti rawa te Raraunga Pūhiko
+car_any,Mau tonu
+endz_,Whakamutunga
+dig_any,Kia pai ake ai nga hua tātaritanga, me tātari te taupānga i to pākahiko i muri. Me timata te tātaritanga i muri i te 24 haora
+end_dig,Whakamutua te tātaritanga
+quit_dig,Tino Whakamutua te Maatauranga
+batty_temp,Te pāmahana pākahiko
+akku_manager,Kaiwhakahaere Akku
+u_agree,Ma te "TIMA" ka whakaae koe ki nga ture tiaki raraunga
+elemn_opti,Ka taea te whakapai ake i nga waahanga
+looks_good,He pai te ahua o nga mea katoa
+optimize_,Arotau
+toolz_,Utauta
+akku_check,Taku Taki
+ctrl_load,Te uta mana
+mng_apps,Whakahaere taupānga
+infosm,Nga korero
+tenzion,mānukanuka
+electy,hiko
+lvl,Taumata
+akku_man_premium,Akku Kaiwhakahaere Premium
+premimum_highlight,Whakamahia rawatia te Kaiwhakahaere Pūhiko me te kore he panui ka whai waahi koe ki nga whakaritenga whanui o te atanga kaiwhakamahi.
+design,Hoahoa
+subjs,kaupapa
+genrally,Ko te tikanga
+temp_unit,Waeine pāmahana
+oth_apps,Ētahi atu Taupānga
+dat_protect,Parenga raraunga
+thx_akku,Mauruuru koe mo te tautoko i te Kaiwhakahaere Akku me te hoko o te putanga moni.
+user_got_pre,Ka taea e koe te uru atu ki nga whakaritenga whanui o te atanga kaiwhakamahi me te whakamahi kaore he panui.
+exp_more,Ka taea e koe te tumanako kia nui ake nga ahuatanga mo nga whakahoutanga a meake nei
+ap_optimiz,Te arotautanga taupānga
+sys_bat_usage,Pūnaha kohi pākahiko
+bat_usage_det,Nga korero mo te whakamahi pākahiko
+end_optiz,Whakamutua te arotautanga
+abort,Whakamutua
+break_up,pakaru
+scn,ki te matawai
+scn_bgh,Tirohanga mata
+dact_wlan,Whakawetohia te WLAN
+dact_save_batt,Whakawetohia hei whakaora i te pākahiko
+dact,Whakawetohia
+dact_ble,Whakawetohia te bluetooth
+red_brigh,Whakaitihia te kanapa
+bright_txt,Whakaitihia te kanapa o te whakaaturanga hei whakaora i te pākahiko
+to_reduce,Hei whakaiti
+dact_gps,Whakawetohia te GPS
+appz_optimz,Kua arotauhia nga tono
+start_bat_check_det,Tīmatahia he tirotiro pūhiko āmiki kia noho tonu ki te taha haumaru
+act_eng_save,Whakahohehia te aratau penapena hiko hei whakaiti i te kohi pākahiko
+remove_useless,Wetetāutahia nga taupānga kua kore e whakamahia
+premium,Moni
+clear_mem,Whakapaihia te mahara
+clear_mem_des,Kia tere ai te rere o to waea atamai.
+clenaup,Whakapaipai
+rat,whakatauranga
+rat_free,Whakatauhia te Kaiwhakahaere Pūhiko mo te kore utu
+sendz,Tukua
+elmn_found,Kua kitea nga huānga
+drumz,Pahū
+status,Tūnga
+end_akk_check,Whakamutua te tirotiro pākahiko
+bat_detlz,Nga korero mo te pākahiko
+temp_checked,Ka tirohia te pāmahana
+cond_checked,Ka tirohia te ahua o te pākahiko
+checkz_start,Ka timata te tirotiro pākahiko
+plug_in,Mono mai
+techz,Hangarau
+coldz,Matao
+until,Tae noa
+well,Kaati
+ovr_heat,Te werawera
+ovr_load,Te taumahatanga
+renam,whakaingoatia
+not_def,kaore i tautuhia
+chrgz,Te utu
+full,Ki tonu
+unloadz,Te wetewete
+not_charge_unkn,kaore i te utu, kaore ranei i te mohiotia
+usb,USB
+charger,rihi
+wless,ahokore
+not_at_al,kahore rawa
+uninstall,Wetetāuta
+update,Hei whakahou
+setting,Tautuhinga
+app,Taupānga
+not_found,Kāore te taupānga i kitea
+search,Rapu taupānga
+version_code,Waehere Putanga
+api_level,Taumata API
+app_version,Putanga Taupānga
+authorization,whakamanatanga
+open,ki te whakatuwhera
+play_store,Toa Play
+control,mana whakahaere
+systemstandart,Paerewa Pūnaha
+white,Mā
+dark,pouri
+ocean,Moana
+black,Pango
+dark_blue,Kahurangi pouri
+excellent,Tino pai
+bad,kino
+battery_bad,Kua pakaru paku te pākahiko
+very_bad,Tino kino
+battery_damaged,Kua pakaru te pākahiko
+custom_mode,Aratau Ritenga
+brightness,Tirohanga
+automatic_brightness,Tirohanga Aunoa
+normal,Pūnoa
+sound_modus,Motu oro
+tone_work,Mahi Nga Tone Katoa
+mute,Wahangu
+call_note_mute,Ka wahangu nga waea me nga whakamohiotanga
+not_bother,Kaua e whakararuraru
+tones_vibration_mute,Whakawetohia nga oro me nga wiri, engari mo nga tangi whakaoho
+sound,Nga tangi
+music,waiata
+notification,Panuitanga
+alarm,Whakaoho
+ultra_saving,Aratau tiaki hiko Ultra
+edit,Hei whakatika
+disable_ultra_saving,Monokia te Aratau Tiaki Pungao Ultra
+min_remaining,min toe
+hours,haora
+activted_ultra_saving,Kei te whakahohehia te aratau penapena hiko ultra
+charged_in,ka utaina ki roto
+min,min
+limit_power,Whakaitihia te kohi hiko
+reduce_screen,Whakaitihia te kanapa o te mata
+restrict_bg_act_explain,Whakawhāitihia nga mahi papamuri
+volatge_check,Ka tirohia te ngaohiko
+software_optimized,Kua arotauhia te rorohiko
+connect_charger,Tūhono rihi
+charger_removed,Ka taea te tango i te riihini
+power_consump_title,Kohi hiko
+srcn_bg_title,Tirohanga mata
+bg_al_activities,Nga mahi papamuri
+sftware,Pūmanawa
+get_primium,Mena ka hoko koe i te putanga moni, ka whiwhi koe i nga mahi o naianei me nga mahi hou katoa a muri ake nei.
+cuztomize_face,Whakaritenga o te atanga kaiwhakamahi
+comp_scheme,Tuhia to kaupapa tae Kaiwhakahaere Pūhiko mai i nga momo kaupapa.
+bat_check_detail,Tirohanga pūhiko taipitopito
+check_cond_test,Whakamahia te Kaiwhakahaere Pūhiko ki te tirotiro i te ahua o to pākahiko kia noho tonu ki te taha haumaru.
+no_ads_yo,Karekau he panui
+use_explain_noads,Whakamahia te Kaiwhakahaere Pūhiko kaore he panui
+act_energy_save,Whakahohehia te aratau whakaora hiko ultra hei whakanui ake i te ora o te pākahiko i roto i te ohorere.
+buy_title,Hokona Premium
+loc_title,Tauwāhi
+cap_title,kaha
+cap_remain,Te toenga kaha
+sleepy,Moe mai
+sek,Hekona
+sing_min,Te meneti
+miniotes,Nga meneti
+finish,Kua oti
+mobi_data,raraunga pūkoro
+plz_rate,Whakatauria koa te Kaiwhakahaere Pūhiko i te Toa Play
+ur_data_cus,Ka taea e matou te whakamahi tonu i o raraunga ki te whakarite i nga panui mo koe?
+in_slep_mode,I roto i te aratau moe
+in_use,Kei te whakamahia
+with_curr_pow,Ki te kohi hiko o naianei
+rem_bat_life,E toe ana te ora o te pākahiko
+qck_acc,Te uru tere
+notif_txt,whakamōhiotanga
+notif_at,Whakamōhiotia i
+chg_curr,Te utu o naianei
+charge_perm,Mahi utu
+maxi_charge_per,Mahinga utu morahi
+enb_notif,Whakahohehia te panui
+perm_send_notif,Me whakaae te Kaiwhakahaere Pūhiko ki te tuku panui, me whakahohe i roto i nga tautuhinga o te taputapu.
+to_set,Ki nga tautuhinga
+title_autost,Whakahohe Aunoa
+auto_explain,Me whakaae te Kaiwhakahaere Pūhiko kia noho tonu ki te papamuri hei uiui i te mana o te pākahiko me te tuku panui.
+sync_auto,Tukutahi aunoa
+dis_auto_sync,Ko te whakakore i te tukutahi aunoa ka tino whakaitihia nga wakelocks. Heoi, ka ngaro etahi mahi penei i te whiwhi ī-mēra.
+chg_lim,Tepe utu
+avoid_ful_explain,Mena ka utuhia e koe to pākahiko ki te teitei, ka tukuna ranei kia whakawetohia, ka iti te ahua me te oranga o te pākahiko. I roto i nga mea e whai ake nei ka taea e koe te whakarite i te utu iti me te teitei o te utu, te tukunga ranei o te pākahiko, ka whakamohiotia koe ia wa ka eke te uara paepae. A ape i te kotahi ki te utu katoa me te tuku i to pākahiko me te whakaroa i te ora o te pākahiko.
+rec_notif,Kaore i whiwhi panui?
+title_allow_bg_act,Whakaaetia te mahi papamuri
+allow_bg_act,Kia taea ai e koe te whakamahi i te Kaiwhakahaere Pūhiko me te kore here me te kore e katia pohehe e te punaha whakahaere, me whakaweto nga mahi motuhake mo te whakahaere pākahiko me te whakamahi pākahiko i roto i nga tautuhinga. Na te mea he rereke nga momo kaihanga ki te tohu i enei whiringa i runga i te punaha whakahaere e whakamahia ana. I roto i te waahanga Momo Taupānga, i raro i te Moe, i te Pūhiko ranei, tohua Kaua he Rahui, Whakaaetia te Mahi Papamuri.
+dev_usage,Te whakamahi taputapu
+dep_sleep,Ko te moe hohonu he ahua kei te whakamahia e to taputapu te iti rawa o te pākahiko. Ko te roanga o te moe hohonu he painga pai ki te penapena hiko. Ka haukotia te moe hohonu e nga mahi papamuri, na te mea ka tere te rere o te pākahiko. I tenei keehi, whakaara ano i to taputapu.
+title_bat_temp,Te pāmahana pākahiko
+bat_tempp,Ko te pāmahana pākahiko tetahi o nga mea tino nui. Mēnā ka pupurihia te pūhiko ki te pāmahana teitei, ka pa ki te ora o te mahi me te mahi o te pākahiko. Mena ka piki te pāmahana, ka pakaru te hanganga o roto o te pākahiko.
+rdc_brightness,Whakaitihia te kanapa o te mata
+display_explain,Ko te whakaaturanga tetahi o nga waahanga ka pau te nuinga o te kaha. Ko te whakaheke i te kanapa nui ka awhina i te whakaiti i te whakapaunga katoa me te whiwhi moni penapena. I mua i te whakaiti i te kanapa, whakawetohia te kanapa aunoa kia kore ai te kanapa e huri ohorere.
+tst_charge,Whakamatau rihi
+best_way_test,Ko te huarahi pai ki te whakamatautau i te riihi me te taura ko te tirotiro i te tere o te utu me te kato o te mata. Ko te tere utu i te wa e ka ana te mata ehara i te tohu tohu pai na te mea kei te pau te mana o to waea, na reira ka rere ke. Monohia te riihini, whakawetohia te mata mo etahi meneti, katahi ka tirohia te utu morahi o naianei.
+wait_title,E tatari ana
+rfsh_rate,tere tāmata
+low_sizty,Ko te whakaheke i te reeti whakahou ki te 60 Hz ka pai ake te ora o te pākahiko.
+drk_mode,Aratau pouri
+acti_dark_mode,Whakahohehia te Aratau pouri, i roto i te Aratau pouri ka iti ake te mana e pau ana
+actz,Whakahohe
+poz,Mana
+minz,Te iti rawa
+avgo,Wawaenga
+mixi1,Mōrahi
+msg_dis,Ka ngaro te karere i muri i te 24 haora mena he nui nga raraunga hei whakaatu katoa i te hoahoa.
+no_enough,He iti rawa nga raraunga hei whakaatu
+log_graph,I etahi haora ka kite koe i tetahi kauwhata i konei ka taea e koe te tirotiro i te pāmahana pākahiko, te ngaohiko, te amperage me te taumata i roto i nga haora 24 kua hipa.
+week,wiki
+buy_it,Hoko
+one_pur,Utu kotahi-wa o
+refun_pur,ka taea te whakahoki mai i te hoko i roto i nga haora 2.
+each_month,Ka whakahou-aunoa te ohaurunga ia marama ka haere tonu te utu mo ia marama. Ka taea te whakakore i te ohaurunga i nga wa katoa.
+mng_subs,whakahaere ohaurunga
+subsci,ohauru
+will_cost_week,Ka whakahou aunoa te ohaurunga ia wiki, ka utu tonu ia wiki. Ka taea te whakakore i te ohaurunga i nga wa katoa.
+lfllong,ora tonu
+mthly,ia marama
+wkly,Ia wiki
+hoto,Werawera
+prm_ben_title,Nga painga moni
+sync_title,Tukutahi
+dis_sync_inc,Ko te whakakore i te tukutahi ka nui ake te ora o te pākahiko ma te kore e tukutahi ratonga ki muri
+time_out,Ka mutu te wa
+dec_extend,Ko te whakaheke i te wa i mua i te whakaweto o te whakaaturanga ka roa te ora o te pākahiko
+u_end_opti,Kei te tino hiahia koe ki te whakamutu i te tukanga arotautanga?
+no_why_perm,Kaore he whakaaetanga
+bright_exp,Me hiahia te Kaiwhakahaere Pūhiko Hurihia nga tautuhinga punaha ki te whakaiti i te kanapa o te mata, ki te whakaweto ranei i te Nihokikorangi.
+tg_title,Hono atu ki te hongere Telegram!
+tg_text,Kia mau tonu me nga whakahou taupānga, kia wawe te hanga, me te awhina ki te whakamatautau i nga ahuatanga hou. Hoatuhia o whakaaro, patapatai me te tere ake te whiwhi whakautu
+join_tg,uru atu
+curr_consumption,kohi o naianei
+scrn_onn,mata i runga
+srcn_off,whakaweto te mata
+mob_charg,Te utu
+discha,Te tuku
+activea,Hohe
+slpmode,Aratau moe
+chagingspeed,Te tere utu o naianei
+dta_proxt,Parenga raraunga
+governs,Ko tenei kaupapa here tūmataiti e whakahaere ana i to whakamahi i te tono rorohiko Kaiwhakahaere Pūhiko mo nga taputapu pūkoro i hangaia e Baxolino.
+info_u_provide,Ko nga korero e whakaratohia ana e te kaiwhakamahi
+no_pass_per,Kaore matou e tuku i nga raraunga whaiaro ki nga roopu tuatoru. Ina imeera koe ki a matou, kei a matou to wahitau imeera, engari ka whakamahia noa e matou hei awhina i a koe ki o maatau taupānga.
+info_auto_coll,Ka kohia aunoa nga korero
+exp_admob_use,Ka whakamahi matou i a Google Admob ki te tuku panui. Ko te whakamahinga o enei ratonga kei raro i nga tikanga tiaki raraunga a Google i https://www.google.com/policies/privacy/.
+we_real_time,Ka kohia e te Kaiwhakahaere Pūhiko nga korero mo te waahi tuuturu mai i te taputapu?
+exp_loc_perm_man,Ka tirotirohia e te Kaiwhakahaere Pūhiko mena kua whakahohehia, kua whakakorehia ranei te waahi, engari kaore e kohia nga korero tika mo te waahi o to taputapu pūkoro. Ko enei mahi e pa ana ki te waahi kua tautuhia ma te taunoa. Ka taea e koe te whakakore, te whakahohe ano ranei i enei mahi i roto i nga tautuhinga o to taputapu. I mua, i muri ranei i te whakaurunga o nga taupānga, ka pataihia koe - kei runga i te taputapu - mena ka hiahia koe ki te whakakore, ki te whakahohe ranei i enei mahi. Ka taea noa e matou te kohi raraunga mo to waahi mena ka whakahohehia e koe nga ratonga waahi.
+chng,Huringa
+pri_update_exp,Ka taea te whakahou i tenei kaupapa here tūmataiti i ia wa i ia wa mo etahi take. Ka whakamohio atu matou ki a koe mo nga huringa ki to maatau kaupapa here tūmataiti ma te tuku i te kaupapa here tūmataiti hou ki runga i tenei wahitau paetukutuku me te whakamohio ki a koe ma te panui i roto i te taupānga. E taunaki ana kia haere tonu koe ki te tirotiro i tenei Kaupapahere Whaiaro mo nga huringa, i te mea ka kiia ko te whakamahi tonu he whakaaetanga mo nga huringa katoa. Ka taea e koe te arotake i te hitori o tenei kaupapa here i runga i tenei paetukutuku.
+contct,Whakapā
+any_que,Mena kei a koe etahi patai mo te whakamarumaru raraunga i a koe e whakamahi ana i te tono, he patai ranei mo a maatau mahi, tukuna mai he imeera ki baxolino.de@gmail.com
+mem_opti,Kei te hiahia te Kaiwhakahaere Pūhiko ki te uru "mahara" kia taea ai te karapa me te arotau o nga tono. Ka taea e koe te whakakore, te whakahohe ranei i enei mahi i roto i nga tautuhinga o to taputapu. I mua, i muri ranei i te whakaurunga o te taupānga, ka pataihia koe - kei runga i te taputapu - mena ka hiahia koe ki te whakakore, ki te whakahohe ranei i enei mahi.
+storg,Rokiroki
+ble_set_acc,blue_set_perm, Me whai waahi te Kaiwhakahaere Pikohiko ki te "Tautuhinga Nihokikorangi uru" kia taea ai te tirotiro mena kua whakahohehia, kua whakakorehia ranei a Nihokikorangi. Me te whakahohe, te whakakore ranei i te Nihokikorangi.
+ble_title,Nihokikorangi
+needz_del,Ko te Kaiwhakahaere Pūhiko me uru ki te "Tono kia mukua nga kete" hei timata i te tango i tetahi taupānga. Ka wetewetehia te taupānga mena ka whakaae koe.
+deletion_pkg,Tonoa kia mukua nga kete
+need_adnd,Ko te Kaiwhakahaere Pūhiko e hiahia ana ki te "Kaua e Whakakorikoria" te uru ki te whakahohe, ki te whakakore ranei i te aratau Kaua e Rararo.
+adnd,Uru Kaua e Rararo
+need_wlan_acc,Me uru te Kaiwhakahaere Pūhiko ki te "Tikina Hononga WLAN" kia taea e te Kaiwhakahaere Pūhiko te tirotiro mena kua whakahohehia, kua whakakorehia ranei a WLAN. Me te whakahohe, te whakakore ranei i te WLAN.
+wln_conn,Tikina nga hononga WLAN
+shop_bill_exp,Ina hokohoko koe i roto i te Google Play In App Billing, ka homai e Google to whenua noho, i etahi wa ko te kawanatanga, te taone, me te waehere poutāpeta, engari kaua rawa te wahitau katoa. Ka whakamahia e matou enei korero ki te whai i nga ture taake me te kaute.
+pri_date,No te 02/21/2021
+how_to_stop,Ka taea e koe te aukati i te kohinga korero katoa ma te tono ma te tango noa i te tono. Ka taea e koe te whakamahi i nga tikanga wetewete paerewa e waatea ana hei waahanga o to taputapu pūkoro, ma te maakete, whatunga ranei mo nga tono waea.
+opt_out,He aha aku mana whakaputa?
+ur_permission,to whakaaetanga
+accept_privacy,Ma te whakamahi i te tono, ka whakaae koe ki ta matou tukatuka i o raraunga i whakatakotoria i roto i tenei kaupapa here tūmataiti me te whakatikatika e matou.

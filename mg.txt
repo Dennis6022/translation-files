@@ -1,0 +1,347 @@
+title,Ny Battery Manager Lite dia hafa
+extend_life,Ny fomba tsara indrindra hanitarana ny androm-piainan'ny bateria sy hitazonana anao ho salama dia mifototra amin'ny traikefa sy fikarohana siantifika.
+measured,Amin'ny fomba mangarahara ihany no asehonay anao ny angona tena refesina sy ny fomba kajy azy.
+healthy,Ataovy salama tsara ny bateria
+double_battery,Ampitomboy avo roa heny ny androm-piainan'ny batterie amin'ny tsy famenoana tanteraka ny batterieo. Noporofoin’ny mpahay siansa izany tamin’ny fikarohana nataony.
+charge_limit,Amin'ny fampiasana ny fampandrenesana fetran'ny sarany dia hisy fampahafantarana halefa rehefa tonga eo amin'ny tokonam-baravarana voafaritry ny mpampiasa ny bateria.
+smart,Mihasarotra kokoa isan'andro
+analyze,Arakaraka ny ampiasanao ny Battery Manager Lite dia ho tsara kokoa isika amin'ny famakafakana ny fahombiazan'ny bateria.
+update_every_time,Havaozina isaky ny mampiasa na mamatsy ny fitaovanao ny fandrefesana ny androm-piainan'ny bateria ambiny.
+runtime,Fantaro ny tena fandehan'ny bateria
+discharge_cycle,Isaky ny mandeha amin'ny tsingerin'ny fivoahana ny findainao dia azo refesina ny tombantombana marina momba ny fotoam-piasany.
+accurate_life,Ampiasao ny Battery Manager Lite mba handrefesana ny androm-piainan'ny bateria marina.
+no_exit,Aza miala amin'ny Battery Manager Lite!
+bg_require,Ny Battery Manager Lite dia mitaky serivisy any aoriana mba hanangonana antontan'isa momba ny bateria sy handrefesana ny fiampangan'ny bateria sy ny fotoana fandefasana. Ny fitaovanao dia mety manakana ny serivisy na tsy mamela azy handeha rehefa mikatona ny fampiharana. Mba hisorohana izany dia manana vahaolana tsara ho anao izahay. Tsindrio fotsiny ny rohy.
+man,boky fampianarana
+cali,calibration
+polarity,Amin'ity dingana ity, ny fampiharana dia mahita ny polarity famandrihana sy ny fahaiza-mamolavola ny bateria.
+disch,marary mitsika
+ch_pol,Fametrahana polarity
+power_meter,Power metatra
+unit_mesure,Unity fandrefesana
+capacity,Fahaizana bateria
+wrong,Tsy mety?
+calib,calibrate
+ye,ENY
+no,tsy misy
+neg,ratsy
+pos,tsara
+lunch,Alefaso ny App
+manufac,Capacity araka ny mpanamboatra
+design_des,Ny fahaizan'ny famolavolana dia ny fahafahan'ny bateria tena izy, refesina amin'ny mAh. Satria tsy misy fomba ofisialy hamaritana ny fahafaha-manao dia mety ho diso ny sanda naverina.
+correct_it,Raha tsy mety ny fahaiza-manao aseho dia ahitsio azafady.
+cancel,hanafoana
+ok,Okay
+runtime,Battery Runtime
+wait,IANDRASANA
+per_hr,Fanjifana bateria isan'ora
+life_for,Ny fiainana bateria ho an'ny
+battery_cond,Toetran'ny bateria
+bat_info,Fampahafantarana momba ny bateria
+bat_cap,Fahafahana bateria
+bat_volt,Volon'ny bateria
+bat_cur,bateria mandeha
+unit_mes,Unity fandrefesana
+done,hatao
+c_bat_temp,Temperature Battery ankehitriny
+min_bat_tem,Ny mari-pana ambany indrindra amin'ny bateria
+mx_bat_tem,Maximum hafanan'ny bateria
+avg_bat_tem,Salanisan'ny hafanan'ny bateria
+dig_last,Diagnose farany teo aloha
+rem_time,Fotoana sisa
+volt,Zintin'aratra
+curr,amin'izao fotoana izao
+status,sata
+run_time,Fotoana mandeha
+currently,Amin'izao fotoana izao
+avg,Average
+minmal,kely dia kely
+maximal,Faratampony
+tool,Tools
+rem_apps,Esory ny rindranasa tsy ampiasainao intsony mba hisorohana ny fampiharana tsy mandeha amin'ny laoniny sy handany ny bateria
+uninst_apps,Esory ny Apps
+stat,fanombohana
+act_eng_save,Ampidiro ny fomba fitsitsiana angovo mba hampihenana ny fanjifana bateria
+pow_save,Fomba fitsitsiana herinaratra
+tempe,hafanana
+heal,FAHASALAMANA
+tips,Tehirizo tsara ny bateria miaraka amin'ny toro-hevitra sy fika.
+recomm,tolo-kevitra
+prem,Premium
+more_func,Fampiasa bebe kokoa ho anao. Mahazoa premium, mahazo bebe kokoa.
+more,Bebe kokoa
+ur_cond_bat,Ny toetry ny bateria dia
+ur_bat_life,Ny fiainanao bateria dia
+ur_bat_temp,Ny hafanan'ny bateriao dia
+wow,tsara
+normal,ara-dalàna
+poor,zara raha
+days,Andro
+mins,minitra
+hrs,ORA
+chging,fa mamaly ny
+ful,Feno
+dis_chrg,fanatanterahana
+unkn,TSY FANTATRA
+too_lit,Kely loatra ny angona momba ny bateria
+car_any,Tohizo ihany
+endz_,Tapitra
+dig_any,Mba hahazoana valim-panadinana tsara kokoa dia mila mandinika ny bateria ao ambadika ny fampiharana. Atombohy azafady ny fitiliana rehefa afaka 24 ora
+end_dig,Famaranana ny diagnostika
+quit_dig,Tena miala amin'ny Diagnose
+batty_temp,hafanan'ny bateria
+akku_manager,Mpitantana ahy
+u_agree,Miaraka amin'ny "START" ianao dia manaiky ny fitsipika momba ny fiarovana ny angona
+elemn_opti,Azo atao tsara ny singa
+looks_good,Toa tsara ny zava-drehetra
+optimize_,manatsara
+toolz_,Tools
+akku_check,Akory Check
+ctrl_load,Loading voafehy
+mng_apps,Mitantana apps
+infosm,Information
+tenzion,olana
+electy,HERINATRATRA
+lvl,ambaratonga
+akku_man_premium,Akku Manager Premium
+premimum_highlight,Ampiasao tanteraka ny Manager Battery raha tsy misy dokam-barotra ary afaka miditra amin'ny fanamboarana be dia be amin'ny mpampiasa interface tsara ianao.
+design,Design
+subjs,VAHOAKANY
+genrally,ankapobeny
+temp_unit,Ny mari-pana
+oth_apps,Apps hafa
+dat_protect,Fiarovana data
+thx_akku,Misaotra anao nanohana ny Akku Manager tamin'ny fividianana ny kinova premium.
+user_got_pre,Afaka miditra amin'ny fanamboarana be dia be amin'ny mpampiasa interface tsara sy ny fampiasana tsy misy doka ianao izao.
+exp_more,Afaka manantena endri-javatra bebe kokoa ianao amin'ny fanavaozana ho avy
+ap_optimiz,Fanatsarana ny fampiharana
+sys_bat_usage,Fanjifana bateria rafitra
+bat_usage_det,Ny antsipiriany momba ny fampiasana bateria
+end_optiz,Farano ny fanatsarana
+abort,Abort
+break_up,misaraka
+scn,scan
+scn_bgh,Famirapiratry ny efijery
+dact_wlan,Atsaharo ny WLAN
+dact_save_batt,Atsaharo ny fitahirizana bateria
+dact,Deactivate
+dact_ble,Atsaharo ny bluetooth
+red_brigh,Ahena ny famirapiratana
+bright_txt,Ahena ny famirapiratry ny fampisehoana mba hitsitsiana ny bateria
+to_reduce,Mampihena
+dact_gps,Atsaharo ny GPS
+appz_optimz,Apps optimized
+start_bat_check_det,Atombohy ny fisavana bateria amin'ny antsipiriany mba ho eo amin'ny lafiny azo antoka foana
+act_eng_save,Ampidiro ny fomba fitsitsiana angovo mba hampihenana ny fanjifana bateria
+remove_useless,Esory ny fampiharana tsy ampiasaina intsony
+premium,Premium
+clear_mem,Diovy ny fitadidiana
+clear_mem_des,Mba hampandeha haingana sy milamina ny findainao.
+clenaup,Manadio
+rat,naoty
+rat_free,Rate Battery Manager maimaim-poana
+sendz,Alefaso
+elmn_found,Elements hita
+drumz,amponga
+status,sata
+end_akk_check,Atsaharo ny fanamarinana ny bateria
+bat_detlz,Ny antsipirian'ny bateria
+temp_checked,Voamarina ny maripana
+cond_checked,Voamarina ny toetry ny bateria
+checkz_start,Manomboka ny fisavana ny bateria
+plug_in,Ampidirina
+techz,TECHNOLOGY
+coldz,Mangatsiaka
+until,mandra
+well,TSARA
+ovr_heat,Mafana be loatra
+ovr_load,be loatra
+renam,anarana
+not_def,tsy voafaritra
+chrgz,anjara-raharaha
+full,Feno
+unloadz,mampidina entana
+not_charge_unkn,tsy voampanga na tsy fantatra
+usb,USB
+charger,dovia
+wless,Wireless
+not_at_al,tsy misy na inona na inona
+uninstall,esory
+update,Havaozina
+setting,Fikirana
+app,app
+not_found,App tsy hita
+search,Fikarohana fampiharana
+version_code,Code Version
+api_level,API Level
+app_version,App Version
+authorization,alàlana
+open,hanokatra
+play_store,Play Store
+control,fanaraha-maso
+systemstandart,Systemsstandard
+white,fotsy
+dark,Maizina
+ocean,ranomasimbe
+black,Mainty
+dark_blue,Manga antitra
+excellent,tsara
+bad,Ratsy
+battery_bad,Somary simba ny bateria
+very_bad,Tena ratsy
+battery_damaged,Simba ny bateria
+custom_mode,Fomba fanao
+brightness,ny famirapiratry ny mazava
+automatic_brightness,Famirapiratana mandeha ho azy
+normal,ara-dalàna
+sound_modus,Sound Modus
+tone_work,Miasa ny Tones rehetra
+mute,Mangina
+call_note_mute,Ny antso sy ny fampahafantarana dia mangina
+not_bother,Aza manelingelina
+tones_vibration_mute,Vonoy ny feo sy ny hovitrovitra, afa-tsy ny feo fanairana
+sound,Feo
+music,MOZIKA
+notification,fampahafantarana
+alarm,Fanairana
+ultra_saving,Fomba fitsitsiana angovo ultra
+edit,To edit
+disable_ultra_saving,Atsaharo ny fomba fitehirizana angovo Ultra
+min_remaining,minitra sisa
+hours,ORA
+activted_ultra_saving,Mavitrika ny fomba fitsitsiana angovo ultra
+charged_in,voampanga in
+min,min
+limit_power,Fero ny fanjifana herinaratra
+reduce_screen,Ahena ny famirapiratry ny efijery
+restrict_bg_act_explain,Fehezo ny hetsika ambadika
+volatge_check,Voamarina ny voltase
+software_optimized,Ny logiciel dia optimized
+connect_charger,Ampifandraiso ny charger
+charger_removed,Afaka esorina ny charger
+power_consump_title,Fanjifana herinaratra
+srcn_bg_title,Famirapiratry ny efijery
+bg_al_activities,Hetsika ambadika
+sftware,Software
+get_primium,Raha mividy ny kinova premium ianao dia hahazo ny fiasa rehetra amin'izao fotoana izao ary koa ny fiasa vaovao rehetra amin'ny ho avy.
+cuztomize_face,Customization ny mpampiasa interface tsara
+comp_scheme,Amboary ny lokon'ny Battery Manager anao avy amin'ny lohahevitra isan-karazany.
+bat_check_detail,Fanamarinana bateria amin'ny antsipiriany
+check_cond_test,Ampiasao ny Battery Manager hijerena ny toetry ny bateria mba ho eo amin'ny lafiny azo antoka foana.
+no_ads_yo,Tsy misy dokam-barotra
+use_explain_noads,Ampiasao ny Battery Manager tsy misy doka
+act_energy_save,Ampidiro ny fomba fitsitsiana angovo ultra mba hampitombo ny androm-piainan'ny bateria amin'ny fotoana maika.
+buy_title,Mividiana Premium
+loc_title,Toerana
+cap_title,fahafahana
+cap_remain,Ny sisa tavela
+sleepy,torimaso
+sek,segondra
+sing_min,minitra
+miniotes,minitra
+finish,vita
+mobi_data,angona finday
+plz_rate,Azafady, isao ny Battery Manager ao amin'ny Play Store
+ur_data_cus,Afaka manohy mampiasa ny angonao ve izahay hanitsy ny doka ho anao?
+in_slep_mode,Amin'ny fomba torimaso
+in_use,Ampiasaina
+with_curr_pow,Miaraka amin'ny fanjifana herinaratra ankehitriny
+rem_bat_life,Ny fiainana bateria sisa
+qck_acc,Fidirana haingana
+notif_txt,fampahafantarana
+notif_at,Ampahafantaro amin'ny
+chg_curr,Fametrahana courant
+charge_perm,Fahombiazan'ny fiampangana
+maxi_charge_per,Fampandehanana famandrihana ambony indrindra
+enb_notif,Alefaso ny fampahafantarana
+perm_send_notif,Mitaky alalana handefa fampandrenesana ny Battery Manager, tsy maintsy avitrika ao amin'ny firafitry ny fitaovana.
+to_set,Any amin'ny fikandrana
+title_autost,Ampidiro ny Autostart
+auto_explain,Ny Battery Manager dia mitaky fahazoan-dàlana hijanona ho mavitrika ao ambadika mba hanontaniana ny satan'ny bateria sy handefa fampahafantarana.
+sync_auto,Mampifanaraka ho azy
+dis_auto_sync,Mampihena be ny wakelocks ny fanalana ny fandrindrana mandeha ho azy. Na izany aza, ho very ny asa sasany toy ny fandraisana e-mail.
+chg_lim,fetran'ny fiampangana
+avoid_ful_explain,Raha mameno ny batterieo amin'ny fara-tampony ianao na mandroaka azy mandra-pamonoana azy, dia hihena ny fepetra sy ny androm-piasany. Amin'ity manaraka ity dia azonao atao ny mametraka ny satan'ny fiampangana farany ambany sy ambony indrindra amin'ny bateria ary hampandrenesina anao isaky ny mahatratra ny sandan'ny tokonam-baravarana. Fadio ny mameno tanteraka ny bateria ary esory ny bateria ary hanitatra ny fiainan'ny bateria.
+rec_notif,Tsy nahazo fampandrenesana?
+title_allow_bg_act,Avelao ny hetsika ambadika
+allow_bg_act,Mba hahafahanao mampiasa ny Battery Manager tsy misy fameperana nefa tsy voahidy tsy nahy noho ny rafitra fiasana, dia mety tsy maintsy manafoana ny fiasa manokana amin'ny fitantanana ny bateria sy ny fampiasana bateria amin'ny toe-javatra ianao. Satria ny mpanamboatra isan-karazany dia tsy mitovy amin'ny fanondroana ireo safidy ireo arakaraka ny rafitra miasa ampiasaina. Ao amin'ny faritra App Information, eo ambanin'ny Sleep or Battery, mifidiana Tsy misy famerana na Avelao ny hetsika an-damosina.
+dev_usage,Fampiasana fitaovana
+dep_sleep,Ny torimaso lalina dia toetry ny fampiasana bateria faran'izay kely indrindra ny fitaovanao. Ny faharetan'ny torimaso lalina dia misy fiantraikany tsara amin'ny fitsitsiana angovo. Ny torimaso lalina dia mety ho tapaka amin'ny asa any aoriana, izay mahatonga ny bateria hivoaka haingana kokoa. Amin'ity tranga ity, avereno indray ny fitaovanao.
+title_bat_temp,hafanan'ny bateria
+bat_tempp,Ny hafanan'ny bateria dia iray amin'ireo antony lehibe indrindra. Raha tazonina amin'ny hafanana ambony ny bateria, dia misy fiantraikany amin'ny fiainan'ny serivisy sy ny fahombiazan'ny bateria izany. Raha miakatra ny mari-pana, dia mety ho simba ny rafitra anatiny amin'ny bateria.
+rdc_brightness,Ahena ny famirapiratry ny efijery
+display_explain,Ny fampisehoana dia iray amin'ireo singa mandany ny ankamaroan'ny angovo. Ny fampihenana ny famirapiratana ambony indrindra dia manampy amin'ny fampihenana ny fanjifana amin'ny ankapobeny ary hahatratrarana fitsitsiana miharihary. Alohan'ny fampihenana ny famirapiratana dia aforeto ny famirapiratana mandeha ho azy mba tsy hiova tsy ilaina ny famirapiratana.
+tst_charge,Andrana charger
+best_way_test,Ny fomba tsara indrindra hitsapana ny charger sy ny tariby dia amin'ny alàlan'ny fanamarinana ny hafainganam-pandehan'ny famandrihana rehefa miala ny efijery. Ny hafainganam-pandehan'ny famandrihana rehefa mandeha ny efijery dia tsy mari-pamantarana tsara satria mandany herinaratra ny findainao, izay miteraka fiovaovana. Ampidiro ny charger, vonoy ny efijery mandritra ny minitra vitsivitsy, ary avy eo dia jereo ny hafainganam-pandeha ambony indrindra.
+wait_title,IANDRASANA
+rfsh_rate,Ny tahan'ny fanavaozana
+low_sizty,Ny fampidinana ny tahan'ny famelomana ho 60 Hz dia manatsara ny fiainan'ny bateria.
+drk_mode,Dark Mode
+acti_dark_mode,Ampidiro ny Dark Mode, amin'ny Dark Mode dia mihena ny heriny
+actz,hampavitrika
+poz,fahefana
+minz,Minimum
+avgo,Average
+mixi1,Faratampony
+msg_dis,Manjavona ny hafatra rehefa afaka 24 ora raha ampy ny angona hanehoana ny kisary feno.
+no_enough,Tsy ampy ny angona haseho
+log_graph,Ao anatin'ny ora vitsivitsy dia hahita tabilao ianao eto izay ahafahanao manamarina ny maripanan'ny bateria, ny voltora, ny amperage ary ny haavony nandritra ny 24 ora lasa.
+week,herinandro
+buy_it,Buy
+one_pur,Sarany indray mandeha ny
+refun_pur,ny fividianana dia azo averina ao anatin'ny 2 ora.
+each_month,Ny famandrihana dia manavao isam-bolana ary mitohy ny vidiny isam-bolana. Ny famandrihana dia azo foanana amin'ny fotoana rehetra.
+mng_subs,mitantana famandrihana
+subsci,famandrihana
+will_cost_week,Ny famandrihana dia manavao ho azy isan-kerinandro ary mitohy ny vidiny isan-kerinandro. Ny famandrihana dia azo foanana amin'ny fotoana rehetra.
+lfllong,mandritra ny androm
+mthly,Isam-bolana
+wkly,isan-kerinandro
+hoto,mafana
+prm_ben_title,Tombontsoa premium
+sync_title,mampifanaraka
+dis_sync_inc,Ny fanalana ny fandrindrana dia hampitombo ny androm-piainan'ny batterie amin'ny tsy fandrindrana ny serivisy any ambadika
+time_out,Fotoana dila
+dec_extend,Ny fampihenana ny fotoana alohan'ny hamonoana ny fampisehoana dia manitatra ny androm-piainan'ny bateria
+u_end_opti,Tena te hamarana ny fizotry ny fanatsarana ve ianao?
+no_why_perm,Tsy nahazo alalana
+bright_exp,Mitaky fahazoan-dàlana hanovana ny firafitry ny rafitra ny Battery Manager mba hampihenana ny famirapiratry ny efijery na hamono ny Bluetooth.
+tg_title,Midira amin'ny fantsona Telegram!
+tg_text,Mijanòna amin'ny fanavaozam-baovao amin'ny fampiharana, manaova fanamboarana aloha, ary ampio hanandrana endri-javatra vaovao. Soso-kevitra ny hevitrao, mametraha fanontaniana ary mahazo valiny haingana kokoa
+join_tg,anjara
+curr_consumption,fanjifana ankehitriny
+scrn_onn,mandeha ny écran
+srcn_off,esorina ny écran
+mob_charg,fa mamaly ny
+discha,fanatanterahana
+activea,Active
+slpmode,Fomba torimaso
+chagingspeed,Haingam-pandeha ankehitriny
+dta_proxt,Fiarovana data
+governs,Ity politikan'ny fiainana manokana ity dia mifehy ny fampiasanao ny rindranasa rindrambaiko Battery Manager ho an'ny fitaovana finday noforonin'i Baxolino.
+info_u_provide,Fampahalalana omen'ny mpampiasa
+no_pass_per,Tsy mampita angon-drakitra manokana amin'ny antoko fahatelo izahay. Rehefa mandefa mailaka aminay ianao dia manana ny adiresy mailakao, saingy ampiasainay mba hanampiana anao amin'ny fampiharanay ihany.
+info_auto_coll,Ny fampahalalana voaangona ho azy
+exp_admob_use,Mampiasa Google Admob izahay handefasana doka. Ny fampiasana ireo tolotra ireo dia miankina amin'ny fepetra fiarovana ny angona Google ao amin'ny https://www.google.com/policies/privacy/.
+we_real_time,Manangona fampahalalana momba ny toerana tena misy marina avy amin'ilay fitaovana ve ny Battery Manager?
+exp_loc_perm_man,Ny Battery Manger dia manamarina fotsiny raha avitrika na tsy miasa ny toerana, fa tsy manangona fampahalalana mazava momba ny toerana misy ny findainao. Ny fiasa mifototra amin'ny toerana toy izany dia apetraka amin'ny alàlan'ny default. Azonao atao ny manafoana na mamerina ireo fiasa ireo amin'ny firafitry ny fitaovana misy anao. Alohan'ny na aorian'ny fametrahana ny fampiharana dia hanontaniana ianao - miankina amin'ny fitaovana - raha tianao ny manafoana na manetsika ireo fiasa ireo. Tsy afaka manangona angon-drakitra momba ny toerana misy anao izahay raha manetsika ny serivisy toerana toy izany.
+chng,FIOVANA
+pri_update_exp,Ity politika momba ny fiainana manokana ity dia azo havaozina tsindraindray noho ny antony rehetra. Hampahafantatra anao ny fiovana amin'ny politikan'ny fiainana manokana izahay amin'ny alàlan'ny fandefasana ny politika momba ny fiainana manokana amin'ity adiresy tranonkala ity ary mampandre anao amin'ny alàlan'ny hafatra ao amin'ny app. Amporisihina ianao hijery tsy tapaka an'ity Politika momba ny fiainana manokana ity ho an'ny fanovana, satria ny fampiasana mitohy dia heverina ho fankatoavana ny fanovana rehetra. Azonao atao ny mijery ny tantaran'ity politika ity amin'ny tranokala.
+contct,Contact
+any_que,Raha manana fanontaniana momba ny fiarovana ny angon-drakitra ianao rehefa mampiasa ny fampiharana na manana fanontaniana momba ny fanaonay dia alefaso mailaka any amin'ny baxolino.de@gmail.com
+mem_opti,Ny Battery Manager dia mila ny fidirana amin'ny "fahatsiarovana" mba hahafahan'ny fampiharana hojerena sy hohatsaraina. Azonao atao ny manafoana na manetsika ireo fiasa ireo amin'ny firafitry ny fitaovanao tsirairay avy. Alohan'ny na aorian'ny fametrahana ny fampiharana dia hanontaniana ianao - miankina amin'ny fitaovana - raha tianao ny manafoana na manetsika ireo fiasa ireo.
+storg,fitahirizana
+ble_set_acc,blue_set_perm,Battery Manager dia mitaky ny fidirana amin'ny "Bluetooth setting access" mba ahafahana manamarina raha mandeha na tsy miasa ny Bluetooth. Ary mba hampavitrika na hanafoana ny Bluetooth.
+ble_title,Bluetooth
+needz_del,Ny Battery Manager dia mitaky ny fidirana amin'ny "Mangataka famafana ny fonosana" hanombohana ny fanesorana fampiharana. Ho esorina ihany ny fampiharana raha avelanao mazava.
+deletion_pkg,Mangataka famafana ny fonosana
+need_adnd,Mitaky fidirana amin'ny "Aza sarohina" ny Mpitantana ny bateria mba hahafahany na manafoana ny maody Aza sarohina.
+adnd,Access Aza manelingelina
+need_wlan_acc,Mitaky fidirana amin'ny "Get WLAN Connections" ny Battery Manager mba ahafahan'ny Battery Manager manara-maso raha mandeha na tsy miasa ny WLAN. Ary mba hampavitrika na hanaisotra ny WLAN.
+wln_conn,Mahazoa fifandraisana WLAN
+shop_bill_exp,Rehefa miantsena amin'ny alàlan'ny Google Play In App Billing ianao, dia omen'i Google anay ny firenena misy anao ary indraindray ny fanjakana, ny tanàna ary ny kaody paositra, fa tsy ny adiresy feno mihitsy. Mampiasa ity fampahalalana ity izahay mba hanarahana ny fitsipika momba ny hetra sy ny kaonty.
+pri_date,hatramin'ny 21/02/2021
+how_to_stop,Azonao atao ny manakana ny fanangonana fampahalalana manontolo amin'ny alàlan'ny fampiharana amin'ny alàlan'ny fanesorana ny fampiharana fotsiny. Azonao atao ny mampiasa ny fomba fanalana fanalana mahazatra azo alaina ao anatin'ny fitaovana findainao na amin'ny alàlan'ny tsena na tambajotra ho an'ny fampiharana finday.
+opt_out,Inona ny zoko hisafidy?
+ur_permission,ny fahazoan-dalanao
+accept_privacy,Amin'ny alàlan'ny fampiasana ny fampiharana dia manaiky ny fanodinanay ny angon-drakitrao ianao araka ny voalaza ao amin'ity politika momba ny fiainana manokana ity sy araka ny novainay.

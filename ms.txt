@@ -1,0 +1,347 @@
+title,Battery Manager Lite adalah berbeza
+extend_life,Cara terbaik untuk memanjangkan hayat bateri dan memastikan anda sihat adalah berdasarkan pengalaman dan penyelidikan saintifik.
+measured,Dengan cara yang telus, kami hanya menunjukkan kepada anda data yang sebenarnya diukur dan cara ia dikira.
+healthy,Pastikan bateri anda sihat
+double_battery,Gandakan hayat bateri anda dengan tidak mengecas bateri anda sepenuhnya. Para saintis telah membuktikan ini dalam penyelidikan mereka.
+charge_limit,Menggunakan pemberitahuan had caj kami, pemberitahuan akan dihantar apabila bateri mencapai ambang yang ditentukan pengguna.
+smart,Ia menjadi lebih bijak setiap hari
+analyze,Lebih lama anda menggunakan Battery Manager Lite, lebih baik kami akan menganalisis prestasi bateri anda.
+update_every_time,Baki ukuran hayat bateri dikemas kini setiap kali anda menggunakan atau mengecas peranti anda.
+runtime,Temui masa jalan sebenar bateri anda
+discharge_cycle,Setiap kali telefon anda melalui kitaran nyahcas, anggaran masa jalannya yang tepat boleh diukur.
+accurate_life,Gunakan Battery Manager Lite untuk mengukur hayat bateri yang tepat.
+no_exit,Jangan keluar dari Battery Manager Lite!
+bg_require,Battery Manager Lite memerlukan perkhidmatan latar belakang untuk mengumpul statistik bateri dan mengukur masa pengecasan dan nyahcas bateri. Peranti anda berkemungkinan menghentikan perkhidmatan atau tidak membenarkannya berjalan apabila apl ditutup. Untuk mengelakkan ini, kami mempunyai penyelesaian yang baik untuk anda. Hanya klik pada pautan.
+man,Manual
+cali,Penentukuran
+polarity,Dalam langkah ini, apl mengesan kekutuban pengecasan dan kapasiti reka bentuk bateri anda.
+disch,Pelepasan
+ch_pol,Mengecas polariti
+power_meter,Meter kuasa
+unit_mesure,Unit ukuran
+capacity,Kapasiti bateri
+wrong,Tidak betul?
+calib,Kalibrasi
+ye,ya
+no,Tidak
+neg,Negatif
+pos,Positif
+lunch,Lancarkan Apl
+manufac,Kapasiti mengikut pengilang
+design_des,Kapasiti reka bentuk ialah kapasiti bateri sebenar, diukur dalam mAh. Oleh kerana tiada cara rasmi untuk menentukan kapasiti, nilai yang dikembalikan mungkin salah.
+correct_it,Jika kapasiti yang dipaparkan tidak betul, sila betulkan.
+cancel,Batal
+ok,baik
+runtime,Masa Jalan Bateri
+wait,menunggu
+per_hr,Penggunaan bateri setiap jam
+life_for,Hayat bateri untuk
+battery_cond,Keadaan bateri
+bat_info,Maklumat bateri
+bat_cap,Kapasiti bateri
+bat_volt,Voltan bateri
+bat_cur,Arus bateri
+unit_mes,Unit ukuran
+done,Selesai
+c_bat_temp,Suhu Bateri Semasa
+min_bat_tem,Suhu Bateri minimum
+mx_bat_tem,Suhu bateri maksimum
+avg_bat_tem,Purata suhu bateri
+dig_last,Diagnosis terakhir sebelum ini
+rem_time,Masa yang tinggal
+volt,voltan
+curr,semasa
+status,Status
+run_time,Masa berjalan
+currently,Pada masa ini
+avg,Purata
+minmal,Yang minimum
+maximal,maksimum
+tool,Alatan
+rem_apps,Nyahpasang apl yang tidak anda gunakan lagi untuk menghalang apl daripada berjalan secara tidak perlu dan menguras bateri anda
+uninst_apps,Nyahpasang Apl
+stat,Mulakan
+act_eng_save,Aktifkan mod penjimatan tenaga untuk mengurangkan penggunaan bateri
+pow_save,Mod jimat tenaga
+tempe,Suhu
+heal,Kesihatan
+tips,Pastikan Bateri anda dalam keadaan baik dengan petua dan kiat.
+recomm,Cadangan
+prem,Premium
+more_func,Lebih banyak fungsi untuk anda. Dapatkan premium, dapatkan lebih banyak.
+more,Lagi
+ur_cond_bat,Keadaan bateri adalah
+ur_bat_life,Hayat bateri anda ialah
+ur_bat_temp,Suhu Bateri anda ialah
+wow,Cemerlang
+normal,Biasalah
+poor,Teruk
+days,hari-hari
+mins,minit
+hrs,Jam
+chging,Mengecas
+ful,penuh
+dis_chrg,Menyahcas
+unkn,Tidak diketahui
+too_lit,Terlalu sedikit Data Bateri
+car_any,Jalankan juga
+endz_,tamat
+dig_any,Untuk mendapatkan hasil diagnostik yang lebih baik, apl perlu menganalisis bateri anda di latar belakang. Sila mulakan diagnosis selepas 24 jam
+end_dig,Diagnosis tamat
+quit_dig,Benar-benar Berhenti Diagnosis
+batty_temp,Suhu bateri
+akku_manager,Pengurus Akku
+u_agree,Dengan "MULA" anda bersetuju menerima peraturan perlindungan data
+elemn_opti,Elemen boleh dioptimumkan
+looks_good,Semuanya nampak baik
+optimize_,Optimumkan
+toolz_,Alatan
+akku_check,Cek Akku
+ctrl_load,Pemuatan terkawal
+mng_apps,Urus apl
+infosm,Maklumat
+tenzion,ketegangan
+electy,elektrik
+lvl,Tahap
+akku_man_premium,Premium Pengurus Akku
+premimum_highlight,Gunakan Pengurus Bateri sepenuhnya tanpa pengiklanan dan anda mempunyai akses kepada penyesuaian meluas antara muka pengguna.
+design,Reka bentuk
+subjs,mata pelajaran
+genrally,Secara amnya
+temp_unit,Unit suhu
+oth_apps,Apl Lain
+dat_protect,Perlindungan Data
+thx_akku,Terima kasih kerana menyokong Pengurus Akku dengan pembelian versi premium.
+user_got_pre,Anda kini mempunyai akses kepada penyesuaian meluas antara muka pengguna dan penggunaan tanpa pengiklanan.
+exp_more,Anda boleh mengharapkan lebih banyak ciri dalam kemas kini masa hadapan
+ap_optimiz,Pengoptimuman apl
+sys_bat_usage,Penggunaan bateri sistem
+bat_usage_det,Butiran penggunaan bateri
+end_optiz,tamatkan pengoptimuman
+abort,batalkan
+break_up,putus
+scn,untuk mengimbas
+scn_bgh,Kecerahan skrin
+dact_wlan,Nyahaktifkan WLAN
+dact_save_batt,Nyahaktifkan untuk menjimatkan bateri
+dact,Nyahaktifkan
+dact_ble,Nyahaktifkan bluetooth
+red_brigh,Kurangkan kecerahan
+bright_txt,Kurangkan kecerahan paparan untuk menjimatkan bateri
+to_reduce,Untuk mengurangkan
+dact_gps,Nyahaktifkan GPS
+appz_optimz,Apl dioptimumkan
+start_bat_check_det,Mulakan pemeriksaan bateri terperinci untuk sentiasa berada di bahagian yang selamat
+act_eng_save,Aktifkan mod penjimatan tenaga untuk mengurangkan penggunaan bateri
+remove_useless,Nyahpasang apl yang tidak digunakan lagi
+premium,Premium
+clear_mem,Bersihkan memori
+clear_mem_des,Supaya telefon pintar anda berjalan dengan cepat dan lancar.
+clenaup,Bersihkan
+rat,penilaian
+rat_free,Nilaikan Pengurus Bateri secara percuma
+sendz,Hantar
+elmn_found,Elemen ditemui
+drumz,gendang
+status,Status
+end_akk_check,Tamatkan pemeriksaan bateri
+bat_detlz,Butiran bateri
+temp_checked,Suhu diperiksa
+cond_checked,Keadaan bateri diperiksa
+checkz_start,Pemeriksaan bateri bermula
+plug_in,Dipasang
+techz,Teknologi
+coldz,Sejuk
+until,Sehinggalah
+well,Nah
+ovr_heat,Terlalu panas
+ovr_load,Lebihan beban
+renam,dinamakan semula
+not_def,tidak ditakrifkan
+chrgz,caj
+full,penuh
+unloadz,Memunggah
+not_charge_unkn,tidak dicaj atau tidak diketahui
+usb,USB
+charger,pengecas
+wless,tanpa wayar
+not_at_al,tiada apa-apa pun
+uninstall,Nyahpasang
+update,Untuk mengemas kini
+setting,tetapan
+app,Apl
+not_found,Apl tidak ditemui
+search,Cari apl
+version_code,Kod Versi
+api_level,Tahap API
+app_version,Versi Apl
+authorization,kebenaran
+open,untuk membuka
+play_store,Kedai mainan
+control,kawalan
+systemstandart,Systemsstandard
+white,putih
+dark,Gelap
+ocean,laut
+black,Hitam
+dark_blue,Biru gelap
+excellent,Cemerlang
+bad,teruk
+battery_bad,Bateri rosak sedikit
+very_bad,Sangat teruk
+battery_damaged,Bateri rosak
+custom_mode,Mod Tersuai
+brightness,Kecerahan
+automatic_brightness,Kecerahan Automatik
+normal,Biasalah
+sound_modus,Modus Bunyi
+tone_work,Semua Nada Berfungsi
+mute,bisu
+call_note_mute,Panggilan dan pemberitahuan diredamkan
+not_bother,tak payahlah
+tones_vibration_mute,Matikan nada dan getaran, kecuali nada penggera
+sound,Bunyi
+music,muzik
+notification,Pemberitahuan
+alarm,Penggera
+ultra_saving,Mod penjimatan tenaga ultra
+edit,Untuk mengedit
+disable_ultra_saving,Lumpuhkan Mod Penjimatan Tenaga Ultra
+min_remaining,baki min
+hours,Jam
+activted_ultra_saving,Mod penjimatan tenaga ultra diaktifkan
+charged_in,dicaj masuk
+min,min
+limit_power,Hadkan penggunaan kuasa
+reduce_screen,Kurangkan kecerahan skrin
+restrict_bg_act_explain,Hadkan aktiviti latar belakang
+volatge_check,Voltan diperiksa
+software_optimized,Perisian dioptimumkan
+connect_charger,Sambungkan pengecas
+charger_removed,Pengecas boleh dikeluarkan
+power_consump_title,Penggunaan kuasa
+srcn_bg_title,Kecerahan skrin
+bg_al_activities,Aktiviti latar belakang
+sftware,Perisian
+get_primium,Jika anda membeli versi premium, anda akan mendapat semua fungsi semasa serta semua fungsi baharu pada masa hadapan.
+cuztomize_face,Penyesuaian antara muka pengguna
+comp_scheme,Karang skema warna Pengurus Bateri anda daripada pelbagai tema.
+bat_check_detail,Pemeriksaan bateri terperinci
+check_cond_test,Gunakan Pengurus Bateri untuk menyemak keadaan bateri anda agar sentiasa berada di bahagian yang selamat.
+no_ads_yo,Tiada pengiklanan
+use_explain_noads,Gunakan Pengurus Bateri tanpa sebarang pengiklanan
+act_energy_save,Aktifkan mod penjimatan tenaga ultra untuk meningkatkan hayat bateri semasa kecemasan.
+buy_title,Beli Premium
+loc_title,Lokasi
+cap_title,kapasiti
+cap_remain,Baki kapasiti
+sleepy,tidur
+sek,Detik
+sing_min,minit
+miniotes,minit
+finish,Selesai
+mobi_data,data mudah alih
+plz_rate,Sila nilaikan Pengurus Bateri di Gedung Play
+ur_data_cus,Bolehkah kami terus menggunakan data anda untuk menyesuaikan iklan untuk anda?
+in_slep_mode,Dalam mod tidur
+in_use,Sedang digunakan
+with_curr_pow,Dengan penggunaan kuasa semasa
+rem_bat_life,Baki hayat bateri
+qck_acc,Akses cepat
+notif_txt,pemberitahuan
+notif_at,Maklumkan di
+chg_curr,Mengecas arus
+charge_perm,Prestasi pengecasan
+maxi_charge_per,Prestasi pengecasan maksimum
+enb_notif,Dayakan pemberitahuan
+perm_send_notif,Pengurus Bateri memerlukan kebenaran untuk menghantar pemberitahuan, ia mesti diaktifkan dalam tetapan peranti.
+to_set,Kepada tetapan
+title_autost,Aktifkan Autostart
+auto_explain,Pengurus Bateri memerlukan kebenaran untuk kekal diaktifkan di latar belakang untuk menanyakan status bateri dan menghantar pemberitahuan.
+sync_auto,Segerakkan secara automatik
+dis_auto_sync,Melumpuhkan penyegerakan automatik mengurangkan wakelock dengan ketara. Walau bagaimanapun, beberapa fungsi seperti menerima e-mel akan hilang.
+chg_lim,Had Caj
+avoid_ful_explain,Jika anda mengecas bateri anda ke tahap maksimum atau menyahcasnya sehingga ia dimatikan, keadaan dan hayat perkhidmatan bateri akan berkurangan. Dalam perkara berikut anda boleh menetapkan status pengecasan atau nyahcas minimum dan maksimum bateri dan anda akan dimaklumkan setiap kali nilai ambang dicapai. Elakkan satu cas sepenuhnya dan nyahcas bateri anda dan memanjangkan hayat bateri.
+rec_notif,Tidak menerima pemberitahuan?
+title_allow_bg_act,Benarkan aktiviti latar belakang
+allow_bg_act,Untuk membolehkan anda menggunakan Pengurus Bateri tanpa sekatan tanpa ditutup secara tidak sengaja oleh sistem pengendalian, anda mungkin perlu mematikan fungsi khas untuk pengurusan bateri dan penggunaan bateri dalam tetapan. Kerana pelbagai pengeluar berbeza dalam penetapan pilihan ini bergantung pada sistem pengendalian yang digunakan. Dalam kawasan Maklumat Apl, di bawah Tidur atau Bateri, pilih Tiada Sekatan atau Benarkan Aktiviti Latar Belakang.
+dev_usage,Penggunaan peranti
+dep_sleep,Tidur nyenyak ialah keadaan di mana peranti anda menggunakan paling sedikit bateri. Tempoh tidur nyenyak mempunyai kesan positif terhadap penjimatan tenaga. Tidur yang nyenyak boleh diganggu oleh tugasan latar belakang, yang menyebabkan bateri dinyahcas lebih cepat. Dalam kes ini, mulakan semula peranti anda.
+title_bat_temp,Suhu bateri
+bat_tempp,Suhu bateri adalah salah satu faktor yang paling penting. Jika bateri disimpan gel pada suhu tinggi, ini menjejaskan kedua-dua hayat perkhidmatan dan prestasi bateri. Jika suhu meningkat, struktur dalaman bateri boleh rosak.
+rdc_brightness,Kurangkan kecerahan skrin
+display_explain,Paparan adalah salah satu komponen yang menggunakan kebanyakan tenaga. Mengurangkan kecerahan maksimum membantu mengurangkan penggunaan keseluruhan dan mencapai penjimatan yang ketara. Sebelum mengurangkan kecerahan, nyahaktifkan kecerahan automatik supaya kecerahan tidak ditukar tanpa perlu.
+tst_charge,Uji pengecas
+best_way_test,Cara terbaik untuk menguji pengecas dan kabel adalah dengan memeriksa kelajuan pengecasan dengan skrin dimatikan. Kelajuan pengecasan semasa skrin dihidupkan bukanlah penanda aras yang baik kerana telefon anda menggunakan kuasa, yang menyebabkan turun naik. Pasangkan pengecas, matikan skrin selama beberapa minit, dan kemudian semak arus pengecasan maksimum.
+wait_title,Menunggu
+rfsh_rate,Kadar muat semula
+low_sizty,Menurunkan kadar penyegaran kepada 60 Hz meningkatkan hayat bateri.
+drk_mode,Mod Gelap
+acti_dark_mode,Aktifkan Mod Gelap, dalam Mod Gelap kurangkan kuasa yang digunakan
+actz,Aktifkan
+poz,Kuasa
+minz,Minimum
+avgo,Purata
+mixi1,maksimum
+msg_dis,Mesej hilang selepas 24 jam jika terdapat data yang mencukupi untuk memaparkan gambar rajah sepenuhnya.
+no_enough,Tidak cukup data untuk dipaparkan
+log_graph,Dalam beberapa jam anda akan melihat graf di sini yang akan membolehkan anda menyemak suhu bateri, voltan, amperage dan paras sepanjang 24 jam yang lalu.
+week,minggu
+buy_it,Beli
+one_pur,Bayaran sekali sebanyak
+refun_pur,pembelian boleh dikembalikan dalam masa 2 jam.
+each_month,Langganan diperbaharui secara automatik setiap bulan dan terus berkos setiap bulan. Langganan boleh dibatalkan pada bila-bila masa.
+mng_subs,mengurus langganan
+subsci,melanggan
+will_cost_week,Langganan diperbaharui secara automatik setiap minggu dan terus berkos setiap minggu. Langganan boleh dibatalkan pada bila-bila masa.
+lfllong,sepanjang hayat
+mthly,bulanan
+wkly,Setiap minggu
+hoto,panas
+prm_ben_title,Faedah premium
+sync_title,Segerakkan
+dis_sync_inc,Melumpuhkan penyegerakan akan meningkatkan hayat bateri dengan tidak menyegerakkan perkhidmatan di latar belakang
+time_out,Masa tamat
+dec_extend,Mengurangkan masa sebelum paparan dimatikan memanjangkan hayat bateri
+u_end_opti,Adakah anda pasti mahu menamatkan proses pengoptimuman?
+no_why_perm,Tiada kebenaran
+bright_exp,Pengurus Bateri memerlukan kebenaran Tukar tetapan sistem untuk mengurangkan kecerahan skrin atau mematikan Bluetooth.
+tg_title,Sertai saluran Telegram!
+tg_text,Kekal terkini dengan kemas kini apl, dapatkan binaan awal dan bantu menguji ciri baharu. Cadangkan idea anda, tanya soalan dan dapatkan jawapan dengan lebih cepat
+join_tg,sertai
+curr_consumption,penggunaan terkini
+scrn_onn,skrin dihidupkan
+srcn_off,skrin padam
+mob_charg,Mengecas
+discha,Menyahcas
+activea,Aktif
+slpmode,Mod tidur
+chagingspeed,Kelajuan Pengecasan Semasa
+dta_proxt,Perlindungan Data
+governs,Dasar privasi ini mengawal penggunaan aplikasi perisian Pengurus Bateri untuk peranti mudah alih yang dibuat oleh Baxolino.
+info_u_provide,Maklumat yang diberikan oleh pengguna
+no_pass_per,Kami tidak menyampaikan data peribadi kepada pihak ketiga. Apabila anda menghantar e-mel kepada kami, kami mempunyai alamat e-mel anda, tetapi kami hanya menggunakannya untuk membantu anda dengan apl kami.
+info_auto_coll,Maklumat dikumpul secara automatik
+exp_admob_use,Kami menggunakan Google Admob untuk menyiarkan iklan. Penggunaan perkhidmatan ini tertakluk kepada peruntukan perlindungan data Google di https://www.google.com/policies/privacy/.
+we_real_time,Adakah Pengurus Bateri mengumpul maklumat lokasi masa nyata yang tepat daripada peranti?
+exp_loc_perm_man,Pengurus Bateri hanya menyemak sama ada lokasi itu diaktifkan atau dinyahaktifkan, tetapi tidak mengumpul sebarang maklumat tepat tentang lokasi peranti mudah alih anda. Fungsi berasaskan lokasi sedemikian ditetapkan secara lalai. Anda boleh menyahaktifkan atau mengaktifkan semula fungsi ini dalam tetapan peranti anda masing-masing. Sebelum atau selepas memasang apl, anda akan ditanya - bergantung pada peranti - sama ada anda lebih suka menyahaktifkan atau mengaktifkan fungsi ini. Kami hanya boleh mengumpul data tentang lokasi anda jika anda mengaktifkan perkhidmatan lokasi tersebut.
+chng,Perubahan
+pri_update_exp,Dasar privasi ini boleh dikemas kini dari semasa ke semasa atas sebarang sebab. Kami akan memberitahu anda tentang perubahan pada dasar privasi kami dengan menyiarkan dasar privasi baharu pada alamat web ini dan memberitahu anda melalui mesej dalam apl. Adalah disyorkan agar anda kerap merujuk Dasar Privasi ini untuk perubahan, kerana penggunaan berterusan dianggap sebagai kelulusan bagi semua perubahan. Anda boleh menyemak sejarah dasar ini di tapak web ini.
+contct,Kenalan
+any_que,Jika anda mempunyai sebarang soalan tentang perlindungan data semasa menggunakan aplikasi atau mempunyai soalan tentang amalan kami, sila hantar e-mel ke baxolino.de@gmail.com
+mem_opti,Pengurus Bateri memerlukan akses "memori" supaya apl boleh diimbas dan dioptimumkan. Anda boleh menyahaktifkan atau mengaktifkan fungsi ini dalam tetapan peranti anda masing-masing. Sebelum atau selepas memasang apl, anda akan ditanya - bergantung pada peranti - sama ada anda lebih suka menyahaktifkan atau mengaktifkan fungsi ini.
+storg,Penyimpanan
+ble_set_acc,blue_set_perm,Pengurus Bateri memerlukan akses "Akses tetapan Bluetooth" supaya ia boleh diperiksa sama ada Bluetooth diaktifkan atau dinyahaktifkan. Dan untuk mengaktifkan atau menyahaktifkan Bluetooth.
+ble_title,Bluetooth
+needz_del,Pengurus Bateri memerlukan akses "Minta pemadaman pakej" untuk memulakan penyahpasangan apl. Apl hanya akan dinyahpasang jika anda membenarkannya dengan jelas.
+deletion_pkg,Minta pemadaman pakej
+need_adnd,Pengurus Bateri memerlukan akses "Jangan Ganggu" untuk mendayakan atau melumpuhkan mod Jangan Ganggu.
+adnd,Akses Jangan Ganggu
+need_wlan_acc,Pengurus Bateri memerlukan akses kepada "Dapatkan Sambungan WLAN" supaya Pengurus Bateri boleh menyemak sama ada WLAN diaktifkan atau dinyahaktifkan. Dan untuk mengaktifkan atau menyahaktifkan WLAN.
+wln_conn,Dapatkan sambungan WLAN
+shop_bill_exp,Apabila anda membeli-belah melalui Pengebilan Apl Google Play, Google memberi kami negara tempat tinggal anda dan kadangkala negeri, bandar dan poskod, tetapi tidak pernah alamat penuh. Kami menggunakan maklumat ini untuk mematuhi peraturan cukai dan perakaunan.
+pri_date,Setakat 21/02/2021
+how_to_stop,Anda boleh menghentikan keseluruhan pengumpulan maklumat oleh aplikasi hanya dengan menyahpasang aplikasi. Anda boleh menggunakan proses nyahpasang standard yang tersedia sebagai sebahagian daripada peranti mudah alih anda atau melalui pasaran atau rangkaian untuk aplikasi mudah alih.
+opt_out,Apakah hak saya untuk tidak ikut serta?
+ur_permission,kebenaran anda
+accept_privacy,Dengan menggunakan aplikasi, anda bersetuju dengan pemprosesan data anda seperti yang ditetapkan dalam dasar privasi ini dan seperti yang dipinda oleh kami.

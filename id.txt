@@ -1,0 +1,347 @@
+title,Battery Manager Lite berbeda
+extend_life,Cara terbaik untuk memperpanjang masa pakai baterai dan menjaga kesehatan Anda didasarkan pada pengalaman dan penelitian ilmiah.
+measured,Secara transparan kami hanya menampilkan data yang sebenarnya diukur dan bagaimana cara menghitungnya.
+healthy,Jaga kesehatan baterai Anda
+double_battery,Gandakan masa pakai baterai Anda dengan tidak mengisi penuh baterai Anda. Para ilmuwan telah membuktikannya dalam penelitian mereka.
+charge_limit,Dengan menggunakan pemberitahuan batas muatan kami, pemberitahuan akan dikirim saat baterai mencapai ambang batas yang ditentukan pengguna.
+smart,Semakin pintar setiap hari
+analyze,Semakin lama Anda menggunakan Battery Manager Lite, semakin baik kami menganalisis kinerja baterai Anda.
+update_every_time,Pengukuran masa pakai baterai yang tersisa diperbarui setiap kali Anda menggunakan atau mengisi daya perangkat.
+runtime,Temukan runtime sebenarnya dari baterai Anda
+discharge_cycle,Setiap kali ponsel Anda melewati siklus pengosongan, perkiraan waktu prosesnya yang akurat dapat diukur.
+accurate_life,Gunakan Battery Manager Lite untuk mengukur masa pakai baterai yang akurat.
+no_exit,Jangan keluar dari Battery Manager Lite!
+bg_require,Battery Manager Lite memerlukan layanan latar belakang untuk mengumpulkan statistik baterai dan mengukur waktu pengisian dan pengosongan baterai. Perangkat Anda kemungkinan menghentikan layanan atau tidak mengizinkannya berjalan saat aplikasi ditutup. Untuk menghindari hal ini, kami memiliki solusi yang baik untuk Anda. Tekan saja tautannya.
+man,Manual
+cali,Kalibrasi
+polarity,Pada langkah ini, aplikasi mendeteksi polaritas pengisian daya dan kapasitas desain baterai Anda.
+disch,Memulangkan
+ch_pol,Pengisian polaritas
+power_meter,Pengukur daya
+unit_mesure,Satuan pengukuran
+capacity,Kapasitas baterai
+wrong,Tidak benar?
+calib,Menyesuaikan
+ye,Ya
+no,Tidak
+neg,Negatif
+pos,Positif
+lunch,Luncurkan Aplikasi
+manufac,Kapasitas sesuai pabrikan
+design_des,Kapasitas desain adalah kapasitas baterai sebenarnya, diukur dalam mAh. Karena tidak ada cara resmi untuk menentukan kapasitas, nilai yang dikembalikan mungkin salah.
+correct_it,Jika kapasitas yang ditampilkan tidak benar, harap perbaiki.
+cancel,Membatalkan
+ok,Oke
+runtime,Waktu Kerja Baterai
+wait,menunggu
+per_hr,Konsumsi baterai per jam
+life_for,Masa pakai baterai untuk
+battery_cond,Kondisi baterai
+bat_info,Informasi baterai
+bat_cap,Kapasitas baterai
+bat_volt,Tegangan baterai
+bat_cur,Arus baterai
+unit_mes,Satuan pengukuran
+done,Selesai
+c_bat_temp,Suhu Baterai Saat Ini
+min_bat_tem,Suhu baterai minimum
+mx_bat_tem,Suhu baterai maksimum
+avg_bat_tem,Suhu baterai rata-rata
+dig_last,Diagnosis terakhir sebelumnya
+rem_time,Waktu yang tersisa
+volt,Voltase
+curr,Saat ini
+status,Status
+run_time,Durasi
+currently,Saat ini
+avg,Rata-rata
+minmal,Minimal
+maximal,Maksimum
+tool,Peralatan
+rem_apps,Copot pemasangan aplikasi yang tidak lagi Anda gunakan untuk mencegah aplikasi berjalan tidak perlu dan menguras baterai Anda
+uninst_apps,Copot Aplikasi
+stat,Awal
+act_eng_save,Aktifkan mode hemat energi untuk mengurangi konsumsi baterai
+pow_save,Mode hemat daya
+tempe,Suhu
+heal,Kesehatan
+tips,Jaga Baterai Anda dalam kondisi baik dengan tip dan trik.
+recomm,Rekomendasi
+prem,Premium
+more_func,Lebih banyak fungsi untuk Anda. Dapatkan premium, dapatkan lebih banyak.
+more,Lagi
+ur_cond_bat,Kondisi baterai
+ur_bat_life,Masa pakai baterai Anda adalah
+ur_bat_temp,Suhu Baterai Anda
+wow,Bagus sekali
+normal,Normal
+poor,Buruk
+days,Hari
+mins,Menit
+hrs,Jam
+chging,Mengisi daya
+ful,Penuh
+dis_chrg,Pengosongan
+unkn,Tidak dikenal
+too_lit,Data Baterai terlalu sedikit
+car_any,Tetap jalani
+endz_,Akhir
+dig_any,Untuk mendapatkan hasil diagnostik yang lebih baik, aplikasi perlu menganalisis baterai Anda di latar belakang. Silakan mulai diagnosis setelah 24 jam
+end_dig,Akhiri diagnosis
+quit_dig,Benar-benar Keluar dari Diagnosis
+batty_temp,Suhu baterai
+akku_manager,Manajer Akku
+u_agree,Dengan "MULAI" Anda menyetujui peraturan perlindungan data
+elemn_opti,Elemen dapat dioptimalkan
+looks_good,Semuanya terlihat bagus
+optimize_,Optimalkan
+toolz_,Peralatan
+akku_check,Cek Akku
+ctrl_load,Pemuatan terkendali
+mng_apps,Kelola aplikasi
+infosm,Informasi
+tenzion,ketegangan
+electy,listrik
+lvl,Tingkat
+akku_man_premium,Premium Manajer Akku
+premimum_highlight,Gunakan Pengelola Baterai sepenuhnya tanpa iklan dan Anda memiliki akses ke penyesuaian ekstensif antarmuka pengguna.
+design,Rancangan
+subjs,mata pelajaran
+genrally,Umumnya
+temp_unit,Satuan suhu
+oth_apps,Aplikasi lain
+dat_protect,Perlindungan data
+thx_akku,Terima kasih telah mendukung Manajer Akku dengan pembelian versi premium.
+user_got_pre,Anda sekarang memiliki akses ke penyesuaian ekstensif antarmuka pengguna dan penggunaan tanpa iklan.
+exp_more,Anda dapat mengharapkan lebih banyak fitur di pembaruan mendatang
+ap_optimiz,Pengoptimalan aplikasi
+sys_bat_usage,Konsumsi baterai sistem
+bat_usage_det,Detail penggunaan baterai
+end_optiz,Mengakhiri pengoptimalan
+abort,Menggugurkan
+break_up,putus
+scn,memindai
+scn_bgh,Kecerahan layar
+dact_wlan,Nonaktifkan WLAN
+dact_save_batt,Nonaktifkan untuk menghemat baterai
+dact,Menonaktifkan
+dact_ble,Nonaktifkan bluetooth
+red_brigh,Kurangi kecerahan
+bright_txt,Kurangi kecerahan layar untuk menghemat baterai
+to_reduce,Untuk mengurangi
+dact_gps,Nonaktifkan GPS
+appz_optimz,Aplikasi dioptimalkan
+start_bat_check_det,Mulai pemeriksaan baterai mendetail untuk selalu berada di sisi yang aman
+act_eng_save,Aktifkan mode hemat energi untuk mengurangi konsumsi baterai
+remove_useless,Uninstall aplikasi yang sudah tidak digunakan lagi
+premium,Premium
+clear_mem,Bersihkan memori
+clear_mem_des,Sehingga smartphone Anda berjalan dengan cepat dan lancar.
+clenaup,Membersihkan
+rat,peringkat
+rat_free,Nilai Pengelola Baterai secara gratis
+sendz,Kirim
+elmn_found,Elemen ditemukan
+drumz,Drum
+status,Status
+end_akk_check,Akhiri pemeriksaan baterai
+bat_detlz,Detail baterai
+temp_checked,Suhu diperiksa
+cond_checked,Kondisi baterai diperiksa
+checkz_start,Pemeriksaan baterai dimulai
+plug_in,Dicolokkan
+techz,Teknologi
+coldz,Dingin
+until,Sampai
+well,Sehat
+ovr_heat,Terlalu panas
+ovr_load,Kelebihan muatan
+renam,berganti nama
+not_def,tidak terdefinisikan
+chrgz,Mengenakan biaya
+full,Penuh
+unloadz,Bongkar
+not_charge_unkn,tidak dikenakan biaya atau tidak diketahui
+usb,USB
+charger,pengisi daya
+wless,nirkabel
+not_at_al,tidak ada sama sekali
+uninstall,Copot pemasangan
+update,Untuk memperbaharui
+setting,Pengaturan
+app,Aplikasi
+not_found,Aplikasi tidak ditemukan
+search,Cari aplikasi
+version_code,Kode Versi
+api_level,Tingkat API
+app_version,Versi Aplikasi
+authorization,otorisasi
+open,membuka
+play_store,Mainkan Toko
+control,kontrol
+systemstandart,Standar sistem
+white,Putih
+dark,Gelap
+ocean,Laut
+black,Hitam
+dark_blue,Biru tua
+excellent,Bagus sekali
+bad,Buruk
+battery_bad,Baterai sedikit rusak
+very_bad,Sangat buruk
+battery_damaged,Baterai rusak
+custom_mode,Mode Kustom
+brightness,Kecerahan
+automatic_brightness,Kecerahan Otomatis
+normal,Normal
+sound_modus,Modus Suara
+tone_work,Semua Nada Bekerja
+mute,Bisu
+call_note_mute,Panggilan dan notifikasi dibisukan
+not_bother,Jangan ganggu
+tones_vibration_mute,Matikan nada dan getaran, kecuali nada alarm
+sound,Kedengarannya
+music,musik
+notification,Pemberitahuan
+alarm,Alarm
+ultra_saving,Mode hemat energi ultra
+edit,Untuk mengedit
+disable_ultra_saving,Nonaktifkan Mode Hemat Energi Ultra
+min_remaining,menit tersisa
+hours,jam
+activted_ultra_saving,Mode hemat energi ultra diaktifkan
+charged_in,dibebankan
+min,min
+limit_power,Batasi konsumsi daya
+reduce_screen,Kurangi kecerahan layar
+restrict_bg_act_explain,Batasi aktivitas latar belakang
+volatge_check,Tegangan diperiksa
+software_optimized,Perangkat lunak dioptimalkan
+connect_charger,Hubungkan pengisi daya
+charger_removed,Pengisi daya dapat dilepas
+power_consump_title,Konsumsi daya
+srcn_bg_title,Kecerahan layar
+bg_al_activities,Kegiatan latar belakang
+sftware,Perangkat lunak
+get_primium,Jika Anda membeli versi premium, Anda akan mendapatkan semua fungsi saat ini serta semua fungsi baru di masa mendatang.
+cuztomize_face,Kustomisasi antarmuka pengguna
+comp_scheme,Susun skema warna Pengelola Baterai Anda dari berbagai tema.
+bat_check_detail,Pemeriksaan baterai terperinci
+check_cond_test,Gunakan Battery Manager untuk mengecek kondisi baterai Anda agar selalu aman.
+no_ads_yo,Tidak ada iklan
+use_explain_noads,Gunakan Pengelola Baterai tanpa iklan apa pun
+act_energy_save,Aktifkan mode hemat energi ultra untuk meningkatkan masa pakai baterai dalam keadaan darurat.
+buy_title,Beli Premium
+loc_title,Lokasi
+cap_title,kapasitas
+cap_remain,Kapasitas yang tersisa
+sleepy,Tidur
+sek,Detik
+sing_min,Menit
+miniotes,Menit
+finish,Selesai
+mobi_data,data seluler
+plz_rate,Silakan beri peringkat Pengelola Baterai di Play Store
+ur_data_cus,Bisakah kami terus menggunakan data Anda untuk menyesuaikan iklan untuk Anda?
+in_slep_mode,Dalam mode tidur
+in_use,Digunakan
+with_curr_pow,Dengan konsumsi daya saat ini
+rem_bat_life,Sisa masa pakai baterai
+qck_acc,Akses cepat
+notif_txt,pemberitahuan
+notif_at,Beri tahu di
+chg_curr,Pengisian arus
+charge_perm,Performa pengisian daya
+maxi_charge_per,Performa pengisian maksimal
+enb_notif,Aktifkan notifikasi
+perm_send_notif,Pengelola Baterai memerlukan izin untuk mengirim pemberitahuan, itu harus diaktifkan di pengaturan perangkat.
+to_set,Ke pengaturan
+title_autost,Aktifkan Mulai Otomatis
+auto_explain,Pengelola Baterai memerlukan izin untuk tetap aktif di latar belakang untuk menanyakan status baterai dan mengirim pemberitahuan.
+sync_auto,Sinkronisasi secara otomatis
+dis_auto_sync,Menonaktifkan sinkronisasi otomatis secara signifikan mengurangi wakelocks. Namun, beberapa fungsi seperti menerima email akan hilang.
+chg_lim,Batas Biaya
+avoid_ful_explain,Jika Anda mengisi daya baterai hingga maksimum atau mengosongkannya hingga dimatikan, kondisi dan masa pakai baterai akan berkurang. Berikut ini Anda dapat mengatur status pengisian atau pengosongan minimum dan maksimum baterai dan Anda akan diberi tahu setiap kali nilai ambang batas tercapai. Hindari satu pengisian penuh dan kosongkan baterai Anda dan perpanjang umur baterai.
+rec_notif,Tidak menerima pemberitahuan?
+title_allow_bg_act,Izinkan aktivitas latar belakang
+allow_bg_act,Agar Anda dapat menggunakan Pengelola Baterai tanpa batasan tanpa ditutup secara tidak sengaja oleh sistem operasi, Anda mungkin harus menonaktifkan fungsi khusus untuk manajemen baterai dan penggunaan baterai di pengaturan. Karena berbagai pabrikan berbeda dalam penunjukan opsi ini tergantung pada sistem operasi yang digunakan. Di area Informasi Aplikasi, di bawah Tidur atau Baterai, pilih Tanpa Batasan atau Izinkan Aktivitas Latar Belakang.
+dev_usage,Penggunaan perangkat
+dep_sleep,Tidur nyenyak adalah keadaan di mana perangkat Anda menggunakan baterai paling sedikit. Durasi tidur nyenyak memiliki efek positif pada penghematan energi. Tidur nyenyak dapat terganggu oleh tugas latar belakang, yang menyebabkan baterai lebih cepat habis. Dalam hal ini, mulai ulang perangkat Anda.
+title_bat_temp,Suhu baterai
+bat_tempp,Suhu baterai adalah salah satu faktor terpenting. Jika baterai disimpan dalam bentuk gel pada suhu tinggi, hal ini akan memengaruhi masa pakai dan kinerja baterai. Jika suhu naik, struktur internal baterai bisa rusak.
+rdc_brightness,Kurangi kecerahan layar
+display_explain,Layar adalah salah satu komponen yang menghabiskan sebagian besar energi. Mengurangi kecerahan maksimum membantu mengurangi konsumsi keseluruhan dan mencapai penghematan yang nyata. Sebelum mengurangi kecerahan, nonaktifkan kecerahan otomatis agar kecerahan tidak diubah secara tidak perlu.
+tst_charge,Pengisi daya uji
+best_way_test,Cara terbaik untuk menguji pengisi daya dan kabel adalah dengan memeriksa kecepatan pengisian daya dengan layar mati. Kecepatan pengisian daya saat layar menyala bukanlah tolok ukur yang baik karena ponsel Anda mengonsumsi daya yang menyebabkan fluktuasi. Colokkan pengisi daya, matikan layar selama beberapa menit, lalu periksa arus pengisian daya maksimum.
+wait_title,Menunggu
+rfsh_rate,Tingkat penyegaran
+low_sizty,Menurunkan kecepatan refresh ke 60 Hz meningkatkan masa pakai baterai.
+drk_mode,Mode Gelap
+acti_dark_mode,Aktifkan Mode Gelap, dalam Mode Gelap lebih sedikit konsumsi daya
+actz,Mengaktifkan
+poz,Kekuasaan
+minz,Minimum
+avgo,Rata-rata
+mixi1,Maksimum
+msg_dis,Pesan akan hilang setelah 24 jam jika ada cukup data untuk menampilkan diagram secara lengkap.
+no_enough,Tidak cukup data untuk ditampilkan
+log_graph,Dalam beberapa jam Anda akan melihat grafik di sini yang memungkinkan Anda memeriksa suhu baterai, voltase, arus listrik, dan level selama 24 jam terakhir.
+week,pekan
+buy_it,Membeli
+one_pur,Biaya satu kali sebesar
+refun_pur,pembelian dapat dikembalikan dalam waktu 2 jam.
+each_month,Langganan diperbarui secara otomatis setiap bulan dan terus dikenakan biaya per bulan. Langganan dapat dibatalkan kapan saja.
+mng_subs,mengelola langganan
+subsci,langganan
+will_cost_week,Langganan diperbarui secara otomatis setiap minggu dan terus dikenakan biaya per minggu. Langganan dapat dibatalkan kapan saja.
+lfllong,kekal
+mthly,bulanan
+wkly,Mingguan
+hoto,Panas
+prm_ben_title,Manfaat premi
+sync_title,Sinkronkan
+dis_sync_inc,Menonaktifkan sinkronisasi akan meningkatkan masa pakai baterai dengan tidak menyinkronkan layanan di latar belakang
+time_out,Waktu habis
+dec_extend,Mengurangi waktu sebelum layar mati akan memperpanjang masa pakai baterai
+u_end_opti,Yakin ingin mengakhiri proses pengoptimalan?
+no_why_perm,Tidak ada izin
+bright_exp,Pengelola Baterai memerlukan izin Ubah pengaturan sistem untuk mengurangi kecerahan layar atau mematikan Bluetooth.
+tg_title,Bergabunglah dengan saluran Telegram!
+tg_text,Ikuti terus pembaruan aplikasi, dapatkan build awal, dan bantu uji fitur baru. Sarankan ide Anda, ajukan pertanyaan, dan dapatkan jawaban lebih cepat
+join_tg,Ikuti
+curr_consumption,konsumsi saat ini
+scrn_onn,layar aktif
+srcn_off,layar mati
+mob_charg,Mengisi daya
+discha,Pengosongan
+activea,Aktif
+slpmode,Mode tidur
+chagingspeed,Kecepatan Pengisian Saat Ini
+dta_proxt,Perlindungan data
+governs,Kebijakan privasi ini mengatur penggunaan Anda atas aplikasi perangkat lunak Battery Manager untuk perangkat seluler yang dibuat oleh Baxolino.
+info_u_provide,Informasi yang diberikan oleh pengguna
+no_pass_per,Kami tidak memberikan data pribadi kepada pihak ketiga. Saat Anda mengirim email kepada kami, kami memiliki alamat email Anda, tetapi kami hanya menggunakannya untuk membantu Anda dengan aplikasi kami.
+info_auto_coll,Informasi dikumpulkan secara otomatis
+exp_admob_use,Kami menggunakan Google Admob untuk menayangkan iklan. Penggunaan layanan ini tunduk pada ketentuan perlindungan data Google di https://www.google.com/policies/privacy/.
+we_real_time,Apakah Pengelola Baterai mengumpulkan informasi lokasi real-time yang akurat dari perangkat?
+exp_loc_perm_man,Battery Manger hanya memeriksa apakah lokasi diaktifkan atau dinonaktifkan, tetapi tidak mengumpulkan informasi akurat tentang lokasi perangkat seluler Anda. Fungsi berbasis lokasi tersebut diatur secara default. Anda dapat menonaktifkan atau mengaktifkan kembali fungsi tersebut di pengaturan perangkat Anda masing-masing. Sebelum atau sesudah menginstal aplikasi, Anda akan ditanya - tergantung pada perangkat - apakah Anda lebih suka menonaktifkan atau mengaktifkan fungsi ini. Kami hanya dapat mengumpulkan data tentang lokasi Anda jika Anda mengaktifkan layanan lokasi tersebut.
+chng,Perubahan
+pri_update_exp,Kebijakan privasi ini dapat diperbarui dari waktu ke waktu dengan alasan apapun. Kami akan memberi tahu Anda tentang perubahan kebijakan privasi kami dengan memposting kebijakan privasi baru di alamat web ini dan memberi tahu Anda melalui pesan di aplikasi. Disarankan agar Anda secara teratur berkonsultasi dengan Kebijakan Privasi ini untuk perubahan, karena penggunaan yang berkelanjutan dianggap menyetujui semua perubahan. Anda dapat meninjau riwayat kebijakan ini di situs web ini.
+contct,Kontak
+any_que,Jika Anda memiliki pertanyaan tentang perlindungan data saat menggunakan aplikasi atau memiliki pertanyaan tentang praktik kami, silakan kirim email ke baxolino.de@gmail.com
+mem_opti,Pengelola Baterai memerlukan akses "memori" agar aplikasi dapat dipindai dan dioptimalkan. Anda dapat menonaktifkan atau mengaktifkan fungsi tersebut di pengaturan perangkat Anda masing-masing. Sebelum atau sesudah menginstal aplikasi, Anda akan ditanya - tergantung pada perangkat - apakah Anda lebih memilih untuk menonaktifkan atau mengaktifkan fungsi ini.
+storg,Penyimpanan
+ble_set_acc,blue_set_perm,Battery Manager memerlukan akses "Bluetooth setting access" agar bisa dicek apakah Bluetooth sudah aktif atau nonaktif. Dan untuk mengaktifkan atau menonaktifkan Bluetooth.
+ble_title,Bluetooth
+needz_del,Pengelola Baterai memerlukan akses "Permintaan penghapusan paket" untuk memulai pencopotan aplikasi. Aplikasi hanya akan dihapus instalasinya jika Anda mengizinkannya secara eksplisit.
+deletion_pkg,Permintaan penghapusan paket
+need_adnd,Pengelola Baterai memerlukan akses "Jangan Ganggu" untuk mengaktifkan atau menonaktifkan mode Jangan Ganggu.
+adnd,Akses Jangan Ganggu
+need_wlan_acc,Pengelola Baterai memerlukan akses ke "Dapatkan Koneksi WLAN" agar Pengelola Baterai dapat memeriksa apakah WLAN diaktifkan atau dinonaktifkan. Dan untuk mengaktifkan atau menonaktifkan WLAN.
+wln_conn,Dapatkan koneksi WLAN
+shop_bill_exp,Saat Anda berbelanja melalui Penagihan Dalam Aplikasi Google Play, Google memberi kami negara tempat tinggal Anda dan terkadang negara bagian, kota, dan kode pos, tetapi tidak pernah alamat lengkapnya. Kami menggunakan informasi ini untuk mematuhi peraturan pajak dan akuntansi.
+pri_date,Pada 02/21/2021
+how_to_stop,Anda dapat menghentikan seluruh kumpulan informasi oleh aplikasi hanya dengan mencopot pemasangan aplikasi. Anda dapat menggunakan proses pencopotan pemasangan standar yang tersedia sebagai bagian dari perangkat seluler Anda atau melalui pasar atau jaringan untuk aplikasi seluler.
+opt_out,Apa saja hak memilih keluar saya?
+ur_permission,izin Mu
+accept_privacy,Dengan menggunakan aplikasi, Anda menyetujui pemrosesan data Anda oleh kami sebagaimana diatur dalam kebijakan privasi ini dan sebagaimana diubah oleh kami.

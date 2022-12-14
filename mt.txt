@@ -1,0 +1,347 @@
+title,Battery Manager Lite huwa differenti
+extend_life,L-aħjar mod biex testendi l-ħajja tal-batterija u żżommok b'saħħtu huwa bbażat fuq l-esperjenza u r-riċerka xjentifika.
+measured,B'mod trasparenti nuruk biss id-dejta mkejla fil-fatt u kif tiġi kkalkulata.
+healthy,Żomm il-batterija tiegħek b'saħħitha
+double_battery,Irdoppja l-ħajja tal-batterija tiegħek billi ma tiċċarġjax kompletament il-batterija tiegħek. Ix-xjentisti wrew dan fir-riċerka tagħhom.
+charge_limit,Bl-użu tan-notifika tal-limitu ta 'ċarġ tagħna, tintbagħat notifika meta l-batterija tilħaq limitu definit mill-utent.
+smart,Jidher aktar intelliġenti kuljum
+analyze,Iktar ma tuża Battery Manager Lite, aħjar se naslu biex janalizzaw il-prestazzjoni tal-batterija tiegħek.
+update_every_time,Il-kejl tal-ħajja tal-batterija li jifdal jiġi aġġornat kull darba li tuża jew tiċċarġja t-tagħmir tiegħek.
+runtime,Skopri l-ħin attwali tal-batterija tiegħek
+discharge_cycle,Kull darba li t-telefon tiegħek jgħaddi minn ċiklu ta 'skarika, tista' titkejjel stima preċiża tal-ħin ta 'tħaddim tiegħu.
+accurate_life,Uża Battery Manager Lite biex tkejjel il-ħajja preċiża tal-batterija.
+no_exit,Toħroġx Battery Manager Lite!
+bg_require,Battery Manager Lite jeħtieġ servizz fl-isfond biex jiġbor l-istatistika tal-batterija u jkejjel il-ħin tal-ħlas u l-ħatt tal-batterija. It-tagħmir tiegħek x'aktarx iwaqqaf is-servizz jew ma jħallihx jaħdem meta l-app tkun magħluqa. Biex jiġi evitat dan, għandna soluzzjoni tajba għalik. Sempliċement ikklikkja fuq il-link.
+man,Manwal
+cali,Kalibrazzjoni
+polarity,F'dan il-pass, l-app tiskopri l-polarità tal-iċċarġjar u l-kapaċità tad-disinn tal-batterija tiegħek.
+disch,Kwittanza
+ch_pol,Polarità tal-iċċarġjar
+power_meter,Miter tal-qawwa
+unit_mesure,Unità ta' kejl
+capacity,Kapaċità tal-batterija
+wrong,Mhux sew?
+calib,Ikkalibra
+ye,Iva
+no,Nru
+neg,Negattiv
+pos,Pożittiv
+lunch,Tnedija App
+manufac,Kapaċità skond il-manifattur
+design_des,Il-kapaċità tad-disinn hija l-kapaċità attwali tal-batterija, imkejla f'mAh. Peress li m'hemm l-ebda mod uffiċjali biex tiġi ddeterminata l-kapaċità, il-valur ritornat jista 'jkun ħażin.
+correct_it,Jekk il-kapaċità murija mhix korretta, jekk jogħġbok ikkoreġiha.
+cancel,Ikkanċella
+ok,Okay
+runtime,Runtime tal-batterija
+wait,stennija
+per_hr,Konsum tal-batterija fis-siegħa
+life_for,Ħajja tal-batterija għal
+battery_cond,Kondizzjoni tal-batterija
+bat_info,Informazzjoni dwar il-batterija
+bat_cap,Kapaċità tal-batterija
+bat_volt,Vultaġġ tal-batterija
+bat_cur,Kurrent tal-batterija
+unit_mes,Unità ta' kejl
+done,Magħmul
+c_bat_temp,Temperatura kurrenti tal-batterija
+min_bat_tem,Temperatura minima tal-batterija
+mx_bat_tem,Temperatura massima tal-batterija
+avg_bat_tem,Temperatura medja tal-batterija
+dig_last,L-aħħar dijanjosi qabel
+rem_time,Ħin li Fadal
+volt,vultaġġ
+curr,Kurrenti
+status,Status
+run_time,Ħin tal-ġiri
+currently,Bħalissa
+avg,Medja
+minmal,Minimi
+maximal,Massimu
+tool,Għodda
+rem_apps,Iddiżinstalla l-apps li m'għadx tuża biex tevita li l-apps jaħdmu bla bżonn u jbattu l-batterija tiegħek
+uninst_apps,Iddiżinstalla l-Apps
+stat,Ibda
+act_eng_save,Attiva l-modalità li tiffranka l-enerġija biex tnaqqas il-konsum tal-batterija
+pow_save,Modalità iffrankar tal-enerġija
+tempe,Temperatura
+heal,Saħħa
+tips,Żomm il-batterija tiegħek f'kundizzjoni tajba bi tips u tricks.
+recomm,Rakkomandazzjonijiet
+prem,Premium
+more_func,Aktar funzjonijiet għalik. Ikseb premium, ikseb aktar.
+more,Aktar
+ur_cond_bat,Il-kundizzjoni tal-batterija hija
+ur_bat_life,Il-ħajja tal-batterija tiegħek hija
+ur_bat_temp,It-temperatura tal-batterija tiegħek hija
+wow,Eċċellenti
+normal,Normali
+poor,Fqir
+days,Jiem
+mins,Minuti
+hrs,Sigħat
+chging,Iċċarġjar
+ful,Sħiħ
+dis_chrg,Ħatt
+unkn,Mhux magħruf
+too_lit,Ftit wisq Data tal-Batterija
+car_any,Wettaq xorta waħda
+endz_,Tmiem
+dig_any,Sabiex tikseb riżultati dijanjostiċi aħjar, l-app jeħtieġ li tanalizza l-batterija tiegħek fl-isfond. Jekk jogħġbok ibda d-dijanjosi wara 24 siegħa
+end_dig,Tmiem id-dijanjosi
+quit_dig,Tassew Nieqaf Dijanjosi
+batty_temp,Temperatura tal-batterija
+akku_manager,Akku Manager
+u_agree,Bi "START" inti taqbel mar-regolamenti tal-protezzjoni tad-data
+elemn_opti,L-elementi jistgħu jiġu ottimizzati
+looks_good,Kollox jidher tajjeb
+optimize_,Ottimizza
+toolz_,Għodda
+akku_check,Akku Iċċekkja
+ctrl_load,Tagħbija kkontrollata
+mng_apps,Immaniġġja l-apps
+infosm,Informazzjoni
+tenzion,tensjoni
+electy,elettriku
+lvl,Livell
+akku_man_premium,Akku Manager Premium
+premimum_highlight,Uża l-Maniġer tal-Batterija kompletament mingħajr reklamar u għandek aċċess għall-personalizzazzjoni estensiva tal-interface tal-utent.
+design,Disinn
+subjs,suġġetti
+genrally,Ġeneralment
+temp_unit,Unità tat-temperatura
+oth_apps,Apps oħra
+dat_protect,Protezzjoni tad-data
+thx_akku,Grazzi talli appoġġajt lil Akku Manager max-xiri tal-verżjoni premium.
+user_got_pre,Issa għandek aċċess għal customization estensiv tal-user interface u l-użu mingħajr reklamar.
+exp_more,Tista' tistenna aktar karatteristiċi f'aġġornamenti futuri
+ap_optimiz,Ottimizzazzjoni tal-app
+sys_bat_usage,Konsum tal-batterija tas-sistema
+bat_usage_det,Dettalji dwar l-użu tal-batterija
+end_optiz,Tmiem l-ottimizzazzjoni
+abort,Aborta
+break_up,ikissru
+scn,biex tiskennja
+scn_bgh,Luminożità tal-iskrin
+dact_wlan,Iddiżattiva WLAN
+dact_save_batt,Iddiżattiva biex tiffranka l-batterija
+dact,Iddiżattiva
+dact_ble,Iddiżattiva l-bluetooth
+red_brigh,Naqqas il-luminożità
+bright_txt,Naqqas il-luminożità tal-wiri biex tiffranka l-batterija
+to_reduce,Tnaqqas
+dact_gps,Iddiżattiva l-GPS
+appz_optimz,Apps ottimizzati
+start_bat_check_det,Ibda kontroll dettaljat tal-batterija biex tkun dejjem fuq in-naħa sigura
+act_eng_save,Attiva l-mod li tiffranka l-enerġija biex tnaqqas il-konsum tal-batterija
+remove_useless,Iddiżinstalla apps li m'għadhomx jintużaw
+premium,Premium
+clear_mem,Naddaf il-memorja
+clear_mem_des,Sabiex l-ismartphone tiegħek jaħdem malajr u bla xkiel.
+clenaup,Naddaf
+rat,klassifikazzjoni
+rat_free,Rata Battery Manager b'xejn
+sendz,Ibgħat
+elmn_found,Elementi misjuba
+drumz,Drums
+status,Status
+end_akk_check,Tmiem il-kontroll tal-batterija
+bat_detlz,Dettalji tal-batterija
+temp_checked,It-temperatura hija kkontrollata
+cond_checked,Il-kundizzjoni tal-batterija hija kkontrollata
+checkz_start,Il-kontroll tal-batterija jibda
+plug_in,Ipplaggjat
+techz,Teknoloġija
+coldz,Kesħa
+until,Sakemm
+well,Ukoll
+ovr_heat,Is-sħana żejda
+ovr_load,Tagħbija żejda
+renam,isem ġdid
+not_def,mhux definit
+chrgz,Ħlas
+full,Sħiħ
+unloadz,Ħatt
+not_charge_unkn,mhux iċċarġjat jew mhux magħruf
+usb,USB
+charger,ċarġer
+wless,bla wajers
+not_at_al,xejn
+uninstall,Iddiżinstalla
+update,Biex taġġorna
+setting,Settings
+app,Apps
+not_found,App ma nstabitx
+search,Fittex apps
+version_code,Kodiċi tal-Verżjoni
+api_level,Livell API
+app_version,Verżjoni tal-App
+authorization,awtorizzazzjoni
+open,li tiftaħ
+play_store,Play Store
+control,kontroll
+systemstandart,Systemstandard
+white,Abjad
+dark,Dlam
+ocean,Oċean
+black,Iswed
+dark_blue,Blu Skur
+excellent,Eċċellenti
+bad,Ħażin
+battery_bad,Il-batterija hija kemmxejn bil-ħsara
+very_bad,Hazin hafna
+battery_damaged,Il-batterija hija bil-ħsara
+custom_mode,Modalità Custom
+brightness,Luminożità
+automatic_brightness,Luminożità Awtomatika
+normal,Normali
+sound_modus,Modus tal-Ħoss
+tone_work,Kollha Tones Xogħol
+mute,Mute
+call_note_mute,Is-sejħiet u n-notifiki huma siekta
+not_bother,Tiddejjaqx
+tones_vibration_mute,Itfi t-tonijiet u l-vibrazzjonijiet, ħlief għat-tonijiet tal-allarm
+sound,Ħsejjes
+music,mużika
+notification,Notifika
+alarm,Allarm
+ultra_saving,Mod iffrankar ta 'enerġija ultra
+edit,Biex teditja
+disable_ultra_saving,Iddiżattiva l-Modalità ta' Iffrankar tal-Enerġija Ultra
+min_remaining,min fadal
+hours,sigħat
+activted_ultra_saving,Mod iffrankar ta 'enerġija ultra huwa attivat
+charged_in,iċċarġjat fi
+min,min
+limit_power,Limitu l-konsum tal-enerġija
+reduce_screen,Naqqas il-luminożità tal-iskrin
+restrict_bg_act_explain,Irrestrinġi l-attivitajiet fl-isfond
+volatge_check,Il-vultaġġ huwa ċċekkjat
+software_optimized,Is-softwer huwa ottimizzat
+connect_charger,Qabbad iċ-ċarġer
+charger_removed,Il-ċarġer jista 'jitneħħa
+power_consump_title,Konsum tad-dawl
+srcn_bg_title,Luminożità tal-iskrin
+bg_al_activities,Attivitajiet ta' sfond
+sftware,Software
+get_primium,Jekk tixtri l-verżjoni premium, ikollok il-funzjonijiet attwali kollha kif ukoll il-funzjonijiet ġodda kollha fil-futur.
+cuztomize_face,Personalizzazzjoni tal-interface tal-utent
+comp_scheme,Ikkomponi l-iskema tal-kulur tal-Maniġer tal-Batterija tiegħek minn varjetà ta 'temi.
+bat_check_detail,Kontroll dettaljat tal-batterija
+check_cond_test,Uża l-Maniġer tal-Batterija biex tiċċekkja l-kundizzjoni tal-batterija tiegħek biex tkun dejjem fuq in-naħa sigura.
+no_ads_yo,Ebda reklamar
+use_explain_noads,Uża Battery Manager mingħajr ebda reklamar
+act_energy_save,Attiva l-modalità li tiffranka l-enerġija ultra biex iżżid il-ħajja tal-batterija f'emerġenza.
+buy_title,Ixtri Premium
+loc_title,Post
+cap_title,kapaċità
+cap_remain,Kapaċità li fadal
+sleepy,Irqad
+sek,Sekondi
+sing_min,Minuta
+miniotes,Minuti
+finish,Lest
+mobi_data,data mobbli
+plz_rate,Jekk jogħġbok rata Battery Manager fil-Play Store
+ur_data_cus,Nistgħu nkomplu nużaw id-dejta tiegħek biex nippersonalizzaw ir-reklami għalik?
+in_slep_mode,Fil-modalità sleep
+in_use,Fl-użu
+with_curr_pow,Bil-konsum tal-enerġija kurrenti
+rem_bat_life,Ħajja tal-batterija li fadal
+qck_acc,Aċċess malajr
+notif_txt,notifika
+notif_at,Avża fi
+chg_curr,Kurrent tal-iċċarġjar
+charge_perm,Prestazzjoni tal-iċċarġjar
+maxi_charge_per,Prestazzjoni massima tal-iċċarġjar
+enb_notif,Ippermetti n-notifika
+perm_send_notif,Il-Maniġer tal-Batterija jeħtieġ permess biex jibgħat notifika, għandu jiġi attivat fis-settings tal-apparat.
+to_set,Għas-settings
+title_autost,Attiva l-Autostart
+auto_explain,Il-Maniġer tal-batterija jeħtieġ permess biex jibqa' attivat fl-isfond sabiex jistaqsi l-istatus tal-batterija u jibgħat notifika.
+sync_auto,Issinkronizza awtomatikament
+dis_auto_sync,Id-diżattivazzjoni tas-sinkronizzazzjoni awtomatika tnaqqas b'mod sinifikanti l-wakelocks. Madankollu, xi funzjonijiet bħar-riċeviment tal-posta elettronika se jintilfu.
+chg_lim,Limitu ta' Ċarġ
+avoid_ful_explain,Jekk tiċċarġja l-batterija tiegħek sal-massimu jew tiċċarġha sakemm tintefa, il-kundizzjoni u l-ħajja tas-servizz tal-batterija titnaqqas. F'dan li ġej tista' tissettja l-istatus ta' ċarġ jew skariku minimu u massimu tal-batterija u tkun notifikat kull darba li jintlaħaq il-valur tal-limitu. Evita waħda kompletament iċċarġja u skarika l-batterija tiegħek u testendi l-ħajja tal-batterija.
+rec_notif,Mhux irċeviet notifika?
+title_allow_bg_act,Ħalli attività fl-isfond
+allow_bg_act,Sabiex tkun tista' tuża l-Maniġer tal-Batterija mingħajr restrizzjonijiet mingħajr ma jingħalaq involontarjament mis-sistema operattiva, jista' jkollok itfi funzjonijiet speċjali għall-ġestjoni tal-batterija u l-użu tal-batterija fis-settings. Minħabba li d-diversi manifatturi jvarjaw fid-deżinjazzjoni ta 'dawn l-għażliet skont is-sistema operattiva użata. Fil-qasam tal-Informazzjoni tal-App, taħt Sleep jew Battery, agħżel Ebda Restrizzjonijiet jew Ħalli Attività Sfond.
+dev_usage,Użu tal-apparat
+dep_sleep,Irqad fil-fond huwa stat li fih it-tagħmir tiegħek qed juża l-inqas ammont ta 'batterija. It-tul ta 'rqad fil-fond għandu effett pożittiv fuq l-iffrankar tal-enerġija. L-irqad fil-fond jista 'jiġi interrott minn ħidmiet fl-isfond, li jikkawża li l-batterija tiskarika aktar malajr. F'dan il-każ, ibda mill-ġdid it-tagħmir tiegħek.
+title_bat_temp,Temperatura tal-batterija
+bat_tempp,It-temperatura tal-batterija hija waħda mill-aktar fatturi importanti. Jekk il-batterija tinżamm ġel f'temperaturi għoljin, dan jaffettwa kemm il-ħajja tas-servizz kif ukoll il-prestazzjoni tal-batterija. Jekk it-temperatura togħla, l-istruttura interna tal-batterija tista 'tiġi mħassra.
+rdc_brightness,Naqqas il-luminożità tal-iskrin
+display_explain,Il-wiri huwa wieħed mill-komponenti li jikkonsma l-biċċa l-kbira tal-enerġija. It-tnaqqis tal-luminożità massima jgħin inaqqas il-konsum ġenerali u jinkiseb iffrankar notevoli. Qabel ma tnaqqas il-luminożità, iddiżattiva l-luminożità awtomatika sabiex il-luminożità ma tinbidelx bla bżonn.
+tst_charge,Ċarġer tal-prova
+best_way_test,L-aħjar mod biex tittestja l-ċarġer u l-kejbil huwa billi tiċċekkja l-veloċità tal-iċċarġjar bl-iskrin mitfi. Il-veloċità tal-iċċarġjar meta l-iskrin ikun mixgħul mhix punt ta 'referenza tajjeb minħabba li t-telefon tiegħek qed jikkonsma l-enerġija, li tikkawża varjazzjonijiet. Ipplaggja l-ċarġer, itfi l-iskrin għal ftit minuti, u mbagħad iċċekkja l-kurrent massimu ta 'ċarġ.
+wait_title,Stennija
+rfsh_rate,Rata ta' aġġornament
+low_sizty,It-tnaqqis tar-rata ta 'aġġornament għal 60 Hz itejjeb il-ħajja tal-batterija.
+drk_mode,Modalità Dlam
+acti_dark_mode,Attiva l-Modalità Skur, fil-Modalità Skura inqas enerġija kkunsmata
+actz,Attiva
+poz,Qawwa
+minz,Minimu
+avgo,Medja
+mixi1,Massimu
+msg_dis,Il-messaġġ jisparixxi wara 24 siegħa jekk ikun hemm biżżejjed dejta biex turi d-dijagramma kollha.
+no_enough,Mhux biżżejjed dejta biex turi
+log_graph,Fi ftit sigħat tara grafika hawn li tippermettilek tiċċekkja t-temperatura, il-vultaġġ, l-amperaġġ u l-livell tal-batterija matul l-aħħar 24 siegħa.
+week,ġimgħa
+buy_it,Ixtri
+one_pur,Ħlas ta’ darba ta’
+refun_pur,ix-xiri jista 'jiġi rimborżat fi żmien sagħtejn.
+each_month,L-abbonament jiġġedded awtomatikament kull xahar u jkompli jiswa kull xahar. L-abbonament jista' jiġi kkanċellat fi kwalunkwe ħin.
+mng_subs,jimmaniġġja l-abbonament
+subsci,abbona
+will_cost_week,L-abbonament jiġġedded awtomatikament kull ġimgħa u jkompli jiswa fil-ġimgħa. L-abbonament jista' jiġi kkanċellat fi kwalunkwe ħin.
+lfllong,tul il-ħajja
+mthly,kull xahar
+wkly,Kull ġimgħa
+hoto,Hot
+prm_ben_title,Benefiċċji premium
+sync_title,Issinkronizza
+dis_sync_inc,Id-diżattivazzjoni tas-sinkronizzazzjoni żżid il-ħajja tal-batterija billi ma tissinkronizzax is-servizzi fl-isfond
+time_out,Spiċċa l-ħin
+dec_extend,It-tnaqqis tal-ħin qabel ma l-wiri jintefa testendi l-ħajja tal-batterija
+u_end_opti,Int żgur li trid ittemm il-proċess ta 'ottimizzazzjoni?
+no_why_perm,Ebda permess
+bright_exp,Il-Maniġer tal-Batterija jeħtieġ permess Ibdel is-settings tas-sistema biex tnaqqas il-luminożità tal-iskrin jew itfi l-Bluetooth.
+tg_title,Ingħaqad mal-kanal Telegram!
+tg_text,Ibqa' aġġornat bl-aġġornamenti tal-app, ikseb bini bikri, u għin biex tittestja karatteristiċi ġodda. Issuġġerixxi l-ideat tiegħek, staqsi mistoqsijiet u tikseb tweġibiet aktar malajr
+join_tg,jingħaqdu
+curr_consumption,konsum kurrenti
+scrn_onn,iskrin mixgħul
+srcn_off,l-iskrin mitfi
+mob_charg,Iċċarġjar
+discha,Ħatt
+activea,Attiva
+slpmode,Modalità sleep
+chagingspeed,Veloċità tal-Iċċarġjar kurrenti
+dta_proxt,Protezzjoni tad-data
+governs,Din il-politika tal-privatezza tirregola l-użu tiegħek tal-applikazzjoni tas-software Battery Manager għal apparat mobbli maħluqa minn Baxolino.
+info_u_provide,Informazzjoni pprovduta mill-utent
+no_pass_per,Aħna ma ngħaddux data personali lil partijiet terzi. Meta tibgħatilna email, għandna l-indirizz elettroniku tiegħek, iżda nużawh biss biex ngħinuk bl-apps tagħna.
+info_auto_coll,Informazzjoni miġbura awtomatikament
+exp_admob_use,Aħna nużaw Google Admob biex inservu reklami. L-użu ta’ dawn is-servizzi huwa suġġett għad-dispożizzjonijiet tal-protezzjoni tad-dejta ta’ Google fuq https://www.google.com/policies/privacy/.
+we_real_time,Il- Battery Manager jiġbor informazzjoni preċiża dwar il-post f'ħin reali mill-apparat?
+exp_loc_perm_man,Battery Manger jiċċekkja biss jekk il-post huwiex attivat jew diżattivat, iżda ma jiġbor ebda informazzjoni preċiża dwar il-post tat-tagħmir mobbli tiegħek. Funzjonijiet bħal dawn ibbażati fuq il-post huma stabbiliti b'mod awtomatiku. Tista' tiddiżattiva jew terġa' tattiva dawn il-funzjonijiet fis-settings tat-tagħmir rispettiv tiegħek. Qabel jew wara l-installazzjoni tal-apps, inti tiġi mistoqsi - skont l-apparat - jekk tippreferix tiddiżattiva jew tattiva dawn il-funzjonijiet. Nistgħu niġbru data dwar il-lokalità tiegħek biss jekk tattiva servizzi ta' lokalità bħal dawn.
+chng,Bidliet
+pri_update_exp,Din il-politika ta’ privatezza tista’ tiġi aġġornata minn żmien għal żmien għal kwalunkwe raġuni. Aħna ninfurmawk dwar bidliet fil-politika tal-privatezza tagħna billi nippubblikaw il-politika tal-privatezza l-ġdida fuq dan l-indirizz tal-web u ninnotifikawk permezz ta’ messaġġ fl-app. Huwa rakkomandat li tikkonsulta regolarment din il-Politika ta' Privatezza għal bidliet, peress li l-użu kontinwu jitqies bħala approvazzjoni tal-bidliet kollha. Tista' tirrevedi l-istorja ta' din il-politika fuq din il-websajt.
+contct,Kuntatt
+any_que,Jekk għandek xi mistoqsijiet dwar il-protezzjoni tad-dejta waqt li tuża l-applikazzjoni jew għandek mistoqsijiet dwar il-prattiki tagħna, jekk jogħġbok ibgħat email lil baxolino.de@gmail.com
+mem_opti,Battery Manager jeħtieġ l-aċċess "memorja" sabiex apps jistgħu jiġu skannjati u ottimizzati. Tista' tiddiżattiva jew tattiva dawn il-funzjonijiet fis-settings tat-tagħmir rispettiv tiegħek. Qabel jew wara l-installazzjoni tal-app, inti tiġi mistoqsi - skont l-apparat - jekk tippreferix tiddiżattiva jew tattiva dawn il-funzjonijiet.
+storg,Ħażna
+ble_set_acc,blue_set_perm,Maniġer tal-batterija jeħtieġ l-aċċess "Aċċess għall-issettjar tal-Bluetooth" sabiex ikun jista' jiġi ċċekkjat jekk il-Bluetooth huwiex attivat jew diżattivat. U biex tattiva jew tiddiżattiva l-Bluetooth.
+ble_title,Bluetooth
+needz_del,Battery Manager jeħtieġ l-aċċess "Talba tħassir ta 'pakketti" biex tibda diżinstallazzjoni ta' app. L-app tiġi diżinstallata biss jekk tippermettiha b'mod espliċitu.
+deletion_pkg,Itlob it-tħassir ta' pakketti
+need_adnd,Il-Maniġer tal-Batterija jeħtieġ aċċess "Tfixkilx" biex jattiva jew tiddiżattiva l-modalità Tfixkilx.
+adnd,Aċċess Tfixkilx
+need_wlan_acc,Il-Maniġer tal-Batterija jeħtieġ aċċess għal "Ikseb Konnessjonijiet WLAN" sabiex il-Maniġer tal-Batterija jkun jista' jiċċekkja jekk il-WLAN huwiex attivat jew diżattivat. U biex tattiva jew tiddiżattiva WLAN.
+wln_conn,Ikseb konnessjonijiet WLAN
+shop_bill_exp,Meta tixtri permezz ta' Google Play In App Billing, Google tagħtina l-pajjiż ta' residenza tiegħek u xi drabi l-istat, il-belt u l-kodiċi zip, iżda qatt l-indirizz sħiħ. Aħna nużaw din l-informazzjoni biex inħarsu r-regolamenti tat-taxxa u tal-kontabilità.
+pri_date,Mill-21/02/2021
+how_to_stop,Tista 'twaqqaf il-ġbir kollu ta' informazzjoni mill-applikazzjoni sempliċement billi tneħħi l-applikazzjoni. Tista' tuża l-proċessi standard ta' uninstall disponibbli bħala parti mill-apparat mobbli tiegħek jew permezz tas-suq jew tan-netwerk għall-applikazzjonijiet mobbli.
+opt_out,X'inhuma d-drittijiet ta' opt-out tiegħi?
+ur_permission,permess tiegħek
+accept_privacy,Billi tuża l-applikazzjoni, inti tagħti l-kunsens għall-ipproċessar tagħna tad-dejta tiegħek kif stabbilit f'din il-politika ta' privatezza u kif emendata minna.

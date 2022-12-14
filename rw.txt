@@ -1,0 +1,347 @@
+title,Umuyobozi wa Bateri Lite iratandukanye
+extend_life,Inzira nziza yo kongera ubuzima bwa bateri no gukomeza kugira ubuzima bwiza ishingiye kuburambe n'ubushakashatsi bwa siyansi.
+measured,Muburyo buboneye turakwereka gusa amakuru yapimwe mubyukuri nuburyo abarwa.
+healthy,Komeza bateri yawe neza
+double_battery,Kongera ubuzima bwa bateri yawe mu kutishyuza byuzuye bateri yawe. Abahanga babigaragaje mubushakashatsi bwabo.
+charge_limit,Ukoresheje imenyekanisha ntarengwa ryishyurwa, imenyesha rizoherezwa mugihe bateri igeze kumukoresha wasobanuwe.
+smart,Igenda irushaho kugira ubwenge buri munsi
+analyze,Igihe kinini ukoresha Battery Manager Lite, nibyiza tuzabona mugusuzuma imikorere ya bateri yawe.
+update_every_time,Ibipimo byubuzima bwa bateri bisigaye bivugururwa igihe cyose ukoresheje cyangwa wishyuye igikoresho cyawe.
+runtime,Menya igihe nyacyo cya bateri yawe
+discharge_cycle,Igihe cyose terefone yawe inyuze mugihe cyo gusohora, hashobora gupimwa igereranyo nyacyo cyigihe cyacyo.
+accurate_life,Koresha Bateri Manager Lite gupima ubuzima bwa bateri neza.
+no_exit,Ntusohoke Umuyobozi wa Bateri Lite!
+bg_require,Umuyobozi wa Bateri Lite isaba serivise yinyuma yo gukusanya imibare ya bateri no gupima amafaranga ya bateri nigihe cyo gusohora. Igikoresho cyawe kirashobora guhagarika serivisi cyangwa kutayemerera gukora mugihe porogaramu ifunze. Kugira ngo wirinde ibi, dufite igisubizo cyiza kuri wewe. Kanda gusa kumurongo.
+man,Igitabo
+cali,Calibration
+polarity,Muri iyi ntambwe, porogaramu igaragaza polarite yo kwishyuza hamwe nubushobozi bwo gushushanya bwa bateri yawe.
+disch,Gusezererwa
+ch_pol,Kwishyuza polarite
+power_meter,Imetero y'amashanyarazi
+unit_mesure,Igice cyo gupima
+capacity,Ubushobozi bwa Bateri
+wrong,Ntabwo aribyo?
+calib,Hindura
+ye,Yego
+no,Oya
+neg,Ibibi
+pos,Ibyiza
+lunch,Gutangiza porogaramu
+manufac,Ubushobozi ukurikije uwabikoze
+design_des,Ubushobozi bwo gushushanya nubushobozi bwa bateri nyabwo, bupimye muri mAh. Nkuko nta buryo bwemewe bwo kumenya ubushobozi, agaciro kagarutse karashobora kwibeshya.
+correct_it,Niba ubushobozi bwerekanwe butari bwo, nyamuneka bikosore.
+cancel,Kureka
+ok,Nibyo
+runtime,Igihe cya Bateri
+wait,gutegereza
+per_hr,Gukoresha Bateri ku isaha
+life_for,Ubuzima bwa Batteri kuri
+battery_cond,Imiterere ya Bateri
+bat_info,Amakuru ya Bateri
+bat_cap,Ubushobozi bwa Bateri
+bat_volt,Umuvuduko wa Batiri
+bat_cur,Amashanyarazi
+unit_mes,Igice cyo gupima
+done,Byakozwe
+c_bat_temp,Ubushyuhe bwa Batiri
+min_bat_tem,Ubushyuhe bwa Batiri
+mx_bat_tem,Ubushyuhe ntarengwa bwa batiri
+avg_bat_tem,Ikigereranyo cy'ubushyuhe bwa batiri
+dig_last,Isuzuma rya nyuma mbere
+rem_time,Igihe gisigaye
+volt,Umuvuduko
+curr,Ibiriho
+status,Imiterere
+run_time,Igihe cyo kwiruka
+currently,Kugeza ubu
+avg,Impuzandengo
+minmal,Ntarengwa
+maximal,Ntarengwa
+tool,Ibikoresho
+rem_apps,Kuramo porogaramu utagikoresha kugirango ubuze porogaramu gukora bitari ngombwa no gutwara bateri yawe
+uninst_apps,Kuramo porogaramu
+stat,Tangira
+act_eng_save,Koresha uburyo bwo kuzigama ingufu kugirango ugabanye gukoresha bateri
+pow_save,Uburyo bwo kuzigama ingufu
+tempe,Ubushyuhe
+heal,Ubuzima
+tips,Komeza Bateri yawe mumeze neza hamwe ninama.
+recomm,Ibyifuzo
+prem,Premium
+more_func,Imirimo myinshi kuri wewe. Shaka premium, ubone byinshi.
+more,Ibindi
+ur_cond_bat,Imiterere ya bateri ni
+ur_bat_life,Ubuzima bwa bateri yawe ni
+ur_bat_temp,Ubushyuhe bwa Batteri ni
+wow,Cyiza
+normal,Bisanzwe
+poor,Birakabije
+days,Iminsi
+mins,Iminota
+hrs,Amasaha
+chging,Kwishyuza
+ful,Byuzuye
+dis_chrg,Gusohora
+unkn,Ntazwi
+too_lit,Umubare muto wa Data
+car_any,Kora uko byagenda kose
+endz_,Iherezo
+dig_any,Kugirango ubone ibisubizo byiza byo gusuzuma, porogaramu igomba gusesengura bateri yawe inyuma. Nyamuneka tangira kwisuzumisha nyuma yamasaha 24
+end_dig,Kurangiza gusuzuma
+quit_dig,Kureka Gusuzuma
+batty_temp,Ubushyuhe bwa Batiri
+akku_manager,Umuyobozi wa Akku
+u_agree,Hamwe na "Tangira" wemera amabwiriza yo kurinda amakuru
+elemn_opti,Ibintu birashobora gutezimbere
+looks_good,Ibintu byose bisa neza
+optimize_,Hindura neza
+toolz_,Ibikoresho
+akku_check,Akku Kugenzura
+ctrl_load,Kugenzura imizigo
+mng_apps,Gucunga porogaramu
+infosm,Amakuru
+tenzion,impagarara
+electy,amashanyarazi
+lvl,Urwego
+akku_man_premium,Umuyobozi wa Akku
+premimum_highlight,Koresha Umuyobozi wa Batteri rwose utamamaza kandi ufite uburyo bwo kwihitiramo ibintu byinshi byabakoresha.
+design,Igishushanyo
+subjs,ingingo
+genrally,Muri rusange
+temp_unit,Igice cy'ubushyuhe
+oth_apps,Izindi Porogaramu
+dat_protect,Kurinda amakuru
+thx_akku,Urakoze gushyigikira Umuyobozi wa Akku hamwe no kugura premium verisiyo.
+user_got_pre,Ubu urashobora kubona uburyo bwihariye bwo kwifashisha interineti ukoresha no gukoresha nta kwamamaza.
+exp_more,Urashobora kwitega ibintu byinshi mugihe kizaza
+ap_optimiz,Gutezimbere porogaramu
+sys_bat_usage,Gukoresha bateri ya sisitemu
+bat_usage_det,Imikoreshereze ya Batiri
+end_optiz,Kurangiza neza
+abort,Gukuramo
+break_up,gutandukana
+scn,Kuri Gusikana
+scn_bgh,Kumurika
+dact_wlan,Kuraho WLAN
+dact_save_batt,Hagarika kubika bateri
+dact,Kuraho
+dact_ble,Kuraho bluetooth
+red_brigh,Mugabanye umucyo
+bright_txt,Mugabanye urumuri rwo kwerekana kugirango ubike bateri
+to_reduce,Kugabanya
+dact_gps,Hagarika GPS
+appz_optimz,Porogaramu nziza
+start_bat_check_det,Tangira ibisobanuro birambuye bya batiri kugirango uhore kuruhande rwumutekano
+act_eng_save,Koresha uburyo bwo kuzigama ingufu kugirango ugabanye gukoresha bateri
+remove_useless,Kuramo porogaramu zitagikoreshwa
+premium,Premium
+clear_mem,Sukura kwibuka
+clear_mem_des,Kugirango terefone yawe ikore vuba kandi neza.
+clenaup,Isuku
+rat,amanota
+rat_free,Gereranya Umuyobozi wa Bateri kubuntu
+sendz,Ohereza
+elmn_found,Ibintu byabonetse
+drumz,Ingoma
+status,Imiterere
+end_akk_check,Kurangiza kugenzura bateri
+bat_detlz,Ibisobanuro bya Batiri
+temp_checked,Ubushyuhe burasuzumwa
+cond_checked,Imiterere ya bateri irasuzumwa
+checkz_start,Kugenzura bateri biratangira
+plug_in,Gucomeka
+techz,Ikoranabuhanga
+coldz,Ubukonje
+until,Kugeza
+well,Nibyiza
+ovr_heat,Ubushyuhe bukabije
+ovr_load,Kurenza urugero
+renam,ryahinduwe
+not_def,ntibisobanuwe
+chrgz,Kwishyuza
+full,Byuzuye
+unloadz,Kurekura
+not_charge_unkn,atishyuzwa cyangwa atazwi
+usb,USB
+charger,charger
+wless,umugozi
+not_at_al,ntanakimwe
+uninstall,Kuramo
+update,Kuvugurura
+setting,Igenamiterere
+app,Porogaramu
+not_found,Porogaramu ntabwo yabonetse
+search,Shakisha porogaramu
+version_code,Kode ya verisiyo
+api_level,Urwego rwa API
+app_version,Porogaramu
+authorization,uburenganzira
+open,gufungura
+play_store,Ububiko
+control,kugenzura
+systemstandart,Sisitemu
+white,Cyera
+dark,Umwijima
+ocean,Inyanja
+black,Umukara
+dark_blue,Ubururu bwijimye
+excellent,Cyiza
+bad,Nibibi
+battery_bad,Bateri yangiritse gato
+very_bad,Bibi cyane
+battery_damaged,Batare yangiritse
+custom_mode,Uburyo bwihariye
+brightness,Umucyo
+automatic_brightness,Ubwiza bwikora
+normal,Bisanzwe
+sound_modus,Ijwi
+tone_work,Indangururamajwi zose zirakora
+mute,Ikiragi
+call_note_mute,Guhamagarwa no kumenyeshwa byahinduwe
+not_bother,Ntugire ikibazo
+tones_vibration_mute,Zimya amajwi no kunyeganyega, usibye amajwi yo gutabaza
+sound,Amajwi
+music,umuziki
+notification,Kumenyesha
+alarm,Imenyesha
+ultra_saving,Uburyo bwo kuzigama ingufu zidasanzwe
+edit,Guhindura
+disable_ultra_saving,Hagarika Ultra Ingufu Zizigama
+min_remaining,min hasigaye
+hours,amasaha
+activted_ultra_saving,Ultra ingufu zo kuzigama zirakora
+charged_in,yashinjwaga
+min,min
+limit_power,Gabanya gukoresha ingufu
+reduce_screen,Mugabanye ecran ya ecran
+restrict_bg_act_explain,Gabanya ibikorwa byimbere
+volatge_check,Umuvuduko urasuzumwa
+software_optimized,Porogaramu ni nziza
+connect_charger,Huza charger
+charger_removed,Amashanyarazi arashobora gukurwaho
+power_consump_title,Gukoresha ingufu
+srcn_bg_title,Kumurika
+bg_al_activities,Ibikorwa byimbere
+sftware,Porogaramu
+get_primium,Niba uguze premium verisiyo, uzabona ibikorwa byose bigezweho kimwe nibikorwa byose bishya mugihe kizaza.
+cuztomize_face,Guhindura umukoresha
+comp_scheme,Kora Bateri ya Manager wa ibara rya gahunda kuva kubintu bitandukanye.
+bat_check_detail,Kugenzura birambuye
+check_cond_test,Koresha Batteri kugirango urebe uko bateri yawe imeze kugirango uhore kuruhande rwumutekano.
+no_ads_yo,Nta kwamamaza
+use_explain_noads,Koresha Umuyobozi wa Bateri nta kwamamaza
+act_energy_save,Koresha ultra imbaraga zo kuzigama kugirango wongere ubuzima bwa bateri mugihe cyihutirwa.
+buy_title,Gura Premium
+loc_title,Aho biherereye
+cap_title,ubushobozi
+cap_remain,Ubushobozi busigaye
+sleepy,Sinzira
+sek,Amasegonda
+sing_min,Iminota
+miniotes,Iminota
+finish,Byarangiye
+mobi_data,amakuru ya mobile
+plz_rate,Nyamuneka gereranya Umuyobozi wa Bateri mububiko bukinirwaho
+ur_data_cus,Turashobora gukomeza gukoresha amakuru yawe kugirango tumenye amatangazo yawe?
+in_slep_mode,Muburyo bwo gusinzira
+in_use,Mugukoresha
+with_curr_pow,Hamwe no gukoresha ingufu zubu
+rem_bat_life,Ubuzima bwa bateri
+qck_acc,Kubona vuba
+notif_txt,kumenyesha
+notif_at,Menyesha kuri
+chg_curr,Kwishyuza amashanyarazi
+charge_perm,Kwishyuza imikorere
+maxi_charge_per,Igikorwa cyo kwishyuza ntarengwa
+enb_notif,Gushoboza kumenyesha
+perm_send_notif,Umuyobozi wa Batteri asaba uruhushya rwo kohereza imenyesha, bigomba gukorerwa mumiterere yigikoresho.
+to_set,Kuri Igenamiterere
+title_autost,Koresha Autostart
+auto_explain,Umuyobozi wa Batteri arasaba uruhushya rwo gukomeza gukora inyuma kugirango ubaze ikibazo cya bateri no kohereza imenyesha.
+sync_auto,Guhuza mu buryo bwikora
+dis_auto_sync,Guhagarika guhuza byikora bigabanya cyane wakelock. Ariko, ibikorwa bimwe nko kwakira e-imeri bizabura.
+chg_lim,Amafaranga ntarengwa
+avoid_ful_explain,Niba wishyuye bateri yawe ntarengwa cyangwa ikayirekura kugeza izimye, imiterere nubuzima bwa bateri bizagabanuka. Mubikurikira urashobora gushiraho byibuze kandi ntarengwa byishyurwa cyangwa gusohora imiterere ya bateri kandi uzabimenyeshwa buri gihe agaciro kageze. Irinde kwishyuza byuzuye no gusohora bateri yawe kandi wongere ubuzima bwa bateri.
+rec_notif,Ntabwo wakiriwe?
+title_allow_bg_act,Emera ibikorwa byinyuma
+allow_bg_act,Kugirango ubashe gukoresha Umuyobozi wa Bateri nta mbogamizi utabanje gufungwa utabishaka na sisitemu y'imikorere, urashobora kuzimya imirimo idasanzwe yo gucunga bateri no gukoresha bateri mugenamiterere. Kuberako ababikora batandukanye batandukanye muguhitamo aya mahitamo bitewe na sisitemu y'imikorere yakoreshejwe. Mu gice cyamakuru ya porogaramu, munsi yo Gusinzira cyangwa Bateri, hitamo Ntakabuza cyangwa Emerera ibikorwa byimbere.
+dev_usage,Gukoresha ibikoresho
+dep_sleep,Gusinzira cyane ni uburyo igikoresho cyawe gikoresha bateri nkeya. Igihe cyo gusinzira cyane kigira ingaruka nziza mukuzigama ingufu. Gusinzira cyane birashobora guhagarikwa nimirimo yinyuma, bigatuma bateri isohoka vuba. Muri iki kibazo, ongera utangire igikoresho cyawe.
+title_bat_temp,Ubushyuhe bwa Batiri
+bat_tempp,Ubushyuhe bwa bateri ni kimwe mubintu byingenzi. Niba bateri ibitswe gel mubushyuhe bwinshi, ibi bigira ingaruka mubuzima bwa serivisi ndetse no mumikorere ya bateri. Niba ubushyuhe buzamutse, imiterere yimbere ya bateri irashobora kwangirika.
+rdc_brightness,Mugabanye ecran ya ecran
+display_explain,Kwerekana nikimwe mubice bitwara ingufu nyinshi. Kugabanya urumuri ntarengwa bifasha kugabanya ibyo ukoresha muri rusange no kugera ku kuzigama kugaragara. Mbere yo kugabanya umucyo, hagarika urumuri rwikora kugirango urumuri rudahinduka bitari ngombwa.
+tst_charge,Amashanyarazi
+best_way_test,Inzira nziza yo kugerageza charger na kabili nukugenzura umuvuduko wumuriro hamwe na ecran yazimye. Umuvuduko wo kwishyuza mugihe ecran iriho ntabwo ari igipimo cyiza kuko terefone yawe ikoresha imbaraga, zitera ihindagurika. Shira muri charger, uzimye ecran muminota mike, hanyuma urebe amafaranga menshi yishyurwa.
+wait_title,Gutegereza
+rfsh_rate,Kuvugurura igipimo
+low_sizty,Kugabanya igipimo cyo kugarura kuri Hz 60 bizamura ubuzima bwa bateri.
+drk_mode,Uburyo bwijimye
+acti_dark_mode,Koresha uburyo bwijimye, muburyo bwijimye imbaraga nke zikoreshwa
+actz,Kora
+poz,Imbaraga
+minz,Ntarengwa
+avgo,Impuzandengo
+mixi1,Ntarengwa
+msg_dis,Ubutumwa burazimira nyuma yamasaha 24 niba hari amakuru ahagije yo kwerekana igishushanyo cyuzuye.
+no_enough,Ntabwo amakuru ahagije yerekana
+log_graph,Mu masaha make uzabona igishushanyo hano kizagufasha kugenzura ubushyuhe bwa bateri, voltage, amperage nurwego mumasaha 24 ashize.
+week,icyumweru
+buy_it,Gura
+one_pur,Amafaranga yigihe kimwe cya
+refun_pur,kugura birashobora gusubizwa mumasaha 2.
+each_month,Kwiyandikisha auto-kuvugurura buri kwezi kandi bikomeza kugura buri kwezi. Kwiyandikisha birashobora guhagarikwa igihe icyo aricyo cyose.
+mng_subs,gucunga abiyandikisha
+subsci,kwiyandikisha
+will_cost_week,Kwiyandikisha auto-kuvugurura buri cyumweru kandi ikomeza kugura icyumweru. Kwiyandikisha birashobora guhagarikwa igihe icyo aricyo cyose.
+lfllong,ubuzima bwawe bwose
+mthly,buri kwezi
+wkly,Buri cyumweru
+hoto,Bishyushye
+prm_ben_title,Inyungu nziza
+sync_title,Guhuza
+dis_sync_inc,Guhagarika sync bizongera ubuzima bwa bateri muguhuza serivisi inyuma
+time_out,Igihe cyashize
+dec_extend,Kugabanya igihe mbere yo kuzimya byongera igihe cya bateri
+u_end_opti,Uzi neza ko ushaka kurangiza inzira nziza?
+no_why_perm,Nta ruhushya
+bright_exp,Umuyobozi wa Batteri arasaba guhindura sisitemu igenamigambi uruhushya rwo kugabanya urumuri rwa ecran cyangwa kuzimya Bluetooth.
+tg_title,Injira kumuyoboro wa Telegramu!
+tg_text,Gumana ubungubu hamwe namakuru agezweho, ubone kubaka hakiri kare, kandi ufashe kugerageza ibintu bishya. Tanga ibitekerezo byawe, baza ibibazo kandi ubone ibisubizo byihuse
+join_tg,injira
+curr_consumption,imikoreshereze ya none
+scrn_onn,Mugaragaza kuri
+srcn_off,Mugaragaza
+mob_charg,Kwishyuza
+discha,Gusohora
+activea,Bikora
+slpmode,Uburyo bwo gusinzira
+chagingspeed,Umuvuduko wo Kwishyuza
+dta_proxt,Kurinda amakuru
+governs,Iyi politiki yi banga igenga imikoreshereze ya porogaramu ya Battery Manager ya porogaramu igendanwa yakozwe na Baxolino.
+info_u_provide,Amakuru yatanzwe numukoresha
+no_pass_per,Ntabwo twohereza amakuru yihariye kubandi bantu. Iyo utwohereje imeri, dufite aderesi imeri yawe, ariko turayikoresha gusa kugirango tugufashe na porogaramu zacu.
+info_auto_coll,Amakuru yakusanyijwe mu buryo bwikora
+exp_admob_use,Dukoresha Google Admob mugutanga amatangazo. Imikoreshereze yizi serivisi ikurikiza ingingo zo kurinda amakuru ya Google kuri https://www.google.com/politiki/privacy/.
+we_real_time,Umuyobozi wa Batteri akusanya amakuru nyayo yibihe byukuri kubikoresho?
+exp_loc_perm_man,Bateri Manger igenzura gusa niba ikibanza gikora cyangwa cyahagaritswe, ariko ntikusanya amakuru nyayo yerekeye aho igikoresho cyawe kigendanwa. Ibikorwa nkibi bishingiye kubikorwa byashyizweho mbere. Urashobora guhagarika cyangwa kongera gukora iyo mikorere mugushiraho igikoresho cyawe. Mbere cyangwa nyuma yo kwinjizamo porogaramu, uzasabwa - ukurikije igikoresho - niba wifuza guhagarika cyangwa gukora iyo mirimo. Turashobora gukusanya gusa amakuru yerekeye aho uherereye niba ukora ibikorwa nkibi.
+chng,Impinduka
+pri_update_exp,Iyi politiki yi banga irashobora kuvugururwa buri gihe kubwimpamvu iyo ari yo yose. Tuzakumenyesha impinduka muri politiki y’ibanga dushyira politiki nshya y’ibanga kuri iyi aderesi y'urubuga no kukumenyesha ukoresheje ubutumwa muri porogaramu. Birasabwa ko buri gihe ugisha inama iyi Politiki Yibanga kugirango uhinduke, kuko gukomeza gukoreshwa bifatwa nkukwemeza impinduka zose. Urashobora gusubiramo amateka yiyi politiki kururu rubuga.
+contct,Twandikire
+any_que,Niba ufite ikibazo kijyanye no kurinda amakuru mugihe ukoresha porogaramu cyangwa ufite ibibazo bijyanye nibikorwa byacu, nyamuneka ohereza imeri kuri baxolino.de@gmail.com
+mem_opti,Umuyobozi wa Batteri akeneye "kwibuka" kugirango porogaramu zisikwe kandi zitezimbere. Urashobora guhagarika cyangwa gukora iyi mikorere mugushiraho igikoresho cyawe. Mbere cyangwa nyuma yo kwinjizamo porogaramu, uzasabwa - ukurikije igikoresho - niba wifuza guhagarika cyangwa gukora iyo mirimo.
+storg,Ububiko
+ble_set_acc,ubururu_set_perm, Umuyobozi wa Battery arasaba kwinjira "Bluetooth igenamigambi" kugirango isuzumwe niba Bluetooth ikora cyangwa idakora. No gukora cyangwa guhagarika Bluetooth.
+ble_title,Bluetooth
+needz_del,Umuyobozi wa Batteri arasaba kwinjira "Gusaba gusiba paki" kugirango utangire gukuramo porogaramu. Porogaramu izahagarikwa gusa niba ubyemereye neza.
+deletion_pkg,Saba gusiba paki
+need_adnd,Umuyobozi wa Bateri arasaba "Ntugahungabanye" kwinjira kugirango ushoboze cyangwa uhagarike Ntugahungabanye uburyo.
+adnd,Kwinjira Ntugahungabanye
+need_wlan_acc,Umuyobozi wa Batteri arasaba kwinjira kuri "Get WLAN Connections" kugirango Umuyobozi wa Bateri ashobore gusuzuma niba WLAN ikora cyangwa idakozwe. No gukora cyangwa guhagarika WLAN.
+wln_conn,Kubona WLAN
+shop_bill_exp,Iyo uguze ukoresheje Google Play Muri Billing, Google iduha igihugu cyawe cyo guturamo ndetse rimwe na rimwe leta, umujyi, na kode ya zip, ariko ntizigera ibarizwa byuzuye. Dukoresha aya makuru kugirango twubahirize amategeko agenga imisoro n’ibaruramari.
+pri_date,Kuva ku ya 21/2/2021
+how_to_stop,Urashobora guhagarika ikusanyamakuru ryose ryamakuru ukoresheje porogaramu gusa ukuramo porogaramu. Urashobora gukoresha uburyo busanzwe bwo gukuramo iboneka nkigice cyibikoresho byawe bigendanwa cyangwa ukoresheje isoko cyangwa umuyoboro wa porogaramu zigendanwa.
+opt_out,Ni ubuhe burenganzira mfite bwo guhitamo?
+ur_permission,uruhushya rwawe
+accept_privacy,Ukoresheje porogaramu, wemera gutunganya amakuru yawe nkuko bigaragara muri iyi politiki y’ibanga kandi nkuko twahinduwe natwe.

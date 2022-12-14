@@ -1,0 +1,347 @@
+title,Maareeyaha Battery Lite waa ka duwan yahay
+extend_life,Habka ugu wanaagsan ee lagu kordhin karo nolosha batteriga oo aad caafimaadkaaga ku ilaalin karto waxay ku salaysan tahay khibrad iyo cilmi baaris cilmiyeed.
+measured,Si hufan waxaan kaliya ku tusinaa xogta dhabta ah ee la cabiray iyo sida loo xisaabiyo.
+healthy,Ku ilaali batterigaaga mid caafimaad qaba
+double_battery,Laba jibaar nolosha batteriga adiga oo aan si buuxda u dallacin baytarigaaga. Saynis yahanadu waxay arrintan ku caddeeyeen cilmi-baadhistooda.
+charge_limit,Anaga oo adeegsanayna ogeysiiska xadka kharashka, ogeysiis ayaa la soo diri doonaa marka batteriga uu gaaro xadka isticmaale-qeexay.
+smart,Maalin walba way sii caqli badan tahay
+analyze,Inta aad isticmaalayso Maareeyaha Battery Lite, waxa sii wanaagsanaan doona falanqaynta waxqabadka batterigaaga.
+update_every_time,Cabbirka nolosha batteriga ee hadhsan waa la cusboonaysiiyaa mar kasta oo aad isticmaasho ama dalacdo qalabkaaga.
+runtime,Soo ogow wakhtiga dhabta ah ee batterigaaga
+discharge_cycle,Mar kasta oo uu talefankaagu marayo wareegga dareeraha, qiyaasta saxda ah ee wakhtiga uu ku shaqeeyo ayaa la cabbiri karaa.
+accurate_life,Isticmaal Maareeyaha Battery Lite si aad u cabbirto nolosha batteriga saxda ah.
+no_exit,Ha ka bixin Maareeyaha Battery Lite!
+bg_require,Maareeyaha Battery Lite wuxuu u baahan yahay adeeg taariikhi ah si uu u ururiyo xisaabaadka batteriga una cabbiro kharashka batteriga iyo wakhtiga sii daynta. Qalabkaagu waxay u badan tahay inuu joojiyo adeega ama aanu u oggolaan inuu shaqeeyo marka abka la xidho. Si taas looga fogaado, waxaan kuu haynaa xal wanaagsan. Kaliya dhagsii xiriirka
+man,Buugga
+cali,Calibration
+polarity,Tallaabadan, abka waxa uu ku ogaanayaa polarity-ka dallacaadda iyo awoodda naqshadaynta batterigaaga.
+disch,Soo dayn
+ch_pol,Dallacaadda polarity
+power_meter,Mitirka korontada
+unit_mesure,Cutubka cabbiraadda
+capacity,Awoodda baytari
+wrong,Sax maaha?
+calib,Calibrate
+ye,Haa
+no,Maya
+neg,xun
+pos,Wanagsan
+lunch,Fur App-ka
+manufac,Awoodda sida uu qabo soo saaraha
+design_des,Awoodda naqshadeynta waa awoodda batteriga dhabta ah, oo lagu qiyaaso mAh. Maaddaama aysan jirin si rasmi ah oo lagu ogaan karo awoodda, qiimaha la soo celiyay wuxuu noqon karaa mid khaldan.
+correct_it,Haddii awoodda la soo bandhigay aysan sax ahayn, fadlan sax.
+cancel,Jooji
+ok,Waayahay
+runtime,Wakhtiga uu shaqaynayo baytari
+wait,sugitaanka
+per_hr,Isticmaalka baytari saacaddii
+life_for,Nolosha batteriga ee
+battery_cond,Xaaladda batteriga
+bat_info,Macluumaadka batteriga
+bat_cap,Awooda batteriga
+bat_volt,danab batari
+bat_cur,Battery hadda
+unit_mes,Cutubka cabbiraadda
+done,La sameeyay
+c_bat_temp,Heerkulka baytariga hadda
+min_bat_tem,Heerkulka ugu yar ee baytariga
+mx_bat_tem,Heerkulka batteriga ugu badan
+avg_bat_tem,Celceliska heerkulka batteriga
+dig_last,Cilad-sheegiddii u dambaysay ka hor
+rem_time,Waqtiga Haray
+volt,Voltage
+curr,Hadda
+status,Xaalada
+run_time,Waqtiga orodka
+currently,Hadda
+avg,Celcelis ahaan
+minmal,Ugu yar
+maximal,Ugu badnaan
+tool,Qalab
+rem_apps,Ka saar abka aadan hadda isticmaalin si aad uga ilaaliso abka inay si aan loo baahnayn u socdaan oo ay batterigaaga u daadiyaan
+uninst_apps,Uninstall Apps
+stat,Bilow
+act_eng_save,Daar habka kaydinta tamarta si loo yareeyo isticmaalka batteriga
+pow_save,Habka kaydinta awooda
+tempe,Heerkulka
+heal,Caafimaadka
+tips,Ku ilaali baytarigaaga xaalad wanaagsan tabo iyo tabo.
+recomm,Talooyin
+prem,Premium
+more_func,Shaqooyin badan adiga. Hel premium, hel wax badan.
+more,Wax badan
+ur_cond_bat,Xaaladda batteriga waa
+ur_bat_life,Nolosha batterigaagu waa
+ur_bat_temp,Heerkulka baytarigu waa
+wow,Aad u fiican
+normal,Caadi ah
+poor,liidata
+days,Maalmo
+mins,Daqiiqado
+hrs,Saacadaha
+chging,Dallacaadda
+ful,Buuxa
+dis_chrg,Soo dayn
+unkn,Lama garanayo
+too_lit,Xogta baytari aad u yar
+car_any,Si kastaba samee
+endz_,Dhammaad
+dig_any,Si loo helo natiijooyinka ogaanshaha wanaagsan, abka waxa uu u baahan yahay inuu batterigaaga gadaasha ku baadho. Fadlan bilow ogaanshaha 24 saacadood ka dib
+end_dig,Jooji cudurka
+quit_dig,Dhab ahaantii Jooji ogaanshaha
+batty_temp,Heerkulka baytari
+akku_manager,Maamulaha Akku
+u_agree,"START" waxaad ogolaatay xeerarka ilaalinta xogta
+elemn_opti,Qaybaha waa la hagaajin karaa
+looks_good,Wax walba waxay u muuqdaan kuwo wanaagsan
+optimize_,Hagaajin
+toolz_,Qalab
+akku_check,Akku Check
+ctrl_load,Soo dejinta la xakameeyey
+mng_apps,Maamul apps
+infosm,Xog
+tenzion,xiisad
+electy,koronto
+lvl,Heerka
+akku_man_premium,Aku Manager Premium
+premimum_highlight,Isticmaal maareeyaha baytari gabi ahaanba xayeysiis la'aan waxaadna marin u yeelan kartaa habaynta balaadhan ee is dhexgalka isticmaalaha.
+design,Naqshadeynta
+subjs,maadooyinka
+genrally,Guud ahaan
+temp_unit,Unugga heerkulka
+oth_apps,Apps kale
+dat_protect,Ilaalinta xogta
+thx_akku,Waad ku mahadsan tahay inaad ku taageertay Maareeyaha Akku iibsashada nooca premium-ka.
+user_got_pre,Hadda waxaad fursad u haysataa in aad wax ka beddesho is-dhexgalka isticmaalaha iyo isticmaalka xayeysiis la'aan.
+exp_more,Waxaad filan kartaa astaamo dheeri ah cusboonaysiinta mustaqbalka
+ap_optimiz,Hagaajinta abka
+sys_bat_usage,Isticmaalka batteriga nidaamka
+bat_usage_det,Faahfaahinta isticmaalka batteriga
+end_optiz,Jooji hagaajinta
+abort,Iska rid
+break_up,kala tag
+scn,si loo sawiro
+scn_bgh,Iftiinka shaashadda
+dact_wlan,Dami WLAN
+dact_save_batt,Dami si aad u badbaadiso batteriga
+dact,Dami
+dact_ble,Dami Bluetooth-ka
+red_brigh,Iska yaree dhalaalka
+bright_txt,Yaree dhalaalka bandhigga si aad u badbaadiso batteriga
+to_reduce,Si loo yareeyo
+dact_gps,Dami GPS
+appz_optimz,Apps waa la hagaajiyay
+start_bat_check_det,Bilow hubinta batteriga oo faahfaahsan si aad had iyo jeer u ahaato dhinaca badbaadada
+act_eng_save,Daar habka kaydinta tamarta si loo yareeyo isticmaalka batteriga
+remove_useless,Ka saar abka aan hadda la isticmaalin
+premium,Premium
+clear_mem,Nadiifi xusuusta
+clear_mem_des,Si uu taleefankaaga casriga ah u shaqeeyo si degdeg ah oo hufan.
+clenaup,Nadiifin
+rat,qiimeynta
+rat_free,Ku qiimee Maareeyaha Batteryga bilaash
+sendz,Dir
+elmn_found,Waxyaabaha la helay
+drumz,Durbaan
+status,Xaalada
+end_akk_check,Jooji hubinta batteriga
+bat_detlz,Faahfaahinta batteriga
+temp_checked,Heerkulka waa la hubiyaa
+cond_checked,Xaaladda batteriga waa la hubiyaa
+checkz_start,Hubinta baytarigu wuu bilaabmayaa
+plug_in,Ku xidhan
+techz,Farsamada
+coldz,Qabow
+until,Ilaa
+well,Waa hagaag
+ovr_heat,Kulayl xad dhaaf ah
+ovr_load,Culayska xad dhaafka ah
+renam,loo magacaabay
+not_def,aan la qeexin
+chrgz,Lacag
+full,Buuxa
+unloadz,Dejinta
+not_charge_unkn,aan lagu soo oogin ama aan la garanayn
+usb,USB
+charger,dameeraha
+wless,wireless
+not_at_al,waxba haba yaraatee
+uninstall,Ka saar
+update,Si loo cusbooneysiiyo
+setting,Dejinta
+app,Apps
+not_found,Abka lama helin
+search,Raadi apps
+version_code,Koodhka Nooca
+api_level,Heerka API
+app_version,Nooca App
+authorization,oggolaansho
+open,in lafuro
+play_store,Play Store
+control,xakamayn
+systemstandart,Heerka nidaamka
+white,Caddaan
+dark,Madow
+ocean,Badweynta
+black,Madow
+dark_blue,Buluug madow
+excellent,Aad u fiican
+bad,Xun
+battery_bad,Wax yar baa baytarigu dhaawacday
+very_bad,Aad u xun
+battery_damaged,Batarigu wuu dhaawacmay
+custom_mode,Qaabka gaarka ah
+brightness,Iftiin
+automatic_brightness,Iftiin Toos ah
+normal,Caadi ah
+sound_modus,Codka Modus
+tone_work,Dhammaan Tones Work
+mute,aamus
+call_note_mute,Wicitaannada iyo ogeysiisyada waa la damiyay
+not_bother,Ha i dhibin
+tones_vibration_mute,Demi codadka iyo gariirrada, marka laga reebo dhawaaqyada digniinta
+sound,Codka
+music,muusik
+notification,Ogeysiinta
+alarm,Digniin
+ultra_saving,Habka badbaadinta tamarta Ultra
+edit,Si loo tafatiro
+disable_ultra_saving,Dami Habka Kaydinta Tamarta ee Ultra
+min_remaining,min harsan
+hours,saacadood
+activted_ultra_saving,Habka badbaadinta tamarta aadka u firfircoon waa la hawlgeliyay
+charged_in,lagu soo oogay
+min,min
+limit_power,Xaddid isticmaalka tamarta
+reduce_screen,Iska yaree dhalaalka shaashadda
+restrict_bg_act_explain,Xakamee hawlaha asalka ah
+volatge_check,Voltage waa la hubiyaa
+software_optimized,Software waa la hagaajiyay
+connect_charger,Ku xidh dabeeyaha
+charger_removed,Dabaylaha waa laga saari karaa
+power_consump_title,Isticmaalka tamarta
+srcn_bg_title,Iftiinka shaashadda
+bg_al_activities,Hawlaha asalka ah
+sftware,Software
+get_primium,Haddii aad iibsato nooca premium, waxaad heli doontaa dhammaan hawlaha hadda jira iyo sidoo kale dhammaan hawlaha cusub mustaqbalka.
+cuztomize_face,Is-beddelka is-dhexgalka isticmaalaha
+comp_scheme,Ka samee midabaynta maamulaha baytarigaaga mawduucyo kala duwan.
+bat_check_detail,Hubinta batteriga oo faahfaahsan
+check_cond_test,Isticmaal Maareeyaha Battery si aad u hubiso xaalada batterigaaga si aad had iyo jeer u ahaato dhinaca badbaadada.
+no_ads_yo,Xayeysiis ma jiro
+use_explain_noads,Isticmaal maareeyaha baytariga adiga oo aan wax xayeysiin ah samayn
+act_energy_save,Daar habka badbaadinta tamarta ultra si aad u kordhiso nolosha batteriga xaalad degdeg ah.
+buy_title,Iibso Premium
+loc_title,Goobta
+cap_title,kartida
+cap_remain,Awooda hadhay
+sleepy,Hurdo
+sek,Ilbiriqsi
+sing_min,Daqiiqado
+miniotes,Daqiiqado
+finish,Dhammaatay
+mobi_data,xogta mobilada
+plz_rate,Fadlan ku qiimee Maareeyaha Battery ee Play Store
+ur_data_cus,Ma sii wadi karnaa isticmaalka xogtaada si aan kuugu habeyno xayeysiisyada adiga?
+in_slep_mode,Qaabka hurdada
+in_use,La isticmaalo
+with_curr_pow,Isticmaalka tamarta hadda jirta
+rem_bat_life,Nolosha batteriga ee hadhay
+qck_acc,Helitaanka degdega ah
+notif_txt,ogeysiin
+notif_at,Ogeysii
+chg_curr,Dallacaadda hadda
+charge_perm,Dallacaadda waxqabadka
+maxi_charge_per,Waxqabadka ugu badan ee dallacaadda
+enb_notif,Daar wargelinta
+perm_send_notif,Maareeyaha baytarigu wuxuu u baahan yahay ogolaansho si uu u soo diro ogeysiis, waa in lagu hawlgeliyaa goobaha qalabka.
+to_set,Ku socota goobaha
+title_autost,Daar Autostart
+auto_explain,Maareeyaha baytarigu waxa uu u baahan yahay ogolaansho si uu u sii shido gadaashiisa si loo waydiiyo heerka batteriga una diro wargelin.
+sync_auto,Si toos ah u wada shaqee
+dis_auto_sync,Deminta isku-dubbaridka tooska ah waxay si weyn u yaraynaysaa qufulka. Si kastaba ha ahaatee, shaqooyinka qaarkood sida helista iimaylka ayaa lumi doona.
+chg_lim,Xadka Kharashka
+avoid_ful_explain,Haddii aad ku dallacdo batterigaaga ugu badnaan ama aad sii dayso ilaa uu damiyo, xaaladda iyo nolosha adeegga batteriga waa la dhimi doonaa. Kuwa soo socda waxaad dejin kartaa heerka ugu hooseeya iyo ugu badnaan ama ka saarista batteriga waxaana lagu ogeysiin doonaa mar kasta oo qiimaha bilowga la gaaro. Iska ilaali hal si buuxda u damci oo bixi baytarigaaga oo kordhi cimriga batteriga.
+rec_notif,Wargelinta ma helin?
+title_allow_bg_act,Oggolow dhaqdhaqaaqa asalka ah
+allow_bg_act,Si aad awood ugu yeelatid inaad isticmaasho Maareeyaha Battery xannibaad la'aan adigoon si ula kac ah u xirin nidaamka hawlgalka, waxaa laga yaabaa inaad damiso hawlaha gaarka ah ee maaraynta batteriga iyo isticmaalka batteriga ee goobaha. Sababtoo ah soosaarayaasha kala duwan waxay ku kala duwan yihiin magacaabista xulashooyinkan iyadoo ku xiran nidaamka hawlgalka ee loo isticmaalo. Aagga Macluumaadka App-ka, ee hoos yimaada Hurdada ama Batteriga, dooro wax xaddidaad ah ama Oggolaan waxqabadka asalka ah.
+dev_usage,Isticmaalka aaladda
+dep_sleep,Hurdada qoto dheer waa xaalad uu qalabkaagu isticmaalayo inta ugu yar ee baytariga. Muddada hurdada qoto dheer waxay saameyn togan ku leedahay badbaadinta tamarta. Hurdada qoto dheer waxaa hakad gelin kara hawlaha asalka ah, taas oo sababta in batteriga si dhakhso ah u soo baxo. Xaaladdan, dib u bilow qalabkaaga.
+title_bat_temp,Heerkulka baytari
+bat_tempp,Heerkulka baytarigu waa mid ka mid ah qodobbada ugu muhiimsan. Haddii batteriga lagu hayo jel heerkul sarreeya, tani waxay saamaynaysaa labadaba nolosha adeegga iyo waxqabadka batteriga. Haddii heerkulku kor u kaco, qaabka gudaha ee batteriga ayaa dhaawacmi kara.
+rdc_brightness,Iska yaree dhalaalka shaashadda
+display_explain,Bandhigu waa mid ka mid ah qaybaha tamarta inteeda badan isticmaala. Yaraynta dhalaalka ugu badan waxay kaa caawinaysaa dhimista isticmaalka guud iyo in la gaaro kayd la dareemi karo. Kahor intaadan yareynin dhalaalka, dami iftiinka tooska ah si iftiinka uusan u bedelin si aan loo baahnayn.
+tst_charge,Tijaabi dabaylaha
+best_way_test,Sida ugu fiican ee lagu tijaabiyo xajiyeyaasha iyo fiilada waa adigoo hubinaya xawaaraha dallacaadda iyadoo shaashadda ay maqan tahay. Xawaaraha ku dallacaadda marka ay shaashadu shideyso ma aha bar-beeg fiican sababtoo ah talefankaagu waxa uu isticmaalayaa awood, taas oo sababta isbedbedelka. Ku xidh charger-ga, dami shaashadda dhawr daqiiqo, ka dibna hubi inta ugu badan ee hadda la dallaco.
+wait_title,Sugitaanka
+rfsh_rate,Heerka dib u cusboonaysii
+low_sizty,Hoos u dhigista heerka soo kicinta ilaa 60 Hz waxay wanaajisaa nolosha batteriga.
+drk_mode,Qaab Madow
+acti_dark_mode,Daar Mode mugdiga ah, gudaha Mode mugdiga awood yar oo la isticmaalo
+actz,Daar
+poz,Awood
+minz,Ugu yar
+avgo,Celcelis ahaan
+mixi1,Ugu badnaan
+msg_dis,Farriinta waxay baaba'aysaa 24 saacadood ka dib haddii ay jirto xog ku filan oo muujinaysa jaantuska oo buuxa.
+no_enough,Ma jirto xog ku filan oo la muujiyo
+log_graph,Dhowr saacadood gudahood waxaad ku arki doontaa garaaf halkan kuu ogolaanaya inaad hubiso heerkulka batteriga, danab, amperage iyo heerka 24-kii saac ee la soo dhaafay.
+week,usbuuca
+buy_it,Iibso
+one_pur,Lacagta hal mar ah
+refun_pur,iibsiga waxa lagu soo celin karaa 2 saacadood gudahood.
+each_month,Isdiiwaangelinta ayaa si toos ah u cusbooneysiisa bil kasta waxayna ku sii socotaa qiimaha bishii. Diiwaangelinta waa la tirtiri karaa wakhti kasta.
+mng_subs,maamul rukunka
+subsci,subscribe dheh
+will_cost_week,Isdiiwaangelinta ayaa si toos ah dib u cusbooneysiisa toddobaad kasta oo waxay ku sii socotaa qiimaha todobaadkii. Diiwaangelinta waa la tirtiri karaa wakhti kasta.
+lfllong,nolosha oo dhan
+mthly,bishiiba
+wkly,Todobaadle
+hoto,Kulul
+prm_ben_title,Faa'iidooyinka Premium
+sync_title,Isku xidh
+dis_sync_inc,Deminta isku xidhka waxay kordhin doontaa nolosha batteriga iyada oo aan isku xidhin adeegyada xagga dambe
+time_out,Waqtigu wuu dhamaaday
+dec_extend,Hoos u dhigida wakhtiga ka hor inta aanu bandhiggu damin waxay kordhisaa nolosha batteriga
+u_end_opti,Ma hubtaa inaad rabto inaad soo afjarto habka wanaajinta?
+no_why_perm,Ogolaansho malaha
+bright_exp,Maareeyaha baytarigu wuxuu u baahan yahay Beddel nidaamka ogolaanshaha si loo yareeyo dhalaalka shaashadda ama loo damiyo Bluetooth.
+tg_title,Ku biir Telegram channel!
+tg_text,La soco cusboonaysiinta abka, hel dhismo hore, oo ka caawi tijaabinta astaamo cusub. Soo jeedi fikradahaaga, waydii su'aalo oo jawaabo degdeg u hel
+join_tg,ku biir
+curr_consumption,isticmaalka hadda
+scrn_onn,shaashada saaran
+srcn_off,Shaashada ka baxday
+mob_charg,Dallacaadda
+discha,Soo dayn
+activea,Firfircoon
+slpmode,Habka hurdada
+chagingspeed,Xawaaraha dallacaadda ee hadda
+dta_proxt,Ilaalinta xogta
+governs,Siyaasaddan khaaska ah ayaa maamulaysa adeegsigaaga arjiga software-ka Maareeyaha Battery ee aaladaha moobilka ee ay abuurtay Baxolino.
+info_u_provide,Macluumaadka uu bixiyay isticmaaluhu
+no_pass_per,Uma gudbino xogta shakhsiyeed qolo saddexaad. Markaad iimayl noogu soo dirto, waxaanu haynaa ciwaanka iimaylkaaga, laakiin waxaanu kaliya u isticmaalnaa inaanu kaa caawino abkayada.
+info_auto_coll,Macluumaadka si toos ah ayaa loo ururiyaa
+exp_admob_use,Waxaan u isticmaalnaa Google Admob si aan ugu adeegno xayeysiisyada. Isticmaalka adeegyadan waxay ku xiran yihiin ilaalinta xogta Google ee ku taal https://www.google.com/policies/privacy/.
+we_real_time,Maareeyaha baytarigu ma ururiyaa macluumaadka goobta saxda ah ee wakhtiga saxda ah qalabka?
+exp_loc_perm_man,Qabarka batterigu waxa uu eegayaa oo kaliya in goobta la hawl galiyay iyo in kale, laakiin ma ururiyaan wax macluumaad ah oo sax ah oo ku saabsan goobta qalabkaaga gacanta. Hawlaha goobta-ku-salaysan ee noocan oo kale ah waxaa loo dejiyay si toos ah. Waad dami kartaa ama dib u hawlgelin kartaa hawlahan habaynta qalabkaaga. Kahor ama ka dib rakibidda abka, waxaa lagu weydiin doonaa - iyadoo ku xiran aaladda - haddii aad doorbideyso inaad damiso ama aad dhaqaajiso howlahan. Waxaanu ururin karnaa oo keliya xogta ku saabsan goobtaada haddii aad hawlgeliso adeegyada goobtaas.
+chng,Isbeddellada
+pri_update_exp,Siyaasaddan sirnimada waa la cusboonaysiin karaa wakhti ka waqti sabab kasta ha ahaatee. Waxaanu ku wargelin doonaa isbeddelada ku yimaadda siyaasaddayada sirnimada annagoo ku dhejin doona siyaasadda sirnimada ee cusub ciwaanka shabakadda oo aanu kugu ogeysiinno farriin ku jirta abka. Waxaa lagugula talinayaa inaad si joogto ah ula tashato Siyaasaddan Gaarka ah ee isbeddelada, maadaama isticmaalka joogtada ah loo tixgeliyo oggolaanshaha dhammaan isbeddellada. Waxaad dib u eegi kartaa taariikhda siyaasaddan mareegtan.
+contct,La xidhiidh
+any_que,Haddii aad hayso wax su'aalo ah oo ku saabsan ilaalinta xogta marka aad isticmaalayso arjiga ama aad hayso su'aalo ku saabsan dhaqamadayada, fadlan u soo dir emayl ahaan.de@gmail.com
+mem_opti,Maareeyaha baytarigu wuxuu u baahan yahay gelitaanka "xusuusta" si abka loo sawiro oo loo hagaajiyo. Waxaad dami kartaa ama kicin kartaa hawlahan habaynta qalabkaaga. Kahor ama ka dib rakibidda app-ka, waxaa lagu weydiin doonaa - iyadoo ku xiran aaladda - haddii aad doorbideyso inaad damiso ama aad dhaqaajiso howlahan.
+storg,Kaydinta
+ble_set_acc,blue_set_perm,Maareeyaha baytarigu waxa uu u baahan yahay gelitaanka "Bluetooth settings access" si loo hubiyo in Bluetooth shaqaynayso iyo in kale. Iyo in la hawlgeliyo ama la joojiyo Bluetooth-ka.
+ble_title,Bluetooth
+needz_del,Maareeyaha baytarigu wuxuu u baahan yahay gelitaanka "Codso tirtirka xirmooyinka" si loo bilaabo fur-furka abka. App-ka ayaa kaliya laga rari doonaa haddii aad si cad u ogolaato.
+deletion_pkg,Codso tirtirida xirmooyinka
+need_adnd,Maamulaha baytarigu wuxuu u baahan yahay "Ha dhibaan" gelitaanka si uu awood ugu yeesho ama u damiyo habka Ha dhibin.
+adnd,Gelitaanku Ha Dhibin
+need_wlan_acc,Maareeyaha baytarigu wuxuu u baahan yahay marin u helida "Hel Xidhiidhada WLAN" si maareeyaha baytarigu u hubiyo in WLAN shaqaysiisay iyo inkale. Iyo in la hawlgeliyo ama la joojiyo WLAN.
+wln_conn,Hel xidhiidhada WLAN
+shop_bill_exp,Markaad wax ka soo gadato Google Play In App Billing, Google waxay ina siinaysaa dalka aad degan tahay iyo mararka qaarkood gobolka, magaalada, iyo sibka koodka, laakiin marna ciwaanka buuxa. Waxaan u isticmaalnaa macluumaadkan si aan ugu hoggaansanno sharciyada canshuuraha iyo xisaabaadka.
+pri_date,Laga bilaabo 02/21/2021
+how_to_stop,Waxaad ku joojin kartaa dhammaan macluumaadka ururinta arjigu si fudud adiga oo ka saaraya arjiga. Waxaad isticmaali kartaa hababka uninstall-ka caadiga ah ee la heli karo iyada oo qayb ka ah qalabkaaga moobilka ama suuqa ama shabakada codsiyada mobaylada.
+opt_out,Waa maxay xuquuqdeyda ka bixitaanku?
+ur_permission,ogolaanshahaaga
+accept_privacy,Adigoo isticmaalaya arjiga, waxaad ogolaatay habaynta xogtaada sida ku cad siyaasadan khaaska ah iyo sida anaga aan wax uga bedelnay.

@@ -1,0 +1,347 @@
+title,Battery Manager Lite estas malsama
+extend_life,La plej bona maniero plilongigi la baterian vivon kaj konservi vin sana baziĝas sur sperto kaj scienca esplorado.
+measured,En travidebla maniero ni nur montras al vi la efektive mezuritajn datumojn kaj kiel ĝi estas kalkulita.
+healthy,Tenu vian baterion sana
+double_battery,Duobligu vian kuirilaron ne plene ŝargante vian kuirilaron. Sciencistoj pruvis tion en siaj esploroj.
+charge_limit,Uzante nian sciigon pri ŝarglimo, sciigo estos sendita kiam la baterio atingos sojlon difinitan de la uzanto.
+smart,Ĝi fariĝas pli inteligenta ĉiutage
+analyze,Ju pli longe vi uzas Battery Manager Lite, des pli bone ni analizos la rendimenton de via baterio.
+update_every_time,La restanta bateria vivmezurado estas ĝisdatigita ĉiufoje kiam vi uzas aŭ ŝargas vian aparaton.
+runtime,Malkovru la realan rultempon de via baterio
+discharge_cycle,Ĉiufoje kiam via telefono trapasas malŝarĝan ciklon, preciza takso de ĝia rultempo povas esti mezurita.
+accurate_life,Uzu Battery Manager Lite por mezuri precizan baterian vivon.
+no_exit,Ne eliru Battery Manager Lite!
+bg_require,Battery Manager Lite postulas fonan servon por kolekti bateriajn statistikojn kaj mezuri baterian ŝargon kaj malŝarĝan tempon. Via aparato verŝajne ĉesas la servon aŭ ne ebligas ĝin funkcii kiam la programo estas fermita. Por eviti ĉi tion, ni havas bonan solvon por vi. Nur alklaku la ligilon.
+man,Manlibro
+cali,Kalibrado
+polarity,En ĉi tiu paŝo, la programo detektas la ŝargan polusecon kaj la projektan kapaciton de via baterio.
+disch,Malŝarĝo
+ch_pol,Ŝarga poluseco
+power_meter,Potencmezurilo
+unit_mesure,Mezunuo
+capacity,Bateria Kapacito
+wrong,Ĉu ĉu ne?
+calib,Kalibro
+ye,Jes
+no,Ne
+neg,Negativo
+pos,Pozitiva
+lunch,Lanĉu Apon
+manufac,Kapacito laŭ la fabrikanto
+design_des,La dezajnkapacito estas la fakta bateriokapacito, mezurita en mAh. Ĉar ne ekzistas oficiala maniero determini la kapaciton, la valoro redonita povas esti malĝusta.
+correct_it,Se la montrata kapacito ne estas ĝusta, bonvolu korekti ĝin.
+cancel,Nuligi
+ok,Bone
+runtime,Bateria Rultempo
+wait,atendante
+per_hr,Bateria konsumo por horo
+life_for,Bateria vivo por
+battery_cond,Kondiĉo de la kuirilaro
+bat_info,Informoj pri kuirilaro
+bat_cap,Bateria kapablo
+bat_volt,Bateria tensio
+bat_cur,Bateria kurento
+unit_mes,Mezunuo
+done,Farita
+c_bat_temp,Nuna Bateria Temperaturo
+min_bat_tem,Minimuma Bateria temperaturo
+mx_bat_tem,Maksimuma bateria temperaturo
+avg_bat_tem,Averaĝa bateria temperaturo
+dig_last,Lasta diagnozo antaŭe
+rem_time,Restanta tempo
+volt,Tensio
+curr,Nuna
+status,Statuso
+run_time,Kuranta tempo
+currently,Nuntempe
+avg,Averaĝa
+minmal,Minimuma
+maximal,Maksimumo
+tool,Iloj
+rem_apps,Malinstalu aplikaĵojn, kiujn vi ne plu uzas, por malhelpi, ke aplikaĵoj ne funkcias nenecese kaj malplenu vian kuirilaron
+uninst_apps,Malinstali Apojn
+stat,Komencu
+act_eng_save,Aktivigu la energiŝparan reĝimon por redukti la konsumon de kuirilaro
+pow_save,Energiŝpara reĝimo
+tempe,Temperaturo
+heal,Sano
+tips,Konservu vian Baterion en bona stato kun konsiloj kaj lertaĵoj.
+recomm,Rekomendoj
+prem,Premium
+more_func,Pli da funkcioj por vi. Akiru premion, akiru pli.
+more,Pli
+ur_cond_bat,La kondiĉo de la kuirilaro estas
+ur_bat_life,Via bateria vivo estas
+ur_bat_temp,Via Bateria Temperaturo estas
+wow,Bonega
+normal,Normala
+poor,Malbone
+days,Tagoj
+mins,Minutoj
+hrs,Horoj
+chging,Ŝargado
+ful,Plena
+dis_chrg,Malŝarĝo
+unkn,Nekonata
+too_lit,Tro malmulte da Bateria Datumo
+car_any,Efektivigu ĉiukaze
+endz_,Fino
+dig_any,Por akiri pli bonajn diagnozajn rezultojn, la programo bezonas analizi vian baterion en la fono. Bonvolu komenci la diagnozon post 24 horoj
+end_dig,Finu diagnozon
+quit_dig,Vere Forlasu Diagnozon
+batty_temp,Bateria temperaturo
+akku_manager,Akku Manager
+u_agree,Per "START" vi konsentas pri la reguloj pri datuma protekto
+elemn_opti,Elementoj povas esti optimumigitaj
+looks_good,Ĉio aspektas bone
+optimize_,Optimumigu
+toolz_,Iloj
+akku_check,Akku Kontrolo
+ctrl_load,Kontrolita ŝarĝo
+mng_apps,Administri aplikaĵojn
+infosm,Informoj
+tenzion,streĉiteco
+electy,elektro
+lvl,Nivelo
+akku_man_premium,Akku Manager Premium
+premimum_highlight,Uzu la Bateria Administranton tute sen reklamado kaj vi havas aliron al la ampleksa personigo de la uzantinterfaco.
+design,Dezajno
+subjs,temoj
+genrally,Ĝenerale
+temp_unit,Temperaturo unuo
+oth_apps,Aliaj Aplikoj
+dat_protect,Protekto de datumoj
+thx_akku,Dankon pro subteno de Akku Manager kun la aĉeto de la supera versio.
+user_got_pre,Vi nun havas aliron al ampleksa personigo de la uzantinterfaco kaj uzado sen reklamado.
+exp_more,Vi povas atendi pli da funkcioj en estontaj ĝisdatigoj
+ap_optimiz,Optimumigo de aplikaĵoj
+sys_bat_usage,Sistembaterio-konsumo
+bat_usage_det,Bateria uzado detaloj
+end_optiz,Finu optimumigo
+abort,Ĉesigi
+break_up,disiĝi
+scn,skani
+scn_bgh,Ekrana brilo
+dact_wlan,Malaktivigu WLAN
+dact_save_batt,Malaktivigu por ŝpari kuirilaron
+dact,Malaktivigi
+dact_ble,Malaktivigu bluetooth
+red_brigh,Redukti brilon
+bright_txt,Reduktu la brilecon de la ekrano por ŝpari kuirilaron
+to_reduce,Malgrandigi
+dact_gps,Malaktivigu GPS
+appz_optimz,Aplikoj optimumigitaj
+start_bat_check_det,Komencu detalan bateriokontrolon por ĉiam esti sur la sekura flanko
+act_eng_save,Aktivigu energiŝparan reĝimon por redukti la konsumon de kuirilaro
+remove_useless,Malinstalu aplikaĵojn, kiuj ne plu estas uzataj
+premium,Premium
+clear_mem,Purigu memoron
+clear_mem_des,Por ke via inteligenta telefono funkcias rapide kaj glate.
+clenaup,Purigado
+rat,taksado
+rat_free,Tatu Battery Manager senpage
+sendz,Sendu
+elmn_found,Elementoj trovitaj
+drumz,Tamburoj
+status,Statuso
+end_akk_check,Finu bateriokontrolon
+bat_detlz,Bateria detaloj
+temp_checked,La temperaturo estas kontrolita
+cond_checked,La kondiĉo de la baterio estas kontrolita
+checkz_start,Bateria kontrolo komenciĝas
+plug_in,Konektita
+techz,Teknologio
+coldz,Malvarmo
+until,Ĝis
+well,Nu
+ovr_heat,Trovarmiĝo
+ovr_load,Troŝarĝo
+renam,renomita
+not_def,ne difinita
+chrgz,Ŝarĝo
+full,Plena
+unloadz,Malŝarĝo
+not_charge_unkn,ne ŝargita aŭ nekonata
+usb,USB
+charger,ŝargilo
+wless,sendrata
+not_at_al,nenio ajn
+uninstall,Malinstali
+update,Por ĝisdatigi
+setting,Agordoj
+app,Aplikoj
+not_found,Apo ne trovita
+search,Serĉu apojn
+version_code,Versia Kodo
+api_level,API-nivelo
+app_version,Versio de App
+authorization,rajtigo
+open,malfermi
+play_store,Play Store
+control,kontrolo
+systemstandart,Sistemnormo
+white,Blanka
+dark,Mallumo
+ocean,oceano
+black,Nigra
+dark_blue,Malhelblua
+excellent,Bonega
+bad,Malbona
+battery_bad,Baterio estas iomete difektita
+very_bad,Tre malbona
+battery_damaged,La kuirilaro estas difektita
+custom_mode,Propra Reĝimo
+brightness,Brilo
+automatic_brightness,Aŭtomata Brilo
+normal,Normala
+sound_modus,Sona Moduso
+tone_work,Ĉiuj Tonoj Laboras
+mute,Mute
+call_note_mute,Vokoj kaj sciigoj estas silentigitaj
+not_bother,Ne ĝenu
+tones_vibration_mute,Malŝaltu tonojn kaj vibrojn, krom alarmaj tonoj
+sound,Sonoj
+music,muziko
+notification,Sciigo
+alarm,Alarmo
+ultra_saving,Ultra-ŝpara reĝimo de energio
+edit,Redakti
+disable_ultra_saving,Malebligu Ultra Energiŝparan Reĝimon
+min_remaining,min restanta
+hours,horoj
+activted_ultra_saving,Ultra-ŝpara reĝimo estas aktivigita
+charged_in,ŝargita en
+min,min
+limit_power,Limigu elektrokonsumon
+reduce_screen,Redukti ekranan brilon
+restrict_bg_act_explain,Limigi fonajn agadojn
+volatge_check,Tensio estas kontrolita
+software_optimized,Programaro estas optimumigita
+connect_charger,Konekti ŝargilon
+charger_removed,Ŝargilo povas esti forigita
+power_consump_title,Energikonsumo
+srcn_bg_title,Ekrana brilo
+bg_al_activities,Fonaj agadoj
+sftware,Programaro
+get_primium,Se vi aĉetos la superan version, vi ricevos ĉiujn aktualajn funkciojn kaj ankaŭ ĉiujn novajn funkciojn estonte.
+cuztomize_face,Personigo de la uzantinterfaco
+comp_scheme,Komponu vian Battery Manager-kolorskemon el diversaj temoj.
+bat_check_detail,Detala bateriokontrolo
+check_cond_test,Uzu la Bateria Administranton por kontroli la kondiĉon de via baterio por ĉiam esti sur la sekura flanko.
+no_ads_yo,Neniu reklamado
+use_explain_noads,Uzu Battery Manager sen reklamado
+act_energy_save,Aktivigu la ultra-ŝparan reĝimon por pliigi la baterian vivon en kriz-okazo.
+buy_title,Aĉetu Premium
+loc_title,Loko
+cap_title,kapacito
+cap_remain,Restanta kapacito
+sleepy,Dormu
+sek,Sekundoj
+sing_min,Minuto
+miniotes,Minutoj
+finish,Finita
+mobi_data,moveblaj datumoj
+plz_rate,Bonvolu taksi Battery Manager en la Play Store
+ur_data_cus,Ĉu ni povas daŭre uzi viajn datumojn por personecigi reklamojn por vi?
+in_slep_mode,En dormreĝimo
+in_use,En uzo
+with_curr_pow,Kun nuna energikonsumo
+rem_bat_life,Restanta bateria vivo
+qck_acc,Rapida aliro
+notif_txt,sciigo
+notif_at,Sciigi ĉe
+chg_curr,Ŝarga kurento
+charge_perm,Ŝarga rendimento
+maxi_charge_per,Maksimuma ŝarĝa rendimento
+enb_notif,Ebligu sciigon
+perm_send_notif,Bateria Administranto postulas permeson por sendi sciigon, ĝi devas esti aktivigita en la agordoj de la aparato.
+to_set,Al la agordoj
+title_autost,Aktivigu Aŭtomatan lanĉon
+auto_explain,Bateria Administranto postulas permeson resti aktivigita en la fono por demandi la baterian staton kaj sendi sciigon.
+sync_auto,Sinkronigi aŭtomate
+dis_auto_sync,Malebligi aŭtomatan sinkronigon signife reduktas maldormojn. Tamen iuj funkcioj kiel ricevo de retpoŝto estos perditaj.
+chg_lim,Ŝarga Limo
+avoid_ful_explain,Se vi ŝargas vian kuirilaron al la maksimumo aŭ malŝarĝos ĝin ĝis ĝi estas malŝaltita, la kondiĉo kaj servodaŭro de la baterio malpliiĝos. En la sekvanta vi povas agordi la minimuman kaj maksimuman ŝargon aŭ malŝarĝan staton de la baterio kaj vi estos sciigita ĉiufoje kiam la sojla valoro estas atingita. Evitu unu plene ŝargi kaj malŝarĝi vian kuirilaron kaj plilongigi la vivon de la baterio.
+rec_notif,Ne ricevita sciigo?
+title_allow_bg_act,Permesu fonan agadon
+allow_bg_act,Por ke vi povu uzi la Bateria Administranton sen limigoj sen ke ĝi estas neintence fermita de la operaciumo, vi eble devos malŝalti specialajn funkciojn por bateria administrado kaj bateria uzado en la agordoj. Ĉar la diversaj fabrikantoj diferencas en la nomado de ĉi tiuj opcioj depende de la mastruma sistemo uzata. En la areo de Informoj pri App, sub Dormo aŭ Baterio, elektu Neniuj Limigoj aŭ Permesi Fonan Agadon.
+dev_usage,Aparato uzado
+dep_sleep,Profunda dormo estas stato en kiu via aparato uzas la plej malgrandan kvanton da baterio. La daŭro de profunda dormo havas pozitivan efikon sur energiŝparo. La profunda dormo povas esti interrompita de fonaj taskoj, kio igas la baterion malŝarĝi pli rapide. En ĉi tiu kazo, rekomencu vian aparaton.
+title_bat_temp,Bateria temperaturo
+bat_tempp,La bateria temperaturo estas unu el la plej gravaj faktoroj. Se la baterio estas tenita ĝelo ĉe altaj temperaturoj, ĉi tio influas kaj la funkcidaŭron kaj la rendimenton de la baterio. Se la temperaturo altiĝas, la interna strukturo de la baterio povas esti damaĝita.
+rdc_brightness,Redukti ekranan brilon
+display_explain,La ekrano estas unu el la komponantoj, kiuj konsumas la plej grandan parton de la energio. Redukti la maksimuman brilon helpas redukti ĝeneralan konsumon kaj atingi rimarkindajn ŝparaĵojn. Antaŭ malpliigi la helecon, malaktivigu la aŭtomatan helecon por ke la heleco ne estu ŝanĝita nenecese.
+tst_charge,Testa ŝargilo
+best_way_test,La plej bona maniero testi la ŝargilon kaj kablon estas kontroli la ŝargan rapidon kun la ekrano malŝaltita. La ŝarĝa rapideco kiam la ekrano estas ŝaltita ne estas bona komparnormo ĉar via telefono konsumas potencon, kio kaŭzas fluktuojn. Enŝaltu la ŝargilon, malŝaltu la ekranon dum kelkaj minutoj, kaj poste kontrolu la maksimuman ŝargan kurenton.
+wait_title,Atendante
+rfsh_rate,Refreŝiga indico
+low_sizty,Malaltigi la refreŝigan indicon al 60 Hz plibonigas la baterian vivon.
+drk_mode,Malhela Reĝimo
+acti_dark_mode,Aktivigu Malhelan Reĝimon, en Malhela Reĝimo malpli da potenco konsumita
+actz,Aktivigu
+poz,Potenco
+minz,Minimumo
+avgo,Averaĝa
+mixi1,Maksimumo
+msg_dis,La mesaĝo malaperas post 24 horoj se estas sufiĉe da datumoj por plene montri la diagramon.
+no_enough,Ne sufiĉas datumoj por montri
+log_graph,Post kelkaj horoj vi vidos ĉi tie grafikon, kiu permesos al vi kontroli la bateriotemperaturon, tension, amperecon kaj nivelon dum la pasintaj 24 horoj.
+week,semajno
+buy_it,Aĉeti
+one_pur,Unufoja kotizo de
+refun_pur,la aĉeto povas esti repagata ene de 2 horoj.
+each_month,La abono aŭtomate renovigas ĉiun monaton kaj daŭre kostas monate. La abono povas esti nuligita iam ajn.
+mng_subs,administri abonon
+subsci,aboni
+will_cost_week,Abono aŭtomate renovigas ĉiun semajnon kaj daŭre kostas semajne. La abono povas esti nuligita iam ajn.
+lfllong,dumvive
+mthly,ĉiumonate
+wkly,Ĉiusemajne
+hoto,Varma
+prm_ben_title,Superaj avantaĝoj
+sync_title,Sinkronigi
+dis_sync_inc,Malŝalti sinkronigon pliigos baterian vivon ne sinkronigante servojn en la fono
+time_out,Tempo ekstere
+dec_extend,Malpliigi la tempon antaŭ ol la ekrano malŝaltas plilongigas la baterian vivon
+u_end_opti,Ĉu vi certas, ke vi volas fini la optimumigan procezon?
+no_why_perm,Neniu permeso
+bright_exp,Bateria Administranto postulas Ŝanĝi sistemajn agordojn permeson por redukti ekranan brilon aŭ malŝalti Bluetooth.
+tg_title,Aliĝu al Telegram-kanalo!
+tg_text,Restu aktuala kun aplikaĵo-ĝisdatigoj, ricevu fruajn konstruojn kaj helpu testi novajn funkciojn. Sugestu viajn ideojn, faru demandojn kaj ricevu respondojn pli rapide
+join_tg,aliĝi
+curr_consumption,aktuala konsumo
+scrn_onn,ekrano ŝaltita
+srcn_off,ekrano malŝaltita
+mob_charg,Ŝargado
+discha,Malŝarĝo
+activea,Aktiva
+slpmode,Dorma reĝimo
+chagingspeed,Nuna Ŝarga rapido
+dta_proxt,Protekto de datumoj
+governs,Ĉi tiu privateca politiko regas vian uzon de la programaro Battery Manager por porteblaj aparatoj kreitaj de Baxolino.
+info_u_provide,Informoj donitaj de la uzanto
+no_pass_per,Ni ne transdonas personajn datumojn al triaj partioj. Kiam vi retpoŝtas al ni, ni havas vian retpoŝtadreson, sed ni uzas ĝin nur por helpi vin pri niaj programoj.
+info_auto_coll,Informoj kolektitaj aŭtomate
+exp_admob_use,Ni uzas Google Admob por servi reklamojn. La uzo de ĉi tiuj servoj estas submetita al la dispozicioj pri protekto de datumoj de Google ĉe https://www.google.com/policies/privacy/.
+we_real_time,Ĉu Battery Manager kolektas precizajn realtempajn lokajn informojn de la aparato?
+exp_loc_perm_man,Battery Manger nur kontrolas ĉu la loko estas aktivigita aŭ malaktivigita, sed ne kolektas precizajn informojn pri la loko de via poŝtelefono. Tiaj lok-bazitaj funkcioj estas agordita defaŭlte. Vi povas malaktivigi aŭ reaktivigi ĉi tiujn funkciojn en la agordoj de via respektiva aparato. Antaŭ aŭ post instalo de la aplikaĵoj, oni demandos vin - depende de la aparato - ĉu vi preferus malaktivigi aŭ aktivigi ĉi tiujn funkciojn. Ni povas kolekti datumojn pri via loko nur se vi aktivigas tiajn lokservojn.
+chng,Ŝanĝoj
+pri_update_exp,Ĉi tiu privateca politiko povas esti ĝisdatigita de tempo al tempo pro ajna kialo. Ni informos vin pri ŝanĝoj al nia privateca politiko afiŝante la novan privatecan politikon sur ĉi tiu retadreso kaj sciigante vin per mesaĝo en la aplikaĵo. Oni rekomendas, ke vi regule konsultu ĉi tiun Privatecan Politikon por ŝanĝoj, ĉar daŭra uzo estas konsiderata aprobo de ĉiuj ŝanĝoj. Vi povas revizii la historion de ĉi tiu politiko sur ĉi tiu retejo.
+contct,Kontaktu
+any_que,Se vi havas demandojn pri datumprotekto dum uzado de la aplikaĵo aŭ havas demandojn pri niaj praktikoj, bonvolu sendi retmesaĝon al baxolino.de@gmail.com
+mem_opti,Bateria Administranto bezonas la "memoron" aliron por ke aplikaĵoj povas esti skanitaj kaj optimumigitaj. Vi povas malaktivigi aŭ aktivigi ĉi tiujn funkciojn en la agordoj de via respektiva aparato. Antaŭ aŭ post instalo de la aplikaĵo, oni demandos vin - depende de la aparato - ĉu vi preferus malaktivigi aŭ aktivigi ĉi tiujn funkciojn.
+storg,Stokado
+ble_set_acc,blue_set_perm,Battery Manager postulas la aliron "Bluetooth setting access" por ke oni povas kontroli ĉu Bluetooth estas aktivigita aŭ malaktivigita. Kaj por aktivigi aŭ malaktivigi Bluetooth.
+ble_title,Bluetooth
+needz_del,Battery Manager postulas la aliron "Peti forigon de pakaĵoj" por komenci malinstaladon de aplikaĵo. La aplikaĵo estos malinstalita nur se vi eksplicite permesas ĝin.
+deletion_pkg,Petu forigon de pakaĵoj
+need_adnd,Bateria Administranto postulas "Ne ĝenu" aliron por ebligi aŭ malŝalti la reĝimon Ne ĝenu.
+adnd,Aliro Ne ĝenu
+need_wlan_acc,Battery Manager postulas aliron al "Get WLAN Connections" tiel ke Battery Manager povas kontroli ĉu WLAN estas aktivigita aŭ malaktivigita. Kaj por aktivigi aŭ malaktivigi WLAN.
+wln_conn,Akiru WLAN-konektojn
+shop_bill_exp,Kiam vi aĉetas per Google Play In App Billing, Google donas al ni vian loĝlandon kaj foje la ŝtaton, urbon kaj poŝtkodon, sed neniam la plenan adreson. Ni uzas ĉi tiujn informojn por plenumi impostajn kaj kontadajn regularojn.
+pri_date,Ekde 21/02/2021
+how_to_stop,Vi povas ĉesigi la tutan kolekton de informoj per la aplikaĵo simple malinstalante la aplikaĵon. Vi povas uzi la normajn malinstalajn procezojn disponeblajn kiel parto de via movebla aparato aŭ per la vendoplaco aŭ reto por moveblaj aplikoj.
+opt_out,Kio estas miaj elekt-forrajtoj?
+ur_permission,via permeso
+accept_privacy,Uzante la aplikaĵon, vi konsentas pri nia prilaborado de viaj datumoj kiel fiksite en ĉi tiu privateca politiko kaj kiel modifita de ni.

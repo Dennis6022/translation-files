@@ -1,0 +1,347 @@
+title,Battery Manager Lite është i ndryshëm
+extend_life,Mënyra më e mirë për të zgjatur jetëgjatësinë e baterisë dhe për t'ju mbajtur të shëndetshëm bazohet në përvojën dhe kërkimin shkencor.
+measured,Në mënyrë transparente ne ju tregojmë vetëm të dhënat e matura në të vërtetë dhe si llogariten ato.
+healthy,Mbajeni baterinë tuaj të shëndetshme
+double_battery,Dyfishoni jetëgjatësinë e baterisë duke mos e karikuar plotësisht baterinë tuaj. Shkencëtarët e kanë vërtetuar këtë në hulumtimet e tyre.
+charge_limit,Duke përdorur njoftimin tonë për kufirin e karikimit, një njoftim do të dërgohet kur bateria të arrijë një prag të përcaktuar nga përdoruesi.
+smart,Bëhet më i zgjuar çdo ditë
+analyze,Sa më gjatë të përdorni Battery Manager Lite, aq më mirë do të jemi në analizimin e performancës së baterisë tuaj.
+update_every_time,Matja e mbetur e jetëgjatësisë së baterisë përditësohet sa herë që përdorni ose karikoni pajisjen tuaj.
+runtime,Zbuloni kohëzgjatjen aktuale të baterisë tuaj
+discharge_cycle,Sa herë që telefoni juaj kalon një cikël shkarkimi, mund të matet një vlerësim i saktë i kohës së funksionimit të tij.
+accurate_life,Përdor Battery Manager Lite për të matur jetëgjatësinë e saktë të baterisë.
+no_exit,Mos dilni nga Battery Manager Lite!
+bg_require,Battery Manager Lite kërkon një shërbim në sfond për të mbledhur statistikat e baterisë dhe për të matur kohën e ngarkimit dhe shkarkimit të baterisë. Pajisja juaj ka të ngjarë të ndalojë shërbimin ose të mos e lejojë atë të funksionojë kur aplikacioni është i mbyllur. Për të shmangur këtë, ne kemi një zgjidhje të mirë për ju. Thjesht klikoni në lidhjen.
+man,Manual
+cali,Kalibrimi
+polarity,Në këtë hap, aplikacioni zbulon polaritetin e karikimit dhe kapacitetin e projektimit të baterisë tuaj.
+disch,Shkarkimi
+ch_pol,Polariteti i karikimit
+power_meter,Matësi i fuqisë
+unit_mesure,Njësia matëse
+capacity,Kapaciteti i baterisë
+wrong,Nuk është e drejtë?
+calib,Kalibroni
+ye,po
+no,Nr
+neg,Negativ
+pos,Pozitive
+lunch,Hap aplikacionin
+manufac,Kapaciteti sipas prodhuesit
+design_des,Kapaciteti i projektimit është kapaciteti aktual i baterisë, i matur në mAh. Meqenëse nuk ka asnjë mënyrë zyrtare për të përcaktuar kapacitetin, vlera e kthyer mund të jetë e gabuar.
+correct_it,Nëse kapaciteti i shfaqur nuk është i saktë, ju lutemi korrigjoni atë.
+cancel,Anulo
+ok,Mirë
+runtime,Koha e funksionimit të baterisë
+wait,ne pritje
+per_hr,Konsumi i baterisë në orë
+life_for,Jetëgjatësia e baterisë për
+battery_cond,Gjendja e baterisë
+bat_info,Informacion mbi baterinë
+bat_cap,Kapaciteti i baterisë
+bat_volt,Tensioni i baterisë
+bat_cur,Rryma e baterisë
+unit_mes,Njësia matëse
+done,U krye
+c_bat_temp,Temperatura aktuale e baterisë
+min_bat_tem,Temperatura minimale e baterisë
+mx_bat_tem,Temperatura maksimale e baterisë
+avg_bat_tem,Temperatura mesatare e baterisë
+dig_last,Diagnoza e fundit më parë
+rem_time,Koha e mbetur
+volt,Tensioni
+curr,Aktuale
+status,Statusi
+run_time,Koha per vrap
+currently,Aktualisht
+avg,Mesatare
+minmal,Minimale
+maximal,Maksimumi
+tool,Mjetet
+rem_apps,Çinstaloni aplikacionet që nuk i përdorni më për të parandaluar funksionimin e panevojshëm të aplikacioneve dhe shkarkimin e baterisë
+uninst_apps,Çinstaloni aplikacionet
+stat,Filloni
+act_eng_save,Aktivizoni modalitetin e kursimit të energjisë për të reduktuar konsumin e baterisë
+pow_save,Mënyra e kursimit të energjisë
+tempe,Temperatura
+heal,Shëndeti
+tips,Mbajeni baterinë tuaj në gjendje të mirë me këshilla dhe truket.
+recomm,Rekomandime
+prem,Premium
+more_func,Më shumë funksione për ju. Merr premium, merr më shumë.
+more,Më shumë
+ur_cond_bat,Gjendja e baterisë është
+ur_bat_life,Jeta juaj e baterisë është
+ur_bat_temp,Temperatura juaj e baterisë është
+wow,E shkëlqyeshme
+normal,Normale
+poor,Dobet
+days,Ditët
+mins,Minutat
+hrs,orët
+chging,Ngarkimi
+ful,Plot
+dis_chrg,Shkarkimi
+unkn,E panjohur
+too_lit,Shumë pak të dhëna për baterinë
+car_any,Kryeni gjithsesi
+endz_,fund
+dig_any,Për të marrë rezultate më të mira diagnostikuese, aplikacioni duhet të analizojë baterinë tuaj në sfond. Ju lutemi filloni diagnozën pas 24 orësh
+end_dig,Përfundimi i diagnozës
+quit_dig,Realisht Hiq Diagnozën
+batty_temp,Temperatura e baterisë
+akku_manager,Menaxher Akku
+u_agree,Me "START" ju pranoni rregulloret për mbrojtjen e të dhënave
+elemn_opti,Elementet mund të optimizohen
+looks_good,Gjithçka duket mirë
+optimize_,Optimizo
+toolz_,Mjetet
+akku_check,Akku Check
+ctrl_load,Ngarkimi i kontrolluar
+mng_apps,Menaxho aplikacionet
+infosm,Informacion
+tenzion,tensioni
+electy,elektricitet
+lvl,Niveli
+akku_man_premium,Akku Manager Premium
+premimum_highlight,Përdorni plotësisht Menaxherin e Baterisë pa reklama dhe keni akses në personalizimin e gjerë të ndërfaqes së përdoruesit.
+design,Dizajn
+subjs,lëndët
+genrally,Në përgjithësi
+temp_unit,Njësia e temperaturës
+oth_apps,Aplikacione të tjera
+dat_protect,Mbrojtja e të dhënave
+thx_akku,Faleminderit për mbështetjen e Akku Manager me blerjen e versionit premium.
+user_got_pre,Tani keni akses në personalizimin e gjerë të ndërfaqes së përdoruesit dhe përdorimin pa reklama.
+exp_more,Mund të prisni më shumë veçori në përditësimet e ardhshme
+ap_optimiz,Optimizimi i aplikacionit
+sys_bat_usage,Konsumi i baterisë së sistemit
+bat_usage_det,Detajet e përdorimit të baterisë
+end_optiz,Fundi i optimizimit
+abort,Aborti
+break_up,ndahem
+scn,për të skanuar
+scn_bgh,Shkëlqimi i ekranit
+dact_wlan,Çaktivizo WLAN
+dact_save_batt,Çaktivizoni për të kursyer baterinë
+dact,Çaktivizo
+dact_ble,Çaktivizo bluetooth-in
+red_brigh,Ulni ndriçimin
+bright_txt,Ulni ndriçimin e ekranit për të kursyer baterinë
+to_reduce,Për të reduktuar
+dact_gps,Çaktivizo GPS
+appz_optimz,Aplikacionet e optimizuara
+start_bat_check_det,Filloni një kontroll të detajuar të baterisë për të qenë gjithmonë në anën e sigurt
+act_eng_save,Aktivizo modalitetin e kursimit të energjisë për të reduktuar konsumin e baterisë
+remove_useless,Çinstaloni aplikacionet që nuk përdoren më
+premium,Premium
+clear_mem,Pastroni kujtesën
+clear_mem_des,Në mënyrë që smartphone juaj të funksionojë shpejt dhe pa probleme.
+clenaup,Pastrim
+rat,vlerësim
+rat_free,Vlerësoni menaxherin e baterisë falas
+sendz,Dërgo
+elmn_found,Elementet e gjetura
+drumz,Daulle
+status,Statusi
+end_akk_check,Përfundo kontrollin e baterisë
+bat_detlz,Detajet e baterisë
+temp_checked,Kontrollohet temperatura
+cond_checked,Gjendja e baterisë kontrollohet
+checkz_start,Fillon kontrolli i baterisë
+plug_in,E lidhur në prizë
+techz,Teknologjia
+coldz,Ftohtë
+until,Derisa
+well,Epo
+ovr_heat,Mbinxehje
+ovr_load,Mbingarkesa
+renam,të riemërtuar
+not_def,e pa përcaktuar
+chrgz,Ngarkimi
+full,Plot
+unloadz,Shkarkimi
+not_charge_unkn,jo i ngarkuar ose i panjohur
+usb,USB
+charger,karikues
+wless,wireless
+not_at_al,asgjë fare
+uninstall,Çinstaloni
+update,Për të përditësuar
+setting,Cilësimet
+app,Aplikacionet
+not_found,Aplikacioni nuk u gjet
+search,Kërko aplikacione
+version_code,Kodi i versionit
+api_level,Niveli i API
+app_version,Versioni i aplikacionit
+authorization,autorizimi
+open,për të hapur
+play_store,Dyqan Lojërash
+control,kontrollin
+systemstandart,Standardi i sistemit
+white,E bardha
+dark,E errët
+ocean,Oqeani
+black,E zezë
+dark_blue,BLU e erret
+excellent,E shkëlqyeshme
+bad,E keqe
+battery_bad,Bateria është pak e dëmtuar
+very_bad,Shume keq
+battery_damaged,Bateria është e dëmtuar
+custom_mode,Modaliteti i personalizuar
+brightness,Shkëlqimi
+automatic_brightness,Shkëlqimi automatik
+normal,Normale
+sound_modus,Modusi i zërit
+tone_work,Të gjitha tonet funksionojnë
+mute,Hesht
+call_note_mute,Thirrjet dhe njoftimet janë të heshtura
+not_bother,Mos u mërzit
+tones_vibration_mute,Fikni tonet dhe dridhjet, me përjashtim të toneve të alarmit
+sound,Tingujt
+music,muzikë
+notification,Njoftim
+alarm,Alarmi
+ultra_saving,Modaliteti ultra i kursimit të energjisë
+edit,Për të redaktuar
+disable_ultra_saving,Çaktivizo modalitetin ultra të kursimit të energjisë
+min_remaining,min e mbetur
+hours,orë
+activted_ultra_saving,Modaliteti ultra i kursimit të energjisë është aktivizuar
+charged_in,i ngarkuar në
+min,min
+limit_power,Kufizoni konsumin e energjisë
+reduce_screen,Ulni ndriçimin e ekranit
+restrict_bg_act_explain,Kufizoni aktivitetet në sfond
+volatge_check,Tensioni kontrollohet
+software_optimized,Softueri është i optimizuar
+connect_charger,Lidh ngarkuesin
+charger_removed,Ngarkuesi mund të hiqet
+power_consump_title,Konsumi i energjisë
+srcn_bg_title,Shkëlqimi i ekranit
+bg_al_activities,Aktivitete në sfond
+sftware,Software
+get_primium,Nëse blini versionin premium, do të merrni të gjitha funksionet aktuale si dhe të gjitha funksionet e reja në të ardhmen.
+cuztomize_face,Personalizimi i ndërfaqes së përdoruesit
+comp_scheme,Përpiloni skemën tuaj të ngjyrave të Battery Manager nga një sërë temash.
+bat_check_detail,Kontroll i detajuar i baterisë
+check_cond_test,Përdorni Menaxherin e Baterisë për të kontrolluar gjendjen e baterisë tuaj për të qenë gjithmonë në anën e sigurt.
+no_ads_yo,Asnjë reklamë
+use_explain_noads,Përdorni Battery Manager pa asnjë reklamë
+act_energy_save,Aktivizoni modalitetin ultra të kursimit të energjisë për të rritur jetëgjatësinë e baterisë në rast urgjence.
+buy_title,Blini Premium
+loc_title,Vendndodhja
+cap_title,kapaciteti
+cap_remain,Kapaciteti i mbetur
+sleepy,Flini
+sek,Sekonda
+sing_min,Minuta
+miniotes,Minutat
+finish,Përfunduar
+mobi_data,të dhëna celulare
+plz_rate,Ju lutemi vlerësoni "Menaxherin e baterisë" në "Dyqanin e Play".
+ur_data_cus,A mund të vazhdojmë të përdorim të dhënat tuaja për të personalizuar reklamat për ju?
+in_slep_mode,Në modalitetin e gjumit
+in_use,Në përdorim
+with_curr_pow,Me konsumin aktual të energjisë
+rem_bat_life,Jetëgjatësia e mbetur e baterisë
+qck_acc,Qasje e shpejtë
+notif_txt,njoftim
+notif_at,Njoftoni në
+chg_curr,Rryma e karikimit
+charge_perm,Performanca e karikimit
+maxi_charge_per,Performanca maksimale e karikimit
+enb_notif,Aktivizo njoftimin
+perm_send_notif,Menaxheri i baterisë kërkon leje për të dërguar një njoftim, ai duhet të aktivizohet në cilësimet e pajisjes.
+to_set,Tek cilësimet
+title_autost,Aktivizo nisjen automatike
+auto_explain,Menaxheri i baterisë kërkon leje për të qëndruar i aktivizuar në sfond për të kërkuar statusin e baterisë dhe për të dërguar një njoftim.
+sync_auto,Sinkronizoni automatikisht
+dis_auto_sync,Çaktivizimi i sinkronizimit automatik redukton ndjeshëm bllokimet e zgjimit. Megjithatë, disa funksione të tilla si marrja e postës elektronike do të humbasin.
+chg_lim,Kufiri i tarifës
+avoid_ful_explain,Nëse e ngarkoni baterinë tuaj në maksimum ose e shkarkoni derisa të fiket, gjendja dhe jeta e shërbimit të baterisë do të reduktohen. Në vijim mund të vendosni statusin minimal dhe maksimal të karikimit ose shkarkimit të baterisë dhe do të njoftoheni sa herë të arrihet vlera e pragut. Shmangni një karikim të plotë dhe shkarkojeni baterinë tuaj dhe zgjasni jetën e baterisë.
+rec_notif,Nuk keni marrë njoftim?
+title_allow_bg_act,Lejo aktivitetin në sfond
+allow_bg_act,Në mënyrë që ju të mund të përdorni "Menaxherin e baterisë" pa kufizime pa u mbyllur pa dashje nga sistemi operativ, mund t'ju duhet të çaktivizoni funksionet speciale për menaxhimin e baterisë dhe përdorimin e baterisë në cilësimet. Sepse prodhuesit e ndryshëm ndryshojnë në përcaktimin e këtyre opsioneve në varësi të sistemit operativ të përdorur. Në zonën e Informacionit të aplikacionit, te "Gjumi" ose "Bateria", zgjidhni "Nuk ka kufizime" ose "Lejo aktivitetin në sfond".
+dev_usage,Përdorimi i pajisjes
+dep_sleep,Gjumi i thellë është një gjendje në të cilën pajisja juaj përdor sasinë më të vogël të baterisë. Kohëzgjatja e gjumit të thellë ka një efekt pozitiv në kursimin e energjisë. Gjumi i thellë mund të ndërpritet nga detyrat në sfond, gjë që bën që bateria të shkarkohet më shpejt. Në këtë rast, rinisni pajisjen tuaj.
+title_bat_temp,Temperatura e baterisë
+bat_tempp,Temperatura e baterisë është një nga faktorët më të rëndësishëm. Nëse bateria mbahet xhel në temperatura të larta, kjo ndikon si në jetëgjatësinë ashtu edhe në performancën e baterisë. Nëse temperatura rritet, struktura e brendshme e baterisë mund të dëmtohet.
+rdc_brightness,Ulni ndriçimin e ekranit
+display_explain,Ekrani është një nga komponentët që konsumon pjesën më të madhe të energjisë. Reduktimi i ndriçimit maksimal ndihmon në uljen e konsumit të përgjithshëm dhe arritjen e kursimeve të dukshme. Përpara se të zvogëloni ndriçimin, çaktivizoni ndriçimin automatik në mënyrë që ndriçimi të mos ndryshohet në mënyrë të panevojshme.
+tst_charge,Karikues testues
+best_way_test,Mënyra më e mirë për të testuar karikuesin dhe kabllon është duke kontrolluar shpejtësinë e karikimit me ekranin e fikur. Shpejtësia e karikimit kur ekrani është i ndezur nuk është një pikë referimi e mirë sepse telefoni juaj po konsumon energji, gjë që shkakton luhatje. Futeni karikuesin, fikni ekranin për disa minuta dhe më pas kontrolloni rrymën maksimale të karikimit.
+wait_title,Ne pritje
+rfsh_rate,Shpejtësia e rifreskimit
+low_sizty,Ulja e shkallës së rifreskimit në 60 Hz përmirëson jetëgjatësinë e baterisë.
+drk_mode,Modaliteti i errët
+acti_dark_mode,Aktivizoni modalitetin e errët, në modalitetin e errët konsumohet më pak energji
+actz,Aktivizoni
+poz,Fuqia
+minz,Minimumi
+avgo,Mesatare
+mixi1,Maksimumi
+msg_dis,Mesazhi zhduket pas 24 orësh nëse ka të dhëna të mjaftueshme për të shfaqur plotësisht diagramin.
+no_enough,Nuk ka të dhëna të mjaftueshme për t'u shfaqur
+log_graph,Brenda disa orësh do të shihni një grafik këtu që do t'ju lejojë të kontrolloni temperaturën, tensionin, amperazhin dhe nivelin e baterisë gjatë 24 orëve të fundit.
+week,javë
+buy_it,Blej
+one_pur,Tarifa një herë e
+refun_pur,blerja mund të kthehet brenda 2 orëve.
+each_month,Abonimi rinovohet automatikisht çdo muaj dhe vazhdon të kushtojë në muaj. Abonimi mund të anulohet në çdo kohë.
+mng_subs,menaxhoni abonimin
+subsci,abonohen
+will_cost_week,Abonimi rinovohet automatikisht çdo javë dhe vazhdon të kushtojë në javë. Abonimi mund të anulohet në çdo kohë.
+lfllong,gjatë gjithë jetës
+mthly,mujore
+wkly,Javore
+hoto,E nxehtë
+prm_ben_title,Përfitimet premium
+sync_title,Sinkronizoni
+dis_sync_inc,Çaktivizimi i sinkronizimit do të rrisë jetëgjatësinë e baterisë duke mos sinkronizuar shërbimet në sfond
+time_out,Koha jashtë
+dec_extend,Zvogëlimi i kohës përpara se ekrani të fiket, zgjat jetën e baterisë
+u_end_opti,Jeni i sigurt që dëshironi të përfundoni procesin e optimizimit?
+no_why_perm,Asnjë leje
+bright_exp,Menaxheri i baterisë kërkon lejen "Ndrysho cilësimet e sistemit" për të zvogëluar ndriçimin e ekranit ose për të fikur Bluetooth-in.
+tg_title,Bashkohuni në kanalin Telegram!
+tg_text,Qëndroni aktual me përditësimet e aplikacioneve, merrni ndërtime të hershme dhe ndihmoni në testimin e veçorive të reja. Sugjeroni idetë tuaja, bëni pyetje dhe merrni përgjigje më shpejt
+join_tg,bashkohen
+curr_consumption,konsumimi aktual
+scrn_onn,ekrani i ndezur
+srcn_off,ekrani fikur
+mob_charg,Ngarkimi
+discha,Shkarkimi
+activea,Aktiv
+slpmode,Modaliteti i gjumit
+chagingspeed,Shpejtësia aktuale e karikimit
+dta_proxt,Mbrojtja e të dhënave
+governs,Kjo politikë e privatësisë rregullon përdorimin tuaj të aplikacionit të softuerit Battery Manager për pajisjet celulare të krijuar nga Baxolino.
+info_u_provide,Informacioni i dhënë nga përdoruesi
+no_pass_per,Ne nuk i kalojmë të dhënat personale palëve të treta. Kur na dërgoni email, ne kemi adresën tuaj të emailit, por ne e përdorim atë vetëm për t'ju ndihmuar me aplikacionet tona.
+info_auto_coll,Informacioni i mbledhur automatikisht
+exp_admob_use,Ne përdorim Google Admob për të shërbyer reklama. Përdorimi i këtyre shërbimeve i nënshtrohet dispozitave të Google për mbrojtjen e të dhënave në https://www.google.com/policies/privacy/.
+we_real_time,A mbledh Menaxheri i Baterisë informacione të sakta të vendndodhjes në kohë reale nga pajisja?
+exp_loc_perm_man,Battery Manger kontrollon vetëm nëse vendndodhja është aktivizuar apo çaktivizuar, por nuk mbledh ndonjë informacion të saktë për vendndodhjen e pajisjes tuaj celulare. Funksione të tilla të bazuara në vendndodhje janë caktuar si parazgjedhje. Ju mund t'i çaktivizoni ose riaktivizoni këto funksione në cilësimet e pajisjes tuaj përkatëse. Para ose pas instalimit të aplikacioneve, do t'ju pyetet - në varësi të pajisjes - nëse preferoni t'i çaktivizoni ose aktivizoni këto funksione. Ne mund të mbledhim të dhëna për vendndodhjen tuaj vetëm nëse aktivizoni shërbime të tilla vendndodhjeje.
+chng,Ndryshimet
+pri_update_exp,Kjo politikë e privatësisë mund të përditësohet herë pas here për çfarëdo arsye. Ne do t'ju informojmë për ndryshimet në politikën tonë të privatësisë duke postuar politikën e re të privatësisë në këtë adresë uebi dhe duke ju njoftuar me një mesazh në aplikacion. Rekomandohet që të konsultoheni rregullisht me këtë Politikë të Privatësisë për ndryshime, pasi përdorimi i vazhdueshëm konsiderohet miratimi i të gjitha ndryshimeve. Ju mund të rishikoni historinë e kësaj politike në këtë faqe interneti.
+contct,Kontaktoni
+any_que,Nëse keni ndonjë pyetje në lidhje me mbrojtjen e të dhënave gjatë përdorimit të aplikacionit ose keni pyetje në lidhje me praktikat tona, ju lutemi dërgoni një email në baxolino.de@gmail.com
+mem_opti,Menaxheri i baterisë ka nevojë për aksesin "memorie" në mënyrë që aplikacionet të mund të skanohen dhe optimizohen. Ju mund t'i çaktivizoni ose aktivizoni këto funksione në cilësimet e pajisjes tuaj përkatëse. Para ose pas instalimit të aplikacionit, do t'ju pyetet - në varësi të pajisjes - nëse preferoni t'i çaktivizoni ose aktivizoni këto funksione.
+storg,Magazinimi
+ble_set_acc,blue_set_perm, Menaxheri i baterisë kërkon aksesin "Qasja në cilësimet e Bluetooth" në mënyrë që të kontrollohet nëse Bluetooth është aktivizuar apo çaktivizuar. Dhe për të aktivizuar ose çaktivizuar Bluetooth.
+ble_title,Bluetooth
+needz_del,Menaxheri i baterisë kërkon qasjen "Kërko fshirjen e paketave" për të nisur një çinstalim të një aplikacioni. Aplikacioni do të çinstalohet vetëm nëse e lejon në mënyrë eksplicite.
+deletion_pkg,Kërkoni fshirje të paketave
+need_adnd,Menaxheri i baterisë kërkon qasjen "Mos shqetëso" për të aktivizuar ose çaktivizuar modalitetin "Mos shqetëso".
+adnd,Hyni në "Mos shqetëso".
+need_wlan_acc,Battery Manager kërkon qasje në "Merr lidhjet WLAN" në mënyrë që Menaxheri i Baterisë të kontrollojë nëse WLAN është aktivizuar ose çaktivizuar. Dhe për të aktivizuar ose çaktivizuar WLAN.
+wln_conn,Merrni lidhje WLAN
+shop_bill_exp,Kur blini përmes Google Play In App Billing, Google na jep shtetin tuaj të banimit dhe ndonjëherë shtetin, qytetin dhe kodin postar, por kurrë adresën e plotë. Ne e përdorim këtë informacion për të qenë në përputhje me rregulloret tatimore dhe të kontabilitetit.
+pri_date,Që nga 21.02.2021
+how_to_stop,Ju mund të ndaloni të gjithë grumbullimin e informacionit nga aplikacioni thjesht duke çinstaluar aplikacionin. Mund të përdorni proceset standarde të çinstalimit të disponueshme si pjesë e pajisjes tuaj celulare ose përmes tregut ose rrjetit për aplikacionet celulare.
+opt_out,Cilat janë të drejtat e mia të tërheqjes?
+ur_permission,lejen tuaj
+accept_privacy,Duke përdorur aplikacionin, ju pranoni përpunimin tonë të të dhënave tuaja siç përcaktohet në këtë politikë të privatësisë dhe të ndryshuar nga ne.

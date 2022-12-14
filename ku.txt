@@ -1,0 +1,347 @@
+title,Battery Manager Lite cuda ye
+extend_life,Rêya çêtirîn ku dirêjkirina jiyana bateriyê û tenduristiya we li ser ezmûn û lêkolîna zanistî ye.
+measured,Bi awayek zelal em tenê daneyên rastîn ên pîvandî û çawa têne hesibandin nîşanî we didin.
+healthy,Pîlê te sax be
+double_battery,Jiyana battera xwe bi tevahî şarj nekirina pîlê xwe du qat bike. Zanyaran di lêkolînên xwe de ev yek îspat kirine.
+charge_limit,Bi karanîna agahdariya sînorê dravê me, dema ku pîlê digihîje bendek ji hêla bikarhêner ve hatî destnîşan kirin dê agahdariyek were şandin.
+smart,Her roj biaqiltir dibe
+analyze,Her ku hûn Battery Manager Lite-ê bikar bînin, em ê çêtir di analîzkirina performansa battera we de bibin.
+update_every_time,Her gava ku hûn amûrê xwe bikar tînin an bar dikin, pîvana jiyana mayî ya pîlê tê nûve kirin.
+runtime,Dema xebitandina rastîn a pîlê xwe kifş bikin
+discharge_cycle,Her gava ku têlefona we di çerxek dakêşanê de derbas dibe, dikare texmînek rast a dema xebitandina wê were pîvandin.
+accurate_life,Rêvebirê Battery Lite bikar bînin da ku jiyana rastîn a batterê bipîvin.
+no_exit,Ji Rêvebirê Battery Lite dernekevin!
+bg_require,Rêvebirê Battery Lite karûbarek paşîn hewce dike da ku statîstîkên baterî berhev bike û bar û dema dakêşanê bipîve. Dibe ku cîhaza we karûbarê rawestîne an nahêle ku gava ku serîlêdan girtî be bixebite. Ji bo ku ji vê yekê dûr nekevin, me ji we re çareseriyek baş heye. Tenê li ser lînkê bikirtînin.
+man,Destî
+cali,Calibration
+polarity,Di vê gavê de, serîlêdan polarîteya barkirinê û kapasîteya sêwirana battera we nas dike.
+disch,Jêherrik
+ch_pol,Polarity Charging
+power_meter,Metreya hêzê
+unit_mesure,Yekeya pîvanê
+capacity,Kapasîteya Pîl
+wrong,Ne rast?
+calib,Calibrate
+ye,Erê
+no,Na
+neg,Nebaş
+pos,Pozîtîf
+lunch,Serlêdanê dest pê bikin
+manufac,Kapasîteya li gorî çêker
+design_des,Kapasîteya sêwiranê kapasîteya pîlê ya rastîn e, ku di mAh de tê pîvandin. Ji ber ku rêyek fermî ji bo destnîşankirina kapasîteyê tune, dibe ku nirxa ku hatî vegerandin xelet be.
+correct_it,Ger kapasîteya nîşankirî ne rast e, ji kerema xwe wê rast bikin.
+cancel,Bişûndekirin
+ok,Okay
+runtime,Battery Runtime
+wait,li benda
+per_hr,Mezaxtina pîlê serê saetekê
+life_for,Jiyana battery ji bo
+battery_cond,Rewşa pîlê
+bat_info,Agahdariya pîlê
+bat_cap,Kapasîteya pîlê
+bat_volt,voltaja pîlê
+bat_cur,Battery niha
+unit_mes,Yekeya pîvanê
+done,Kirin
+c_bat_temp,Germahiya Battery Niha
+min_bat_tem,Germahiya Pîlê herî kêm
+mx_bat_tem,Germahiya herî zêde ya pîlê
+avg_bat_tem,Germahiya bataryayê ya navîn
+dig_last,Teşhîsa dawîn berî
+rem_time,Dema mayîn
+volt,Woltî
+curr,Vêga
+status,Cî
+run_time,Dema direve
+currently,Evdem
+avg,Navoser
+minmal,Minimal
+maximal,Zêdetir
+tool,Amûrên
+rem_apps,Sepanên ku hûn êdî bikar naynin rakin da ku nehêle ku sepan bêhewce bixebitin û battera we zuha nekin
+uninst_apps,Rakirina Apps
+stat,Destpêkirin
+act_eng_save,Moda hilanîna enerjiyê çalak bikin da ku xerckirina batterê kêm bikin
+pow_save,Moda hilanîna hêzê
+tempe,Germî
+heal,Tendûrûstî
+tips,Bi şîret û hîleyan Pîlê xwe di rewşek baş de bihêlin.
+recomm,Pêşniyarên
+prem,Xelat
+more_func,Ji bo we fonksiyonên bêtir. Premium bistînin, bêtir bistînin.
+more,Zêde
+ur_cond_bat,Rewşa pîlê ye
+ur_bat_life,Jiyana bateriya we ye
+ur_bat_temp,Germahiya batariya we ye
+wow,Pirrbidilî
+normal,Normal
+poor,Bed
+days,Days
+mins,Minutes
+hrs,Hours
+chging,Charging
+ful,Tije
+dis_chrg,Daxistin
+unkn,Nenas
+too_lit,Daneyên Pîlê pir hindik
+car_any,Bi her awayî pêk bînin
+endz_,Dawî
+dig_any,Ji bo ku hûn encamên tespîtkirinê çêtir bistînin, pêdivî ye ku serîlêdan di paşerojê de battera we analîz bike. Ji kerema xwe piştî 24 saetan teşhîs dest pê bikin
+end_dig,Teşhîsa dawî
+quit_dig,Bi rastî dev ji Diagnostîkê berdin
+batty_temp,Germahiya pîlê
+akku_manager,Rêveberê Akku
+u_agree,Bi "START" hûn qaîdeyên parastina daneyê qebûl dikin
+elemn_opti,Hêman dikarin xweşbîn bibin
+looks_good,Her tişt baş xuya dike
+optimize_,Optimize bikin
+toolz_,Amûrên
+akku_check,Akku Check
+ctrl_load,Barkirina kontrolkirî
+mng_apps,Serlêdan birêve bibin
+infosm,Agahî
+tenzion,kêşî
+electy,elatrîk
+lvl,Serrast
+akku_man_premium,Akku Manager Premium
+premimum_highlight,Rêvebirê Pîlê bi tevahî bêyî reklamê bikar bînin û hûn gihîştina xwerûkirina berfireh a navbeynkariya bikarhêner heye.
+design,Mînakkirin
+subjs,mijarên
+genrally,Giştîve
+temp_unit,Yekîneya germê
+oth_apps,Serlêdanên din
+dat_protect,Parastina daneyan
+thx_akku,Spas ji bo ku hûn bi kirîna guhertoya premium piştgirî didin Rêvebirê Akku.
+user_got_pre,Naha hûn gihîştina xwerûkirina berfireh a navgîniya bikarhêner û karanîna bêyî reklamê heye.
+exp_more,Hûn dikarin di nûvekirinên pêşerojê de bêtir taybetmendiyên hêvî bikin
+ap_optimiz,Optimîzasyona App
+sys_bat_usage,Vexwarina pîlê System
+bat_usage_det,Hûrguliyên karanîna pîlê
+end_optiz,Optimîzasyon bi dawî bibe
+abort,Abort
+break_up,tevlîkirin
+scn,to scan
+scn_bgh,Ronahiya ekranê
+dact_wlan,WLAN neçalak bike
+dact_save_batt,Deaktîv bike ku pîlê xilas bike
+dact,Deaktîv bike
+dact_ble,Bluetooth-ê neçalak bike
+red_brigh,Ronahî kêm bikin
+bright_txt,Ronahiya dîmenderê kêm bikin da ku batterê xilas bike
+to_reduce,Kêm kirin
+dact_gps,GPS-ê neçalak bike
+appz_optimz,Apps optimîzekirin
+start_bat_check_det,Kontrolek bataryayê ya berfireh dest pê bikin da ku her gav li tenişta ewle bin
+act_eng_save,Moda hilanîna enerjiyê çalak bikin da ku xerckirina batterê kêm bikin
+remove_useless,Sepanên ku êdî nayên bikaranîn rakin
+premium,Xelat
+clear_mem,Paqijkirina bîrê
+clear_mem_des,Ji ber ku smartphone we zû û bêkêmasî dimeşîne.
+clenaup,Demdirêj
+rat,rating
+rat_free,Rêvebirê Battery-ê belaş binirxînin
+sendz,Şandin
+elmn_found,Eleman hatin dîtin
+drumz,Drums
+status,Cî
+end_akk_check,Kontrola pîlê bi dawî bibe
+bat_detlz,Detayên pîlê
+temp_checked,Germahiya tê kontrol kirin
+cond_checked,Rewşa pîlê tê kontrol kirin
+checkz_start,Kontrolkirina pîlê dest pê dike
+plug_in,Plugged in
+techz,Teknolocî
+coldz,Sarma
+until,Ta
+well,Baş
+ovr_heat,Germkirina zêde
+ovr_load,Bargirankirin
+renam,guherandin
+not_def,ne diyar kirin
+chrgz,Biha
+full,Tije
+unloadz,Daxistin
+not_charge_unkn,ne tawanbar an nenas
+usb,USB
+charger,charger
+wless,bêtêl
+not_at_al,qet tiştek tune
+uninstall,Rakirin
+update,Ji bo nûvekirinê
+setting,Settings
+app,Apps
+not_found,App nehat dîtin
+search,Sepanan bigerin
+version_code,Versiyon Code
+api_level,Asta API
+app_version,Versiyon ji App
+authorization,wekîlkirinî
+open,vekirin
+play_store,Play Store
+control,kontrol
+systemstandart,Systemstandard
+white,Spî
+dark,Tarî
+ocean,Derya
+black,Reş
+dark_blue,Şînê tarî
+excellent,Pirrbidilî
+bad,Xerab
+battery_bad,Pîl hinekî xera bûye
+very_bad,Gelek xirab
+battery_damaged,Pîl xera dibe
+custom_mode,Mode Custom
+brightness,Brightness
+automatic_brightness,Brightness Otomatîk
+normal,Normal
+sound_modus,Modus Deng
+tone_work,Hemî Tones Kar dikin
+mute,Bêdeng
+call_note_mute,Bang û agahdarî têne qut kirin
+not_bother,Xem neke
+tones_vibration_mute,Ji bilî awazên alarmê, awaz û vibrasyonên xwe vemirînin
+sound,Deng
+music,mûzîk
+notification,Agahdayin
+alarm,Hawar
+ultra_saving,Moda hilanîna enerjiyê ya Ultra
+edit,To edit
+disable_ultra_saving,Moda Teserûfa Enerjiyê ya Ultra neçalak bike
+min_remaining,min maye
+hours,saetan
+activted_ultra_saving,Moda hilanîna enerjiyê ya Ultra tê çalak kirin
+charged_in,barkirin di
+min,min
+limit_power,Mezaxtina hêzê sînordar bikin
+reduce_screen,Ronahiya ekranê kêm bikin
+restrict_bg_act_explain,Çalakiyên paşerojê sînordar bikin
+volatge_check,Voltage tê kontrol kirin
+software_optimized,Nermalava xweşkirî ye
+connect_charger,Charger girêdan
+charger_removed,Charger dikare were rakirin
+power_consump_title,Mezaxtina hêzê
+srcn_bg_title,Ronahiya ekranê
+bg_al_activities,çalakiyên Background
+sftware,Software
+get_primium,Ger hûn guhertoya premium bikirin, hûn ê di pêşerojê de hemî fonksiyonên heyî û her weha hemî fonksiyonên nû bistînin.
+cuztomize_face,Xweserkirina navbera bikarhêner
+comp_scheme,Rengê Rêvebirê Pîlê xwe ji cûrbecûr mijaran pêk bînin.
+bat_check_detail,Kontrola batterê ya berfireh
+check_cond_test,Rêvebirê Pîlê bikar bînin da ku rewşa pîlê xwe kontrol bikin da ku her gav li tenişta ewle bin.
+no_ads_yo,Reklam nîne
+use_explain_noads,Rêvebirê Pîlê bêyî reklamê bikar bînin
+act_energy_save,Moda hilanîna enerjiyê ya ultra çalak bikin da ku di rewşek acîl de jiyana bateriyê zêde bike.
+buy_title,Premium bikirin
+loc_title,Cîh
+cap_title,kanîn
+cap_remain,Kapasîteya mayî
+sleepy,Xew
+sek,Seconds
+sing_min,Deqqe
+miniotes,Minutes
+finish,Qediya
+mobi_data,daneyên mobîl
+plz_rate,Ji kerema xwe Rêvebirê Pîlê di Play Store de binirxînin
+ur_data_cus,Ma em dikarin berdewam bikin ku daneyên we bikar bînin da ku ji we re reklaman xweş bikin?
+in_slep_mode,Di moda xewê de
+in_use,Li kar
+with_curr_pow,Bi xerckirina hêza heyî
+rem_bat_life,Jiyana pîlê mayî
+qck_acc,Gihîştina bilez
+notif_txt,agahdayin
+notif_at,Agahdarî li
+chg_curr,Barkirina niha
+charge_perm,Performansa barkirinê
+maxi_charge_per,Performansa barkirinê ya herî zêde
+enb_notif,Agahdariyê çalak bike
+perm_send_notif,Rêvebirê Pîlê ji bo şandina agahiyekê destûr hewce dike, divê ew di mîhengên cîhazê de were çalak kirin.
+to_set,Ji bo mîhengan
+title_autost,Destpêkirina Xweser çalak bike
+auto_explain,Rêvebirê Pîlê ji bo ku li rewşa pîlê bipirse û agahiyek bişîne destûr hewce dike ku di paşîn de çalak bimîne.
+sync_auto,Xweber hevdeng bikin
+dis_auto_sync,Neçalakkirina hevdengkirina otomatîkî bi girîngî şiyarbûnê kêm dike. Lêbelê, hin fonksiyonên wekî wergirtina e-nameyê dê winda bibin.
+chg_lim,Sînora barkirinê
+avoid_ful_explain,Ger hûn pîlê xwe herî zêde şarj bikin an heya ku were qut kirin wê dakêşînin, rewş û jiyana karûbarê pîlê kêm dibe. Di jêrîn de hûn dikarin statûya barkirin an dakêşana herî kêm û herî zêde ya pîlê destnîşan bikin û her gava ku nirxa berdêlê bigihîje hûn ê werin agahdar kirin. Ji yek tije şarjê dûr bixin û pîlê xwe dakêşin û jiyana pîlê dirêj bikin.
+rec_notif,Agahdarî nehat girtin?
+title_allow_bg_act,Destûrê bide çalakiya paşîn
+allow_bg_act,Ji bo ku hûn bikaribin bêyî sînorkirin Rêvebirê Pîlê bikar bînin bêyî ku ew ji hêla pergala xebitandinê ve bi nezanî were girtin, dibe ku hûn neçar bin ku di mîhengan de fonksiyonên taybetî yên ji bo rêveberiya bataryayê û karanîna bataryayê qut bikin. Ji ber ku hilberînerên cihêreng di navnîşana van vebijarkan de li gorî pergala xebitandinê ya ku hatî bikar anîn cûda dibin. Li qada Agahdariya Appê, di binê Xew an Pîlê de, Bê Sînorkirin an Destûr Bide Çalakiya Paşerojê hilbijêrin.
+dev_usage,Bikaranîna cîhazê
+dep_sleep,Xewa kûr rewşek e ku tê de cîhaza we herî hindik pîlê bikar tîne. Demjimêra xewa kûr bandorek erênî li ser teserûfa enerjiyê dike. Xewa kûr dikare ji hêla peywirên paşîn ve were qut kirin, ku dibe sedem ku baterî zûtir dakêşe. Di vê rewşê de, amûrê xwe ji nû ve bidin destpêkirin.
+title_bat_temp,Germahiya pîlê
+bat_tempp,Germahiya pîlê yek ji faktorên herî girîng e. Ger pîlê di germahiyên bilind de gêl were girtin, ev hem li ser jiyana karûbarê hem jî performansa pîlê bandor dike. Ger germahî zêde bibe, avahiya hundurê pîlê dikare zirarê bibîne.
+rdc_brightness,Ronahiya ekranê kêm bikin
+display_explain,Dîmender yek ji wan hêmanan e ku piraniya enerjiyê dixwe. Kêmkirina ronahiya herî zêde dibe alîkar ku xerckirina giştî kêm bike û teserûfên berbiçav bi dest bixe. Berî ku ronahiyê kêm bikin, ronahiya otomatîkî neçalak bikin da ku ronî bêhewce neyê guheztin.
+tst_charge,Charger test
+best_way_test,Awayê çêtirîn ji bo ceribandina şarj û kabloyê kontrolkirina leza barkirinê ya bi ekranê vegirtî ye. Leza barkirinê dema ku ekran vekirî ye ne pîvanek baş e ji ber ku têlefona we hêz dixwe, ku dibe sedema guheztinan. Karkerê pêve bikin, dîmenderê çend hûrdeman vekin, û dûv re jî heyama barkirinê ya herî zêde kontrol bikin.
+wait_title,Li benda
+rfsh_rate,Rêjeya nûvekirinê
+low_sizty,Kêmkirina rêjeya nûvekirinê heya 60 Hz jiyana bateriyê baştir dike.
+drk_mode,Moda Dark
+acti_dark_mode,Moda Dark çalak bikin, di Moda Dark de hêza kêmtir tê vexwarin
+actz,Çalak bike
+poz,Erk
+minz,Kêmtirîn
+avgo,Navoser
+mixi1,Zêdetir
+msg_dis,Heke daneya têr hebe ku diyagramê bi tevahî nîşan bide peyam piştî 24 demjimêran winda dibe.
+no_enough,Daneyên têr nîn in ku werin xuyang kirin
+log_graph,Di nav çend demjimêran de hûn ê li vir grafiyek bibînin ku dê bihêle hûn germahiya bataryayê, voltaj, amperage û asta 24 demjimêrên borî kontrol bikin.
+week,hefte
+buy_it,Kirrîn
+one_pur,Xerca yek-demî ya
+refun_pur,kirînê dikare di nav 2 saetan de vegere.
+each_month,Abonet her mehê bixweber nûve dike û her meh lêçûn berdewam dike. Abonetî di her kêliyê de dikare were betal kirin.
+mng_subs,birêvebirina abonetiyê
+subsci,bibin abone
+will_cost_week,Abonet her hefte bixweber nûve dike û her hefte lêçûn berdewam dike. Abonetî di her kêliyê de dikare were betal kirin.
+lfllong,jîyanê
+mthly,mehane
+wkly,Heftane
+hoto,Germ
+prm_ben_title,feydeyên Premium
+sync_title,Senkronîze bikin
+dis_sync_inc,Neçalakkirina senkronîzekirinê dê bi nesenkronîzekirina karûbarên di paşerojê de jiyana bateriyê zêde bike
+time_out,Başim
+dec_extend,Kêmkirina dema berî ku dîmender biqede, jiyana bataryayê dirêj dike
+u_end_opti,Ma hûn guman dikin ku hûn dixwazin pêvajoya xweşbîniyê biqedînin?
+no_why_perm,Destûr nîne
+bright_exp,Rêvebirê Pîlê destûrnameya mîhengên pergalê biguhezîne da ku ronahiya ekranê kêm bike an Bluetooth-ê qut bike.
+tg_title,Tevlî kanala Telegramê bibin!
+tg_text,Bi nûvekirinên sepanê re heyî bimînin, avahîyên zû bistînin, û ji ceribandina taybetmendiyên nû re bibin alîkar. Fikrên xwe pêşniyar bikin, pirsan bipirsin û zûtir bersivan bistînin
+join_tg,bihevgirêdan
+curr_consumption,mezaxtina niha
+scrn_onn,li ser ekranê
+srcn_off,screen off
+mob_charg,Charging
+discha,Daxistin
+activea,Jîr
+slpmode,Moda xewê
+chagingspeed,Leza barkirinê ya niha
+dta_proxt,Parastina daneyan
+governs,Vê polîtîkaya nepenîtiyê karanîna we ya nermalava Gerînendeyê Battery-ê ji bo cîhazên mobîl ên ku ji hêla Baxolino ve hatine afirandin rêve dike.
+info_u_provide,Agahdariya ku ji hêla bikarhêner ve hatî peyda kirin
+no_pass_per,Em daneyên kesane ji aliyên sêyemîn re derbas nakin. Dema ku hûn ji me re e-nameyê bişînin, navnîşana e-nameya we heye, lê em wê tenê bikar tînin da ku hûn bi sepanên xwe re bibin alîkar.
+info_auto_coll,Agahî bixweber têne kom kirin
+exp_admob_use,Em Google Admob bikar tînin da ku reklaman pêşkêş bikin. Bikaranîna van karûbaran li ser hukmên parastina daneya Google li ser https://www.google.com/policies/privacy/ ve girêdayî ye.
+we_real_time,Rêvebirê Battery agahdariya cîhê rast-a-rast ji cîhazê berhev dike?
+exp_loc_perm_man,Battery Manger tenê kontrol dike ka cîh tê çalak kirin an neçalak kirin, lê di derheqê cîhê cîhaza weya desta de agahdariya rastîn berhev nake. Van fonksiyonên cîh-based ji hêla xwerû ve têne danîn. Hûn dikarin van fonksiyonan di mîhengên cîhaza xweya têkildar de neçalak bikin an ji nû ve çalak bikin. Berî an piştî sazkirina sepanan, dê ji we were pirsîn - li gorî cîhazê - hûn tercîh dikin ku van fonksiyonan neçalak bikin an çalak bikin. Em tenê dikarin di derheqê cîhê we de daneyan berhev bikin ger hûn karûbarên cîhê weha çalak bikin.
+chng,Changes
+pri_update_exp,Dibe ku ev polîtîkaya nepenîtiyê ji ber her sedemek dem bi dem were nûve kirin. Em ê bi şandina polîtîkaya nepenîtiyê ya nû li ser vê navnîşana malperê û bi peyamek di sepanê de we agahdar bikin ji guhertinên di polîtîkaya xweya nepenîtiyê de. Tê pêşniyar kirin ku hûn bi rêkûpêk ji bo guhertinan bi vê Siyaseta Nepenîtiyê şêwir bikin, ji ber ku karanîna domdar pejirandina hemî guhertinan tê hesibandin. Hûn dikarin li ser vê malperê dîroka vê polîtîkayê binirxînin.
+contct,Têkelî
+any_que,Heke di dema karanîna serîlêdanê de pirsên we di derbarê parastina daneyê de hebin an jî di derheqê pratîkên me de pirsên we hebin, ji kerema xwe e-nameyek ji baxolino.de@gmail.com re bişînin.
+mem_opti,Rêvebirê Pîlê pêdivî bi gihîştina "bîr"ê heye da ku sepan werin şûştin û xweşbîn kirin. Hûn dikarin van fonksiyonan di mîhengên cîhaza xweya têkildar de neçalak bikin an çalak bikin. Berî an piştî sazkirina sepanê, dê ji we were pirsîn - li gorî cîhazê - hûn tercîh dikin ku van fonksiyonan neçalak bikin an çalak bikin.
+storg,Embarkirinî
+ble_set_acc,blue_set_perm, Rêvebirê Pîlê pêdivî bi gihîştina "Gihandina mîhenga Bluetooth" heye da ku were kontrol kirin ka Bluetooth çalak e an neçalak e. Û ji bo çalakkirin an neçalakkirina Bluetooth.
+ble_title,Bluetooth
+needz_del,Rêvebirê Pîlê pêdivî bi gihîştina "Daxwaza jêbirina pakêtan" dike da ku dest bi rakirina sepanekê bike. Serlêdan dê tenê were rakirin heke hûn bi eşkere destûr bidin wê.
+deletion_pkg,Daxwaza jêbirina pakêtan
+need_adnd,Rêvebirê Pîlê ji bo çalakkirin an neçalakkirina moda Tehlûkê Nexebite, pêdivî bi gihandina "Xebat nekin".
+adnd,Gihîştina Nerehet Nekin
+need_wlan_acc,Rêvebirê Pîlê hewce dike ku bigihîje "Têkiliyên WLAN-ê Bistînin" da ku Rêvebirê Pîlê bikaribe kontrol bike ka WLAN çalak e an neçalak e. Û ji bo çalakkirin an neçalakkirina WLAN.
+wln_conn,Têkiliyên WLAN bistînin
+shop_bill_exp,Gava ku hûn bi riya Google Play In App Billing dikanin, Google welatê weya rûniştinê û carinan jî dewlet, bajar û koda zip dide me, lê qet navnîşana tevahî nade. Em vê agahiyê bikar tînin da ku li gorî rêzikên bac û hesabê tevbigerin.
+pri_date,Ji 02/21/2021
+how_to_stop,Hûn dikarin bi tenê rakirina serîlêdanê tevahiya berhevoka agahdariya ji hêla serîlêdanê ve rawestînin. Hûn dikarin pêvajoyên rakirina standard ên ku wekî beşek ji cîhaza xweya desta an bi navgîniya sûkê an torê ji bo sepanên mobîl peyda dibin bikar bînin.
+opt_out,Mafên min ên veqetandinê çi ne?
+ur_permission,destûra te
+accept_privacy,Bi karanîna serîlêdanê, hûn razîbûna me ji hilanîna daneyên we re wekî ku di vê polîtîkaya nepenîtiyê de hatî destnîşan kirin û ji hêla me ve hatî guheztin qebûl dikin.

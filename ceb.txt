@@ -1,0 +1,347 @@
+title,Lahi ang Battery Manager Lite
+extend_life,Ang labing kaayo nga paagi aron mapalawig ang kinabuhi sa baterya ug mapadayon ka nga himsog gibase sa kasinatian ug siyentipikong panukiduki.
+measured,Sa usa ka transparent nga paagi gipakita lang namo kanimo ang aktuwal nga gisukod nga datos ug kung giunsa kini pagkalkulo.
+healthy,Hupti nga himsog ang imong baterya
+double_battery,Dobleha ang imong kinabuhi sa baterya pinaagi sa dili hingpit nga pag-charge sa imong baterya. Gipamatud-an kini sa mga siyentipiko sa ilang panukiduki.
+charge_limit,Gamit ang among pahibalo sa limitasyon sa pagsingil, usa ka pahibalo ang ipadala kung ang baterya makaabut sa usa ka gitakda sa user nga sukaranan.
+smart,Kini mas maalamon kada adlaw
+analyze,Kung mas dugay nimo gamiton ang Battery Manager Lite, mas maayo ang among pag-analisar sa performance sa imong baterya.
+update_every_time,Ang nahabilin nga pagsukod sa kinabuhi sa baterya gi-update matag higayon nga imong gamiton o i-charge ang imong aparato.
+runtime,Hibal-i ang aktuwal nga runtime sa imong baterya
+discharge_cycle,Sa matag higayon nga ang imong telepono moagi sa usa ka siklo sa pag-discharge, ang usa ka tukma nga banabana sa oras sa pagdagan niini mahimong masukod.
+accurate_life,Gamita ang Battery Manager Lite aron masukod ang tukma nga kinabuhi sa baterya.
+no_exit,Ayaw paggawas sa Battery Manager Lite!
+bg_require,Ang Battery Manager Lite nanginahanglan usa ka serbisyo sa background aron makolekta ang mga istatistika sa baterya ug sukdon ang bayad sa baterya ug oras sa pag-discharge. Ang imong device lagmit mohunong sa serbisyo o dili motugot niini sa pagdagan kon ang app sirado. Aron malikayan kini, kami adunay maayong solusyon alang kanimo. I-klik lang ang link.
+man,Manwal
+cali,Pag-calibrate
+polarity,Niini nga lakang, nakita sa app ang polarity sa pag-charge ug ang kapasidad sa disenyo sa imong baterya.
+disch,Pagtangtang
+ch_pol,Pag-charge sa polarity
+power_meter,Power meter
+unit_mesure,Yunit sa pagsukod
+capacity,Kapasidad sa Baterya
+wrong,Dili sakto?
+calib,Pag-calibrate
+ye,Oo
+no,Dili
+neg,Negatibo
+pos,Positibo
+lunch,Ilunsad ang App
+manufac,Kapasidad sumala sa tiggama
+design_des,Ang kapasidad sa disenyo mao ang aktuwal nga kapasidad sa baterya, nga gisukod sa mAh. Tungod kay walay opisyal nga paagi sa pagtino sa kapasidad, ang bili nga gibalik mahimong sayop.
+correct_it,Kung ang gipakita nga kapasidad dili husto, palihug itul-id kini.
+cancel,Pagkanselar
+ok,Okay ra
+runtime,Baterya Runtime
+wait,naghulat
+per_hr,Konsumo sa baterya kada oras
+life_for,Kinabuhi sa baterya alang sa
+battery_cond,Kondisyon sa baterya
+bat_info,Impormasyon sa baterya
+bat_cap,Kapasidad sa baterya
+bat_volt,Boltahe sa baterya
+bat_cur,Baterya karon
+unit_mes,Yunit sa pagsukod
+done,Nahimo
+c_bat_temp,Kasamtangang Temperatura sa Baterya
+min_bat_tem,Minimum nga temperatura sa Baterya
+mx_bat_tem,Maximum nga temperatura sa baterya
+avg_bat_tem,Average nga temperatura sa baterya
+dig_last,Katapusan nga diagnosis kaniadto
+rem_time,Nabilin nga oras
+volt,Boltahe
+curr,kasamtangan
+status,Status
+run_time,Panahon sa pagdagan
+currently,Sa pagkakaron
+avg,Average
+minmal,Minimal
+maximal,Maximum
+tool,Mga galamiton
+rem_apps,I-uninstall ang mga app nga wala na nimo gamita aron mapugngan ang mga app nga modagan nga dili kinahanglan ug mahurot ang imong baterya
+uninst_apps,Uninstall Apps
+stat,Pagsugod
+act_eng_save,I-aktibo ang mode sa pagtipig sa enerhiya aron makunhuran ang konsumo sa baterya
+pow_save,Power saving mode
+tempe,Temperatura
+heal,Panglawas
+tips,Ipadayon ang imong Baterya sa maayong kahimtang uban ang mga tip ug mga limbong.
+recomm,Mga rekomendasyon
+prem,Premium
+more_func,Dugang nga mga gimbuhaton alang kanimo. Pagkuha og premium, pagkuha og dugang.
+more,Dugang pa
+ur_cond_bat,Ang kahimtang sa baterya
+ur_bat_life,Ang imong kinabuhi sa baterya mao
+ur_bat_temp,Ang Temperatura sa imong Baterya kay
+wow,Maayo kaayo
+normal,Normal
+poor,Dili maayo
+days,Mga adlaw
+mins,Mga minuto
+hrs,Mga oras
+chging,Nagpabayad
+ful,Puno
+dis_chrg,Pagdiskarga
+unkn,Wala mailhi
+too_lit,Gamay kaayo nga Data sa Baterya
+car_any,Ipadayon gihapon
+endz_,Katapusan
+dig_any,Aron makakuha og mas maayo nga mga resulta sa diagnostic, kinahanglan nga analisahon sa app ang imong baterya sa background. Palihug sugdi ang diagnosis pagkahuman sa 24 oras
+end_dig,Katapusan nga diagnosis
+quit_dig,Pag-undang gyud sa Diagnosis
+batty_temp,Temperatura sa baterya
+akku_manager,Akku Manager
+u_agree,Uban sa "START" miuyon ka sa mga regulasyon sa pagpanalipod sa datos
+elemn_opti,Ang mga elemento mahimong ma-optimize
+looks_good,Nindot tan-awon ang tanan
+optimize_,Pag-optimize
+toolz_,Mga galamiton
+akku_check,Akong Check
+ctrl_load,Gikontrol nga pagkarga
+mng_apps,Pagdumala sa mga app
+infosm,Impormasyon
+tenzion,tensiyon
+electy,kuryente
+lvl,Ang-ang
+akku_man_premium,Akku Manager Premium
+premimum_highlight,Gamita ang Battery Manager sa hingpit nga walay advertising ug ikaw adunay access sa halapad nga pag-customize sa user interface.
+design,Disenyo
+subjs,mga subject
+genrally,Kasagaran
+temp_unit,Yunit sa temperatura
+oth_apps,Uban pang mga Apps
+dat_protect,Pagpanalipod sa datos
+thx_akku,Salamat sa pagsuporta sa Akku Manager sa pagpalit sa premium nga bersyon.
+user_got_pre,Ikaw karon adunay access sa halapad nga customization sa user interface ug paggamit nga walay advertising.
+exp_more,Mahimo nimong mapaabut ang daghang mga bahin sa umaabot nga mga update
+ap_optimiz,Pag-optimize sa app
+sys_bat_usage,Pagkonsumo sa baterya sa sistema
+bat_usage_det,Mga detalye sa paggamit sa baterya
+end_optiz,Tapuson ang pag-optimize
+abort,Abort
+break_up,buwag
+scn,sa pag-scan
+scn_bgh,Kahayag sa screen
+dact_wlan,I-deactivate ang WLAN
+dact_save_batt,I-deactivate aron makadaginot sa baterya
+dact,I-deactivate
+dact_ble,I-deactivate ang bluetooth
+red_brigh,Bawasan ang kahayag
+bright_txt,Bawasan ang kahayag sa display aron makadaginot sa baterya
+to_reduce,Aron maminusan
+dact_gps,I-deactivate ang GPS
+appz_optimz,Na-optimize ang mga app
+start_bat_check_det,Pagsugod sa usa ka detalyado nga pagsusi sa baterya aron kanunay nga naa sa luwas nga bahin
+act_eng_save,I-aktibo ang mode sa pagtipig sa enerhiya aron makunhuran ang konsumo sa baterya
+remove_useless,I-uninstall ang mga app nga wala na gigamit
+premium,Premium
+clear_mem,Limpyohi ang memorya
+clear_mem_des,Aron ang imong smartphone modagan dayon ug hapsay.
+clenaup,Paglimpyo
+rat,rating
+rat_free,Rate Battery Manager nga libre
+sendz,Ipadala
+elmn_found,Nakaplagan ang mga elemento
+drumz,Mga tambol
+status,Status
+end_akk_check,Tapuson ang pagsusi sa baterya
+bat_detlz,Mga detalye sa baterya
+temp_checked,Gisusi ang temperatura
+cond_checked,Gisusi ang kahimtang sa baterya
+checkz_start,Nagsugod ang pagsusi sa baterya
+plug_in,Gisaksak
+techz,Teknolohiya
+coldz,Bugnaw
+until,Hangtod
+well,Aw
+ovr_heat,Sobra nga kainit
+ovr_load,Sobra nga karga
+renam,giusab ang ngalan
+not_def,wala gihubit
+chrgz,Maningil
+full,Puno
+unloadz,Pagdiskarga
+not_charge_unkn,wala gisingil o wala mailhi
+usb,USB
+charger,charger
+wless,wireless
+not_at_al,wala gyud
+uninstall,I-uninstall
+update,Aron ma-update
+setting,Mga setting
+app,Aplikasyon
+not_found,App wala makit-an
+search,Pangitaa ang mga app
+version_code,Code sa Bersyon
+api_level,Ang lebel sa API
+app_version,Bersyon sa App
+authorization,pagtugot
+open,sa pag-abli
+play_store,Play Store
+control,kontrol
+systemstandart,Sistema nga sumbanan
+white,Puti
+dark,Ngitngit
+ocean,Dagat
+black,Itom
+dark_blue,Itom nga Asul
+excellent,Maayo kaayo
+bad,Daotan
+battery_bad,Medyo nadaot ang baterya
+very_bad,Grabe kaayo
+battery_damaged,Nadaot ang baterya
+custom_mode,Custom nga Mode
+brightness,Kahayag
+automatic_brightness,Awtomatikong Kahayag
+normal,Normal
+sound_modus,Sound Modus
+tone_work,Tanan nga Tones Work
+mute,Amang
+call_note_mute,Ang mga tawag ug pahibalo gipahilom
+not_bother,Ayaw samoka
+tones_vibration_mute,I-off ang mga tono ug mga vibrations, gawas sa mga tono sa alarma
+sound,Mga tingog
+music,musika
+notification,Pagpahibalo
+alarm,Alarm
+ultra_saving,Ultra nga paagi sa pagdaginot sa enerhiya
+edit,Sa pag-edit
+disable_ultra_saving,I-disable ang Ultra Energy Saving Mode
+min_remaining,min nga nahabilin
+hours,oras
+activted_ultra_saving,Gi-activate ang ultra energy saving mode
+charged_in,gikargahan sa
+min,min
+limit_power,Limitahi ang konsumo sa kuryente
+reduce_screen,Bawasan ang kahayag sa screen
+restrict_bg_act_explain,Limitahi ang mga kalihokan sa background
+volatge_check,Gisusi ang boltahe
+software_optimized,Ang software na-optimize
+connect_charger,Ikonektar ang charger
+charger_removed,Pwede tangtangon ang charger
+power_consump_title,Konsumo sa kuryente
+srcn_bg_title,Kahayag sa screen
+bg_al_activities,Mga kalihokan sa background
+sftware,Software
+get_primium,Kung mopalit ka sa premium nga bersyon, makuha nimo ang tanan nga karon nga mga gimbuhaton ingon man ang tanan nga bag-ong mga gimbuhaton sa umaabot.
+cuztomize_face,Pag-customize sa user interface
+comp_scheme,Isulat ang imong laraw sa kolor sa Battery Manager gikan sa lainlaing mga tema.
+bat_check_detail,Detalyadong pagsusi sa baterya
+check_cond_test,Gamita ang Battery Manager aron masusi ang kondisyon sa imong baterya nga kanunay anaa sa luwas nga bahin.
+no_ads_yo,Walay advertising
+use_explain_noads,Paggamit sa Battery Manager nga wala’y bisan unsang advertising
+act_energy_save,I-aktibo ang ultra energy saving mode aron madugangan ang kinabuhi sa baterya sa usa ka emerhensya.
+buy_title,Pagpalit ug Premium
+loc_title,Lokasyon
+cap_title,kapasidad
+cap_remain,Ang nahabilin nga kapasidad
+sleepy,Pagkatulog
+sek,Segundo
+sing_min,Minuto
+miniotes,Mga minuto
+finish,Nahuman
+mobi_data,mobile data
+plz_rate,Palihug i-rate ang Battery Manager sa Play Store
+ur_data_cus,Makapadayon ba kami sa paggamit sa imong data aron ipasibo ang mga ad para kanimo?
+in_slep_mode,Sa sleep mode
+in_use,Sa paggamit
+with_curr_pow,Uban sa kasamtangan nga konsumo sa kuryente
+rem_bat_life,Ang nahabilin nga kinabuhi sa baterya
+qck_acc,Dali nga pag-access
+notif_txt,pahibalo
+notif_at,Pahibalo sa
+chg_curr,Pag-charge sa kasamtangan
+charge_perm,Pag-charge sa performance
+maxi_charge_per,Pinakataas nga performance sa pag-charge
+enb_notif,I-enable ang pagpahibalo
+perm_send_notif,Ang Battery Manager nanginahanglan pagtugot nga magpadala usa ka pahibalo, kinahanglan kini nga ma-aktibo sa mga setting sa aparato.
+to_set,Sa mga setting
+title_autost,I-aktibo ang Autostart
+auto_explain,Ang Battery Manager nanginahanglan pagtugot nga magpabilin nga aktibo sa background aron mapangutana ang kahimtang sa baterya ug magpadala usa ka pahibalo.
+sync_auto,Awtomatikong i-synchronize
+dis_auto_sync,Ang pag-disable sa awtomatik nga pag-synchronize makapakunhod pag-ayo sa mga wakelock. Bisan pa, ang pipila nga mga gimbuhaton sama sa pagdawat sa e-mail mawala.
+chg_lim,Limit sa Pagsingil
+avoid_ful_explain,Kung imong i-charge ang imong baterya hangtod sa labing taas o i-discharge kini hangtod nga mapalong, ang kahimtang ug kinabuhi sa serbisyo sa baterya maminusan. Sa mosunod mahimo nimong itakda ang minimum ug maximum nga charge o discharge status sa baterya ug mapahibalo ka sa matag higayon nga maabot ang threshold value. Likayi ang usa ka bug-os nga i-charge ug i-discharge ang imong baterya ug ipalugway ang kinabuhi sa baterya.
+rec_notif,Wala nakadawat pahibalo?
+title_allow_bg_act,Tugoti ang kalihokan sa background
+allow_bg_act,Aron mahimo nimo nga magamit ang Battery Manager nga wala’y mga pagdili nga wala kini gituyo nga gisirhan sa operating system, kinahanglan nimo nga i-off ang mga espesyal nga function alang sa pagdumala sa baterya ug paggamit sa baterya sa mga setting. Tungod kay ang lainlaing mga tiggama magkalainlain sa pagtawag niini nga mga kapilian depende sa operating system nga gigamit. Diha sa App Information area, ubos sa Sleep o Battery, pilia ang No Restrictions o Allow Background Activity.
+dev_usage,Paggamit sa device
+dep_sleep,Ang lawom nga pagkatulog usa ka kahimtang diin ang imong aparato naggamit sa labing gamay nga kantidad sa baterya. Ang gidugayon sa lawom nga pagkatulog adunay positibo nga epekto sa pagdaginot sa enerhiya. Ang lawom nga pagkatulog mahimong mabalda sa mga buluhaton sa background, nga hinungdan nga ang baterya mas paspas nga mag-discharge. Sa kini nga kaso, i-restart ang imong device.
+title_bat_temp,Temperatura sa baterya
+bat_tempp,Ang temperatura sa baterya usa sa labing hinungdanon nga mga hinungdan. Kung ang baterya gitipigan nga gel sa taas nga temperatura, kini makaapekto sa kinabuhi sa serbisyo ug sa pasundayag sa baterya. Kung ang temperatura mosaka, ang internal nga istruktura sa baterya mahimong madaot.
+rdc_brightness,Bawasan ang kahayag sa screen
+display_explain,Ang display mao ang usa sa mga sangkap nga naggamit sa kadaghanan sa enerhiya. Ang pagkunhod sa labing taas nga kahayag makatabang sa pagpakunhod sa kinatibuk-ang konsumo ug pagkab-ot sa mamatikdan nga pagtipig. Sa dili pa mapakunhod ang kahayag, i-deactivate ang awtomatik nga kahayag aron ang kahayag dili mausab nga wala kinahanglana.
+tst_charge,Pagsulay sa charger
+best_way_test,Ang labing kaayo nga paagi sa pagsulay sa charger ug cable mao ang pagsusi sa katulin sa pag-charge nga wala ang screen. Ang katulin sa pag-charge kung naka-on ang screen dili maayo nga benchmark tungod kay ang imong telepono nag-usik sa gahum, nga hinungdan sa pag-usab-usab. I-plug ang charger, i-off ang screen sulod sa pipila ka minuto, ug dayon susiha ang maximum charge current.
+wait_title,Naghulat
+rfsh_rate,Refresh rate
+low_sizty,Ang pagpaubos sa refresh rate ngadto sa 60 Hz makapauswag sa kinabuhi sa baterya.
+drk_mode,Dark Mode
+acti_dark_mode,I-aktibo ang Dark Mode, sa Dark Mode gamay ra ang gigamit nga kuryente
+actz,I-aktibo
+poz,Gahum
+minz,Minimum
+avgo,Average
+mixi1,Maximum
+msg_dis,Ang mensahe mawala pagkahuman sa 24 oras kung adunay igo nga datos aron ipakita ang dayagram sa tibuuk.
+no_enough,Dili igo nga datos aron ipakita
+log_graph,Sa pila ka oras makakita ka og graph dinhi nga magtugot kanimo sa pagsusi sa temperatura sa baterya, boltahe, amperage ug lebel sa miaging 24 ka oras.
+week,semana
+buy_it,Palita
+one_pur,Usa ka higayon nga bayad sa
+refun_pur,ang pagpalit mahimong ibalik sa sulod sa 2 ka oras.
+each_month,Ang suskrisyon awtomatikong nagbag-o matag bulan ug nagpadayon sa gasto matag bulan. Ang suskrisyon mahimong kanselahon bisan unsang orasa.
+mng_subs,pagdumala sa suskrisyon
+subsci,subscribe
+will_cost_week,Awtomatikong gibag-o ang suskrisyon matag semana ug nagpadayon sa gasto matag semana. Ang suskrisyon mahimong kanselahon bisan unsang orasa.
+lfllong,tibuok kinabuhi
+mthly,binulan
+wkly,Kada semana
+hoto,Init
+prm_ben_title,Mga benepisyo sa premium
+sync_title,I-synchronize
+dis_sync_inc,Ang pag-disable sa pag-sync makadugang sa kinabuhi sa baterya pinaagi sa dili pag-sync sa mga serbisyo sa background
+time_out,Time out
+dec_extend,Ang pagkunhod sa oras sa dili pa mapalong ang display nagpalugway sa kinabuhi sa baterya
+u_end_opti,Sigurado ka ba nga gusto nimong tapuson ang proseso sa pag-optimize?
+no_why_perm,Walay permiso
+bright_exp,Ang Battery Manager nanginahanglan og pagtugot sa Pag-usab sa mga setting sa sistema aron makunhuran ang kahayag sa screen o i-off ang Bluetooth.
+tg_title,Apil sa Telegram channel!
+tg_text,Magpabilin nga bag-o sa mga update sa app, pagkuha og sayo nga pagtukod, ug pagtabang sa pagsulay sa mga bag-ong feature. Isugyot ang imong mga ideya, pangutana ug dali nga makakuha mga tubag
+join_tg,apil
+curr_consumption,kasamtangan nga konsumo
+scrn_onn,screen sa
+srcn_off,screen off
+mob_charg,Nagpabayad
+discha,Pagdiskarga
+activea,Aktibo
+slpmode,Sleep mode
+chagingspeed,Kasamtangang Katulin sa Pag-charge
+dta_proxt,Pagpanalipod sa datos
+governs,Kini nga palisiya sa pagkapribado nagdumala sa imong paggamit sa aplikasyon sa software sa Battery Manager alang sa mga mobile device nga gihimo ni Baxolino.
+info_u_provide,Impormasyon nga gihatag sa user
+no_pass_per,Wala kami nagpasa sa personal nga datos sa mga ikatulo nga partido. Kung nag-email ka kanamo, naa namo ang imong email address, apan gigamit ra namo kini aron matabangan ka sa among mga app.
+info_auto_coll,Awtomatikong nakolekta ang impormasyon
+exp_admob_use,Gigamit namo ang Google Admob sa pag-alagad sa mga ad. Ang paggamit niini nga mga serbisyo gipailalom sa mga probisyon sa pagpanalipod sa datos sa Google sa https://www.google.com/policies/privacy/.
+we_real_time,Gikolekta ba sa Battery Manager ang tukma nga kasayuran sa lokasyon sa tinuud nga oras gikan sa aparato?
+exp_loc_perm_man,Gisusi lang sa Battery Manger kung ang lokasyon gi-aktibo o gi-deactivate, apan wala mangolekta bisan unsang tukma nga kasayuran bahin sa lokasyon sa imong mobile device. Ang ingon nga mga gimbuhaton nga nakabase sa lokasyon gitakda nga default. Mahimo nimong i-deactivate o i-reactivate kini nga mga function sa mga setting sa imong tagsa-tagsa nga device. Sa wala pa o pagkahuman sa pag-install sa mga app, pangutan-on ka - depende sa aparato - kung gusto nimo nga i-deactivate o i-aktibo kini nga mga function. Makakolekta lang kami og mga datos mahitungod sa imong lokasyon kung imong i-activate ang maong mga serbisyo sa lokasyon.
+chng,Mga kausaban
+pri_update_exp,Kini nga palisiya sa pagkapribado mahimong ma-update matag karon ug unya sa bisan unsang hinungdan. Ipahibalo namon kanimo ang mga pagbag-o sa among palisiya sa pagkapribado pinaagi sa pag-post sa bag-ong palisiya sa pagkapribado sa kini nga adres sa web ug pagpahibalo kanimo pinaagi sa usa ka mensahe sa app. Girekomenda nga kanunay nimong konsultahon kini nga Patakaran sa Pagkapribado alang sa mga pagbag-o, tungod kay ang padayon nga paggamit giisip nga pagtugot sa tanan nga mga pagbag-o. Mahimo nimong repasohon ang kasaysayan sa kini nga palisiya sa kini nga website.
+contct,Kontaka
+any_que,Kung naa kay pangutana bahin sa pagpanalipod sa datos samtang naggamit sa aplikasyon o adunay mga pangutana bahin sa among mga gawi, palihug ipadala ang email sa baxolino.de@gmail.com
+mem_opti,Ang Battery Manager nagkinahanglan sa "memorya" nga pag-access aron ang mga app ma-scan ug ma-optimize. Mahimo nimong i-deactivate o i-activate kini nga mga function sa mga setting sa imong tagsa-tagsa nga device. Sa wala pa o pagkahuman sa pag-install sa app, pangutan-on ka - depende sa aparato - kung gusto nimo nga i-deactivate o i-activate kini nga mga function.
+storg,Pagtipig
+ble_set_acc,blue_set_perm,Baterya Manager nagkinahanglan sa access "Bluetooth setting access" aron kini masusi kon Bluetooth gi-aktibo o gi-deactivate. Ug sa pagpaaktibo o pag-deactivate sa Bluetooth.
+ble_title,Bluetooth
+needz_del,Ang Battery Manager nanginahanglan sa pag-access nga "Paghangyo sa pagtangtang sa mga pakete" aron masugdan ang pag-uninstall sa usa ka app. Ma-uninstall lang ang app kung klaro nimo nga gitugotan.
+deletion_pkg,Paghangyo sa pagtangtang sa mga pakete
+need_adnd,Ang Battery Manager nanginahanglan ug "Ayaw Pagsamok" nga pag-access aron ma-enable o ma-disable ang Do Not Disturb mode.
+adnd,Pag-access Ayaw Pagsamok
+need_wlan_acc,Ang Battery Manager nagkinahanglan og access sa "Pagkuha og WLAN Connections" aron ang Battery Manager masusi kung ang WLAN gi-activate o gi-deactivate. Ug sa pagpaaktibo o pag-deactivate sa WLAN.
+wln_conn,Pagkuha og mga koneksyon sa WLAN
+shop_bill_exp,Kung mamalit ka pinaagi sa Google Play In App Billing, gihatag kanamo sa Google ang imong nasud nga pinuy-anan ug usahay ang estado, lungsod, ug zip code, apan dili ang tibuuk nga adres. Gigamit namo kini nga impormasyon aron pagtuman sa mga regulasyon sa buhis ug accounting.
+pri_date,Sukad sa 02/21/2021
+how_to_stop,Mahimo nimong hunongon ang tibuuk nga koleksyon sa kasayuran pinaagi sa aplikasyon pinaagi lamang sa pag-uninstall sa aplikasyon. Mahimo nimong gamiton ang mga standard nga proseso sa pag-uninstall nga magamit isip bahin sa imong mobile device o pinaagi sa merkado o network alang sa mga mobile application.
+opt_out,Unsa ang akong mga katungod sa pag-opt out?
+ur_permission,imong permiso
+accept_privacy,Pinaagi sa paggamit sa aplikasyon, miuyon ka sa among pagproseso sa imong datos nga gilatid niini nga polisiya sa pagkapribado ug ingon nga giusab namo.

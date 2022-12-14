@@ -1,0 +1,347 @@
+title,Battery Manager Lite diferan
+extend_life,Pi bon fason pou pwolonje lavi batri a epi kenbe ou an sante baze sou eksperyans ak rechèch syantifik.
+measured,Nan yon fason transparan nou sèlman montre w done yo aktyèlman mezire ak ki jan yo kalkile.
+healthy,Kenbe batri ou an sante
+double_battery,Double lavi batri ou pa chaje batri ou nèt. Syantis yo te pwouve sa nan rechèch yo.
+charge_limit,Sèvi ak notifikasyon limit chaj nou an, yo pral voye yon notifikasyon lè batri a rive nan yon papòt itilizatè defini.
+smart,Li vin pi entelijan chak jou
+analyze,Plis ou itilize Battery Manager Lite, se pi bon n ap analize pèfòmans batri ou a.
+update_every_time,Mezi rès lavi batri a mete ajou chak fwa ou itilize oswa chaje aparèy ou an.
+runtime,Dekouvri tan aktyèl la nan batri ou a
+discharge_cycle,Chak fwa telefòn ou ale nan yon sik egzeyat, yo ka mezire yon estimasyon egzat sou exécution li.
+accurate_life,Sèvi ak Battery Manager Lite pou mezire lavi batri egzat.
+no_exit,Pa soti Battery Manager Lite!
+bg_require,Battery Manager Lite mande pou yon sèvis background pou kolekte estatistik batri ak mezire chaj batri ak tan dechaj. Aparèy ou a gen anpil chans sispann sèvis la oswa pa pèmèt li kouri lè aplikasyon an fèmen. Pou evite sa, nou gen yon bon solisyon pou ou. Jis klike sou lyen an.
+man,Manyèl
+cali,Kalibrasyon
+polarity,Nan etap sa a, aplikasyon an detekte polarite chaj la ak kapasite konsepsyon batri ou a.
+disch,Egzeyat
+ch_pol,Chaje polarite
+power_meter,Pouvwa mèt
+unit_mesure,Inite mezi
+capacity,Kapasite batri
+wrong,Pa dwat?
+calib,Kalite
+ye,Wi
+no,Non
+neg,Negatif
+pos,Pozitif
+lunch,Lanse App
+manufac,Kapasite selon manifakti a
+design_des,Kapasite konsepsyon an se kapasite batri aktyèl la, mezire an mAh. Kòm pa gen okenn fason ofisyèl yo detèmine kapasite a, valè a retounen ka mal.
+correct_it,Si kapasite ki parèt la pa kòrèk, tanpri korije li.
+cancel,Anile
+ok,Oke
+runtime,Batri ègzekutabl
+wait,ap tann
+per_hr,Konsomasyon batri pou chak èdtan
+life_for,Lavi batri pou
+battery_cond,Kondisyon batri
+bat_info,Enfòmasyon sou batri
+bat_cap,Kapasite batri
+bat_volt,Batri vòltaj
+bat_cur,Aktyèl batri
+unit_mes,Inite mezi
+done,Fè
+c_bat_temp,Tanperati batri aktyèl la
+min_bat_tem,Tanperati minimòm batri
+mx_bat_tem,Tanperati maksimòm batri
+avg_bat_tem,Tanperati batri mwayèn
+dig_last,Dènye dyagnostik anvan
+rem_time,Tan ki rete
+volt,Voltage
+curr,Kouran
+status,Estati
+run_time,Kouri tan
+currently,Kounye a
+avg,Mwayèn
+minmal,Minimòm
+maximal,Maksimòm
+tool,Zouti
+rem_apps,Dezenstale aplikasyon ou pa itilize ankò pou anpeche aplikasyon yo kouri san nesesite epi vide batri ou
+uninst_apps,Désinstaller Apps
+stat,Kòmanse
+act_eng_save,Aktive mòd ekonomize enèji pou redwi konsomasyon batri
+pow_save,Mòd ekonomize pouvwa
+tempe,Tanperati
+heal,Sante
+tips,Kenbe batri ou an bon kondisyon ak konsèy ak ke trik nouvèl.
+recomm,Rekòmandasyon
+prem,Premium
+more_func,Plis fonksyon pou ou. Jwenn prim, jwenn plis.
+more,Plis
+ur_cond_bat,Kondisyon batri a se
+ur_bat_life,Lavi batri ou se
+ur_bat_temp,Tanperati batri ou se
+wow,Ekselan
+normal,Nòmal
+poor,Mal
+days,Jou
+mins,Minit
+hrs,Orè
+chging,Chaje
+ful,Plen
+dis_chrg,Dechaje
+unkn,Enkoni
+too_lit,Twòp Done Batri
+car_any,Fè de tout fason
+endz_,Fen
+dig_any,Yo nan lòd yo jwenn pi bon rezilta dyagnostik, aplikasyon an bezwen analize batri ou nan background nan. Tanpri kòmanse dyagnostik la apre 24 èdtan
+end_dig,Fen dyagnostik
+quit_dig,Vrèman kite dyagnostik
+batty_temp,Tanperati batri
+akku_manager,Akku Manadjè
+u_agree,Avèk "START" ou dakò ak règleman sou pwoteksyon done yo
+elemn_opti,Eleman yo ka optimize
+looks_good,Tout sanble bon
+optimize_,Optimize
+toolz_,Zouti
+akku_check,Akku tcheke
+ctrl_load,Kontwole chajman
+mng_apps,Jere apps
+infosm,Enfòmasyon
+tenzion,tansyon
+electy,elektrisite
+lvl,Nivo
+akku_man_premium,Akku Manadjè Premium
+premimum_highlight,Sèvi ak Manadjè batri a konplètman san yo pa fè piblisite epi ou gen aksè a personnalisation vaste nan koòdone itilizatè a.
+design,Design
+subjs,matyè yo
+genrally,Anjeneral
+temp_unit,Inite tanperati
+oth_apps,Lòt Aplikasyon
+dat_protect,Pwoteksyon done
+thx_akku,Mèsi paske w sipòte Akku Manager ak achte vèsyon prim lan.
+user_got_pre,Ou kounye a gen aksè a personnalisation vaste nan koòdone itilizatè a ak itilizasyon san piblisite.
+exp_more,Ou ka atann plis karakteristik nan mizajou nan lavni
+ap_optimiz,Optimize aplikasyon an
+sys_bat_usage,Konsomasyon batri sistèm
+bat_usage_det,Detay sou itilizasyon batri
+end_optiz,Fen optimize
+abort,Avòte
+break_up,separe
+scn,pou eskane
+scn_bgh,Klate ekran an
+dact_wlan,Dezaktive WLAN
+dact_save_batt,Dezaktive pou konsève pou batri
+dact,Dezaktive
+dact_ble,Dezaktive bluetooth
+red_brigh,Diminye klète
+bright_txt,Diminye klète ekspozisyon an pou konsève pou batri
+to_reduce,Pou diminye
+dact_gps,Dezaktive GPS
+appz_optimz,Aplikasyon yo optimize
+start_bat_check_det,Kòmanse yon chèk batri detaye pou toujou rete an sekirite
+act_eng_save,Aktive mòd ekonomize enèji pou diminye konsomasyon batri
+remove_useless,Dezenstale apps ki pa itilize ankò
+premium,Premium
+clear_mem,Netwaye memwa
+clear_mem_des,Se konsa, smartphone ou a kouri byen vit ak san pwoblèm.
+clenaup,Netwaye
+rat,evalyasyon
+rat_free,Tas Manadjè Batri pou gratis
+sendz,Voye
+elmn_found,Eleman yo jwenn
+drumz,Tanbou
+status,Estati
+end_akk_check,Fini tcheke batri
+bat_detlz,Detay batri
+temp_checked,Tanperati a tcheke
+cond_checked,Kondisyon batri a tcheke
+checkz_start,Tcheke batri a kòmanse
+plug_in,Branche nan
+techz,Teknoloji
+coldz,Fwad
+until,Jiskaske
+well,Oke
+ovr_heat,Surchof
+ovr_load,Surcharge
+renam,chanje non
+not_def,pa defini
+chrgz,Chaje
+full,Plen
+unloadz,Dechaje
+not_charge_unkn,pa chaje oswa enkoni
+usb,USB
+charger,plato
+wless,san fil
+not_at_al,anyen menm
+uninstall,Dezenstale
+update,Pou mete ajou
+setting,Anviwònman
+app,Aplikasyon yo
+not_found,Aplikasyon pa jwenn
+search,Rechèch apps
+version_code,Kòd vèsyon
+api_level,Nivo API
+app_version,Vèsyon aplikasyon an
+authorization,otorizasyon
+open,pou louvri
+play_store,Jwe magazen
+control,kontwòl
+systemstandart,Systemstandard
+white,Blan
+dark,Fè nwa
+ocean,Oseyan
+black,Nwa
+dark_blue,Ble fonse
+excellent,Ekselan
+bad,Move
+battery_bad,Batri a yon ti kras domaje
+very_bad,Trè move
+battery_damaged,Batri a domaje
+custom_mode,Custom Mode
+brightness,Klète
+automatic_brightness,Otomatik klète
+normal,Nòmal
+sound_modus,Mod son
+tone_work,Tout Ton travay
+mute,bèbè
+call_note_mute,Apèl ak notifikasyon yo fèmen
+not_bother,pa deranje
+tones_vibration_mute,Etenn ton ak vibrasyon, eksepte pou ton alam
+sound,Son
+music,Mizik
+notification,Notifikasyon
+alarm,Alam
+ultra_saving,Ultra mòd ekonomize enèji
+edit,Pou edite
+disable_ultra_saving,Enfim Ultra Enèji Ekonomize Mode
+min_remaining,min ki rete
+hours,èdtan
+activted_ultra_saving,Ultra enèji ekonomize mòd aktive
+charged_in,chaje nan
+min,min
+limit_power,Limite konsomasyon pouvwa
+reduce_screen,Diminye klète ekran an
+restrict_bg_act_explain,Limite aktivite background yo
+volatge_check,Se vòltaj tcheke
+software_optimized,Lojisyèl yo optimize
+connect_charger,Konekte plato
+charger_removed,Charger ka retire
+power_consump_title,Konsomasyon pouvwa
+srcn_bg_title,Klate ekran an
+bg_al_activities,Aktivite background
+sftware,Lojisyèl
+get_primium,Si w achte vèsyon prim lan, w ap jwenn tout fonksyon aktyèl yo ansanm ak tout nouvo fonksyon alavni.
+cuztomize_face,Pèsonalizasyon nan koòdone itilizatè a
+comp_scheme,Konpoze konplo koulè Manadjè Batri ou a soti nan yon varyete tèm.
+bat_check_detail,Tcheke batri detaye
+check_cond_test,Sèvi ak Manadjè Batri a pou tcheke kondisyon batri ou a pou toujou rete an sekirite.
+no_ads_yo,Pa gen piblisite
+use_explain_noads,Sèvi ak Manadjè batri san okenn piblisite
+act_energy_save,Aktive mòd ultra ekonomize enèji pou ogmante lavi batri a nan yon ijans.
+buy_title,Achte Premium
+loc_title,Kote
+cap_title,kapasite
+cap_remain,Kapasite ki rete
+sleepy,Dòmi
+sek,Segond
+sing_min,Minit
+miniotes,Minit
+finish,Fini
+mobi_data,done mobil
+plz_rate,Tanpri evalye Manadjè Batri nan Play Store la
+ur_data_cus,Èske nou ka kontinye itilize done ou yo pou personnaliser piblisite pou ou?
+in_slep_mode,Nan mòd dòmi
+in_use,Nan itilize
+with_curr_pow,Ak aktyèl konsomasyon pouvwa
+rem_bat_life,Ki rete lavi batri
+qck_acc,Aksè rapid
+notif_txt,notifikasyon
+notif_at,Notifye nan
+chg_curr,Chaje kouran
+charge_perm,Chaje pèfòmans
+maxi_charge_per,Maksimòm pèfòmans chaje
+enb_notif,Pèmèt notifikasyon
+perm_send_notif,Manadjè batri mande pèmisyon pou voye yon notifikasyon, li dwe aktive nan paramèt aparèy la.
+to_set,Nan paramèt yo
+title_autost,Aktive Autostart
+auto_explain,Manadjè Batri a mande pèmisyon pou yo rete aktive nan background nan yo nan lòd yo mande estati batri a epi voye yon notifikasyon.
+sync_auto,Senkronize otomatikman
+dis_auto_sync,Enfim senkronizasyon otomatik siyifikativman diminye wakelocks. Sepandan, kèk fonksyon tankou resevwa e-mail yo pral pèdi.
+chg_lim,Limit chaj
+avoid_ful_explain,Si ou chaje batri ou a maksimòm oswa dechaje li jiskaske li etenn, kondisyon ak lavi sèvis batri a ap redwi. Nan sa ki annapre yo ou ka fikse estati chaj minimòm ak maksimòm oswa egzeyat batri a epi yo pral avize w chak fwa yo rive nan valè papòt la. Evite yon sèl konplètman chaje ak dechaje batri ou epi pwolonje lavi a nan batri a.
+rec_notif,Ou pa resevwa notifikasyon?
+title_allow_bg_act,Pèmèt aktivite background
+allow_bg_act,Pou w ka sèvi ak Manadjè Batri a san restriksyon san ke sistèm operasyon an pa fèmen l san entansyonèlman, ou ka oblije fèmen fonksyon espesyal pou jesyon batri ak itilizasyon batri nan paramèt yo. Paske manifakti yo divès kalite diferan nan deziyasyon an nan opsyon sa yo depann sou sistèm nan opere yo itilize. Nan zòn Enfòmasyon sou aplikasyon an, anba Dòmi oswa Batri, chwazi Pa gen restriksyon oswa Pèmèt aktivite background.
+dev_usage,Itilizasyon aparèy
+dep_sleep,Dòmi gwo twou san fon se yon eta kote aparèy ou an ap itilize pi piti kantite batri. Dire a nan dòmi pwofon gen yon efè pozitif sou ekonomize enèji. Dòmi gwo twou san fon an ka entèwonp pa travay background, ki lakòz batri a dechaje pi vit. Nan ka sa a, rekòmanse aparèy ou an.
+title_bat_temp,Tanperati batri
+bat_tempp,Tanperati batri a se youn nan faktè ki pi enpòtan yo. Si batri a kenbe jèl nan tanperati ki wo, sa afekte tou de lavi sèvis la ak pèfòmans batri a. Si tanperati a monte, estrikti entèn batri a ka domaje.
+rdc_brightness,Diminye klète ekran an
+display_explain,Ekspozisyon an se youn nan eleman ki konsome pi fò nan enèji a. Diminye klète maksimòm nan ede diminye konsomasyon an jeneral ak reyalize ekonomi aparan. Anvan diminye klète a, dezaktive klète otomatik la pou klète a pa chanje san nesesite.
+tst_charge,Tès plato
+best_way_test,Pi bon fason pou teste plato a ak kab se lè w tcheke vitès chaje a ak ekran an koupe. Vitès la chaje lè ekran an limen se pa yon bon referans paske telefòn ou ap konsome pouvwa, ki lakòz fluctuations. Ploge plato a, fèmen ekran an pou kèk minit, epi tcheke aktyèl chaj maksimòm lan.
+wait_title,Ap tann
+rfsh_rate,Rafrechisman pousantaj
+low_sizty,Bese pousantaj rafrechisman a 60 Hz amelyore lavi batri a.
+drk_mode,Mòd nwa
+acti_dark_mode,Aktive mòd nwa, nan mòd nwa mwens pouvwa konsome
+actz,Aktive
+poz,Pouvwa
+minz,Minimòm
+avgo,Mwayèn
+mixi1,Maksimòm
+msg_dis,Mesaj la disparèt apre 24 èdtan si gen ase done pou montre dyagram nan konplè.
+no_enough,Pa gen ase done pou montre
+log_graph,Nan kèk èdtan ou pral wè yon graf isit la ki pral pèmèt ou tcheke tanperati batri a, vòltaj, anperaj ak nivo nan 24 èdtan ki sot pase yo.
+week,semèn
+buy_it,Achte
+one_pur,Frè yon sèl fwa nan
+refun_pur,acha a ka ranbouse nan 2 èdtan.
+each_month,Abònman an renouvle otomatikman chak mwa epi li kontinye koute chak mwa. Abònman an ka anile nenpòt ki lè.
+mng_subs,jere abònman
+subsci,abònman
+will_cost_week,Abònman renouvle otomatikman chak semèn epi li kontinye koute pa semèn. Abònman an ka anile nenpòt ki lè.
+lfllong,dire tout lavi
+mthly,chak mwa
+wkly,Chak semèn
+hoto,Cho
+prm_ben_title,Benefis prim
+sync_title,Senkronize
+dis_sync_inc,Enfim senkronizasyon ap ogmante lavi batri a pa senkronize sèvis nan background nan
+time_out,Tan soti
+dec_extend,Diminye tan anvan ekspozisyon an etenn pwolonje lavi batri a
+u_end_opti,Èske w sèten ou vle mete fen nan pwosesis optimize a?
+no_why_perm,Pa gen pèmisyon
+bright_exp,Manadjè batri mande pou Chanje anviwònman sistèm pèmisyon pou diminye klète ekran an oswa fèmen Bluetooth.
+tg_title,Antre nan chanèl Telegram!
+tg_text,Rete kouran ak mizajou aplikasyon yo, jwenn konstriksyon bonè, epi ede teste nouvo karakteristik. Sijere lide ou, poze kesyon epi jwenn repons pi vit
+join_tg,rantre nan
+curr_consumption,konsomasyon aktyèl la
+scrn_onn,ekran sou
+srcn_off,ekran koupe
+mob_charg,Chaje
+discha,Dechaje
+activea,Aktif
+slpmode,Mòd dòmi
+chagingspeed,Vitès chaj aktyèl la
+dta_proxt,Pwoteksyon done
+governs,Règ sou enfòmasyon prive sa a gouvène itilizasyon aplikasyon lojisyèl Battery Manager la pou aparèy mobil Baxolino kreye.
+info_u_provide,Enfòmasyon itilizatè a bay
+no_pass_per,Nou pa pase done pèsonèl bay twazyèm pati. Lè ou voye yon imèl ba nou, nou gen adrès imel ou, men nou itilize li sèlman pou ede w ak aplikasyon nou yo.
+info_auto_coll,Enfòmasyon yo kolekte otomatikman
+exp_admob_use,Nou itilize Google Admob pou sèvi anons. Itilizasyon sèvis sa yo sijè a dispozisyon Google pwoteksyon done nan https://www.google.com/policies/privacy/.
+we_real_time,Èske Manadjè Batri yo kolekte enfòmasyon egzak an tan reyèl kote yo soti nan aparèy la?
+exp_loc_perm_man,Battery Manger sèlman tcheke si kote a aktive oswa dezaktive, men li pa kolekte okenn enfòmasyon presi sou kote aparèy mobil ou a. Fonksyon sa yo ki baze sou kote yo mete pa default. Ou ka dezaktive oswa reaktive fonksyon sa yo nan paramèt aparèy respektif ou yo. Anvan oswa apre enstale aplikasyon yo, yo pral mande w - selon aparèy la - si ou ta prefere dezaktive oswa aktive fonksyon sa yo. Nou ka kolekte done sou kote w sèlman si w aktive sèvis lokal sa yo.
+chng,Chanjman
+pri_update_exp,Règ sou enfòmasyon prive sa a ka mete ajou de tan zan tan pou nenpòt ki rezon. Nou pral enfòme w sou chanjman nan règleman sou enfòmasyon prive nou an lè nou poste nouvo règleman sou enfòmasyon prive a sou adrès entènèt sa a epi fè w konnen w atravè yon mesaj nan app a. Li rekòmande ke ou regilyèman konsilte Règleman sou enfòmasyon prive sa a pou chanjman, kòm itilizasyon kontinye konsidere kòm apwobasyon nan tout chanjman. Ou ka revize istwa politik sa a sou sitwèb sa a.
+contct,Kontakte
+any_que,Si w gen nenpòt kesyon sou pwoteksyon done pandan w ap itilize aplikasyon an oswa si w gen kesyon sou pratik nou yo, tanpri voye yon imèl bay baxolino.de@gmail.com
+mem_opti,Manadjè batri bezwen aksè "memwa" pou aplikasyon yo ka tcheke ak optimize. Ou ka dezaktive oswa aktive fonksyon sa yo nan paramèt aparèy respektif ou yo. Anvan oswa apre enstale aplikasyon an, yo pral mande w - selon aparèy la - si ou ta prefere dezaktive oswa aktive fonksyon sa yo.
+storg,Depo
+ble_set_acc,blue_set_perm,Manadjè Batri mande pou aksè "Bluetooth setting access" pou li ka tcheke si Bluetooth aktive oswa dezaktive. Ak aktive oswa dezaktive Bluetooth.
+ble_title,Bluetooth
+needz_del,Manadjè batri mande pou aksè "Demann pou efase pakè" pou kòmanse yon dezenstalasyon aplikasyon an. Ap sèlman dezenstale aplikasyon an si ou pèmèt li klèman.
+deletion_pkg,Mande efase pakè yo
+need_adnd,Manadjè Batri mande pou aksè "Pa Deranje" pou pèmèt oswa enfim mòd Pa Deranje.
+adnd,Aksè Pa Deranje
+need_wlan_acc,Manadjè Batri mande pou aksè nan "Jwenn Koneksyon WLAN" pou Manadjè Batri yo ka tcheke si WLAN aktive oswa dezaktive. Ak aktive oswa dezaktive WLAN.
+wln_conn,Jwenn koneksyon WLAN
+shop_bill_exp,Lè w ap achte atravè Google Play In App Billing, Google ba nou peyi w abite epi pafwa eta a, vil la, ak kòd postal, men pa janm adrès konplè a. Nou itilize enfòmasyon sa yo pou nou respekte règleman taks ak kontablite.
+pri_date,Depi 21/02/2021
+how_to_stop,Ou ka sispann koleksyon an antye nan enfòmasyon pa aplikasyon an tou senpleman pa dezenstalasyon aplikasyon an. Ou ka itilize pwosesis dezenstalasyon estanda ki disponib kòm yon pati nan aparèy mobil ou oswa atravè mache a oswa rezo pou aplikasyon mobil yo.
+opt_out,Ki dwa mwen genyen pou m pa patisipe?
+ur_permission,pèmisyon w
+accept_privacy,Lè w sèvi ak aplikasyon an, ou dakò pou nou trete done w yo jan sa endike nan règleman sou enfòmasyon prive sa a ak jan nou modifye.

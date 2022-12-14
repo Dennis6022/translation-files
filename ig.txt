@@ -1,0 +1,347 @@
+title,Onye njikwa batrị Lite dị iche
+extend_life,Ụzọ kachasị mma isi gbasaa ndụ batrị ma mee ka ahụ dị gị mma dabere na ahụmịhe na nyocha sayensị.
+measured,N'ụzọ doro anya, anyị na-egosi gị naanị data a tụrụ atụ na otu esi gbakọọ ya.
+healthy,Mee ka batrị gị dị mma
+double_battery,Ugboro abụọ ndụ batrị gị site n'ịchachacha batrị gị. Ndị ọkà mmụta sayensị egosila nke a na nyocha ha.
+charge_limit,N'iji amamọkwa oke ụgwọ anyị, a ga-eziga ọkwa mgbe batrị rutere n'ọnụ ụzọ onye ọrụ akọwapụtara.
+smart,Ọ na-akawanye mma kwa ụbọchị
+analyze,Ogologo oge ị na-eji njikwa batrị Lite, ka anyị ga-aka mma na nyochaa arụmọrụ batrị gị.
+update_every_time,A na-emelite nha ndụ batrị nke fọdụrụ oge ọ bụla iji ma ọ bụ chajịa ngwaọrụ gị.
+runtime,Chọpụta oge ịgba ọsọ batrị gị
+discharge_cycle,Oge ọ bụla ekwentị gị gafere n'usoro mwepu, enwere ike tụọ atụmatụ ziri ezi nke oge ọ na-agba ọsọ.
+accurate_life,Jiri njikwa batrị Lite tụọ ndụ batrị ziri ezi.
+no_exit,Apụla onye njikwa batrị Lite!
+bg_require,Onye njikwa batrị Lite chọrọ ọrụ ndabere iji nakọta ọnụ ọgụgụ batrị wee tụọ ụgwọ batrị na oge mwepụta. Ngwaọrụ gị nwere ike ịkwụsị ọrụ ma ọ bụ na-ahapụghị ya ka ọ rụọ ọrụ mgbe emechiri ngwa ahụ. Iji zere nke a, anyị nwere ezigbo ngwọta maka gị. Naanị pịa njikọ ahụ.
+man,Akwụkwọ ntuziaka
+cali,nhazi nhazi
+polarity,N'ime usoro a, ngwa ahụ na-achọpụta polarity chaja yana ikike imepụta batrị gị.
+disch,Mwepu
+ch_pol,Ịchaji polarity
+power_meter,Igwe ike
+unit_mesure,Nkeji nha
+capacity,Ike batrị
+wrong,Ọ bụghị eziokwu?
+calib,hazie
+ye,Ee
+no,Mba
+neg,Ihe ọjọọ
+pos,Nke dị mma
+lunch,Mwepụta ngwa
+manufac,Ike dị ka onye nrụpụta si kwuo
+design_des,Ikike imewe bụ ikike batrị n'ezie, tụrụ na mAh. Ebe ọ bụ na enweghị ụzọ gọọmentị iji chọpụta ikike ahụ, uru a weghachiri nwere ike ghara ịdị njọ.
+correct_it,Ọ bụrụ na ikike egosiri ezighi ezi, biko mezie ya.
+cancel,Kagbuo
+ok,Ọ dị mma
+runtime,Oge ịgba ọsọ batrị
+wait,ichere
+per_hr,Oriri batrị kwa elekere
+life_for,Ndụ batrị maka
+battery_cond,Ọnọdụ batrị
+bat_info,Ozi batrị
+bat_cap,Ike batrị
+bat_volt,Voltaji batrị
+bat_cur,Batrị dị ugbu a
+unit_mes,Nkeji nha
+done,Emechaala
+c_bat_temp,Okpomọkụ batrị ugbu a
+min_bat_tem,Okpomọkụ batrị kacha nta
+mx_bat_tem,Okpomọkụ batrị kacha
+avg_bat_tem,Nkezi okpomọkụ batrị
+dig_last,Nchọpụta ikpeazụ tupu
+rem_time,Oge fọdụrụ
+volt,Voltaji
+curr,Ugbu a
+status,Ọnọdụ
+run_time,Oge ịgba ọsọ
+currently,Ugbu a
+avg,Nkezi
+minmal,Opekempe
+maximal,Kachasị
+tool,Ngwa
+rem_apps,Wepu ngwà ị na-ejizighị egbochi ngwà ị na-agba ọsọ na-enweghị isi na igbapu batrị gị
+uninst_apps,Wepu ngwa ngwa
+stat,Malite
+act_eng_save,Mee ka ọnọdụ nchekwa ike rụọ ọrụ iji belata oriri batrị
+pow_save,Ụdị nchekwa ike
+tempe,Okpomọkụ
+heal,Ahụike
+tips,Debe batrị gị n'ọnọdụ dị mma site na ndụmọdụ na aghụghọ.
+recomm,Nkwanye
+prem,adịchaghị
+more_func,Ọrụ ndị ọzọ maka gị. Nweta ego, nwetakwuo.
+more,Ọzọ
+ur_cond_bat,Ọnọdụ batrị bụ
+ur_bat_life,Ndụ batrị gị dị
+ur_bat_temp,Okpomọkụ batrị gị dị
+wow,Magburu onwe
+normal,Nkịtị
+poor,Ogbenye
+days,Ụbọchị
+mins,Nkeji
+hrs,Oge awa
+chging,Ịchaji
+ful,Juputara
+dis_chrg,Na-agbapụta
+unkn,Amaghi ama
+too_lit,Obere data batrị
+car_any,Mee agbanyeghị
+endz_,Ọgwụgwụ
+dig_any,Iji nweta nsonaazụ nchọpụta ka mma, ngwa ahụ kwesịrị inyocha batrị gị n'azụ. Biko bido nchoputa mgbe awa 24 gachara
+end_dig,Ọgwụgwụ nchoputa
+quit_dig,Kwụsị nchoputa
+batty_temp,Okpomọkụ batrị
+akku_manager,Akku Manager
+u_agree,Site na "START" ị kwenyere na iwu nchekwa data
+elemn_opti,Enwere ike imezi ihe
+looks_good,Ihe niile dị mma
+optimize_,Bulite
+toolz_,Ngwa
+akku_check,Aku Check
+ctrl_load,Nbunye achịkwara
+mng_apps,Jikwaa ngwa
+infosm,Ozi
+tenzion,esemokwu
+electy,ọkụ eletrik
+lvl,Ọkwa
+akku_man_premium,Aku Manager Premium
+premimum_highlight,Jiri njikwa batrị kpamkpam na-enweghị mgbasa ozi ma ị nwere ike ịnweta nhazi nhazi nke interface onye ọrụ.
+design,Nhazi
+subjs,isiokwu
+genrally,N'ozuzu
+temp_unit,Ngalaba okpomọkụ
+oth_apps,Ngwa ndị ọzọ
+dat_protect,Nchedo data
+thx_akku,Daalụ maka ịkwado Akku Manager site na ịzụrụ ụdị adịchaghị.
+user_got_pre,Ugbu a ị nwere ike nweta ọtụtụ nhazi nke interface onye ọrụ na ojiji na-enweghị mgbasa ozi.
+exp_more,Ị nwere ike ịtụ anya atụmatụ ndị ọzọ na mmelite n'ọdịnihu
+ap_optimiz,Ngwa kachasị mma
+sys_bat_usage,Oriri batrị sistemụ
+bat_usage_det,Nkọwa ojiji batrị
+end_optiz,Nkwụsị njikarịcha
+abort,Wepụ
+break_up,gbasaa
+scn,iṅomi
+scn_bgh,Ncha ihuenyo
+dact_wlan,Gbanyụọ WLAN
+dact_save_batt,Gbanyụọ ka ịchekwaa batrị
+dact,Gbanyụọ
+dact_ble,Gbanyụọ Bluetooth
+red_brigh,Belata nchapụta
+bright_txt,Belata nchapụta nke ngosi ka ịchekwaa batrị
+to_reduce,Iji belata
+dact_gps,Gbanyụọ GPS
+appz_optimz,Ngwa kachasị mma
+start_bat_check_det,Malite nlele batrị zuru ezu ka ị nọrọ mgbe niile n'akụkụ nchekwa
+act_eng_save,Mee ka ọnọdụ nchekwa ike rụọ ọrụ iji belata oriri batrị
+remove_useless,Wepu ngwa ndị anaghịzi eji
+premium,adịchaghị
+clear_mem,Hichapụ ebe nchekwa
+clear_mem_des,Nke mere na ekwentị gị na-agba ọsọ ọsọ na were were.
+clenaup,Hichapụ
+rat,ogo
+rat_free,Ọnụ njikwa batrị n'efu
+sendz,Ziga
+elmn_found,Achọtara ihe
+drumz,Ịgba
+status,Ọnọdụ
+end_akk_check,Kwụsị nlele batrị
+bat_detlz,Nkọwa batrị
+temp_checked,A na-enyocha okpomọkụ
+cond_checked,A na-enyocha ọnọdụ batrị ahụ
+checkz_start,Nyocha batrị na-amalite
+plug_in,Etinyere
+techz,Nkà na ụzụ
+coldz,Oyi
+until,Ruo mgbe
+well,Ọfọn
+ovr_heat,ekpo oke ọkụ
+ovr_load,Ibu ibu
+renam,akpọgharịrị aha
+not_def,akọwaghị
+chrgz,Ebo
+full,Juputara
+unloadz,Na-ebupụ
+not_charge_unkn,eboghị ebubo ma ọ bụ amaghị
+usb,USB
+charger,chaja
+wless,ikuku
+not_at_al,ọ dịghị ihe ọ bụla
+uninstall,Wepu ya
+update,Ka imelite
+setting,Ntọala
+app,Ngwa
+not_found,Ngwa ahụghị
+search,Chọọ ngwa
+version_code,Koodu ụdị
+api_level,API Ọkwa
+app_version,Ụdị ngwa
+authorization,ikike
+open,imeghe
+play_store,Ụlọ ahịa Play
+control,njikwa
+systemstandart,Ụkpụrụ sistemụ
+white,Ọcha
+dark,Ọchịchịrị
+ocean,Oke osimiri
+black,Nwa
+dark_blue,Acha anụnụ anụnụ
+excellent,Magburu onwe
+bad,Ọjọ
+battery_bad,Batrị emebiri ntakịrị
+very_bad,Ọ dị njọ
+battery_damaged,Batrị emebiela
+custom_mode,Ụdị omenala
+brightness,Icha ọkụ
+automatic_brightness,Icha ọkụ akpaka
+normal,Nkịtị
+sound_modus,Modus ụda
+tone_work,Ụda niile na-arụ ọrụ
+mute,Ogbi
+call_note_mute,Akpọchiela oku na ọkwa
+not_bother,Emekpala ahụ
+tones_vibration_mute,Gbanyụọ ụda na ịma jijiji, ewezuga ụda mkpu
+sound,Ụda
+music,egwu
+notification,ngosi
+alarm,Oti mkpu
+ultra_saving,Ọnọdụ nchekwa ike Ultra
+edit,Iji dezie
+disable_ultra_saving,Gbanyụọ Ụdị Nchekwa Ike Ultra
+min_remaining,min fọdụrụ
+hours,awa
+activted_ultra_saving,A na-eme ka ọnọdụ nchekwa ike Ultra rụọ ọrụ
+charged_in,ebubo na
+min,min
+limit_power,Machie oriri ike
+reduce_screen,Belata nchapụta ihuenyo
+restrict_bg_act_explain,Machibido ihe omume ndabere
+volatge_check,A na-enyocha voltaji
+software_optimized,Akụrụngwa ngwa ngwa
+connect_charger,Jikọọ chaja
+charger_removed,Enwere ike wepu chaja
+power_consump_title,Oriri ike
+srcn_bg_title,Ncha ihuenyo
+bg_al_activities,Ihe omume ndabere
+sftware,Ngwa ngwa
+get_primium,Ọ bụrụ na ịzụrụ ụdị adịchaghị, ị ga-enweta ọrụ niile dị ugbu a yana ọrụ ọhụrụ niile n'ọdịnihu.
+cuztomize_face,Nhazi nke interface onye ọrụ
+comp_scheme,Mepụta atụmatụ agba agba nke njikwa batrị gị site na isiokwu dị iche iche.
+bat_check_detail,Nyocha batrị zuru ezu
+check_cond_test,Jiri njikwa batrị ka ịlele ọnọdụ batrị gị ka ọ nọrọ mgbe niile n'akụkụ nchekwa.
+no_ads_yo,Enweghị mgbasa ozi
+use_explain_noads,Jiri njikwa batrị na-enweghị mgbasa ozi ọ bụla
+act_energy_save,Mee ka ọnọdụ nchekwa ike ultra rụọ ọrụ ka iwelie ndụ batrị na mberede.
+buy_title,Zụrụ adịchaghị
+loc_title,Ebe
+cap_title,ikike
+cap_remain,Ikike fọdụrụnụ
+sleepy,Ụra
+sek,Sekọnd
+sing_min,Nkeji
+miniotes,Nkeji
+finish,Emechaala
+mobi_data,mobile data
+plz_rate,Biko tụọ njikwa batrị na Play Store
+ur_data_cus,Anyị nwere ike ịga n'ihu na-eji data gị hazie gị mgbasa ozi?
+in_slep_mode,Na ọnọdụ ụra
+in_use,A na-eji
+with_curr_pow,Site na oriri ike ugbu a
+rem_bat_life,Ndụ batrị fọdụrụnụ
+qck_acc,Nweta ngwa ngwa
+notif_txt,ngosi
+notif_at,Gwa na
+chg_curr,Ịchaji ugbu a
+charge_perm,Nchaji arụmọrụ
+maxi_charge_per,Ọrụ nchaji kacha
+enb_notif,Kwado ọkwa
+perm_send_notif,Onye njikwa batrị chọrọ ikike izipu ọkwa, a ga-emerịrị ya na ntọala ngwaọrụ.
+to_set,Na ntọala
+title_autost,Mee Autostart rụọ ọrụ
+auto_explain,Onye njikwa batrị chọrọ ikike ka ọ nọrọ n'ọrụ n'azụ iji jụọ ọkwa batrị wee zipu ọkwa.
+sync_auto,Mekọrịta na-akpaghị aka
+dis_auto_sync,Ịgbanyụ mmekọrịta akpaaka na-ebelata nke ọma mkpọchi wake. Agbanyeghị, ụfọdụ ọrụ dịka ịnata ozi-e ga-efunahụ ya.
+chg_lim,Oke ụgwọ
+avoid_ful_explain,Ọ bụrụ na ị chajịa batrị gị kacha ma ọ bụ hapụ ya ruo mgbe agbanyụrụ ya, ọnọdụ na ndụ batrị ga-ebelata. Na ndị na-esonụ ị nwere ike ịtọ opekempe na ọkwa kachasị ụgwọ ma ọ bụ nkwụsị nke batrị, a ga-amara gị ọkwa oge ọ bụla uru ọnụ ụzọ ruru. Zere otu chajị zuru oke wee tufuo batrị gị wee gbatịa ndụ batrị.
+rec_notif,Anataghị ọkwa?
+title_allow_bg_act,Kwe ka mmemme ndabere
+allow_bg_act,Ka ị wee nwee ike iji njikwa batrị na-enweghị mmachi ma ọ bụrụ na sistemụ arụmọrụ mechiri ya n'amaghị ama, ị nwere ike gbanyụọ ọrụ pụrụ iche maka njikwa batrị na ojiji batrị na ntọala. N'ihi na ndị na-emepụta ihe dị iche iche dị iche iche na nhazi nke nhọrọ ndị a dabere na sistemụ arụmọrụ eji. Na mpaghara ozi ngwa, n'okpuru ụra ma ọ bụ batrị, họrọ Enweghị mmachi ma ọ bụ kwe ka omume ndabere.
+dev_usage,Ojiji ngwaọrụ
+dep_sleep,Ụra miri emi bụ ọnọdụ nke ngwaọrụ gị na-eji obere batrị. Ogologo oge nke ụra miri emi nwere mmetụta dị mma na nchekwa ike. Enwere ike ịkwụsị ụra miri emi site na ọrụ ndabere, nke na-eme ka batrị na-agbapụta ngwa ngwa. N'okwu a, malitegharịa ngwaọrụ gị.
+title_bat_temp,Okpomọkụ batrị
+bat_tempp,Okpomọkụ batrị bụ otu n'ime ihe kacha mkpa. Ọ bụrụ na edobere batrị gel na oke okpomọkụ, nke a na-emetụta ma ndụ ọrụ yana arụmọrụ batrị. Ọ bụrụ na ọnọdụ okpomọkụ na-ebili, usoro dị n'ime batrị nwere ike imebi.
+rdc_brightness,Belata nchapụta ihuenyo
+display_explain,Ngosipụta bụ otu n'ime ihe ndị na-eri ọtụtụ ike. Ibelata nchapụta kachasị na-enyere aka belata oriri n'ozuzu ya wee nweta nchekwa ego a na-ahụ anya. Tupu ibelata nchapụta ahụ, gbanyụọ nchapụta akpaka ka ọ ghara ịgbanwe nchapụta ahụ na-enweghị isi.
+tst_charge,Nwalee chaja
+best_way_test,Ụzọ kacha mma iji nwalee chaja na eriri bụ site na ịlele ọsọ nchaji na ihuenyo gbanyụọ. Ọsọ nchaji mgbe ihuenyo dị abụghị ezigbo benchmark n'ihi na ekwentị gị na-eri ike, nke na-ebute mgbanwe. Tinye chaja, gbanyụọ ihuenyo maka nkeji ole na ole, wee lelee ụgwọ kacha ugbu a.
+wait_title,Na-eche
+rfsh_rate,Ọnụego ume ọhụrụ
+low_sizty,Iweda ọnụego ume ọhụrụ na 60 Hz na-eme ka ndụ batrị dịkwuo mma.
+drk_mode,Ọnọdụ gbara ọchịchịrị
+acti_dark_mode,Mee ka ọnọdụ gbara ọchịchịrị rụọ ọrụ, n'ime ọnọdụ gbara ọchịchịrị enwechaghị ike riri
+actz,Mee ka ọ rụọ ọrụ
+poz,Ike
+minz,Opekempe
+avgo,Nkezi
+mixi1,Kachasị
+msg_dis,Ozi na-apụ n'anya mgbe awa 24 gachara ma ọ bụrụ na enwere data zuru oke iji gosipụta eserese ahụ n'uju.
+no_enough,Ezughị data iji gosipụta
+log_graph,N'ime awa ole na ole ị ga-ahụ eserese ebe a ga-enye gị ohere ịlele okpomọkụ batrị, voltaji, amperage na ọkwa n'ime awa 24 gara aga.
+week,izu
+buy_it,Zụrụ
+one_pur,Ụgwọ otu oge nke
+refun_pur,Enwere ike ịkwụghachi azụta ahụ n'ime awa 2.
+each_month,Ndebanye aha na-emelite kwa ọnwa ma na-aga n'ihu na-eri kwa ọnwa. Enwere ike ịkagbu ndenye aha n'oge ọ bụla.
+mng_subs,jikwaa ndenye aha
+subsci,denye aha
+will_cost_week,Ndebanye aha na-emelite kwa izu ma na-aga n'ihu na-eri kwa izu. Enwere ike ịkagbu ndenye aha n'oge ọ bụla.
+lfllong,ogologo ndụ
+mthly,kwa ọnwa
+wkly,Kwa izu
+hoto,Na-ekpo ọkụ
+prm_ben_title,Uru adịchaghị
+sync_title,Mekọrịta
+dis_sync_inc,Ịkwụsị mmekọrịta ga-abawanye ndụ batrị site na ịmekọrịtaghị ọrụ na ndabere
+time_out,Nkeji oge
+dec_extend,Ịbelata oge tupu ngosi agbanyụọ na-agbatị ndụ batrị
+u_end_opti,Ị ji n'aka na ịchọrọ ịkwụsị usoro njikarịcha ahụ?
+no_why_perm,Enweghị ikike
+bright_exp,Onye njikwa batrị chọrọ Gbanwee ikike ntọala sistemụ iji belata nchapụta ihuenyo ma ọ bụ gbanyụọ Bluetooth.
+tg_title,Soro Telegram ọwa!
+tg_text,Nọgide na-enwe mmelite ngwa, nweta mmalite, ma nyere aka nwalee atụmatụ ọhụrụ. Tụnye echiche gị, jụọ ajụjụ wee nweta azịza ngwa ngwa
+join_tg,sonyere
+curr_consumption,oriri ugbu a
+scrn_onn,ihuenyo na
+srcn_off,gbanyụọ ihuenyo
+mob_charg,Ịchaji
+discha,Na-agbapụta
+activea,Na-arụ ọrụ
+slpmode,Ụdị ụra
+chagingspeed,Ọsọ Nchaji dị ugbu a
+dta_proxt,Nchedo data
+governs,Amụma nzuzo a na-achịkwa iji ngwa ngwa njikwa batrị maka ngwaọrụ mkpanaka nke Baxolino mepụtara.
+info_u_provide,Ozi nke onye ọrụ nyere
+no_pass_per,Anyị anaghị ebufe data nkeonwe n'aka ndị ọzọ. Mgbe ị zitere anyị email, anyị nwere adreesị ozi-e gị, mana naanị anyị na-eji ya nyere gị aka na ngwa anyị.
+info_auto_coll,Anakọtara ozi na-akpaghị aka
+exp_admob_use,Anyị na-eji Google Admob ozi mgbasa ozi. Iji ọrụ ndị a dabere na nkwado data Google na https://www.google.com/policies/privacy/.
+we_real_time,Onye njikwa batrị ọ na-anakọta ozi ọnọdụ ozugbo na ngwaọrụ ahụ?
+exp_loc_perm_man,Onye njikwa batrị na-enyocha naanị ma agbanyere ọnọdụ ma ọ bụ gbanyụọ, mana anaghị anakọta ozi ọ bụla gbasara ọnọdụ ekwentị mkpanaaka gị. Ụdị ọrụ dabere na ọnọdụ ka edobere na ndabara. Ị nwere ike gbanyụọ ma ọ bụ megharịa ọrụ ndị a na ntọala ngwaọrụ gị. Tupu ma ọ bụ mgbe ị wụnye ngwa ndị a, a ga-ajụ gị - dabere na ngwaọrụ ahụ - ma ị ga-ahọrọ ịkwụsị ma ọ bụ rụọ ọrụ ndị a. Naanị ihe anyị nwere ike ịnakọta data gbasara ọnọdụ gị ma ọ bụrụ na ịgbalite ọrụ ọnọdụ dị otú ahụ.
+chng,Mgbanwe
+pri_update_exp,Enwere ike imelite amụma nzuzo a site n'oge ruo n'oge maka ihe ọ bụla. Anyị ga-agwa gị maka mgbanwe na amụma nzuzo anyị site na biputere iwu nzuzo ọhụrụ na adreesị webụ a ma gwa gị site na ozi dị na ngwa ahụ. A na-atụ aro ka ị na-enyocha amụma nzuzo a mgbe niile maka mgbanwe, ebe a na-ahụta iji nọgide na-akwado mgbanwe niile. Ị nwere ike nyochaa akụkọ ihe mere eme nke iwu a na webụsaịtị a.
+contct,Kpọtụrụ
+any_que,Ọ bụrụ na ị nwere ajụjụ ọ bụla gbasara nchedo data mgbe ị na-eji ngwa ahụ ma ọ bụ nwee ajụjụ gbasara omume anyị, biko ziga email na-ejilino.de@gmail.com
+mem_opti,Onye njikwa batrị chọrọ ohere "ncheta" ka e wee nwee ike nyochaa ma kwalite ngwa ngwa. Ị nwere ike gbanyụọ ma ọ bụ mee ka ọrụ ndị a rụọ ọrụ na ntọala nke ngwaọrụ gị. Tupu ma ọ bụ mgbe ị wụnye ngwa a, a ga-ajụ gị - dabere na ngwaọrụ ahụ - ma ị ga-ahọrọ ịkwụsị ma ọ bụ rụọ ọrụ ndị a.
+storg,Nchekwa
+ble_set_acc,blue_set_perm, Onye njikwa batrị chọrọ ịnweta "nnweta ntọala Bluetooth" ka enwere ike ịlele ma agbanyere Bluetooth ma ọ bụ gbanyụọ. Na ịgbalite ma ọ bụ gbanyụọ Bluetooth.
+ble_title,Bluetooth
+needz_del,Onye njikwa batrị chọrọ ịnweta "Rịọ ka ihichapụ ngwugwu" ka ịmalite iwepụ ngwa. A ga-ewepụ ngwa ahụ naanị ma ọ bụrụ na ị kwenye ya nke ọma.
+deletion_pkg,Rịọ ka ihichapụ ngwugwu
+need_adnd,Onye njikwa batrị chọrọ ohere "Edola nsogbu" iji mee ka ma ọ bụ gbanyụọ ọnọdụ nsogbu.
+adnd,Ịnweta adịghị emegharị ahụ
+need_wlan_acc,Onye njikwa batrị chọrọ ịnweta "Nweta njikọ WLAN" ka njikwa batrị wee lelee ma agbanyere WLAN ma ọ bụ gbanyụọ. Na iji rụọ ọrụ ma ọ bụ gbanyụọ WLAN.
+wln_conn,Nweta njikọ WLAN
+shop_bill_exp,Mgbe ịzụrụ ahịa site na Google Play In App Ịgba ụgwọ, Google na-enye anyị obodo obibi gị na mgbe ụfọdụ steeti, obodo na koodu zip, mana ọ bụghị adreesị zuru ezu. Anyị na-eji ozi a na-agbaso iwu ụtụ isi na ndekọ ego.
+pri_date,Dị ka 02/21/2021
+how_to_stop,Ị nwere ike ịkwụsị mkpokọta ozi site na ngwa ngwa naanị site na iwepụ ngwa ahụ. Ị nwere ike iji usoro iwepụ ọkọlọtọ dị ka akụkụ nke ngwaọrụ mkpanaka gị ma ọ bụ site n'ahịa ma ọ bụ netwọk maka ngwa mkpanaaka.
+opt_out,Kedu ikike ịpụpụ m?
+ur_permission,ikike gị
+accept_privacy,Site na iji ngwa a, ị kwenyere na anyị nhazi data gị dị ka e depụtara na amụma nzuzo a yana dịka anyị meziri.

@@ -1,0 +1,347 @@
+title,Battery Manager Lite is different
+extend_life,The best way to extend battery life and keep you healthy is based on experience and scientific research.
+measured,In a transparent way we only show you the actually measured data and how it is calculated.
+healthy,Keep your battery healthy
+double_battery,Double your battery life by not fully charging your battery. Scientists have proven this in their research.
+charge_limit,Using our charge limit notification, a notification will be sent when the battery reaches a user-defined threshold.
+smart,It gets smarter every day
+analyze,The longer you use Battery Manager Lite, the better we'll get at analyzing your battery's performance.
+update_every_time,The remaining battery life measurement is updated every time you use or charge your device.
+runtime,Discover the actual runtime of your battery
+discharge_cycle,Each time your phone goes through a discharge cycle, an accurate estimate of its runtime can be measured.
+accurate_life,Use Battery Manager Lite to measure accurate battery life.
+no_exit,Do not exit Battery Manager Lite!
+bg_require,Battery Manager Lite requires a background service to collect battery statistics and measure battery charge and discharge time. Your device is likely stopping the service or not allowing it to run when the app is closed. To avoid this, we have a good solution for you. Just click on the link.
+man,Manual
+cali,Calibration
+polarity,In this step, the app detects the charging polarity and the design capacity of your battery.
+disch,Discharge
+ch_pol,Charging polarity
+power_meter,Power meter
+unit_mesure,Unit of measurement
+capacity,Battery Capacity
+wrong,Not right?
+calib,Calibrate
+ye,Yes
+no,No
+neg,Negative
+pos,Positive
+lunch,Launch App
+manufac,Capacity according to the manufacturer
+design_des,The design capacity is the actual battery capacity, measured in mAh. As there is no official way to determine the capacity, the value returned may be wrong.
+correct_it,If the displayed capacity is not correct, please correct it.
+cancel,Cancel
+ok,Okay
+runtime,Battery Runtime
+wait,waiting
+per_hr,Battery consumption per hour
+life_for,Battery life for
+battery_cond,Battery condition
+bat_info,Battery information
+bat_cap,Battery capacity
+bat_volt,Battery voltage
+bat_cur,Battery current
+unit_mes,Unit of measurement
+done,Done
+c_bat_temp,Current Battery Temperature
+min_bat_tem,Minimum Battery temperature
+mx_bat_tem,Maximum battery temperature
+avg_bat_tem,Average battery temperature
+dig_last,Last diagnosis before
+rem_time,Remaining Time
+volt,Voltage
+curr,Current
+status,Status
+run_time,Running time
+currently,Currently
+avg,Average
+minmal,Minimal
+maximal,Maximum
+tool,Tools
+rem_apps,Uninstall apps you no longer use to prevent apps from running unnecessarily and draining your battery
+uninst_apps,Uninstall Apps
+stat,Start
+act_eng_save,Activate the energy saving mode to reduce battery consumption
+pow_save,Power saving mode
+tempe,Temperature
+heal,Health
+tips,Keep your Battery in good condition with tips and tricks.
+recomm,Recommendations
+prem,Premium
+more_func,More functions for you. Get premium, get more.
+more,More
+ur_cond_bat,The battery condition is
+ur_bat_life,Your battery life is
+ur_bat_temp,Your Battery Temperature is
+wow,Excellent
+normal,Normal
+poor,Poorly
+days,Days
+mins,Minutes
+hrs,Hours
+chging,Charging
+ful,Full
+dis_chrg,Discharging
+unkn,Unknown
+too_lit,Too little Battery Data
+car_any,Carry out anyway
+endz_,End
+dig_any,In order to get better diagnostic results, the app needs to analyze your battery in the background. Please start the diagnosis after 24 hours
+end_dig,End diagnosis
+quit_dig,Really Quit Diagnosis
+batty_temp,Battery temperature
+akku_manager,Akku Manager
+u_agree,With "START" you agree to the data protection regulations
+elemn_opti,Elements can be optimized
+looks_good,Everything looks good
+optimize_,Optimize
+toolz_,Tools
+akku_check,Akku Check
+ctrl_load,Controlled loading
+mng_apps,Manage apps
+infosm,Information
+tenzion,tension
+electy,electricity
+lvl,Level
+akku_man_premium,Akku Manager Premium
+premimum_highlight,Use the Battery Manager completely without advertising and you have access to the extensive customization of the user interface.
+design,Design
+subjs,subjects
+genrally,Generally
+temp_unit,Temperature unit
+oth_apps,Other Apps
+dat_protect,Data protection
+thx_akku,Thank you for supporting Akku Manager with the purchase of the premium version.
+user_got_pre,You now have access to extensive customization of the user interface and usage without advertising.
+exp_more,You can expect more features in future updates
+ap_optimiz,App optimization
+sys_bat_usage,System battery consumption
+bat_usage_det,Battery usage details
+end_optiz,End optimization
+abort,Abort
+break_up,break up
+scn,to scan
+scn_bgh,Screen brightness
+dact_wlan,Deactivate WLAN
+dact_save_batt,Deactivate to save battery
+dact,Deactivate
+dact_ble,Deactivate bluetooth
+red_brigh,Reduce brightness
+bright_txt,Reduce the brightness of the display to save battery
+to_reduce,To reduce
+dact_gps,Deactivate GPS
+appz_optimz,Apps optimized
+start_bat_check_det,Start a detailed battery check to always be on the safe side
+act_eng_save,Activate energy saving mode to reduce battery consumption
+remove_useless,Uninstall apps that are no longer used
+premium,Premium
+clear_mem,Clean up memory
+clear_mem_des,So that your smartphone runs quickly and smoothly.
+clenaup,Cleanup
+rat,rating
+rat_free,Rate Battery Manager for free
+sendz,Send
+elmn_found,Elements found
+drumz,Drums
+status,Status
+end_akk_check,End battery check
+bat_detlz,Battery details
+temp_checked,Temperature is checked
+cond_checked,The condition of the battery is checked
+checkz_start,Battery check starts
+plug_in,Plugged in
+techz,Technology
+coldz,Cold
+until,Until
+well,Well
+ovr_heat,Overheating
+ovr_load,Overload
+renam,renamed
+not_def,not defined
+chrgz,Charge
+full,Full
+unloadz,Unloading
+not_charge_unkn,not charged or unknown
+usb,USB
+charger,charger
+wless,wireless
+not_at_al,nothing at all
+uninstall,Uninstall
+update,To update
+setting,Settings
+app,Apps
+not_found,App not found
+search,Search apps
+version_code,Version Code
+api_level,API Level
+app_version,App Version
+authorization,authorization
+open,to open
+play_store,Play Store
+control,control
+systemstandart,Systemstandard
+white,White
+dark,Dark
+ocean,Ocean
+black,Black
+dark_blue,Dark Blue
+excellent,Excellent
+bad,Bad
+battery_bad,Battery is slightly damaged
+very_bad,Very bad
+battery_damaged,The battery is damaged
+custom_mode,Custom Mode
+brightness,Brightness
+automatic_brightness,Automatic Brightness
+normal,Normal
+sound_modus,Sound Modus
+tone_work,All Tones Work
+mute,Mute
+call_note_mute,Calls and notifications are muted
+not_bother,Do not bother
+tones_vibration_mute,Turn off tones and vibrations, except for alarm tones
+sound,Sounds
+music,music
+notification,Notification
+alarm,Alarm
+ultra_saving,Ultra energy saving mode
+edit,To edit
+disable_ultra_saving,Disable Ultra Energy Saving Mode
+min_remaining,min remaining
+hours,hours
+activted_ultra_saving,Ultra energy saving mode is activated
+charged_in,charged in
+min,min
+limit_power,Limit power consumption
+reduce_screen,Reduce screen brightness
+restrict_bg_act_explain,Restrict background activities
+volatge_check,Voltage is checked
+software_optimized,Software is optimized
+connect_charger,Connect charger
+charger_removed,Charger can be removed
+power_consump_title,Power consumption
+srcn_bg_title,Screen brightness
+bg_al_activities,Background activities
+sftware,Software
+get_primium,If you buy the premium version, you will get all current functions as well as all new functions in the future.
+cuztomize_face,Customization of the user interface
+comp_scheme,Compose your Battery Manager color scheme from a variety of themes.
+bat_check_detail,Detailed battery check
+check_cond_test,Use the Battery Manager to check the condition of your battery to always be on the safe side.
+no_ads_yo,No advertising
+use_explain_noads,Use Battery Manager without any advertising
+act_energy_save,Activate the ultra energy saving mode to increase the battery life in an emergency.
+buy_title,Buy Premium
+loc_title,Location
+cap_title,capacity
+cap_remain,Remaining capacity
+sleepy,Sleep
+sek,Seconds
+sing_min,Minute
+miniotes,Minutes
+finish,Finished
+mobi_data,mobile data
+plz_rate,Please rate Battery Manager in the Play Store
+ur_data_cus,Can we continue to use your data to customize advertisements for you?
+in_slep_mode,In sleep mode
+in_use,In use
+with_curr_pow,With current power consumption
+rem_bat_life,Remaining battery life
+qck_acc,Quick access
+notif_txt,notification
+notif_at,Notify at
+chg_curr,Charging current
+charge_perm,Charging performance
+maxi_charge_per,Maximum charging performance
+enb_notif,Enable notification
+perm_send_notif,Battery Manager requires permission to send a notification, it must be activated in the device's settings.
+to_set,To the settings
+title_autost,Activate Autostart
+auto_explain,Battery Manager requires permission to remain activated in the background in order to query the battery status and send a notification.
+sync_auto,Synchronize automatically
+dis_auto_sync,Disabling automatic synchronization significantly reduces wakelocks. However, some functions such as receiving e-mail will be lost.
+chg_lim,Charge Limit
+avoid_ful_explain,If you charge your battery to the maximum or discharge it until it is switched off, the condition and service life of the battery will be reduced. In the following you can set the minimum and maximum charge or discharge status of the battery and you will be notified each time the threshold value is reached. Avoid one fully charge and discharge your battery and extend the life of the battery.
+rec_notif,Not received notification?
+title_allow_bg_act,Allow background activity
+allow_bg_act,In order for you to be able to use the Battery Manager without restrictions without it being unintentionally closed by the operating system, you may have to switch off special functions for battery management and battery usage in the settings. Because the various manufacturers differ in the designation of these options depending on the operating system used. In the App Information area, under Sleep or Battery, select No Restrictions or Allow Background Activity.
+dev_usage,Device usage
+dep_sleep,Deep sleep is a state in which your device is using the least amount of battery. The duration of deep sleep has a positive effect on energy saving. The deep sleep can be interrupted by background tasks, which causes the battery to discharge faster. In this case, restart your device.
+title_bat_temp,Battery temperature
+bat_tempp,The battery temperature is one of the most important factors. If the battery is kept gel at high temperatures, this affects both the service life and the performance of the battery. If the temperature rises, the internal structure of the battery can be damaged.
+rdc_brightness,Reduce screen brightness
+display_explain,The display is one of the components that consumes most of the energy. Reducing the maximum brightness helps reduce overall consumption and achieve noticeable savings. Before reducing the brightness, deactivate the automatic brightness so that the brightness is not changed unnecessarily.
+tst_charge,Test charger
+best_way_test,The best way to test the charger and cable is by checking the charging speed with the screen off. The charging speed when the screen is on is not a good benchmark because your phone is consuming power, which causes fluctuations. Plug in the charger, turn off the screen for a few minutes, and then check the maximum charge current.
+wait_title,Waiting
+rfsh_rate,Refresh rate
+low_sizty,Lowering the refresh rate to 60 Hz improves the battery life.
+drk_mode,Dark Mode
+acti_dark_mode,Activate Dark Mode, in Dark Mode less power consumed
+actz,Activate
+poz,Power
+minz,Minimum
+avgo,Average
+mixi1,Maximum
+msg_dis,The message disappears after 24 hours if there is enough data to display the diagram in full.
+no_enough,Not enough data to display
+log_graph,In a few hours you will see a graph here that will allow you to check the battery temperature, voltage, amperage and level over the past 24 hours.
+week,week
+buy_it,Buy
+one_pur,One-time fee of
+refun_pur,the purchase can be refunded within 2 hours.
+each_month,The subscription auto-renews each month and continues to cost per month. The subscription can be canceled at any time.
+mng_subs,manage subscription
+subsci,subscribe
+will_cost_week,Subscription auto-renews each week and continues to cost per week. The subscription can be canceled at any time.
+lfllong,lifelong
+mthly,monthly
+wkly,Weekly
+hoto,Hot
+prm_ben_title,Premium benefits
+sync_title,Synchronize
+dis_sync_inc,Disabling sync will increase battery life by not syncing services in the background
+time_out,Time out
+dec_extend,Decreasing the time before the display turns off extends battery life
+u_end_opti,Are you sure you want to end the optimization process?
+no_why_perm,No permission
+bright_exp,Battery Manager requires Change system settings permission to reduce screen brightness or turn off Bluetooth.
+tg_title,Join Telegram channel!
+tg_text,Stay current with app updates, get early builds, and help test new features. Suggest your ideas, ask questions and get answers faster
+join_tg,join
+curr_consumption,current consumption
+scrn_onn,screen on
+srcn_off,screen off
+mob_charg,Charging
+discha,Discharging
+activea,Active
+slpmode,Sleep mode
+chagingspeed,Current Charging speed
+dta_proxt,Data protection
+governs,This privacy policy governs your use of the Battery Manager software application for mobile devices created by Baxolino.
+info_u_provide,Information provided by the user
+no_pass_per,We do not pass on personal data to third parties. When you email us, we have your email address, but we only use it to help you with our apps.
+info_auto_coll,Information collected automatically
+exp_admob_use,We use Google Admob to serve ads. The use of these services is subject to the Google data protection provisions at https://www.google.com/policies/privacy/.
+we_real_time,Does Battery Manager collect accurate real-time location information from the device?
+exp_loc_perm_man,Battery Manger only checks whether the location is activated or deactivated, but does not collect any precise information about the location of your mobile device. Such location-based functions are set by default. You can deactivate or reactivate these functions in the settings of your respective device. Before or after installing the apps, you will be asked - depending on the device - whether you would prefer to deactivate or activate these functions. We can only collect data about your location if you activate such location services.
+chng,Changes
+pri_update_exp,This privacy policy may be updated from time to time for any reason. We will inform you of changes to our privacy policy by posting the new privacy policy on this web address and notifying you via a message in the app. It is recommended that you regularly consult this Privacy Policy for changes, as continued use is considered approval of all changes. You can review the history of this policy on this website.
+contct,Contact
+any_que,If you have any questions about data protection while using the application or have questions about our practices, please send an email to baxolino.de@gmail.com
+mem_opti,Battery Manager needs the "memory" access so that apps can be scanned and optimized. You can deactivate or activate these functions in the settings of your respective device. Before or after installing the app, you will be asked - depending on the device - whether you would prefer to deactivate or activate these functions.
+storg,Storage
+ble_set_acc,blue_set_perm,Battery Manager requires the access "Bluetooth setting access" so that it can be checked whether Bluetooth is activated or deactivated. And to activate or deactivate Bluetooth.
+ble_title,Bluetooth
+needz_del,Battery Manager requires the access "Request deletion of packages" to start an uninstallation of an app. The app will only be uninstalled if you explicitly allow it.
+deletion_pkg,Request deletion of packages
+need_adnd,Battery Manager requires "Do Not Disturb" access to enable or disable Do Not Disturb mode.
+adnd,Access Do Not Disturb
+need_wlan_acc,Battery Manager requires access to "Get WLAN Connections" so that Battery Manager can check whether WLAN is activated or deactivated. And to activate or deactivate WLAN.
+wln_conn,Get WLAN connections
+shop_bill_exp,When you shop through Google Play In App Billing, Google gives us your country of residence and sometimes the state, city, and zip code, but never the full address. We use this information to comply with tax and accounting regulations.
+pri_date,As of 02/21/2021
+how_to_stop,You can stop the entire collection of information by the application simply by uninstalling the application. You can use the standard uninstall processes available as part of your mobile device or through the marketplace or network for mobile applications.
+opt_out,What are my opt-out rights?
+ur_permission,your permission
+accept_privacy,By using the application, you consent to our processing of your data as set out in this privacy policy and as amended by us.

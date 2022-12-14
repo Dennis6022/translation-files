@@ -1,0 +1,347 @@
+title,Umphathi weBattery Lite wahlukile
+extend_life,Eyona ndlela yokwandisa ubomi bebhetri kwaye ugcine usempilweni isekelwe kumava kunye nophando lwenzululwazi.
+measured,Ngendlela ecacileyo sikubonisa kuphela idatha elinganisiweyo kunye nendlela ebalwa ngayo.
+healthy,Gcina ibhetri yakho isempilweni
+double_battery,Phinda kabini ubomi bebhetri yakho ngokungahlawulisi ngokupheleleyo ibhetri yakho. Izazinzulu ziye zangqina oku kuphando lwazo.
+charge_limit,Ngokusebenzisa isaziso sethu somda wentlawulo, isaziso siya kuthunyelwa xa ibhetri ifikelela kumda ochazwe ngumsebenzisi.
+smart,Iba krelekrele yonke imihla
+analyze,Okukhona usebenzisa iBattery Manager Lite, kokukhona siya kuba ngcono xa sihlalutya ukusebenza kwebhetri yakho.
+update_every_time,Umlinganiselo oseleyo wobomi bebhetri uhlaziywa ngalo lonke ixesha usebenzisa okanye utshaja isixhobo sakho.
+runtime,Fumana elona xesha lokusetyenziswa kwebhetri yakho
+discharge_cycle,Ngalo lonke ixesha ifowuni yakho idlula kumjikelo wokukhupha, uqikelelo oluchanekileyo lwexesha layo lokusebenza lunokulinganiswa.
+accurate_life,Sebenzisa iBattery Manager Lite ukulinganisa ubomi bebhetri obuchanekileyo.
+no_exit,Musa ukuphuma kuMphathi weBhetri oLite!
+bg_require,Umphathi webhetri iLite ifuna inkonzo yangasemva ukuqokelela iinkcukacha-manani zebhetri kwaye ilinganise intlawulo yebhetri kunye nexesha lokuyikhupha. Isixhobo sakho sinokuyimisa inkonzo okanye singayivumeli ukuba isebenze xa i-app ivaliwe. Ukunqanda oku, sinesisombululo esihle kuwe. Cofa nje kwikhonkco.
+man,Imanyuwali
+cali,Ulungelelwaniso
+polarity,Kweli nyathelo, i-app ibona ukutshaja polarity kunye nomthamo woyilo webhetri yakho.
+disch,Ukukhupha
+ch_pol,Ukutshaja ipolarity
+power_meter,imitha yamandla
+unit_mesure,Iyunithi yokulinganisa
+capacity,Umthamo webhetri
+wrong,Akunjalo?
+calib,Ukulinganisa
+ye,Ewe
+no,Hayi
+neg,Ibi
+pos,Okuhle
+lunch,Qalisa i-App
+manufac,Umthamo ngokomvelisi
+design_des,Umthamo woyilo lolona mthamo webhetri, ulinganiswe nge-mAh. Njengoko kungekho ndlela esemthethweni yokumisela umthamo, ixabiso elibuyisweyo linokuba lingalunganga.
+correct_it,Ukuba umthamo obonisiweyo awuchanekanga, nceda ulungise.
+cancel,Rhoxisa
+ok,Kulungile
+runtime,Ixesha lokuSebenza kwebhetri
+wait,ukulinda
+per_hr,Ukusetyenziswa kwebhetri ngeyure
+life_for,Ubomi bebhetri ye
+battery_cond,Imeko yebhetri
+bat_info,Ulwazi ngebhetri
+bat_cap,Umthamo webhetri
+bat_volt,Umbane webhetri
+bat_cur,Ibhetri yangoku
+unit_mes,Iyunithi yokulinganisa
+done,Ugqibile
+c_bat_temp,Ubushushu bebhetri yangoku
+min_bat_tem,Ubuncinci bobushushu bebhetri
+mx_bat_tem,Ubungakanani bobushushu bebhetri
+avg_bat_tem,Umndilili wobushushu bebhetri
+dig_last,Ukuxilongwa kokugqibela ngaphambili
+rem_time,Ixesha Eliseleyo
+volt,I-Voltage
+curr,Okwangoku
+status,Ubume
+run_time,Ixesha lokubaleka
+currently,Okwangoku
+avg,I-avareji
+minmal,Ubuncinci
+maximal,Ubuninzi
+tool,Izixhobo
+rem_apps,Khipha ii -apps ongasazisebenzisiyo ukunqanda ii -apps ekusebenzeni ngokungeyomfuneko kwaye ukhuphe ibhetri yakho
+uninst_apps,Khupha ii-Apps
+stat,Qala
+act_eng_save,Vula imowudi yokonga ukunciphisa ukusetyenziswa kwebhetri
+pow_save,Imowudi yokugcina amandla
+tempe,Ubushushu
+heal,Impilo
+tips,Gcina ibhetri yakho ikwimeko entle ngeengcebiso kunye namaqhinga.
+recomm,Iingcebiso
+prem,Intlawulo yanyanga le
+more_func,Eminye imisebenzi yakho. Fumana ipremium, fumana ngaphezulu.
+more,Kaninzi
+ur_cond_bat,Imeko yebhetri
+ur_bat_life,Ubomi bebhetri yakho
+ur_bat_temp,Ubushushu bebhetri yakho
+wow,Egqwesileyo
+normal,Okuqhelekileyo
+poor,Kakuhle
+days,Iintsuku
+mins,Imizuzu
+hrs,Iiyure
+chging,Ukutshaja
+ful,Igcwele
+dis_chrg,Ukukhupha
+unkn,Akwaziwa
+too_lit,IDatha yebhetri encinci kakhulu
+car_any,Qhuba kunjalo
+endz_,Isiphelo
+dig_any,Ukuze ufumane iziphumo ezingcono zokuxilonga, i-app kufuneka ihlalutye ibhetri yakho ngasemva. Nceda uqalise ukuxilongwa emva kweeyure ezingama-24
+end_dig,Ukuphelisa ukuxilongwa
+quit_dig,Yiyeke ngokwenene Uxilongo
+batty_temp,Ubushushu bebhetri
+akku_manager,Akku Umphathi
+u_agree,Nge "START" uyavumelana nemithetho yokhuseleko lwedatha
+elemn_opti,Izinto zinokuphuculwa
+looks_good,Yonke into ibonakala ilungile
+optimize_,Lungiselela
+toolz_,Izixhobo
+akku_check,Akku Khangela
+ctrl_load,Ukulayishwa okulawulwayo
+mng_apps,Lawula usetyenziso
+infosm,Ulwazi
+tenzion,uxinezeleko
+electy,umbane
+lvl,Inqanaba
+akku_man_premium,Akku Manager Premium
+premimum_highlight,Sebenzisa uMphathi weBetri ngokupheleleyo ngaphandle kwentengiso kwaye unokufikelela kulungiselelo olubanzi lojongano lomsebenzisi.
+design,Yila
+subjs,izifundo
+genrally,Ngokubanzi
+temp_unit,Iyunithi yobushushu
+oth_apps,Ezinye ii-Apps
+dat_protect,Ukhuseleko lwedatha
+thx_akku,Enkosi ngokuxhasa uMphathi we-Akku ngokuthengwa kwenguqulo yeprimiyamu.
+user_got_pre,Ngoku unokufikelela kwi-customization ebanzi yojongano lomsebenzisi kunye nokusetyenziswa ngaphandle kwentengiso.
+exp_more,Unokulindela amanqaku amaninzi kuhlaziyo oluzayo
+ap_optimiz,Ulungiselelo lwe-App
+sys_bat_usage,Ukusetyenziswa kwebhetri yenkqubo
+bat_usage_det,Iinkcukacha zosetyenziso lwebhetri
+end_optiz,Phelisa ulungiselelo
+abort,Lahla
+break_up,hlukala
+scn,ukuskena
+scn_bgh,Ukukhanya kwesikrini
+dact_wlan,Vala iWLAN ingasebenzi
+dact_save_batt,Vala ukuze ugcine ibhetri
+dact,Vala ukusebenza
+dact_ble,Vala ibluetooth
+red_brigh,Nciphisa ukukhanya
+bright_txt,Yehlisa ukuqaqamba kwesibonisi ukugcina ibhetri
+to_reduce,Ukunciphisa
+dact_gps,Vala iGPS
+appz_optimz,Usetyenziso lulungisiwe
+start_bat_check_det,Qala ukujonga ibhetri eneenkcukacha ukuze uhlale ukwicala elikhuselekileyo
+act_eng_save,Vula imowudi yokonga ukunciphisa ukusetyenziswa kwebhetri
+remove_useless,Khupha ii-apps ezingasasetyenziswayo
+premium,Intlawulo yanyanga le
+clear_mem,Coca inkumbulo
+clear_mem_des,Ukuze i-smartphone yakho isebenze ngokukhawuleza kwaye ngokutyibilikayo.
+clenaup,Coca
+rat,ukukala
+rat_free,Ixabiso loMphathi webhetri simahla
+sendz,Thumela
+elmn_found,Iimpawu zifunyenwe
+drumz,Amagubu
+status,Ubume
+end_akk_check,Phelisa ukujonga ibhetri
+bat_detlz,Iinkcukacha zebhetri
+temp_checked,Ubushushu bujongiwe
+cond_checked,Imeko yebhetri ijongiwe
+checkz_start,Ukujonga ibhetri kuyaqala
+plug_in,Yiplage ngaphakathi
+techz,Iteknoloji
+coldz,Kuyabanda
+until,De
+well,Kulungile
+ovr_heat,Ukutshisa ngokugqithisileyo
+ovr_load,Ukulayisha ngaphezulu
+renam,ithiywe ngokutsha
+not_def,ayichazwanga
+chrgz,Ukuhlawulisa
+full,Igcwele
+unloadz,Ukothula
+not_charge_unkn,ayihlawuliswa okanye ayaziwa
+usb,i-USB
+charger,itshaja
+wless,wireless
+not_at_al,akukho kwanto
+uninstall,Khipha
+update,Ukuhlaziya
+setting,Iisetingi
+app,Usetyenziso
+not_found,Usetyenziso alufunyanwanga
+search,Khangela usetyenziso
+version_code,Ikhowudi yenguqulelo
+api_level,Inqanaba le-API
+app_version,Inguqulelo ye-App
+authorization,ugunyaziso
+open,ukuvula
+play_store,Play Store
+control,ulawulo
+systemstandart,Systemstandard
+white,Mhlophe
+dark,Mnyama
+ocean,Ulwandle
+black,Mnyama
+dark_blue,Ubhlu omnyama
+excellent,Egqwesileyo
+bad,Imbi
+battery_bad,Ibhetri yonakele kancinci
+very_bad,Imbi kakhulu
+battery_damaged,Ibhetri yonakele
+custom_mode,Imowudi yesiko
+brightness,Ukuqaqamba
+automatic_brightness,UkuKhanya okuzenzekelayo
+normal,Okuqhelekileyo
+sound_modus,Imodyuli yesandi
+tone_work,Zonke iiToni ziyasebenza
+mute,Thulisa
+call_note_mute,Iminxeba kunye nezaziso zicinyiwe
+not_bother,Sukuzihlupha
+tones_vibration_mute,Cima iithowuni kunye neentshukumo, ngaphandle kweethowuni ze-alam
+sound,Izandi
+music,umculo
+notification,Isaziso
+alarm,Ialarm
+ultra_saving,Imowudi yokugcina amandla
+edit,Ukuhlela
+disable_ultra_saving,Khubaza iModi yokuGcina Amandla e-Ultra
+min_remaining,imiz eseleyo
+hours,iiyure
+activted_ultra_saving,Imowudi yokugcina amandla ivuliwe
+charged_in,ihlawulisiwe
+min,imiz
+limit_power,Ukunciphisa ukusetyenziswa kwamandla
+reduce_screen,Nciphisa ukukhanya kwesikrini
+restrict_bg_act_explain,Thintela imisebenzi yangasemva
+volatge_check,Umbane ujongiwe
+software_optimized,Isoftware ilungiselelwe
+connect_charger,Qhagamshela itshaja
+charger_removed,Itshaja inokususwa
+power_consump_title,Ukutya umbane
+srcn_bg_title,Ukukhanya kwesikrini
+bg_al_activities,Imisebenzi yemvelaphi
+sftware,Isoftware
+get_primium,Ukuba uthenga i-premium version, uya kufumana yonke imisebenzi yangoku kunye nayo yonke imisebenzi emitsha kwixesha elizayo.
+cuztomize_face,Ukwenziwa ngokwezifiso kojongano lomsebenzisi
+comp_scheme,Yenza iskimu sakho sombala woMphathi weBetri kwimixholo eyahlukeneyo.
+bat_check_detail,Ukujonga ibhetri eneenkcukacha
+check_cond_test,Sebenzisa uMphathi webhetri ukujonga imeko yebhetri yakho ukuba isoloko ikwicala elikhuselekileyo.
+no_ads_yo,Akukho ntengiso
+use_explain_noads,Sebenzisa uMphathi webhetri ngaphandle kwentengiso
+act_energy_save,Vula imowudi yogcino lwamandla obuninzi ukwandisa ubomi bebhetri ngexesha likaxakeka.
+buy_title,Thenga iNtlawulo yaNyanga le
+loc_title,Indawo
+cap_title,umthamo
+cap_remain,Umthamo oseleyo
+sleepy,Lala
+sek,Imizuzwana
+sing_min,Mzuzu
+miniotes,Imizuzu
+finish,Igqitywe tu
+mobi_data,idatha yeselula
+plz_rate,Nceda nika umlinganiselo woMphathi webhetri kwiPlay Store
+ur_data_cus,Ngaba singaqhubeka nokusebenzisa idatha yakho ukwenza iintengiso zilungele wena?
+in_slep_mode,Kwimo yokulala
+in_use,Iyasetyenziswa
+with_curr_pow,Ngokusetyenziswa kwamandla ngoku
+rem_bat_life,Ubomi bebhetri obushiyekileyo
+qck_acc,Ukufikelela ngokukhawuleza
+notif_txt,isaziso
+notif_at,Yazisa ku
+chg_curr,Ukutshaja okwangoku
+charge_perm,Ukutshaja ukusebenza
+maxi_charge_per,Ukusebenza kokutshaja okuphezulu
+enb_notif,Vula isaziso
+perm_send_notif,Umphathi webhetri ufuna imvume yokuthumela isaziso, kufuneka sisebenze kwiisetingi zesixhobo.
+to_set,Kuseto
+title_autost,Vula i-Autostart
+auto_explain,Umphathi webhetri ufuna imvume yokuhlala esebenza ngasemva ukuze ubuze ubume bebhetri kwaye uthumele isaziso.
+sync_auto,Ngqamanisa ngokuzenzekelayo
+dis_auto_sync,Ukukhubaza ungqamaniso oluzenzekelayo kunciphisa kakhulu iiwakelocks. Nangona kunjalo, eminye imisebenzi efana nokufumana i-imeyile iya kulahleka.
+chg_lim,Umda wentlawulo
+avoid_ful_explain,Ukuba uhlawulisa ibhetri yakho kangangoko okanye uyikhuphe de icinywe, imeko kunye nobomi benkonzo yebhetri buya kucutheka. Koku kulandelayo unokuseta ubuncinci kunye nobuninzi bentlawulo okanye imeko yokukhupha ibhetri kwaye uya kwaziswa ngalo lonke ixesha ixabiso le-threshold lifikelelwe. Kuphephe ukutshaja ngokupheleleyo kwaye ukhuphe ibhetri yakho kwaye wandise ubomi bebhetri.
+rec_notif,Awufumananga isaziso?
+title_allow_bg_act,Vumela umsebenzi ongasemva
+allow_bg_act,Ukuze ukwazi ukusebenzisa uMphathi weBattery ngaphandle kwezithintelo ngaphandle kokuba ivalwe ngokungeyomfuneko yinkqubo yokusebenza, kunokufuneka ucime imisebenzi ekhethekileyo yokulawula ibhetri kunye nokusetyenziswa kwebhetri kwizicwangciso. Ngenxa yokuba abavelisi abahlukeneyo bayahluka ekutyunjweni kwezi ndlela ngokuxhomekeke kwindlela yokusebenza esetyenzisiweyo. Kwindawo yolwazi lwe-App, phantsi kokuLala okanye ibhetri, khetha Akukho Miqobo okanye uvumele umsebenzi ongasemva.
+dev_usage,Ukusetyenziswa kwesixhobo
+dep_sleep,Ubuthongo obunzulu yimeko apho isixhobo sakho sisebenzisa eyona mali incinci yebhetri. Ubude bobuthongo obunzulu bunefuthe elihle ekongeni amandla. Ubuthongo obunzulu bunokuphazamiseka yimisebenzi yangasemva, ebangela ukuba ibhetri ikhuphe ngokukhawuleza. Kule meko, qalisa kwakhona isixhobo sakho.
+title_bat_temp,Ubushushu bebhetri
+bat_tempp,Ubushushu bebhetri yenye yezona zinto zibalulekileyo. Ukuba ibhetri igcinwe ijeli kumaqondo aphezulu, oku kuchaphazela zombini ubomi benkonzo kunye nokusebenza kwebhetri. Ukuba iqondo lokushisa liphakama, isakhiwo sangaphakathi sebhetri sinokonakala.
+rdc_brightness,Nciphisa ukukhanya kwesikrini
+display_explain,Umboniso ungomnye wamacandelo asebenzisa amandla amaninzi. Ukunciphisa ukukhanya okuphezulu kunceda ukunciphisa ukusetyenziswa ngokubanzi kunye nokufezekisa ukonga okubonakalayo. Phambi kokunciphisa ukuqaqamba, cima ukuqaqamba okuzenzekelayo ukuze ukuqaqamba kungatshintshwa ngokungeyomfuneko.
+tst_charge,Vavanya itshaja
+best_way_test,Eyona ndlela yokuvavanya itshaja kunye nentambo kukujonga isantya sokutshaja isikrini sicinyiwe. Isantya sokutshaja xa isikrini sivuliwe ayisiyiyo ibhentshi elungileyo kuba ifowuni yakho isebenzisa amandla, nto leyo ebangela ukuguquguquka. Xhuma itshaja, cima isikrini imizuzu embalwa, kwaye emva koko ujonge ubuninzi bentlawulo yangoku.
+wait_title,Ukulinda
+rfsh_rate,Ireyithi yokuhlaziya
+low_sizty,Ukuthoba izinga lohlaziyo ukuya kwi-60 Hz kuphucula ubomi bebhetri.
+drk_mode,Imo Emnyama
+acti_dark_mode,Vula iMowudi emnyama, kwiMowudi emnyama amandla amancinci asetyenzisiweyo
+actz,Vula
+poz,Amandla
+minz,Ubuncinci
+avgo,I-avareji
+mixi1,Ubuninzi
+msg_dis,Umyalezo uyanyamalala emva kweeyure ezingama-24 ukuba kukho idatha eyaneleyo yokubonisa umzobo ngokupheleleyo.
+no_enough,Akukho datha yaneleyo yokubonisa
+log_graph,Kwiiyure ezimbalwa uza kubona igrafu apha eya kukuvumela ukuba ujonge ubushushu bebhetri, umbane, i-amperage kunye nenqanaba kwiiyure ezingama-24 ezidlulileyo.
+week,iveki
+buy_it,Thenga
+one_pur,Umrhumo wexesha elinye we
+refun_pur,ukuthengwa kunokubuyiselwa kwiiyure ze-2.
+each_month,Umrhumo uhlaziywa ngokuzenzekelayo nyanga nganye kwaye uyaqhubeka neendleko ngenyanga. Umrhumo unokurhoxiswa nangaliphi na ixesha.
+mng_subs,lawula umrhumo
+subsci,rhuma
+will_cost_week,Umrhumo uhlaziywa ngokuzenzekelayo kwiveki nganye kwaye uyaqhubeka ukuxabisa ngeveki. Umrhumo unokurhoxiswa nangaliphi na ixesha.
+lfllong,ubomi bonke
+mthly,ngenyanga
+wkly,Rhoqo ngeveki
+hoto,Ishushu
+prm_ben_title,Iinzuzo zePremium
+sync_title,Ngqamanisa
+dis_sync_inc,Ukuyekisa ungqamaniso kuya konyusa ubomi bebhetri ngokungangqamanisi iinkonzo ngasemva
+time_out,Kuphele ixesha
+dec_extend,Ukunciphisa ixesha phambi kokuba isiboniso sicime kwandisa ubomi bebhetri
+u_end_opti,Uqinisekile ufuna ukuphelisa inkqubo yolungiselelo?
+no_why_perm,Akukho mvume
+bright_exp,Umphathi webhetri ufuna Guqula imvume yokuseta inkqubo ukunciphisa ukuqaqamba kwesikrini okanye ukucima iBluetooth.
+tg_title,Joyina isitishi seTelegram!
+tg_text,Hlala unolwazi ngohlaziyo lwe-app, fumana ulwakhiwo kwangethuba, kwaye uncede uvavanye izinto ezintsha. Cebisa ngezimvo zakho, buza imibuzo kwaye ufumane iimpendulo ngokukhawuleza
+join_tg,ukujoyina
+curr_consumption,ukusetyenziswa kwangoku
+scrn_onn,isikrini sivuliwe
+srcn_off,isikrini sivaliwe
+mob_charg,Ukutshaja
+discha,Ukukhupha
+activea,Iyasebenza
+slpmode,Imo yokulala
+chagingspeed,Isantya sokuTshaja sangoku
+dta_proxt,Ukhuseleko lwedatha
+governs,Lo mgaqo-nkqubo wabucala ulawula ukusetyenziswa kwakho koMphathi webhetri usetyenziso lwesoftware yezixhobo eziphathwayo ezenziwe nguBaxolino.
+info_u_provide,Ulwazi olunikezelwe ngumsebenzisi
+no_pass_per,Asidlulisi idatha yomntu kumntu wesithathu. Xa usithumelela i-imeyile, sinedilesi ye-imeyile, kodwa siyisebenzisela ukukunceda ngeapps zethu kuphela.
+info_auto_coll,Ulwazi oluqokelelwe ngokuzenzekelayo
+exp_admob_use,Sisebenzisa iAdmob kaGoogle ukunikezela ngeentengiso. Ukusetyenziswa kwezi nkonzo kuxhomekeke kumalungiselelo kaGoogle okhuseleko lwedatha apha https://www.google.com/policies/privacy/.
+we_real_time,Ngaba uMphathi weBetri uqokelela ulwazi oluchanekileyo lwendawo yexesha lokwenyani kwisixhobo?
+exp_loc_perm_man,I-Battery Manger ijonga kuphela ukuba indawo iyasebenza okanye ayisebenzi, kodwa ayiqokeleli naluphi na ulwazi oluchanekileyo malunga nendawo yesixhobo sakho esiphathwayo. Imisebenzi enjalo esekwe kwindawo isetwa ngokungagqibekanga. Ungayivula okanye uyenze isebenze kwakhona le misebenzi kuseto lwesixhobo sakho eso. Ngaphambi okanye emva kokufaka usetyenziso, uya kubuzwa - ngokuxhomekeke kwisixhobo - ukuba ungathanda ukuyivala okanye ukuyivula le misebenzi. Singaqokelela kuphela idatha malunga nendawo okuyo ukuba uvula ezo nkonzo zendawo.
+chng,Iinguqu
+pri_update_exp,Lo mgaqo-nkqubo wabucala unokuhlaziywa amaxesha ngamaxesha ngaso nasiphi na isizathu. Siza kukwazisa ngotshintsho kumgaqo-nkqubo wethu wabucala ngokuthumela umgaqo-nkqubo omtsha wabucala kule dilesi yewebhu kwaye sikwazise ngomyalezo okwiapp. Kucetyiswa ukuba ujongane rhoqo nalo Mgaqo-nkqubo waBucala ukuze wenze utshintsho, njengoko ukusetyenziswa okuqhubekayo kuthathwa njengokuvunywa kwalo lonke utshintsho. Ungayiphonononga imbali yalo mgaqo-nkqubo kule webhusayithi.
+contct,Qhagamshelana
+any_que,Ukuba unayo nayiphi na imibuzo malunga nokukhuselwa kwedatha ngelixa usebenzisa isicelo okanye unemibuzo malunga nezenzo zethu, nceda uthumele i-imeyile ku-baxolino.de@gmail.com
+mem_opti,Umphathi webhetri ufuna ukufikelela "kwimemori" ukuze usetyenziso luskenwe kwaye luphuculwe. Ungayivula okanye uvule le misebenzi kuseto lwesixhobo sakho eso. Ngaphambi okanye emva kokufaka i-app, uya kubuzwa - ngokuxhomekeke kwisixhobo - ukuba ungathanda ukuyivala okanye ukuyivula le misebenzi.
+storg,Ugcino
+ble_set_acc,blue_set_perm, Umphathi webhetri ufuna ukufikelela "kwisetingi yokufikelela kwiBluetooth" ukuze kujongwe ukuba iBluetooth iyasebenza okanye ayisebenzi. Kwaye ukuvula okanye ukuvala iBluetooth.
+ble_title,ibluetooth
+needz_del,Umphathi webhetri ufuna ufikelelo "Cela ukucinywa kweepakethe" ukuqalisa ukukhutshwa kosetyenziso. I-app iya kukhutshwa kuphela ukuba uyivumela ngokucacileyo.
+deletion_pkg,Cela ukucinywa kweepakethe
+need_adnd,Umphathi webhetri ufuna "ungaphazamisi" ufikelelo ukuze uvule okanye uvale imo yokungaphazamisi.
+adnd,Ukufikelela ungaphazamisi
+need_wlan_acc,Umphathi webhetri ufuna ufikelelo "Fumana uQhagamshelwano lweWLAN" ukuze uMphathi weBetri ajonge ukuba iWLAN iyasebenza okanye ayisebenzi. Kwaye ukuvula okanye ukuvala iWLAN.
+wln_conn,Fumana imidibaniso ye-WLAN
+shop_bill_exp,Xa uthenga nge-Google Play kwi-App Billing, uGoogle usinika ilizwe ohlala kulo kwaye ngamanye amaxesha ilizwe, isixeko, kunye nekhowudi ye-zip, kodwa ungaze ube nedilesi epheleleyo. Sisebenzisa olu lwazi ukuthobela irhafu kunye nemimiselo yocwangciso.
+pri_date,Ukusukela nge-02/21/2021
+how_to_stop,Ungayiyeka yonke ingqokelela yolwazi ngesicelo ngokukhupha isicelo. Ungasebenzisa iinkqubo eziqhelekileyo zokukhupha ezifumanekayo njengenxalenye yesixhobo sakho esiphathwayo okanye kwindawo yokuthengisa okanye inethiwekhi yezicelo eziphathwayo.
+opt_out,Athini amalungelo am okuphuma?
+ur_permission,imvume yakho
+accept_privacy,Ngokusebenzisa esi sicelo, uyavumelana nokusetyenzwa kwedatha yakho njengoko kuchaziwe kulo mgaqo-nkqubo wabucala nanjengoko ulungisiwe sithi.

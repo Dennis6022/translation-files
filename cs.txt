@@ -1,0 +1,347 @@
+title,Battery Manager Lite je jiný
+extend_life,Nejlepší způsob, jak prodloužit životnost baterie a udržet si zdraví, je založen na zkušenostech a vědeckém výzkumu.
+measured,Transparentním způsobem vám ukážeme pouze skutečně naměřená data a způsob jejich výpočtu.
+healthy,Udržujte svou baterii zdravou
+double_battery,Zdvojnásobte životnost baterie tím, že ji nebudete plně nabíjet. Vědci to ve svém výzkumu prokázali.
+charge_limit,Pomocí našeho upozornění na limit nabití bude odesláno upozornění, když baterie dosáhne uživatelem definovaného prahu.
+smart,Každým dnem je to chytřejší
+analyze,Čím déle budete Battery Manager Lite používat, tím lépe budeme moci analyzovat výkon vaší baterie.
+update_every_time,Měření zbývající životnosti baterie se aktualizuje při každém použití nebo nabíjení zařízení.
+runtime,Zjistěte skutečnou dobu provozu vaší baterie
+discharge_cycle,Pokaždé, když váš telefon projde cyklem vybití, lze změřit přesný odhad jeho doby provozu.
+accurate_life,Pomocí Battery Manager Lite změřte přesnou životnost baterie.
+no_exit,Neopouštějte Battery Manager Lite!
+bg_require,Battery Manager Lite vyžaduje službu na pozadí pro shromažďování statistik baterie a měření doby nabíjení a vybíjení baterie. Vaše zařízení pravděpodobně zastavuje službu nebo neumožňuje její spuštění, když je aplikace zavřená. Abyste tomu zabránili, máme pro vás dobré řešení. Stačí kliknout na odkaz.
+man,Manuál
+cali,Kalibrace
+polarity,V tomto kroku aplikace zjistí polaritu nabíjení a konstrukční kapacitu vaší baterie.
+disch,Vybít
+ch_pol,Polarita nabíjení
+power_meter,Měřič výkonu
+unit_mesure,Jednotka měření
+capacity,Kapacita baterie
+wrong,Není správné?
+calib,Kalibrovat
+ye,Ano
+no,Ne
+neg,Negativní
+pos,Pozitivní
+lunch,Spusťte aplikaci
+manufac,Kapacita dle výrobce
+design_des,Konstrukční kapacita je skutečná kapacita baterie, měřená v mAh. Protože neexistuje žádný oficiální způsob, jak určit kapacitu, vrácená hodnota může být nesprávná.
+correct_it,Pokud zobrazená kapacita není správná, opravte ji.
+cancel,zrušení
+ok,dobře
+runtime,Výdrž baterie
+wait,čekání
+per_hr,Spotřeba baterie za hodinu
+life_for,Výdrž baterie pro
+battery_cond,Stav baterie
+bat_info,Informace o baterii
+bat_cap,Kapacita baterie
+bat_volt,Napeti baterky
+bat_cur,Proud baterie
+unit_mes,Jednotka měření
+done,Hotovo
+c_bat_temp,Aktuální teplota baterie
+min_bat_tem,Minimální teplota baterie
+mx_bat_tem,Maximální teplota baterie
+avg_bat_tem,Průměrná teplota baterie
+dig_last,Předtím poslední diagnóza
+rem_time,Zbývající čas
+volt,Napětí
+curr,Proud
+status,Postavení
+run_time,Doba běhu
+currently,V současné době
+avg,Průměrný
+minmal,Minimální
+maximal,Maximum
+tool,Nástroje
+rem_apps,Odinstalujte aplikace, které již nepoužíváte, abyste zabránili zbytečnému spouštění aplikací a vybíjení baterie
+uninst_apps,Odinstalujte aplikace
+stat,Start
+act_eng_save,Aktivujte režim úspory energie, abyste snížili spotřebu baterie
+pow_save,Úsporný režim
+tempe,Teplota
+heal,Zdraví
+tips,Udržujte svou baterii v dobrém stavu pomocí tipů a triků.
+recomm,Doporučení
+prem,Pojistné
+more_func,Více funkcí pro vás. Získejte prémii, získejte více.
+more,Více
+ur_cond_bat,Stav baterie je
+ur_bat_life,Vaše výdrž baterie je
+ur_bat_temp,Vaše teplota baterie je
+wow,Vynikající
+normal,Normální
+poor,Špatně
+days,Dny
+mins,Minut
+hrs,hodiny
+chging,Nabíjení
+ful,Úplný
+dis_chrg,Vybíjení
+unkn,Neznámý
+too_lit,Příliš málo údajů o baterii
+car_any,Každopádně provést
+endz_,Konec
+dig_any,Abyste získali lepší diagnostické výsledky, aplikace potřebuje analyzovat vaši baterii na pozadí. Začněte diagnostiku po 24 hodinách
+end_dig,Konec diagnózy
+quit_dig,Opravdu ukončete diagnostiku
+batty_temp,Teplota baterie
+akku_manager,Manažer Akku
+u_agree,S "START" souhlasíte s předpisy o ochraně dat
+elemn_opti,Prvky lze optimalizovat
+looks_good,Všechno vypadá dobře
+optimize_,Optimalizovat
+toolz_,Nástroje
+akku_check,Kontrola Akku
+ctrl_load,Řízené zatížení
+mng_apps,Správa aplikací
+infosm,Informace
+tenzion,napětí
+electy,elektřina
+lvl,Úroveň
+akku_man_premium,Akku Manager Premium
+premimum_highlight,Používejte Battery Manager zcela bez reklamy a máte přístup k rozsáhlému přizpůsobení uživatelského rozhraní.
+design,Design
+subjs,předměty
+genrally,Obvykle
+temp_unit,Jednotka teploty
+oth_apps,Jiné aplikace
+dat_protect,Ochrana dat
+thx_akku,Děkujeme, že podporujete Akku Manager zakoupením prémiové verze.
+user_got_pre,Nyní máte přístup k rozsáhlému přizpůsobení uživatelského rozhraní a použití bez reklam.
+exp_more,V budoucích aktualizacích můžete očekávat více funkcí
+ap_optimiz,Optimalizace aplikace
+sys_bat_usage,Spotřeba baterie systému
+bat_usage_det,Podrobnosti o využití baterie
+end_optiz,Ukončete optimalizaci
+abort,Přerušit
+break_up,rozchod
+scn,skenovat
+scn_bgh,Jas obrazovky
+dact_wlan,Deaktivujte WLAN
+dact_save_batt,Deaktivací šetříte baterii
+dact,Deaktivovat
+dact_ble,Deaktivujte bluetooth
+red_brigh,Snižte jas
+bright_txt,Snižte jas displeje, abyste šetřili baterii
+to_reduce,Snížit
+dact_gps,Deaktivujte GPS
+appz_optimz,Aplikace optimalizované
+start_bat_check_det,Začněte s podrobnou kontrolou baterie, abyste byli vždy na bezpečné straně
+act_eng_save,Aktivujte režim úspory energie, abyste snížili spotřebu baterie
+remove_useless,Odinstalujte aplikace, které se již nepoužívají
+premium,Pojistné
+clear_mem,Vyčistěte paměť
+clear_mem_des,Aby váš smartphone běžel rychle a hladce.
+clenaup,Čištění
+rat,hodnocení
+rat_free,Ohodnoťte Battery Manager zdarma
+sendz,Poslat
+elmn_found,Nalezené prvky
+drumz,Bicí
+status,Postavení
+end_akk_check,Ukončete kontrolu baterie
+bat_detlz,Podrobnosti o baterii
+temp_checked,Teplota se kontroluje
+cond_checked,Kontroluje se stav baterie
+checkz_start,Spustí se kontrola baterie
+plug_in,Zapojený
+techz,Technika
+coldz,Studený
+until,Dokud
+well,Studna
+ovr_heat,Přehřívání
+ovr_load,Přetížení
+renam,přejmenován
+not_def,není definovaný
+chrgz,Nabít
+full,Úplný
+unloadz,Vykládání
+not_charge_unkn,nenabitý nebo neznámý
+usb,USB
+charger,nabíječka
+wless,bezdrátový
+not_at_al,vůbec nic
+uninstall,Odinstalovat
+update,Aktualizovat
+setting,Nastavení
+app,Aplikace
+not_found,Aplikace nebyla nalezena
+search,Hledat aplikace
+version_code,Kód verze
+api_level,Úroveň API
+app_version,Verze aplikace
+authorization,povolení
+open,otevřít
+play_store,Obchod Play
+control,řízení
+systemstandart,Systémový standard
+white,Bílý
+dark,Temný
+ocean,Oceán
+black,Černá
+dark_blue,Tmavě modrá
+excellent,Vynikající
+bad,Špatný
+battery_bad,Baterie je mírně poškozená
+very_bad,Velmi špatný
+battery_damaged,Baterie je poškozená
+custom_mode,Vlastní režim
+brightness,Jas
+automatic_brightness,Automatický jas
+normal,Normální
+sound_modus,Zvukový režim
+tone_work,Všechny tóny fungují
+mute,Ztlumit
+call_note_mute,Hovory a oznámení jsou ztlumeny
+not_bother,Neobtěžuj se
+tones_vibration_mute,Vypněte tóny a vibrace, kromě tónů budíku
+sound,Zvuky
+music,hudba
+notification,Oznámení
+alarm,Poplach
+ultra_saving,Ultra úsporný režim
+edit,Upravovat
+disable_ultra_saving,Deaktivujte režim Ultra Energy Saving Mode
+min_remaining,zbývá min
+hours,hodin
+activted_ultra_saving,Je aktivován režim ultra úspory energie
+charged_in,účtováno v
+min,min
+limit_power,Omezte spotřebu energie
+reduce_screen,Snižte jas obrazovky
+restrict_bg_act_explain,Omezte aktivity na pozadí
+volatge_check,Napětí je zkontrolováno
+software_optimized,Software je optimalizován
+connect_charger,Připojte nabíječku
+charger_removed,Nabíječku lze vyjmout
+power_consump_title,Spotřeba energie
+srcn_bg_title,Jas obrazovky
+bg_al_activities,Aktivity na pozadí
+sftware,Software
+get_primium,Pokud si koupíte prémiovou verzi, získáte všechny současné funkce i všechny nové funkce v budoucnu.
+cuztomize_face,Přizpůsobení uživatelského rozhraní
+comp_scheme,Sestavte si barevné schéma Battery Manager z různých motivů.
+bat_check_detail,Podrobná kontrola baterie
+check_cond_test,Pomocí Správce baterií zkontrolujte stav baterie, abyste byli vždy na bezpečné straně.
+no_ads_yo,Žádná reklama
+use_explain_noads,Používejte Battery Manager bez jakékoli reklamy
+act_energy_save,Aktivujte ultra úsporný režim pro prodloužení životnosti baterie v případě nouze.
+buy_title,Koupit Premium
+loc_title,Umístění
+cap_title,kapacita
+cap_remain,Zbývající kapacita
+sleepy,Spát
+sek,Sekundy
+sing_min,Minuta
+miniotes,Minut
+finish,Hotovo
+mobi_data,mobilní data
+plz_rate,Ohodnoťte Battery Manager v Obchodě Play
+ur_data_cus,Můžeme vaše údaje nadále používat k přizpůsobení reklam pro vás?
+in_slep_mode,V režimu spánku
+in_use,Při použití
+with_curr_pow,S aktuální spotřebou el
+rem_bat_life,Zbývající výdrž baterie
+qck_acc,Rychlý přístup
+notif_txt,oznámení
+notif_at,Informujte na
+chg_curr,Nabíjecí proud
+charge_perm,Výkon nabíjení
+maxi_charge_per,Maximální nabíjecí výkon
+enb_notif,Povolit upozornění
+perm_send_notif,Battery Manager vyžaduje oprávnění k odeslání upozornění, musí být aktivováno v nastavení zařízení.
+to_set,Do nastavení
+title_autost,Aktivujte Autostart
+auto_explain,Battery Manager vyžaduje povolení zůstat aktivovaný na pozadí, aby mohl zjistit stav baterie a odeslat upozornění.
+sync_auto,Automaticky synchronizovat
+dis_auto_sync,Vypnutí automatické synchronizace výrazně omezí blokování probuzení. Některé funkce, jako je příjem e-mailů, však budou ztraceny.
+chg_lim,Limit poplatků
+avoid_ful_explain,Pokud baterii nabijete na maximum nebo ji vybijete až do vypnutí, stav a životnost baterie se sníží. V následujícím textu můžete nastavit minimální a maximální stav nabití nebo vybití baterie a budete upozorněni pokaždé, když je dosaženo prahové hodnoty. Vyhněte se jednomu úplnému nabití a vybití baterie a prodlužte životnost baterie.
+rec_notif,Neobdrželi jste oznámení?
+title_allow_bg_act,Povolit aktivitu na pozadí
+allow_bg_act,Abyste mohli Battery Manager používat bez omezení, aniž by byl nechtěně zavřen operačním systémem, možná budete muset v nastavení vypnout speciální funkce pro správu baterie a využití baterie. Protože různí výrobci se v označení těchto možností liší v závislosti na použitém operačním systému. V oblasti Informace o aplikaci v části Spánek nebo Baterie vyberte možnost Bez omezení nebo Povolit aktivitu na pozadí.
+dev_usage,Využití zařízení
+dep_sleep,Hluboký spánek je stav, kdy vaše zařízení využívá nejmenší množství baterie. Délka hlubokého spánku má pozitivní vliv na úsporu energie. Hluboký spánek může být přerušen úkoly na pozadí, což způsobuje rychlejší vybíjení baterie. V takovém případě restartujte zařízení.
+title_bat_temp,Teplota baterie
+bat_tempp,Teplota baterie je jedním z nejdůležitějších faktorů. Pokud je baterie udržována gelově při vysokých teplotách, má to vliv jak na životnost, tak na výkon baterie. Pokud se teplota zvýší, může dojít k poškození vnitřní struktury baterie.
+rdc_brightness,Snižte jas obrazovky
+display_explain,Displej je jednou z komponent, která spotřebovává většinu energie. Snížení maximálního jasu pomáhá snížit celkovou spotřebu a dosáhnout znatelných úspor. Před snížením jasu deaktivujte automatický jas, aby se jas zbytečně neměnil.
+tst_charge,Testovací nabíječka
+best_way_test,Nejlepší způsob, jak otestovat nabíječku a kabel, je zkontrolovat rychlost nabíjení při vypnuté obrazovce. Rychlost nabíjení, když je obrazovka zapnutá, není dobrým měřítkem, protože váš telefon spotřebovává energii, což způsobuje výkyvy. Zapojte nabíječku, na několik minut vypněte obrazovku a poté zkontrolujte maximální nabíjecí proud.
+wait_title,Čekání
+rfsh_rate,Obnovovací frekvence
+low_sizty,Snížení obnovovací frekvence na 60 Hz prodlouží výdrž baterie.
+drk_mode,Tmavý režim
+acti_dark_mode,Aktivujte tmavý režim, v tmavém režimu spotřebovává méně energie
+actz,aktivovat
+poz,Napájení
+minz,Minimální
+avgo,Průměrný
+mixi1,Maximum
+msg_dis,Zpráva zmizí po 24 hodinách, pokud je dostatek dat pro zobrazení celého diagramu.
+no_enough,Nedostatek dat k zobrazení
+log_graph,Za několik hodin zde uvidíte graf, který vám umožní zkontrolovat teplotu baterie, napětí, proud a úroveň za posledních 24 hodin.
+week,týden
+buy_it,Koupit
+one_pur,Jednorázový poplatek ve výši
+refun_pur,nákup lze vrátit do 2 hodin.
+each_month,Předplatné se automaticky obnovuje každý měsíc a nadále stojí měsíčně. Předplatné lze kdykoli zrušit.
+mng_subs,spravovat předplatné
+subsci,předplatit
+will_cost_week,Předplatné se automaticky obnovuje každý týden a nadále stojí za týden. Předplatné lze kdykoli zrušit.
+lfllong,celoživotní
+mthly,měsíční
+wkly,Týdně
+hoto,Horký
+prm_ben_title,Prémiové výhody
+sync_title,Synchronizovat
+dis_sync_inc,Zakázání synchronizace prodlouží výdrž baterie tím, že nebudou synchronizovány služby na pozadí
+time_out,Časový limit
+dec_extend,Zkrácení doby před vypnutím displeje prodlužuje životnost baterie
+u_end_opti,Opravdu chcete ukončit proces optimalizace?
+no_why_perm,Bez povolení
+bright_exp,Battery Manager vyžaduje oprávnění ke změně nastavení systému ke snížení jasu obrazovky nebo vypnutí Bluetooth.
+tg_title,Připojte se ke kanálu Telegram!
+tg_text,Udržujte si aktuální informace o aktualizacích aplikací, získejte první verze a pomozte testovat nové funkce. Navrhujte své nápady, ptejte se a získejte odpovědi rychleji
+join_tg,připojit
+curr_consumption,aktuální spotřeba
+scrn_onn,obrazovka zapnuta
+srcn_off,obrazovka vypnuta
+mob_charg,Nabíjení
+discha,Vybíjení
+activea,Aktivní
+slpmode,Režim spánku
+chagingspeed,Aktuální rychlost nabíjení
+dta_proxt,Ochrana dat
+governs,Tyto zásady ochrany osobních údajů upravují vaše používání softwarové aplikace Battery Manager pro mobilní zařízení vytvořené společností Baxolino.
+info_u_provide,Informace poskytnuté uživatelem
+no_pass_per,Osobní údaje nepředáváme třetím stranám. Když nám pošlete e-mail, máme vaši e-mailovou adresu, ale používáme ji pouze k tomu, abychom vám pomohli s našimi aplikacemi.
+info_auto_coll,Informace shromažďovány automaticky
+exp_admob_use,K zobrazování reklam používáme Google Admob. Používání těchto služeb podléhá ustanovením o ochraně údajů společnosti Google na adrese https://www.google.com/policies/privacy/.
+we_real_time,Shromažďuje Battery Manager ze zařízení přesné informace o poloze v reálném čase?
+exp_loc_perm_man,Battery Manger pouze kontroluje, zda je poloha aktivována nebo deaktivována, ale neshromažďuje žádné přesné informace o poloze vašeho mobilního zařízení. Tyto funkce založené na poloze jsou standardně nastaveny. Tyto funkce můžete deaktivovat nebo znovu aktivovat v nastavení příslušného zařízení. Před nebo po instalaci aplikací budete v závislosti na zařízení dotázáni, zda chcete tyto funkce deaktivovat nebo aktivovat. Údaje o vaší poloze můžeme shromažďovat pouze v případě, že si takové služby určování polohy aktivujete.
+chng,Změny
+pri_update_exp,Tyto zásady ochrany osobních údajů mohou být z jakéhokoli důvodu čas od času aktualizovány. Budeme vás informovat o změnách našich zásad ochrany osobních údajů zveřejněním nových zásad ochrany osobních údajů na této webové adrese a upozorníme vás prostřednictvím zprávy v aplikaci. Doporučuje se, abyste pravidelně sledovali změny v těchto Zásadách ochrany osobních údajů, protože další používání se považuje za schválení všech změn. Historii těchto zásad si můžete prohlédnout na této webové stránce.
+contct,Kontakt
+any_que,Máte-li jakékoli dotazy týkající se ochrany údajů při používání aplikace nebo máte dotazy týkající se našich postupů, zašlete e-mail na adresu baxolino.de@gmail.com
+mem_opti,Battery Manager potřebuje přístup k „paměti“, aby bylo možné skenovat a optimalizovat aplikace. Tyto funkce můžete deaktivovat nebo aktivovat v nastavení příslušného zařízení. Před nebo po instalaci aplikace budete v závislosti na zařízení dotázáni, zda chcete tyto funkce deaktivovat nebo aktivovat.
+storg,Úložný prostor
+ble_set_acc,blue_set_perm,Battery Manager vyžaduje přístup „Přístup k nastavení Bluetooth“, aby bylo možné zkontrolovat, zda je Bluetooth aktivován nebo deaktivován. A pro aktivaci nebo deaktivaci Bluetooth.
+ble_title,Bluetooth
+needz_del,Battery Manager vyžaduje přístup „Požádat o smazání balíčků“ ke spuštění odinstalace aplikace. Aplikace bude odinstalována pouze v případě, že to výslovně povolíte.
+deletion_pkg,Žádost o smazání balíčků
+need_adnd,Battery Manager vyžaduje přístup „Do Not Disturb“ k povolení nebo zakázání režimu Nerušit.
+adnd,Přístup Nerušit
+need_wlan_acc,Battery Manager vyžaduje přístup k "Get WLAN Connections", aby Battery Manager mohl zkontrolovat, zda je WLAN aktivována nebo deaktivována. A pro aktivaci nebo deaktivaci WLAN.
+wln_conn,Získejte připojení WLAN
+shop_bill_exp,Když nakupujete prostřednictvím Google Play In App Billing, Google nám poskytne vaši zemi pobytu a někdy i stát, město a PSČ, ale nikdy celou adresu. Tyto informace používáme k dodržování daňových a účetních předpisů.
+pri_date,Ke dni 21.02.2021
+how_to_stop,Celý sběr informací aplikací můžete zastavit jednoduše odinstalováním aplikace. Můžete použít standardní procesy odinstalace dostupné jako součást vašeho mobilního zařízení nebo prostřednictvím tržiště či sítě pro mobilní aplikace.
+opt_out,Jaká jsou moje práva na odhlášení?
+ur_permission,vaše svolení
+accept_privacy,Používáním aplikace souhlasíte s naším zpracováním vašich údajů, jak je stanoveno v těchto zásadách ochrany osobních údajů a v našem znění.

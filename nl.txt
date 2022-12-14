@@ -1,0 +1,347 @@
+title,Battery Manager Lite is anders
+extend_life,De beste manier om de levensduur van de batterij te verlengen en u gezond te houden, is gebaseerd op ervaring en wetenschappelijk onderzoek.
+measured,Op een transparante manier laten we u alleen de daadwerkelijk gemeten gegevens zien en hoe deze worden berekend.
+healthy,Houd je batterij gezond
+double_battery,Verdubbel de levensduur van uw batterij door uw batterij niet volledig op te laden. Dat hebben wetenschappers in hun onderzoek bewezen.
+charge_limit,Met behulp van onze laadlimietmelding wordt er een melding verzonden wanneer de batterij een door de gebruiker gedefinieerde drempel bereikt.
+smart,Het wordt elke dag slimmer
+analyze,Hoe langer u Battery Manager Lite gebruikt, hoe beter we de prestaties van uw batterij kunnen analyseren.
+update_every_time,De meting van de resterende levensduur van de batterij wordt telkens bijgewerkt wanneer u uw apparaat gebruikt of oplaadt.
+runtime,Ontdek de werkelijke looptijd van uw batterij
+discharge_cycle,Elke keer dat uw telefoon een ontlaadcyclus doorloopt, kan een nauwkeurige schatting van de looptijd worden gemeten.
+accurate_life,Gebruik Battery Manager Lite om de levensduur van de batterij nauwkeurig te meten.
+no_exit,Sluit Battery Manager Lite niet af!
+bg_require,Battery Manager Lite vereist een achtergrondservice om batterijstatistieken te verzamelen en de laad- en ontlaadtijd van de batterij te meten. Uw apparaat stopt waarschijnlijk de service of laat deze niet uitvoeren wanneer de app is gesloten. Om dit te voorkomen hebben wij een goede oplossing voor je. Klik gewoon op de link.
+man,Handleiding
+cali,Kalibratie
+polarity,In deze stap detecteert de app de laadpolariteit en de ontwerpcapaciteit van uw batterij.
+disch,Afvoer
+ch_pol,Oplaadpolariteit
+power_meter,Krachtmeter
+unit_mesure,Meet eenheid
+capacity,Batterij capaciteit
+wrong,Niet correct?
+calib,Ijken
+ye,Ja
+no,Nee
+neg,Negatief
+pos,Positief
+lunch,Start de app
+manufac,Capaciteit volgens de fabrikant
+design_des,De ontwerpcapaciteit is de daadwerkelijke batterijcapaciteit, gemeten in mAh. Aangezien er geen officiële manier is om de capaciteit te bepalen, kan de geretourneerde waarde onjuist zijn.
+correct_it,Als de weergegeven capaciteit niet correct is, corrigeer deze dan.
+cancel,Annuleren
+ok,Oké
+runtime,Batterijduur
+wait,aan het wachten
+per_hr,Batterijverbruik per uur
+life_for,Batterijduur voor
+battery_cond,Staat van de batterij
+bat_info,Informatie over de batterij
+bat_cap,Batterij capaciteit
+bat_volt,Batterij voltage
+bat_cur,Batterij stroom
+unit_mes,Meet eenheid
+done,Gedaan
+c_bat_temp,Huidige batterijtemperatuur
+min_bat_tem,Minimale batterijtemperatuur
+mx_bat_tem,Maximale batterijtemperatuur
+avg_bat_tem,Gemiddelde batterijtemperatuur
+dig_last,Laatste diagnose ervoor
+rem_time,Overgebleven tijd
+volt,Spanning
+curr,Huidig
+status,Toestand
+run_time,Looptijd
+currently,Momenteel
+avg,Gemiddeld
+minmal,Minimaal
+maximal,Maximaal
+tool,Hulpmiddelen
+rem_apps,Verwijder apps die u niet meer gebruikt om te voorkomen dat apps onnodig worden uitgevoerd en uw batterij leegtrekken
+uninst_apps,Apps verwijderen
+stat,Begin
+act_eng_save,Activeer de energiebesparende modus om het batterijverbruik te verminderen
+pow_save,Energiebesparende modus
+tempe,Temperatuur
+heal,Gezondheid
+tips,Houd je batterij in goede conditie met tips en trucs.
+recomm,Aanbevelingen
+prem,Premie
+more_func,Meer functies voor jou. Krijg premium, krijg meer.
+more,Meer
+ur_cond_bat,De staat van de batterij is
+ur_bat_life,Je batterijduur is
+ur_bat_temp,Uw batterijtemperatuur is
+wow,Uitstekend
+normal,Normaal
+poor,Slecht
+days,Dagen
+mins,Minuten
+hrs,Uur
+chging,Opladen
+ful,Vol
+dis_chrg,Ontladen
+unkn,Onbekend
+too_lit,Te weinig batterijgegevens
+car_any,Toch uitvoeren
+endz_,Einde
+dig_any,Om betere diagnostische resultaten te krijgen, moet de app uw batterij op de achtergrond analyseren. Start de diagnose na 24 uur
+end_dig,Einde diagnose
+quit_dig,Echt stoppen met diagnose
+batty_temp,Batterij temperatuur
+akku_manager,Akku-manager
+u_agree,Met "START" gaat u akkoord met de bepalingen inzake gegevensbescherming
+elemn_opti,Elementen kunnen worden geoptimaliseerd
+looks_good,Alles ziet er goed uit
+optimize_,Optimaliseren
+toolz_,Hulpmiddelen
+akku_check,Akku-cheque
+ctrl_load,Gecontroleerd laden
+mng_apps,Apps beheren
+infosm,Informatie
+tenzion,spanning
+electy,elektriciteit
+lvl,Niveau
+akku_man_premium,Akku Manager Premium
+premimum_highlight,Gebruik de Battery Manager volledig zonder reclame en je hebt toegang tot de uitgebreide personalisatie van de gebruikersinterface.
+design,Ontwerp
+subjs,onderwerpen
+genrally,Over het algemeen
+temp_unit,Temperatuureenheid
+oth_apps,Andere apps
+dat_protect,Gegevensbescherming
+thx_akku,Bedankt voor het ondersteunen van Akku Manager bij de aankoop van de premiumversie.
+user_got_pre,U hebt nu toegang tot uitgebreide aanpassing van de gebruikersinterface en het gebruik zonder reclame.
+exp_more,U kunt meer functies verwachten in toekomstige updates
+ap_optimiz,App-optimalisatie
+sys_bat_usage,Systeem batterijverbruik
+bat_usage_det,Gegevens over batterijgebruik
+end_optiz,Einde optimalisatie
+abort,Afbreken
+break_up,Uitmaken
+scn,scannen
+scn_bgh,Scherm helderheid
+dact_wlan,WLAN deactiveren
+dact_save_batt,Deactiveren om de batterij te sparen
+dact,Deactiveren
+dact_ble,Bluetooth uitschakelen
+red_brigh,Verminder de helderheid
+bright_txt,Verlaag de helderheid van het scherm om de batterij te sparen
+to_reduce,Verminderen
+dact_gps,Gps deactiveren
+appz_optimz,Apps geoptimaliseerd
+start_bat_check_det,Start een gedetailleerde batterijcontrole om altijd aan de veilige kant te zijn
+act_eng_save,Activeer de energiebesparende modus om het batterijverbruik te verminderen
+remove_useless,Verwijder apps die niet meer worden gebruikt
+premium,Premie
+clear_mem,Geheugen opschonen
+clear_mem_des,Zodat je smartphone snel en soepel werkt.
+clenaup,Schoonmaken
+rat,beoordeling
+rat_free,Beoordeel Battery Manager gratis
+sendz,Versturen
+elmn_found,Elementen gevonden
+drumz,Trommels
+status,Toestand
+end_akk_check,Beëindig de batterijcontrole
+bat_detlz,Details van de batterij
+temp_checked,De temperatuur wordt gecontroleerd
+cond_checked,De staat van de batterij wordt gecontroleerd
+checkz_start,De batterijcontrole begint
+plug_in,Ingeplugd
+techz,Technologie
+coldz,Koud
+until,Tot
+well,We zullen
+ovr_heat,Oververhitting
+ovr_load,Overbelasten
+renam,hernoemd
+not_def,niet gedefinieerd
+chrgz,Aanval
+full,Vol
+unloadz,lossen
+not_charge_unkn,niet opgeladen of onbekend
+usb,USB
+charger,oplader
+wless,draadloze
+not_at_al,helemaal niets
+uninstall,Verwijderen
+update,Updaten
+setting,Instellingen
+app,Apps
+not_found,App niet gevonden
+search,Zoek apps
+version_code,Versiecode
+api_level,API-niveau
+app_version,App versie
+authorization,autorisatie
+open,openen
+play_store,Play Store
+control,controle
+systemstandart,Systeemstandaard
+white,Wit
+dark,Donker
+ocean,Oceaan
+black,Zwart
+dark_blue,Donkerblauw
+excellent,Uitstekend
+bad,Slechte
+battery_bad,Batterij is licht beschadigd
+very_bad,Heel slecht
+battery_damaged,De batterij is beschadigd
+custom_mode,Aangepaste modus
+brightness,Helderheid
+automatic_brightness,Automatische helderheid
+normal,Normaal
+sound_modus,Geluidsmodus
+tone_work,Alle tonen werken
+mute,Stom
+call_note_mute,Oproepen en meldingen zijn gedempt
+not_bother,Maak je er niet druk om
+tones_vibration_mute,Schakel tonen en trillingen uit, behalve alarmtonen
+sound,Geluiden
+music,muziek
+notification,Kennisgeving
+alarm,Alarm
+ultra_saving,Ultra energiebesparende modus
+edit,Aanpassen
+disable_ultra_saving,Schakel de Ultra-energiebesparende modus uit
+min_remaining,minuut over
+hours,uur
+activted_ultra_saving,Ultra-energiebesparende modus is geactiveerd
+charged_in,opgeladen
+min,min
+limit_power,Beperk het stroomverbruik
+reduce_screen,Verlaag de helderheid van het scherm
+restrict_bg_act_explain,Beperk achtergrondactiviteiten
+volatge_check,Spanning wordt gecontroleerd
+software_optimized,Software is geoptimaliseerd
+connect_charger,Oplader aansluiten
+charger_removed,Oplader kan worden verwijderd
+power_consump_title,Energieverbruik
+srcn_bg_title,Scherm helderheid
+bg_al_activities,Achtergrond werkzaamheden
+sftware,Software
+get_primium,Als u de premiumversie koopt, krijgt u alle huidige functies en alle nieuwe functies in de toekomst.
+cuztomize_face,Aanpassing van de gebruikersinterface
+comp_scheme,Stel uw Battery Manager-kleurenschema samen uit verschillende thema's.
+bat_check_detail,Gedetailleerde batterijcontrole
+check_cond_test,Gebruik de Battery Manager om de toestand van uw batterij te controleren om altijd aan de veilige kant te zijn.
+no_ads_yo,Geen reclame
+use_explain_noads,Gebruik Battery Manager zonder reclame
+act_energy_save,Activeer de ultra-energiebesparende modus om de levensduur van de batterij in geval van nood te verlengen.
+buy_title,Premium kopen
+loc_title,Plaats
+cap_title,capaciteit
+cap_remain,Resterende capaciteit
+sleepy,Slaap
+sek,seconden
+sing_min,Minuut
+miniotes,Minuten
+finish,Afgerond
+mobi_data,mobiele data
+plz_rate,Beoordeel Battery Manager in de Play Store
+ur_data_cus,Mogen we uw gegevens blijven gebruiken om advertenties voor u op maat te maken?
+in_slep_mode,In slaapstand
+in_use,In gebruik
+with_curr_pow,Met huidig ​​stroomverbruik
+rem_bat_life,Resterende batterijduur
+qck_acc,Snelle toegang
+notif_txt,kennisgeving
+notif_at,Meld bij
+chg_curr,Laadstroom
+charge_perm,Oplaadprestaties
+maxi_charge_per,Maximale laadprestaties
+enb_notif,Melding inschakelen
+perm_send_notif,Battery Manager heeft toestemming nodig om een ​​notificatie te versturen, dit moet geactiveerd zijn in de instellingen van het apparaat.
+to_set,Naar de instellingen
+title_autost,Activeer Autostart
+auto_explain,Battery Manager heeft toestemming nodig om op de achtergrond geactiveerd te blijven om de batterijstatus op te vragen en een melding te verzenden.
+sync_auto,Automatisch synchroniseren
+dis_auto_sync,Het uitschakelen van automatische synchronisatie vermindert wakelocks aanzienlijk. Sommige functies, zoals het ontvangen van e-mail, gaan echter verloren.
+chg_lim,Laadlimiet
+avoid_ful_explain,Als u uw batterij maximaal oplaadt of ontlaadt totdat deze is uitgeschakeld, wordt de conditie en levensduur van de batterij verminderd. Hieronder kunt u de minimale en maximale laad- of ontlaadstatus van de batterij instellen en krijgt u een melding telkens wanneer de drempelwaarde wordt bereikt. Voorkom dat u uw batterij volledig oplaadt en ontlaadt en verlengt de levensduur van de batterij.
+rec_notif,Geen melding ontvangen?
+title_allow_bg_act,Sta achtergrondactiviteit toe
+allow_bg_act,Om de Battery Manager onbeperkt te kunnen gebruiken zonder dat deze per ongeluk door het besturingssysteem wordt afgesloten, moet u mogelijk speciale functies voor batterijbeheer en batterijgebruik in de instellingen uitschakelen. Omdat de verschillende fabrikanten verschillen in de aanduiding van deze opties, afhankelijk van het gebruikte besturingssysteem. Selecteer in het gedeelte App-informatie onder Slaapstand of Batterij de optie Geen beperkingen of Achtergrondactiviteit toestaan.
+dev_usage,Apparaatgebruik
+dep_sleep,Diepe slaap is een toestand waarin uw apparaat de minste hoeveelheid batterij gebruikt. De duur van de diepe slaap heeft een positief effect op de energiebesparing. De diepe slaap kan worden onderbroken door achtergrondtaken, waardoor de batterij sneller leeg raakt. Start in dit geval uw apparaat opnieuw op.
+title_bat_temp,Batterij temperatuur
+bat_tempp,De temperatuur van de batterij is een van de belangrijkste factoren. Als de batterij bij hoge temperaturen wordt bewaard, heeft dit invloed op zowel de levensduur als de prestaties van de batterij. Als de temperatuur stijgt, kan de interne structuur van de batterij beschadigd raken.
+rdc_brightness,Verlaag de helderheid van het scherm
+display_explain,Het beeldscherm is een van de componenten die de meeste energie verbruikt. Het verlagen van de maximale helderheid helpt het totale verbruik te verminderen en merkbare besparingen te realiseren. Voordat u de helderheid verlaagt, deactiveert u de automatische helderheid, zodat de helderheid niet onnodig wordt gewijzigd.
+tst_charge,Oplader testen
+best_way_test,De beste manier om de oplader en kabel te testen, is door de laadsnelheid te controleren terwijl het scherm is uitgeschakeld. De laadsnelheid als het scherm aan staat is geen goede maatstaf omdat je telefoon stroom verbruikt en daardoor fluctueert. Sluit de oplader aan, schakel het scherm een ​​paar minuten uit en controleer vervolgens de maximale laadstroom.
+wait_title,Aan het wachten
+rfsh_rate,Vernieuwingsfrequentie
+low_sizty,Het verlagen van de verversingssnelheid naar 60 Hz verbetert de levensduur van de batterij.
+drk_mode,Donkere modus
+acti_dark_mode,Activeer de donkere modus, in de donkere modus wordt minder stroom verbruikt
+actz,Activeren
+poz,Stroom
+minz,Minimum
+avgo,Gemiddeld
+mixi1,Maximaal
+msg_dis,De melding verdwijnt na 24 uur als er voldoende gegevens zijn om het diagram volledig weer te geven.
+no_enough,Niet genoeg gegevens om weer te geven
+log_graph,Over een paar uur zie je hier een grafiek waarmee je de temperatuur, het voltage, de stroomsterkte en het niveau van de batterij van de afgelopen 24 uur kunt controleren.
+week,week
+buy_it,Kopen
+one_pur,Eenmalige vergoeding van
+refun_pur,de aankoop kan binnen 2 uur worden terugbetaald.
+each_month,Het abonnement wordt elke maand automatisch verlengd en blijft per maand kosten. Het abonnement kan op elk moment worden opgezegd.
+mng_subs,abonnement beheren
+subsci,abonneren
+will_cost_week,Abonnement wordt elke week automatisch verlengd en blijft per week kosten. Het abonnement kan op elk moment worden opgezegd.
+lfllong,levenslang
+mthly,maandelijks
+wkly,Wekelijks
+hoto,Heet
+prm_ben_title,Premium voordelen
+sync_title,Synchroniseren
+dis_sync_inc,Als u synchronisatie uitschakelt, wordt de levensduur van de batterij verlengd doordat services op de achtergrond niet worden gesynchroniseerd
+time_out,Time-out
+dec_extend,Door de tijd te verkorten voordat het scherm wordt uitgeschakeld, gaat de batterij langer mee
+u_end_opti,Weet u zeker dat u het optimalisatieproces wilt beëindigen?
+no_why_perm,Geen toestemming
+bright_exp,Batterijbeheer vereist toestemming om systeeminstellingen te wijzigen om de helderheid van het scherm te verminderen of Bluetooth uit te schakelen.
+tg_title,Word lid van het Telegram-kanaal!
+tg_text,Blijf op de hoogte met app-updates, ontvang vroege builds en help nieuwe functies te testen. Stel uw ideeën voor, stel vragen en krijg sneller antwoorden
+join_tg,meedoen
+curr_consumption,huidige consumptie
+scrn_onn,scherm aan
+srcn_off,scherm uit
+mob_charg,Opladen
+discha,Ontladen
+activea,Actief
+slpmode,Slaapstand
+chagingspeed,Huidige laadsnelheid
+dta_proxt,Gegevensbescherming
+governs,Dit privacybeleid regelt uw gebruik van de Battery Manager-softwaretoepassing voor mobiele apparaten gemaakt door Baxolino.
+info_u_provide,Informatie verstrekt door de gebruiker
+no_pass_per,Wij geven geen persoonsgegevens door aan derden. Als je ons een e-mail stuurt, hebben we je e-mailadres, maar we gebruiken het alleen om je te helpen met onze apps.
+info_auto_coll,Automatisch verzamelde informatie
+exp_admob_use,We gebruiken Google Admob om advertenties weer te geven. Het gebruik van deze diensten is onderworpen aan de gegevensbeschermingsbepalingen van Google op https://www.google.com/policies/privacy/.
+we_real_time,Verzamelt Battery Manager nauwkeurige realtime locatie-informatie van het apparaat?
+exp_loc_perm_man,Battery Manger controleert alleen of de locatie is geactiveerd of gedeactiveerd, maar verzamelt geen precieze informatie over de locatie van uw mobiele apparaat. Dergelijke locatiegebaseerde functies zijn standaard ingesteld. U kunt deze functies deactiveren of opnieuw activeren in de instellingen van uw respectievelijke apparaat. Voor of na het installeren van de apps wordt u - afhankelijk van het apparaat - gevraagd of u deze functies liever wilt deactiveren of activeren. We kunnen alleen gegevens over uw locatie verzamelen als u dergelijke locatieservices activeert.
+chng,Veranderingen
+pri_update_exp,Dit privacybeleid kan om welke reden dan ook van tijd tot tijd worden bijgewerkt. We zullen u op de hoogte houden van wijzigingen in ons privacybeleid door het nieuwe privacybeleid op dit webadres te plaatsen en u op de hoogte te stellen via een bericht in de app. Het verdient aanbeveling om dit privacybeleid regelmatig te raadplegen voor wijzigingen, aangezien voortgezet gebruik wordt beschouwd als goedkeuring van alle wijzigingen. U kunt de geschiedenis van dit beleid op deze website bekijken.
+contct,Contact
+any_que,Als u vragen heeft over gegevensbescherming tijdens het gebruik van de applicatie of vragen heeft over onze praktijken, stuur dan een e-mail naar baxolino.de@gmail.com
+mem_opti,Battery Manager heeft toegang tot het "geheugen" nodig, zodat apps kunnen worden gescand en geoptimaliseerd. U kunt deze functies deactiveren of activeren in de instellingen van uw respectievelijke apparaat. Voor of na het installeren van de app wordt u - afhankelijk van het apparaat - gevraagd of u deze functies liever wilt deactiveren of activeren.
+storg,Opslag
+ble_set_acc,blue_set_perm,Battery Manager heeft de toegang "Toegang Bluetooth-instelling" nodig, zodat kan worden gecontroleerd of Bluetooth is geactiveerd of gedeactiveerd. En om Bluetooth in of uit te schakelen.
+ble_title,Bluetooth
+needz_del,Battery Manager vereist de toegang "Verzoek om verwijdering van pakketten" om een ​​verwijdering van een app te starten. De app wordt alleen verwijderd als u dit expliciet toestaat.
+deletion_pkg,Verzoek om verwijdering van pakketten
+need_adnd,Battery Manager vereist "Niet storen"-toegang om de modus Niet storen in of uit te schakelen.
+adnd,Toegang Niet storen
+need_wlan_acc,Battery Manager heeft toegang tot "WLAN-verbindingen ophalen" nodig, zodat Battery Manager kan controleren of WLAN is geactiveerd of gedeactiveerd. En om WLAN in of uit te schakelen.
+wln_conn,WLAN-verbindingen krijgen
+shop_bill_exp,Wanneer u winkelt via Google Play In App Billing, geeft Google ons uw land van verblijf en soms de staat, stad en postcode, maar nooit het volledige adres. We gebruiken deze informatie om te voldoen aan fiscale en boekhoudkundige voorschriften.
+pri_date,Per 21-02-2021
+how_to_stop,U kunt de volledige verzameling van informatie door de toepassing stopzetten door de toepassing eenvoudigweg te verwijderen. U kunt de standaard verwijderingsprocessen gebruiken die beschikbaar zijn als onderdeel van uw mobiele apparaat of via de marktplaats of het netwerk voor mobiele toepassingen.
+opt_out,Wat zijn mijn opt-out rechten?
+ur_permission,jouw toestemming
+accept_privacy,Door de applicatie te gebruiken, stemt u in met onze verwerking van uw gegevens zoals uiteengezet in dit privacybeleid en zoals gewijzigd door ons.
