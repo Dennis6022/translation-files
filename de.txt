@@ -12,7 +12,7 @@ discharge_cycle,Jedes Mal, wenn Ihr Telefon einen Entladezyklus durchläuft, kan
 accurate_life,Verwenden Sie Battery Manager Lite, um die genaue Akkulaufzeit zu messen.
 no_exit,Beenden Sie Battery Manager Lite nicht!
 bg_require,Battery Manager Lite erfordert einen Hintergrunddienst, um Akkustatistiken zu sammeln und die Lade- und Entladezeit des Akkus zu messen. Ihr Gerät stoppt wahrscheinlich den Dienst oder lässt ihn nicht laufen, wenn die App geschlossen ist. Um dies zu vermeiden, haben wir eine gute Lösung für Sie. Klicken Sie einfach auf den Link.
-man,Handbuch
+man,Anleitung
 cali,Kalibrierung
 polarity,In diesem Schritt erkennt die App die Ladepolarität und die Auslegungskapazität Ihres Akkus.
 disch,Entladung
